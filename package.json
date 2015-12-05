@@ -1,0 +1,16 @@
+{
+  "name": "trending-history",
+  "version": "0.0.0",
+  "description": "GitHub trending repositories history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node bin/get.js && node bin/generate.js"
+  },
+  "author": "Nihey Takizawa <nihey.takizawa@gmail.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "github-trending": "^1.3.1",
+    "handlebars": "^4.0.5"
+  }
+}
