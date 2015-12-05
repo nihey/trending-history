@@ -7,6 +7,7 @@ var getMonth = function(date) {
   return date.getFullYear() + '-' + (date.getMonth() + 1);
 };
 
+// Generate each language list
 Object.keys(history).forEach(function(key) {
   var language = history[key];
   var lastMonth = null;
@@ -31,6 +32,7 @@ Object.keys(history).forEach(function(key) {
     return repository;
   });
 
+  // FIXME: Fix relative paths to a project-root-based path
   var template = fs.readFileSync('./templates/list.md').toString();
   template = Handlebars.compile(template);
   fs.writeFileSync('./histories/' + key + '.md', template({
@@ -38,3 +40,13 @@ Object.keys(history).forEach(function(key) {
     repositories: repositories,
   }));
 });
+
+// Generate README
+// FIXME: Fix relative paths to a project-root-based path
+var template = fs.readFileSync('./templates/README.md').toString();
+template = Handlebars.compile(template);
+fs.writeFileSync('./README.md', template({
+  languages: Object.keys(history).sort(function(a, b) {
+    return a.localeCompare(b);
+  }),
+}));

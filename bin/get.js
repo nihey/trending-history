@@ -27,5 +27,6 @@ trending(function(err, repositories) {
     };
   });
 
+  // FIXME: Fix relative paths to a project-root-based path
   fs.writeFileSync('./history.json', JSON.stringify(history));
 });
