@@ -6,3 +6,4 @@
 - [che](https://github.com/codenvy/che) - by codenvy
 - [TapBarMenu](https://github.com/michaldrabik/TapBarMenu) - by michaldrabik
 - [dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo) - by yigit
+- [easygoogle](https://github.com/googlesamples/easygoogle) - by googlesamples

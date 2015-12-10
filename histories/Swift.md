@@ -5,3 +5,4 @@
 - [swift-http](https://github.com/huytd/swift-http) - by huytd
 - [focus](https://github.com/mozilla/focus) - by mozilla
 - [Chatto](https://github.com/badoo/Chatto) - by badoo
+- [Laurine](https://github.com/JiriTrecak/Laurine) - by JiriTrecak
