@@ -6,3 +6,5 @@
 - [focus](https://github.com/mozilla/focus) - by mozilla
 - [Chatto](https://github.com/badoo/Chatto) - by badoo
 - [Laurine](https://github.com/JiriTrecak/Laurine) - by JiriTrecak
+- [MaterialKit](https://github.com/CosmicMind/MaterialKit) - by CosmicMind
+- [C4iOS](https://github.com/C4Framework/C4iOS) - by C4Framework

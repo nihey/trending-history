@@ -7,3 +7,5 @@
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - by oneuijs
 - [notes](https://github.com/ChALkeR/notes) - by ChALkeR
 - [bad-data-guide](https://github.com/Quartz/bad-data-guide) - by Quartz
+- [php7-internal](https://github.com/laruence/php7-internal) - by laruence
+- [go-is-not-good](https://github.com/ksimka/go-is-not-good) - by ksimka

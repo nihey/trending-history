@@ -18,10 +18,12 @@ updated.
   - [HTML](https://github.com/nihey/trending-history/blob/master/histories/HTML.md)
   - [Java](https://github.com/nihey/trending-history/blob/master/histories/Java.md)
   - [JavaScript](https://github.com/nihey/trending-history/blob/master/histories/JavaScript.md)
+  - [Matlab](https://github.com/nihey/trending-history/blob/master/histories/Matlab.md)
   - [None](https://github.com/nihey/trending-history/blob/master/histories/None.md)
   - [Objective-C](https://github.com/nihey/trending-history/blob/master/histories/Objective-C.md)
   - [PHP](https://github.com/nihey/trending-history/blob/master/histories/PHP.md)
   - [Python](https://github.com/nihey/trending-history/blob/master/histories/Python.md)
+  - [Ruby](https://github.com/nihey/trending-history/blob/master/histories/Ruby.md)
   - [Rust](https://github.com/nihey/trending-history/blob/master/histories/Rust.md)
   - [Swift](https://github.com/nihey/trending-history/blob/master/histories/Swift.md)
 

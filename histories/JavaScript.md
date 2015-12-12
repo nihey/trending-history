@@ -1,7 +1,6 @@
 # JavaScript
 
 ### 2015-12
-- [cropperjs](https://github.com/fengyuanchen/cropperjs) - by fengyuanchen
 - [reagent](https://github.com/airbnb/reagent) - by airbnb
 - [labella.js](https://github.com/twitter/labella.js) - by twitter
 - [Split.js](https://github.com/nathancahill/Split.js) - by nathancahill
@@ -10,6 +9,7 @@
 - [documentation](https://github.com/documentationjs/documentation) - by documentationjs
 - [dreamjs](https://github.com/adleroliveira/dreamjs) - by adleroliveira
 - [gethttpsforfree](https://github.com/diafygi/gethttpsforfree) - by diafygi
+- [cropperjs](https://github.com/fengyuanchen/cropperjs) - by fengyuanchen
 - [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - by FreeCodeCamp
 - [d3.compose](https://github.com/CSNW/d3.compose) - by CSNW
 - [enzyme](https://github.com/airbnb/enzyme) - by airbnb
@@ -19,3 +19,7 @@
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - by oneuijs
 - [SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - by sdc-alibaba
 - [ramjet](https://github.com/Rich-Harris/ramjet) - by Rich-Harris
+- [bliss](https://github.com/LeaVerou/bliss) - by LeaVerou
+- [publish-please](https://github.com/inikulin/publish-please) - by inikulin
+- [redux-search](https://github.com/treasure-data/redux-search) - by treasure-data
+- [flexibility](https://github.com/10up/flexibility) - by 10up
