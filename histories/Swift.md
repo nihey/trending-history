@@ -8,3 +8,4 @@
 - [Laurine](https://github.com/JiriTrecak/Laurine) - by JiriTrecak
 - [MaterialKit](https://github.com/CosmicMind/MaterialKit) - by CosmicMind
 - [C4iOS](https://github.com/C4Framework/C4iOS) - by C4Framework
+- [KZLinkedConsole](https://github.com/krzysztofzablocki/KZLinkedConsole) - by krzysztofzablocki

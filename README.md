@@ -25,6 +25,7 @@ updated.
   - [Python](https://github.com/nihey/trending-history/blob/master/histories/Python.md)
   - [Ruby](https://github.com/nihey/trending-history/blob/master/histories/Ruby.md)
   - [Rust](https://github.com/nihey/trending-history/blob/master/histories/Rust.md)
+  - [Shell](https://github.com/nihey/trending-history/blob/master/histories/Shell.md)
   - [Swift](https://github.com/nihey/trending-history/blob/master/histories/Swift.md)
 
 # How to update
