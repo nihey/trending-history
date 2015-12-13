@@ -1,5 +1,11 @@
 # Trending History
 
+<p align="center">
+  <a href="http://www.macdrifter.com/theme/images/octocat-black.svg">
+    <img src="https://raw.githubusercontent.com/nihey/trending-history/master/old-octocat.png"/>
+  </a>
+</p>
+
 > What we do in life echoes in eternity.
 > - [Maximus](http://www.imdb.com/title/tt0172495/quotes)
 

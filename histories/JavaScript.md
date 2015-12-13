@@ -23,3 +23,5 @@
 - [publish-please](https://github.com/inikulin/publish-please) - by inikulin
 - [redux-search](https://github.com/treasure-data/redux-search) - by treasure-data
 - [flexibility](https://github.com/10up/flexibility) - by 10up
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - by bvaughn
+- [javascript](https://github.com/airbnb/javascript) - by airbnb
