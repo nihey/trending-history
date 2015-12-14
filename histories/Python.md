@@ -6,3 +6,5 @@
 - [zerodb](https://github.com/zero-db/zerodb) - by zero-db
 - [braindump](https://github.com/levlaz/braindump) - by levlaz
 - [prettytensor](https://github.com/google/prettytensor) - by google
+- [q](https://github.com/harelba/q) - by harelba
+- [gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - by paicha

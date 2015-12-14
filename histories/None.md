@@ -10,3 +10,4 @@
 - [php7-internal](https://github.com/laruence/php7-internal) - by laruence
 - [go-is-not-good](https://github.com/ksimka/go-is-not-good) - by ksimka
 - [free-programming-books](https://github.com/vhf/free-programming-books) - by vhf
+- [Qix](https://github.com/ty4z2008/Qix) - by ty4z2008
