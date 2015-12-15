@@ -29,6 +29,7 @@ updated.
   - [Objective-C](https://github.com/nihey/trending-history/blob/master/histories/Objective-C.md)
   - [PHP](https://github.com/nihey/trending-history/blob/master/histories/PHP.md)
   - [Python](https://github.com/nihey/trending-history/blob/master/histories/Python.md)
+  - [R](https://github.com/nihey/trending-history/blob/master/histories/R.md)
   - [Ruby](https://github.com/nihey/trending-history/blob/master/histories/Ruby.md)
   - [Rust](https://github.com/nihey/trending-history/blob/master/histories/Rust.md)
   - [Shell](https://github.com/nihey/trending-history/blob/master/histories/Shell.md)

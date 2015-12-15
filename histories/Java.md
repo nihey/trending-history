@@ -9,3 +9,5 @@
 - [easygoogle](https://github.com/googlesamples/easygoogle) - by googlesamples
 - [scoop](https://github.com/lyft/scoop) - by lyft
 - [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - by lfkdsk
+- [Knife](https://github.com/mthli/Knife) - by mthli
+- [LondonEyeLayoutManager](https://github.com/Danylo2006/LondonEyeLayoutManager) - by Danylo2006
