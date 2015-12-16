@@ -11,3 +11,6 @@
 - [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - by lfkdsk
 - [Knife](https://github.com/mthli/Knife) - by mthli
 - [LondonEyeLayoutManager](https://github.com/Danylo2006/LondonEyeLayoutManager) - by Danylo2006
+- [Gaffer](https://github.com/GovernmentCommunicationsHeadquarters/Gaffer) - by GovernmentCommunicationsHeadquarters
+- [CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders) - by lopspower
+- [FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) - by hujiaweibujidao

@@ -20,6 +20,7 @@ updated.
   - [C#](https://github.com/nihey/trending-history/blob/master/histories/C#.md)
   - [C++](https://github.com/nihey/trending-history/blob/master/histories/C++.md)
   - [CoffeeScript](https://github.com/nihey/trending-history/blob/master/histories/CoffeeScript.md)
+  - [CSS](https://github.com/nihey/trending-history/blob/master/histories/CSS.md)
   - [Go](https://github.com/nihey/trending-history/blob/master/histories/Go.md)
   - [HTML](https://github.com/nihey/trending-history/blob/master/histories/HTML.md)
   - [Java](https://github.com/nihey/trending-history/blob/master/histories/Java.md)
