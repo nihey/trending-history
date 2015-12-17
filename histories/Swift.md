@@ -10,3 +10,4 @@
 - [C4iOS](https://github.com/C4Framework/C4iOS) - by C4Framework
 - [KZLinkedConsole](https://github.com/krzysztofzablocki/KZLinkedConsole) - by krzysztofzablocki
 - [XLActionController](https://github.com/xmartlabs/XLActionController) - by xmartlabs
+- [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - by hsavit1

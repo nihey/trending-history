@@ -10,3 +10,4 @@
 - [gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - by paicha
 - [kinto](https://github.com/Kinto/kinto) - by Kinto
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
+- [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs

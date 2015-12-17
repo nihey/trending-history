@@ -1,14 +1,14 @@
 # JavaScript
 
 ### 2015-12
+- [gethttpsforfree](https://github.com/diafygi/gethttpsforfree) - by diafygi
 - [reagent](https://github.com/airbnb/reagent) - by airbnb
-- [labella.js](https://github.com/twitter/labella.js) - by twitter
 - [Split.js](https://github.com/nathancahill/Split.js) - by nathancahill
 - [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - by HospitalRun
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - by NARKOZ
 - [documentation](https://github.com/documentationjs/documentation) - by documentationjs
 - [dreamjs](https://github.com/adleroliveira/dreamjs) - by adleroliveira
-- [gethttpsforfree](https://github.com/diafygi/gethttpsforfree) - by diafygi
+- [labella.js](https://github.com/twitter/labella.js) - by twitter
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) - by fengyuanchen
 - [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - by FreeCodeCamp
 - [d3.compose](https://github.com/CSNW/d3.compose) - by CSNW
@@ -19,10 +19,10 @@
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - by oneuijs
 - [SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - by sdc-alibaba
 - [ramjet](https://github.com/Rich-Harris/ramjet) - by Rich-Harris
-- [bliss](https://github.com/LeaVerou/bliss) - by LeaVerou
 - [publish-please](https://github.com/inikulin/publish-please) - by inikulin
 - [redux-search](https://github.com/treasure-data/redux-search) - by treasure-data
 - [flexibility](https://github.com/10up/flexibility) - by 10up
+- [bliss](https://github.com/LeaVerou/bliss) - by LeaVerou
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - by bvaughn
 - [javascript](https://github.com/airbnb/javascript) - by airbnb
 - [memdb](https://github.com/rain1017/memdb) - by rain1017
@@ -30,3 +30,7 @@
 - [minggeJS](https://github.com/drduan/minggeJS) - by drduan
 - [tdb](https://github.com/ericjang/tdb) - by ericjang
 - [material](https://github.com/angular/material) - by angular
+- [botkit](https://github.com/howdyai/botkit) - by howdyai
+- [rejected.us](https://github.com/jkup/rejected.us) - by jkup
+- [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) - by jlmakes
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - by getify

@@ -14,3 +14,9 @@
 - [Gaffer](https://github.com/GovernmentCommunicationsHeadquarters/Gaffer) - by GovernmentCommunicationsHeadquarters
 - [CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders) - by lopspower
 - [FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) - by hujiaweibujidao
+- [anthelion](https://github.com/yahoo/anthelion) - by yahoo
+- [apollo](https://github.com/spotify/apollo) - by spotify
+- [StarWars.Android](https://github.com/Yalantis/StarWars.Android) - by Yalantis
+- [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) - by tangqi92
+- [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
+- [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
