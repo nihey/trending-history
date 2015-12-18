@@ -6,3 +6,4 @@
 - [gorump](https://github.com/deferpanic/gorump) - by deferpanic
 - [feature-flags](https://github.com/AntoineAugusti/feature-flags) - by AntoineAugusti
 - [git-appraise](https://github.com/google/git-appraise) - by google
+- [gizmo](https://github.com/NYTimes/gizmo) - by NYTimes
