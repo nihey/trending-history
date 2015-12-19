@@ -20,3 +20,6 @@
 - [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) - by tangqi92
 - [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
 - [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
+- [Auro](https://github.com/architjn/Auro) - by architjn
+- [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
+- [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
