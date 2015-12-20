@@ -23,3 +23,4 @@
 - [Auro](https://github.com/architjn/Auro) - by architjn
 - [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
 - [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
+- [blade](https://github.com/biezhi/blade) - by biezhi

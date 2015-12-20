@@ -11,3 +11,4 @@
 - [kinto](https://github.com/Kinto/kinto) - by Kinto
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
+- [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins

@@ -38,3 +38,5 @@
 - [aframe](https://github.com/aframevr/aframe) - by aframevr
 - [music](https://github.com/schollz/music) - by schollz
 - [binaryen](https://github.com/WebAssembly/binaryen) - by WebAssembly
+- [blockly](https://github.com/google/blockly) - by google
+- [octotree](https://github.com/buunguyen/octotree) - by buunguyen

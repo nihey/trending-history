@@ -14,3 +14,5 @@
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - by AllThingsSmitty
 - [bootstrap](https://github.com/twbs/bootstrap) - by twbs
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - by ujjwalkarn
+- [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
+- [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng

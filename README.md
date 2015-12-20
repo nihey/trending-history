@@ -16,9 +16,11 @@ This is a list that holds GitHub trending repository history, it is regularly
 updated.
 
 # Languages
+  - [Assembly](https://github.com/nihey/trending-history/blob/master/histories/Assembly.md)
   - [C](https://github.com/nihey/trending-history/blob/master/histories/C.md)
   - [C#](https://github.com/nihey/trending-history/blob/master/histories/C#.md)
   - [C++](https://github.com/nihey/trending-history/blob/master/histories/C++.md)
+  - [Clojure](https://github.com/nihey/trending-history/blob/master/histories/Clojure.md)
   - [CoffeeScript](https://github.com/nihey/trending-history/blob/master/histories/CoffeeScript.md)
   - [CSS](https://github.com/nihey/trending-history/blob/master/histories/CSS.md)
   - [Go](https://github.com/nihey/trending-history/blob/master/histories/Go.md)
