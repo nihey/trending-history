@@ -16,3 +16,5 @@
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - by ujjwalkarn
 - [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
 - [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
+- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
