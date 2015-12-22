@@ -12,3 +12,6 @@
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
+- [lektor](https://github.com/lektor/lektor) - by lektor
+- [ispy](https://github.com/dellis23/ispy) - by dellis23
+- [see](https://github.com/F-Secure/see) - by F-Secure

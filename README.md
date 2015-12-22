@@ -35,6 +35,7 @@ updated.
   - [R](https://github.com/nihey/trending-history/blob/master/histories/R.md)
   - [Ruby](https://github.com/nihey/trending-history/blob/master/histories/Ruby.md)
   - [Rust](https://github.com/nihey/trending-history/blob/master/histories/Rust.md)
+  - [Scala](https://github.com/nihey/trending-history/blob/master/histories/Scala.md)
   - [Shell](https://github.com/nihey/trending-history/blob/master/histories/Shell.md)
   - [Swift](https://github.com/nihey/trending-history/blob/master/histories/Swift.md)
 

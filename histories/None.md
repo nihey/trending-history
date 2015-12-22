@@ -18,3 +18,6 @@
 - [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
 - [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
+- [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
