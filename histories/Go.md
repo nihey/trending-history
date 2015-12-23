@@ -8,3 +8,5 @@
 - [git-appraise](https://github.com/google/git-appraise) - by google
 - [gizmo](https://github.com/NYTimes/gizmo) - by NYTimes
 - [containerd](https://github.com/docker/containerd) - by docker
+- [hydra](https://github.com/ory-am/hydra) - by ory-am
+- [example](https://github.com/golang/example) - by golang

@@ -14,10 +14,13 @@
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - by AllThingsSmitty
 - [bootstrap](https://github.com/twbs/bootstrap) - by twbs
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - by ujjwalkarn
-- [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
 - [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
+- [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
 - [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
 - [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
+- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
+- [component-check](https://github.com/Mercateo/component-check) - by Mercateo
+- [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng

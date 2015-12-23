@@ -40,3 +40,6 @@
 - [binaryen](https://github.com/WebAssembly/binaryen) - by WebAssembly
 - [blockly](https://github.com/google/blockly) - by google
 - [octotree](https://github.com/buunguyen/octotree) - by buunguyen
+- [intro.js](https://github.com/usablica/intro.js) - by usablica
+- [js2image](https://github.com/xinyu198736/js2image) - by xinyu198736
+- [critical](https://github.com/addyosmani/critical) - by addyosmani
