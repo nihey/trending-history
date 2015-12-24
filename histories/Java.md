@@ -27,3 +27,4 @@
 - [Timeline-View](https://github.com/vipulasri/Timeline-View) - by vipulasri
 - [HTextView](https://github.com/hanks-zyh/HTextView) - by hanks-zyh
 - [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) - by cundong
+- [easypermissions](https://github.com/googlesamples/easypermissions) - by googlesamples
