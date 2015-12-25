@@ -13,3 +13,5 @@
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - by hsavit1
 - [Whisper](https://github.com/hyperoslo/Whisper) - by hyperoslo
 - [WebShell](https://github.com/djyde/WebShell) - by djyde
+- [Rainbow](https://github.com/onevcat/Rainbow) - by onevcat
+- [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - by DanisFabric

@@ -16,8 +16,8 @@
 - [code](https://github.com/douban/code) - by douban
 - [d3-shape](https://github.com/d3/d3-shape) - by d3
 - [d3.compose](https://github.com/CSNW/d3.compose) - by CSNW
-- [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - by oneuijs
 - [SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - by sdc-alibaba
+- [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - by oneuijs
 - [ramjet](https://github.com/Rich-Harris/ramjet) - by Rich-Harris
 - [bliss](https://github.com/LeaVerou/bliss) - by LeaVerou
 - [publish-please](https://github.com/inikulin/publish-please) - by inikulin
@@ -28,12 +28,12 @@
 - [memdb](https://github.com/rain1017/memdb) - by rain1017
 - [webtorrent](https://github.com/feross/webtorrent) - by feross
 - [minggeJS](https://github.com/drduan/minggeJS) - by drduan
-- [tdb](https://github.com/ericjang/tdb) - by ericjang
 - [material](https://github.com/angular/material) - by angular
+- [tdb](https://github.com/ericjang/tdb) - by ericjang
 - [botkit](https://github.com/howdyai/botkit) - by howdyai
-- [rejected.us](https://github.com/jkup/rejected.us) - by jkup
 - [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) - by jlmakes
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - by getify
+- [rejected.us](https://github.com/jkup/rejected.us) - by jkup
 - [react-refetch](https://github.com/heroku/react-refetch) - by heroku
 - [aframe](https://github.com/aframevr/aframe) - by aframevr
 - [music](https://github.com/schollz/music) - by schollz
@@ -43,3 +43,7 @@
 - [intro.js](https://github.com/usablica/intro.js) - by usablica
 - [js2image](https://github.com/xinyu198736/js2image) - by xinyu198736
 - [critical](https://github.com/addyosmani/critical) - by addyosmani
+- [HackMyResume](https://github.com/hacksalot/HackMyResume) - by hacksalot
+- [mongotron](https://github.com/officert/mongotron) - by officert
+- [nodejs-web-jade-scaffold](https://github.com/rodrigogs/nodejs-web-jade-scaffold) - by rodrigogs
+- [vue](https://github.com/vuejs/vue) - by vuejs

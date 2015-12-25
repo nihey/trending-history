@@ -17,3 +17,4 @@
 - [see](https://github.com/F-Secure/see) - by F-Secure
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
+- [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code

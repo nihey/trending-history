@@ -21,10 +21,13 @@
 - [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
 - [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
 - [Auro](https://github.com/architjn/Auro) - by architjn
-- [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
 - [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
+- [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
 - [blade](https://github.com/biezhi/blade) - by biezhi
 - [Timeline-View](https://github.com/vipulasri/Timeline-View) - by vipulasri
 - [HTextView](https://github.com/hanks-zyh/HTextView) - by hanks-zyh
 - [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) - by cundong
 - [easypermissions](https://github.com/googlesamples/easypermissions) - by googlesamples
+- [ToggleDrawable](https://github.com/renaudcerrato/ToggleDrawable) - by renaudcerrato
+- [LikeAnimation](https://github.com/frogermcs/LikeAnimation) - by frogermcs
+- [ViewAnimator](https://github.com/florent37/ViewAnimator) - by florent37
