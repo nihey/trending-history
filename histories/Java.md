@@ -33,3 +33,4 @@
 - [ViewAnimator](https://github.com/florent37/ViewAnimator) - by florent37
 - [SimpleNews](https://github.com/liuling07/SimpleNews) - by liuling07
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
+- [pinpoint](https://github.com/naver/pinpoint) - by naver

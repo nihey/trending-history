@@ -19,3 +19,4 @@
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
 - [DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames) - by asrivat1
+- [bpython](https://github.com/bpython/bpython) - by bpython
