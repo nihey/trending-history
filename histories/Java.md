@@ -7,13 +7,13 @@
 - [che](https://github.com/codenvy/che) - by codenvy
 - [dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo) - by yigit
 - [easygoogle](https://github.com/googlesamples/easygoogle) - by googlesamples
-- [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - by lfkdsk
 - [scoop](https://github.com/lyft/scoop) - by lyft
-- [LondonEyeLayoutManager](https://github.com/Danylo2006/LondonEyeLayoutManager) - by Danylo2006
+- [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - by lfkdsk
 - [Knife](https://github.com/mthli/Knife) - by mthli
+- [LondonEyeLayoutManager](https://github.com/Danylo2006/LondonEyeLayoutManager) - by Danylo2006
 - [Gaffer](https://github.com/GovernmentCommunicationsHeadquarters/Gaffer) - by GovernmentCommunicationsHeadquarters
-- [CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders) - by lopspower
 - [FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) - by hujiaweibujidao
+- [CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders) - by lopspower
 - [anthelion](https://github.com/yahoo/anthelion) - by yahoo
 - [apollo](https://github.com/spotify/apollo) - by spotify
 - [StarWars.Android](https://github.com/Yalantis/StarWars.Android) - by Yalantis
@@ -21,8 +21,8 @@
 - [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
 - [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
 - [Auro](https://github.com/architjn/Auro) - by architjn
-- [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
 - [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
+- [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
 - [blade](https://github.com/biezhi/blade) - by biezhi
 - [Timeline-View](https://github.com/vipulasri/Timeline-View) - by vipulasri
 - [HTextView](https://github.com/hanks-zyh/HTextView) - by hanks-zyh
@@ -34,3 +34,9 @@
 - [SimpleNews](https://github.com/liuling07/SimpleNews) - by liuling07
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
+- [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
+- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
+- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
+- [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
+- [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
+- [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab

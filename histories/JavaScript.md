@@ -31,9 +31,9 @@
 - [tdb](https://github.com/ericjang/tdb) - by ericjang
 - [material](https://github.com/angular/material) - by angular
 - [botkit](https://github.com/howdyai/botkit) - by howdyai
-- [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) - by jlmakes
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - by getify
 - [rejected.us](https://github.com/jkup/rejected.us) - by jkup
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - by getify
+- [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) - by jlmakes
 - [react-refetch](https://github.com/heroku/react-refetch) - by heroku
 - [aframe](https://github.com/aframevr/aframe) - by aframevr
 - [music](https://github.com/schollz/music) - by schollz
@@ -44,9 +44,9 @@
 - [js2image](https://github.com/xinyu198736/js2image) - by xinyu198736
 - [critical](https://github.com/addyosmani/critical) - by addyosmani
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - by hacksalot
-- [nodejs-web-jade-scaffold](https://github.com/rodrigogs/nodejs-web-jade-scaffold) - by rodrigogs
-- [vue](https://github.com/vuejs/vue) - by vuejs
 - [mongotron](https://github.com/officert/mongotron) - by officert
+- [vue](https://github.com/vuejs/vue) - by vuejs
+- [nodejs-web-jade-scaffold](https://github.com/rodrigogs/nodejs-web-jade-scaffold) - by rodrigogs
 - [DVNA](https://github.com/quantumfoam/DVNA) - by quantumfoam
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - by mxstbr
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - by Justineo
@@ -55,3 +55,4 @@
 - [budo](https://github.com/mattdesl/budo) - by mattdesl
 - [redux](https://github.com/rackt/redux) - by rackt
 - [nwb](https://github.com/insin/nwb) - by insin
+- [semantic-release](https://github.com/semantic-release/semantic-release) - by semantic-release

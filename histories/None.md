@@ -26,3 +26,4 @@
 - [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng
 - [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - by Leo-G
 - [datasharing](https://github.com/jtleek/datasharing) - by jtleek
+- [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - by jobbole
