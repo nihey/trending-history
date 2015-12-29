@@ -21,3 +21,4 @@
 - [DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames) - by asrivat1
 - [bpython](https://github.com/bpython/bpython) - by bpython
 - [py-videocore](https://github.com/nineties/py-videocore) - by nineties
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - by donnemartin

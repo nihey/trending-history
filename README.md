@@ -16,6 +16,7 @@ This is a list that holds GitHub trending repository history, it is regularly
 updated.
 
 # Languages
+  - [ApacheConf](https://github.com/nihey/trending-history/blob/master/histories/ApacheConf.md)
   - [Assembly](https://github.com/nihey/trending-history/blob/master/histories/Assembly.md)
   - [C](https://github.com/nihey/trending-history/blob/master/histories/C.md)
   - [C#](https://github.com/nihey/trending-history/blob/master/histories/C#.md)

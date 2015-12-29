@@ -40,3 +40,6 @@
 - [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
 - [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
 - [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
+- [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
+- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
+- [GifView](https://github.com/Cutta/GifView) - by Cutta
