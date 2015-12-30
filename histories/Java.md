@@ -43,3 +43,4 @@
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
+- [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
