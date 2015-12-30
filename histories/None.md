@@ -27,3 +27,4 @@
 - [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - by Leo-G
 - [datasharing](https://github.com/jtleek/datasharing) - by jtleek
 - [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - by jobbole
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - by jlevy

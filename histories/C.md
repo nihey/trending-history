@@ -8,3 +8,4 @@
 - [siege](https://github.com/JoeDog/siege) - by JoeDog
 - [8cc](https://github.com/rui314/8cc) - by rui314
 - [PebbleSeizureDetect](https://github.com/PebbleSeizureDetect/PebbleSeizureDetect) - by PebbleSeizureDetect
+- [ngx_openresty](https://github.com/openresty/ngx_openresty) - by openresty

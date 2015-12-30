@@ -60,3 +60,4 @@
 - [jumpserver](https://github.com/ibuler/jumpserver) - by ibuler
 - [faker.js](https://github.com/Marak/faker.js) - by Marak
 - [OS.js-v2](https://github.com/andersevenrud/OS.js-v2) - by andersevenrud
+- [jstips](https://github.com/loverajoel/jstips) - by loverajoel

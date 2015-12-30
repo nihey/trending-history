@@ -11,15 +11,15 @@
 - [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - by lfkdsk
 - [Knife](https://github.com/mthli/Knife) - by mthli
 - [LondonEyeLayoutManager](https://github.com/Danylo2006/LondonEyeLayoutManager) - by Danylo2006
-- [Gaffer](https://github.com/GovernmentCommunicationsHeadquarters/Gaffer) - by GovernmentCommunicationsHeadquarters
-- [FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) - by hujiaweibujidao
 - [CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders) - by lopspower
-- [anthelion](https://github.com/yahoo/anthelion) - by yahoo
+- [FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) - by hujiaweibujidao
+- [Gaffer](https://github.com/GovernmentCommunicationsHeadquarters/Gaffer) - by GovernmentCommunicationsHeadquarters
 - [apollo](https://github.com/spotify/apollo) - by spotify
 - [StarWars.Android](https://github.com/Yalantis/StarWars.Android) - by Yalantis
 - [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) - by tangqi92
 - [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
 - [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
+- [anthelion](https://github.com/yahoo/anthelion) - by yahoo
 - [Auro](https://github.com/architjn/Auro) - by architjn
 - [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
 - [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
@@ -44,3 +44,5 @@
 - [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
+- [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
+- [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
