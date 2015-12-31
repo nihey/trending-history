@@ -41,8 +41,8 @@
 - [octotree](https://github.com/buunguyen/octotree) - by buunguyen
 - [blockly](https://github.com/google/blockly) - by google
 - [js2image](https://github.com/xinyu198736/js2image) - by xinyu198736
-- [intro.js](https://github.com/usablica/intro.js) - by usablica
 - [critical](https://github.com/addyosmani/critical) - by addyosmani
+- [intro.js](https://github.com/usablica/intro.js) - by usablica
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - by hacksalot
 - [mongotron](https://github.com/officert/mongotron) - by officert
 - [nodejs-web-jade-scaffold](https://github.com/rodrigogs/nodejs-web-jade-scaffold) - by rodrigogs
@@ -61,3 +61,4 @@
 - [faker.js](https://github.com/Marak/faker.js) - by Marak
 - [OS.js-v2](https://github.com/andersevenrud/OS.js-v2) - by andersevenrud
 - [jstips](https://github.com/loverajoel/jstips) - by loverajoel
+- [frontend-boilerplate](https://github.com/tj/frontend-boilerplate) - by tj

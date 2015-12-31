@@ -46,3 +46,4 @@
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
 - [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
+- [MathView](https://github.com/kexanie/MathView) - by kexanie

@@ -39,6 +39,7 @@ updated.
   - [Scala](https://github.com/nihey/trending-history/blob/master/histories/Scala.md)
   - [Shell](https://github.com/nihey/trending-history/blob/master/histories/Shell.md)
   - [Swift](https://github.com/nihey/trending-history/blob/master/histories/Swift.md)
+  - [TypeScript](https://github.com/nihey/trending-history/blob/master/histories/TypeScript.md)
 
 # How to update
 Just run `npm run update` and all Markdown files will be updated.
