@@ -62,3 +62,7 @@
 - [OS.js-v2](https://github.com/andersevenrud/OS.js-v2) - by andersevenrud
 - [jstips](https://github.com/loverajoel/jstips) - by loverajoel
 - [frontend-boilerplate](https://github.com/tj/frontend-boilerplate) - by tj
+### 2016-1
+- [guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - by getguesstimate
+- [react-lite](https://github.com/Lucifier129/react-lite) - by Lucifier129
+- [react-router](https://github.com/rackt/react-router) - by rackt
