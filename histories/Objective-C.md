@@ -7,3 +7,5 @@
 - [ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) - by Aufree
 - [ActivatePowerMode](https://github.com/poboke/ActivatePowerMode) - by poboke
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - by OpenEmu
+### 2016-1
+- [PMKVObserver](https://github.com/postmates/PMKVObserver) - by postmates

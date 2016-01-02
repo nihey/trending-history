@@ -17,3 +17,7 @@
 - [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - by DanisFabric
 - [VWInstantRun](https://github.com/wangshengjia/VWInstantRun) - by wangshengjia
 - [Then](https://github.com/devxoul/Then) - by devxoul
+### 2016-1
+- [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
+- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
+- [spi](https://github.com/guoc/spi) - by guoc

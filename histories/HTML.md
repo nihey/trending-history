@@ -7,3 +7,5 @@
 - [Android-Ptr-Comparison](https://github.com/desmond1121/Android-Ptr-Comparison) - by desmond1121
 - [snapdrop](https://github.com/capira12/snapdrop) - by capira12
 - [openresty.org](https://github.com/openresty/openresty.org) - by openresty
+### 2016-1
+- [material-design-lite](https://github.com/google/material-design-lite) - by google
