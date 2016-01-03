@@ -25,3 +25,4 @@
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - by yidao620c
 ### 2016-1
 - [reverse](https://github.com/joelpx/reverse) - by joelpx
+- [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - by 0x5e
