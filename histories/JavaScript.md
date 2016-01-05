@@ -73,3 +73,4 @@
 - [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) - by istarkov
 - [nearley](https://github.com/Hardmath123/nearley) - by Hardmath123
 - [react-stdio](https://github.com/mjackson/react-stdio) - by mjackson
+- [react-slingshot](https://github.com/coryhouse/react-slingshot) - by coryhouse

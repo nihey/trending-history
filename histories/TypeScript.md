@@ -4,3 +4,4 @@
 - [NyaoVim](https://github.com/rhysd/NyaoVim) - by rhysd
 ### 2016-1
 - [angular-next-starter-kit](https://github.com/alamgird/angular-next-starter-kit) - by alamgird
+- [searchkit](https://github.com/searchkit/searchkit) - by searchkit

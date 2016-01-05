@@ -28,3 +28,4 @@
 - [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - by 0x5e
 - [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
 - [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
+- [jasper-client](https://github.com/jasperproject/jasper-client) - by jasperproject

@@ -24,6 +24,7 @@ updated.
   - [Clojure](https://github.com/nihey/trending-history/blob/master/histories/Clojure.md)
   - [CoffeeScript](https://github.com/nihey/trending-history/blob/master/histories/CoffeeScript.md)
   - [CSS](https://github.com/nihey/trending-history/blob/master/histories/CSS.md)
+  - [Emacs Lisp](https://github.com/nihey/trending-history/blob/master/histories/Emacs Lisp.md)
   - [Go](https://github.com/nihey/trending-history/blob/master/histories/Go.md)
   - [HTML](https://github.com/nihey/trending-history/blob/master/histories/HTML.md)
   - [Java](https://github.com/nihey/trending-history/blob/master/histories/Java.md)
