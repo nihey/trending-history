@@ -48,8 +48,8 @@
 - [nodejs-web-jade-scaffold](https://github.com/rodrigogs/nodejs-web-jade-scaffold) - by rodrigogs
 - [vue](https://github.com/vuejs/vue) - by vuejs
 - [DVNA](https://github.com/quantumfoam/DVNA) - by quantumfoam
-- [github-hovercard](https://github.com/Justineo/github-hovercard) - by Justineo
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - by mxstbr
+- [github-hovercard](https://github.com/Justineo/github-hovercard) - by Justineo
 - [tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - by ukupat
 - [gluestick](https://github.com/TrueCar/gluestick) - by TrueCar
 - [budo](https://github.com/mattdesl/budo) - by mattdesl
@@ -74,3 +74,4 @@
 - [nearley](https://github.com/Hardmath123/nearley) - by Hardmath123
 - [react-stdio](https://github.com/mjackson/react-stdio) - by mjackson
 - [react-slingshot](https://github.com/coryhouse/react-slingshot) - by coryhouse
+- [react-native](https://github.com/facebook/react-native) - by facebook

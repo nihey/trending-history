@@ -11,3 +11,4 @@
 ### 2016-1
 - [btfs](https://github.com/johang/btfs) - by johang
 - [openage](https://github.com/SFTtech/openage) - by SFTtech
+- [aseprite](https://github.com/aseprite/aseprite) - by aseprite

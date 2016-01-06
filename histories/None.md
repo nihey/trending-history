@@ -32,3 +32,5 @@
 - [linux-insides](https://github.com/0xAX/linux-insides) - by 0xAX
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - by amontalenti
+- [react-howto](https://github.com/petehunt/react-howto) - by petehunt
+- [vim-galore](https://github.com/mhinz/vim-galore) - by mhinz

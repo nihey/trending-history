@@ -29,3 +29,4 @@
 - [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
 - [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
 - [jasper-client](https://github.com/jasperproject/jasper-client) - by jasperproject
+- [android-plus-plus](https://github.com/webbju/android-plus-plus) - by webbju
