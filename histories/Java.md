@@ -41,8 +41,8 @@
 - [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
 - [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
-- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
+- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
 - [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
@@ -51,3 +51,4 @@
 - [Slice](https://github.com/mthli/Slice) - by mthli
 - [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
+- [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
