@@ -11,3 +11,4 @@
 - [PMKVObserver](https://github.com/postmates/PMKVObserver) - by postmates
 - [bitbar](https://github.com/matryer/bitbar) - by matryer
 - [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - by MoZhouqi
+- [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - by leichunfeng

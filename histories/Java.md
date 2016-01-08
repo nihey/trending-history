@@ -52,3 +52,4 @@
 - [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
+- [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo

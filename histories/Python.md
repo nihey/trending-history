@@ -31,3 +31,4 @@
 - [jasper-client](https://github.com/jasperproject/jasper-client) - by jasperproject
 - [android-plus-plus](https://github.com/webbju/android-plus-plus) - by webbju
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - by VerbalExpressions
+- [dumb-init](https://github.com/Yelp/dumb-init) - by Yelp
