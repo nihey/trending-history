@@ -19,7 +19,7 @@ Object.keys(history).forEach(function(key) {
     return a.date.localeCompare(b.date);
   });
 
-  // Prepare the data to be send to Handlebars
+  // Prepare the data to be sent to Handlebars
   repositories = repositories.map(function(key) {
     var repository = language[key];
 
