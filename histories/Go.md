@@ -17,3 +17,5 @@
 - [micro](https://github.com/micro/micro) - by micro
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
+- [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
+- [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
