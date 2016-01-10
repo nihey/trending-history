@@ -33,8 +33,8 @@
 - [tdb](https://github.com/ericjang/tdb) - by ericjang
 - [rejected.us](https://github.com/jkup/rejected.us) - by jkup
 - [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) - by jlmakes
-- [botkit](https://github.com/howdyai/botkit) - by howdyai
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - by getify
+- [botkit](https://github.com/howdyai/botkit) - by howdyai
 - [react-refetch](https://github.com/heroku/react-refetch) - by heroku
 - [aframe](https://github.com/aframevr/aframe) - by aframevr
 - [music](https://github.com/schollz/music) - by schollz
@@ -53,9 +53,9 @@
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - by Justineo
 - [tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - by ukupat
 - [gluestick](https://github.com/TrueCar/gluestick) - by TrueCar
-- [budo](https://github.com/mattdesl/budo) - by mattdesl
 - [redux](https://github.com/rackt/redux) - by rackt
 - [nwb](https://github.com/insin/nwb) - by insin
+- [budo](https://github.com/mattdesl/budo) - by mattdesl
 - [semantic-release](https://github.com/semantic-release/semantic-release) - by semantic-release
 - [d3-scale](https://github.com/d3/d3-scale) - by d3
 - [jumpserver](https://github.com/ibuler/jumpserver) - by ibuler
@@ -66,8 +66,8 @@
 
 ### 2016-1
 - [guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - by getguesstimate
-- [react-lite](https://github.com/Lucifier129/react-lite) - by Lucifier129
 - [react-router](https://github.com/rackt/react-router) - by rackt
+- [react-lite](https://github.com/Lucifier129/react-lite) - by Lucifier129
 - [trails](https://github.com/trailsjs/trails) - by trailsjs
 - [slate](https://github.com/tripit/slate) - by tripit
 - [dragula](https://github.com/bevacqua/dragula) - by bevacqua
@@ -81,3 +81,5 @@
 - [react](https://github.com/facebook/react) - by facebook
 - [Charme](https://github.com/mschultheiss/Charme) - by mschultheiss
 - [imba](https://github.com/somebee/imba) - by somebee
+- [Noisecrypt](https://github.com/mschultheiss/Noisecrypt) - by mschultheiss
+- [restreamer](https://github.com/datarhei/restreamer) - by datarhei

@@ -36,11 +36,11 @@
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
 - [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
-- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
 - [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
-- [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
 - [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
+- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
+- [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
@@ -58,3 +58,5 @@
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [Small](https://github.com/wequick/Small) - by wequick
+- [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
+- [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs

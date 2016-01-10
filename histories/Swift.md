@@ -23,3 +23,4 @@
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
 - [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [spi](https://github.com/guoc/spi) - by guoc
+- [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
