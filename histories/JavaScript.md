@@ -66,11 +66,11 @@
 
 ### 2016-1
 - [guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - by getguesstimate
-- [react-router](https://github.com/rackt/react-router) - by rackt
 - [react-lite](https://github.com/Lucifier129/react-lite) - by Lucifier129
+- [react-router](https://github.com/rackt/react-router) - by rackt
 - [trails](https://github.com/trailsjs/trails) - by trailsjs
-- [slate](https://github.com/tripit/slate) - by tripit
 - [dragula](https://github.com/bevacqua/dragula) - by bevacqua
+- [slate](https://github.com/tripit/slate) - by tripit
 - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - by VerbalExpressions
 - [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) - by istarkov
 - [nearley](https://github.com/Hardmath123/nearley) - by Hardmath123
@@ -83,3 +83,7 @@
 - [imba](https://github.com/somebee/imba) - by somebee
 - [Noisecrypt](https://github.com/mschultheiss/Noisecrypt) - by mschultheiss
 - [restreamer](https://github.com/datarhei/restreamer) - by datarhei
+- [fastdom](https://github.com/wilsonpage/fastdom) - by wilsonpage
+- [webpack-demos](https://github.com/ruanyf/webpack-demos) - by ruanyf
+- [x-ray](https://github.com/lapwinglabs/x-ray) - by lapwinglabs
+- [unique-gradient-generator](https://github.com/tiborsaas/unique-gradient-generator) - by tiborsaas

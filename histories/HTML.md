@@ -11,3 +11,4 @@
 
 ### 2016-1
 - [material-design-lite](https://github.com/google/material-design-lite) - by google
+- [feature.js](https://github.com/viljamis/feature.js) - by viljamis
