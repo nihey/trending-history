@@ -7,3 +7,4 @@
 
 ### 2016-1
 - [friends](https://github.com/JacobEvelyn/friends) - by JacobEvelyn
+- [scenic](https://github.com/thoughtbot/scenic) - by thoughtbot

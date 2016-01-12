@@ -61,3 +61,4 @@
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
+- [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem

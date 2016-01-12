@@ -41,3 +41,4 @@
 - [css](https://github.com/grvcoelho/css) - by grvcoelho
 - [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) - by rdpeng
 - [easy-application](https://github.com/j-delaney/easy-application) - by j-delaney
+- [computer-science](https://github.com/open-source-society/computer-science) - by open-source-society

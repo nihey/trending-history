@@ -21,3 +21,4 @@
 - [pome](https://github.com/rach/pome) - by rach
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
+- [bolt](https://github.com/boltdb/bolt) - by boltdb
