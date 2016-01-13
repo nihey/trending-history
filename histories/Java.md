@@ -16,14 +16,14 @@
 - [CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders) - by lopspower
 - [FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) - by hujiaweibujidao
 - [apollo](https://github.com/spotify/apollo) - by spotify
-- [anthelion](https://github.com/yahoo/anthelion) - by yahoo
-- [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) - by tangqi92
-- [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
-- [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
 - [StarWars.Android](https://github.com/Yalantis/StarWars.Android) - by Yalantis
+- [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) - by tangqi92
+- [anthelion](https://github.com/yahoo/anthelion) - by yahoo
+- [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
+- [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
 - [Auro](https://github.com/architjn/Auro) - by architjn
-- [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
 - [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
+- [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
 - [blade](https://github.com/biezhi/blade) - by biezhi
 - [Timeline-View](https://github.com/vipulasri/Timeline-View) - by vipulasri
 - [HTextView](https://github.com/hanks-zyh/HTextView) - by hanks-zyh
@@ -36,14 +36,14 @@
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
 - [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
-- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
+- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
 - [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
 - [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
-- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
 - [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
+- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
-- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
+- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
 - [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
@@ -51,8 +51,8 @@
 
 ### 2016-1
 - [Slice](https://github.com/mthli/Slice) - by mthli
-- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
+- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
@@ -62,3 +62,5 @@
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
+- [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
+- [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter

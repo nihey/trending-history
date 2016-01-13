@@ -35,3 +35,4 @@
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - by VerbalExpressions
 - [dumb-init](https://github.com/Yelp/dumb-init) - by Yelp
 - [exxo](https://github.com/mbachry/exxo) - by mbachry
+- [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - by mshang

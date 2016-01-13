@@ -12,8 +12,8 @@
 - [go-is-not-good](https://github.com/ksimka/go-is-not-good) - by ksimka
 - [free-programming-books](https://github.com/vhf/free-programming-books) - by vhf
 - [Qix](https://github.com/ty4z2008/Qix) - by ty4z2008
-- [css-protips](https://github.com/AllThingsSmitty/css-protips) - by AllThingsSmitty
 - [bootstrap](https://github.com/twbs/bootstrap) - by twbs
+- [css-protips](https://github.com/AllThingsSmitty/css-protips) - by AllThingsSmitty
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - by ujjwalkarn
 - [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
 - [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
@@ -23,8 +23,8 @@
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
 - [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
-- [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng
 - [component-check](https://github.com/Mercateo/component-check) - by Mercateo
+- [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng
 - [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - by Leo-G
 - [datasharing](https://github.com/jtleek/datasharing) - by jtleek
 - [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - by jobbole
@@ -42,3 +42,5 @@
 - [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) - by rdpeng
 - [easy-application](https://github.com/j-delaney/easy-application) - by j-delaney
 - [computer-science](https://github.com/open-source-society/computer-science) - by open-source-society
+- [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) - by atConf
+- [frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - by bradfrost

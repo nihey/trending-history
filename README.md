@@ -26,6 +26,7 @@ updated.
   - [CSS](https://github.com/nihey/trending-history/blob/master/histories/CSS.md)
   - [Emacs Lisp](https://github.com/nihey/trending-history/blob/master/histories/Emacs Lisp.md)
   - [Go](https://github.com/nihey/trending-history/blob/master/histories/Go.md)
+  - [Haskell](https://github.com/nihey/trending-history/blob/master/histories/Haskell.md)
   - [HTML](https://github.com/nihey/trending-history/blob/master/histories/HTML.md)
   - [Java](https://github.com/nihey/trending-history/blob/master/histories/Java.md)
   - [JavaScript](https://github.com/nihey/trending-history/blob/master/histories/JavaScript.md)

@@ -14,3 +14,4 @@
 - [bitbar](https://github.com/matryer/bitbar) - by matryer
 - [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - by MoZhouqi
 - [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - by leichunfeng
+- [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater) - by aerofs

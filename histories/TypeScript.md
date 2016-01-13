@@ -7,3 +7,4 @@
 ### 2016-1
 - [angular-next-starter-kit](https://github.com/alamgird/angular-next-starter-kit) - by alamgird
 - [searchkit](https://github.com/searchkit/searchkit) - by searchkit
+- [superpowers](https://github.com/superpowers/superpowers) - by superpowers
