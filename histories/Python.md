@@ -36,3 +36,4 @@
 - [dumb-init](https://github.com/Yelp/dumb-init) - by Yelp
 - [exxo](https://github.com/mbachry/exxo) - by mbachry
 - [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - by mshang
+- [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - by prakhar1989

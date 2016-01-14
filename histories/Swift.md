@@ -4,8 +4,8 @@
 ### 2015-12
 - [swift-package-manager](https://github.com/apple/swift-package-manager) - by apple
 - [swift-http](https://github.com/huytd/swift-http) - by huytd
-- [focus](https://github.com/mozilla/focus) - by mozilla
 - [Chatto](https://github.com/badoo/Chatto) - by badoo
+- [focus](https://github.com/mozilla/focus) - by mozilla
 - [Laurine](https://github.com/JiriTrecak/Laurine) - by JiriTrecak
 - [MaterialKit](https://github.com/CosmicMind/MaterialKit) - by CosmicMind
 - [C4iOS](https://github.com/C4Framework/C4iOS) - by C4Framework
@@ -25,3 +25,4 @@
 - [spi](https://github.com/guoc/spi) - by guoc
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
+- [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin

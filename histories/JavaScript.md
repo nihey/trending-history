@@ -37,10 +37,10 @@
 - [scrollreveal.js](https://github.com/jlmakes/scrollreveal.js) - by jlmakes
 - [react-refetch](https://github.com/heroku/react-refetch) - by heroku
 - [aframe](https://github.com/aframevr/aframe) - by aframevr
-- [music](https://github.com/schollz/music) - by schollz
 - [binaryen](https://github.com/WebAssembly/binaryen) - by WebAssembly
-- [blockly](https://github.com/google/blockly) - by google
+- [music](https://github.com/schollz/music) - by schollz
 - [octotree](https://github.com/buunguyen/octotree) - by buunguyen
+- [blockly](https://github.com/google/blockly) - by google
 - [intro.js](https://github.com/usablica/intro.js) - by usablica
 - [js2image](https://github.com/xinyu198736/js2image) - by xinyu198736
 - [critical](https://github.com/addyosmani/critical) - by addyosmani
@@ -51,16 +51,16 @@
 - [DVNA](https://github.com/quantumfoam/DVNA) - by quantumfoam
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - by mxstbr
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - by Justineo
-- [tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - by ukupat
 - [gluestick](https://github.com/TrueCar/gluestick) - by TrueCar
-- [budo](https://github.com/mattdesl/budo) - by mattdesl
+- [tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - by ukupat
 - [redux](https://github.com/rackt/redux) - by rackt
 - [nwb](https://github.com/insin/nwb) - by insin
+- [budo](https://github.com/mattdesl/budo) - by mattdesl
 - [semantic-release](https://github.com/semantic-release/semantic-release) - by semantic-release
-- [d3-scale](https://github.com/d3/d3-scale) - by d3
 - [jumpserver](https://github.com/ibuler/jumpserver) - by ibuler
-- [faker.js](https://github.com/Marak/faker.js) - by Marak
+- [d3-scale](https://github.com/d3/d3-scale) - by d3
 - [OS.js-v2](https://github.com/andersevenrud/OS.js-v2) - by andersevenrud
+- [faker.js](https://github.com/Marak/faker.js) - by Marak
 - [jstips](https://github.com/loverajoel/jstips) - by loverajoel
 - [frontend-boilerplate](https://github.com/tj/frontend-boilerplate) - by tj
 
@@ -89,3 +89,5 @@
 - [unique-gradient-generator](https://github.com/tiborsaas/unique-gradient-generator) - by tiborsaas
 - [medis](https://github.com/luin/medis) - by luin
 - [drift](https://github.com/imgix/drift) - by imgix
+- [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
+- [lodash](https://github.com/lodash/lodash) - by lodash

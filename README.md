@@ -18,6 +18,7 @@ updated.
 # Languages
   - [ApacheConf](https://github.com/nihey/trending-history/blob/master/histories/ApacheConf.md)
   - [Assembly](https://github.com/nihey/trending-history/blob/master/histories/Assembly.md)
+  - [Awk](https://github.com/nihey/trending-history/blob/master/histories/Awk.md)
   - [C](https://github.com/nihey/trending-history/blob/master/histories/C.md)
   - [C#](https://github.com/nihey/trending-history/blob/master/histories/C#.md)
   - [C++](https://github.com/nihey/trending-history/blob/master/histories/C++.md)

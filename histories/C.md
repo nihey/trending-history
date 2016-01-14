@@ -16,3 +16,4 @@
 - [CEmu](https://github.com/MateoConLechuga/CEmu) - by MateoConLechuga
 - [phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - by P-H-C
 - [Simple_GLSL_Shader_Example](https://github.com/MauriceGit/Simple_GLSL_Shader_Example) - by MauriceGit
+- [libconcurrent](https://github.com/sharow/libconcurrent) - by sharow
