@@ -57,8 +57,8 @@
 - [nwb](https://github.com/insin/nwb) - by insin
 - [budo](https://github.com/mattdesl/budo) - by mattdesl
 - [semantic-release](https://github.com/semantic-release/semantic-release) - by semantic-release
-- [jumpserver](https://github.com/ibuler/jumpserver) - by ibuler
 - [d3-scale](https://github.com/d3/d3-scale) - by d3
+- [jumpserver](https://github.com/ibuler/jumpserver) - by ibuler
 - [OS.js-v2](https://github.com/andersevenrud/OS.js-v2) - by andersevenrud
 - [faker.js](https://github.com/Marak/faker.js) - by Marak
 - [jstips](https://github.com/loverajoel/jstips) - by loverajoel
@@ -72,8 +72,8 @@
 - [slate](https://github.com/tripit/slate) - by tripit
 - [dragula](https://github.com/bevacqua/dragula) - by bevacqua
 - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - by VerbalExpressions
-- [nearley](https://github.com/Hardmath123/nearley) - by Hardmath123
 - [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) - by istarkov
+- [nearley](https://github.com/Hardmath123/nearley) - by Hardmath123
 - [react-stdio](https://github.com/mjackson/react-stdio) - by mjackson
 - [react-slingshot](https://github.com/coryhouse/react-slingshot) - by coryhouse
 - [react-native](https://github.com/facebook/react-native) - by facebook
@@ -91,3 +91,4 @@
 - [drift](https://github.com/imgix/drift) - by imgix
 - [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
 - [lodash](https://github.com/lodash/lodash) - by lodash
+- [echarts](https://github.com/ecomfe/echarts) - by ecomfe

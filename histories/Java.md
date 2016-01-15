@@ -51,8 +51,8 @@
 
 ### 2016-1
 - [Slice](https://github.com/mthli/Slice) - by mthli
-- [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
+- [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
@@ -64,3 +64,4 @@
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
 - [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
+- [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o

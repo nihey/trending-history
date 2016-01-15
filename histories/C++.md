@@ -15,3 +15,4 @@
 - [openage](https://github.com/SFTtech/openage) - by SFTtech
 - [aseprite](https://github.com/aseprite/aseprite) - by aseprite
 - [wangle](https://github.com/facebook/wangle) - by facebook
+- [tapir](https://github.com/UWSysLab/tapir) - by UWSysLab

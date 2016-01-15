@@ -44,3 +44,7 @@
 - [computer-science](https://github.com/open-source-society/computer-science) - by open-source-society
 - [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) - by atConf
 - [frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - by bradfrost
+- [Malware](https://github.com/RPISEC/Malware) - by RPISEC
+- [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - by ValveSoftware
+- [blog](https://github.com/gf-rd/blog) - by gf-rd
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
