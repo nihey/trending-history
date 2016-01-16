@@ -36,14 +36,14 @@
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
 - [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
-- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
-- [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
+- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
 - [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
-- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
+- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
+- [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
+- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
-- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
 - [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
@@ -65,3 +65,4 @@
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
 - [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
+- [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074

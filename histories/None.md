@@ -12,8 +12,8 @@
 - [go-is-not-good](https://github.com/ksimka/go-is-not-good) - by ksimka
 - [free-programming-books](https://github.com/vhf/free-programming-books) - by vhf
 - [Qix](https://github.com/ty4z2008/Qix) - by ty4z2008
-- [bootstrap](https://github.com/twbs/bootstrap) - by twbs
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - by AllThingsSmitty
+- [bootstrap](https://github.com/twbs/bootstrap) - by twbs
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - by ujjwalkarn
 - [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
 - [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
@@ -42,9 +42,13 @@
 - [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) - by rdpeng
 - [easy-application](https://github.com/j-delaney/easy-application) - by j-delaney
 - [computer-science](https://github.com/open-source-society/computer-science) - by open-source-society
-- [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) - by atConf
 - [frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - by bradfrost
+- [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) - by atConf
 - [Malware](https://github.com/RPISEC/Malware) - by RPISEC
 - [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - by ValveSoftware
 - [blog](https://github.com/gf-rd/blog) - by gf-rd
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
+- [dear-github](https://github.com/dear-github/dear-github) - by dear-github
+- [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
+- [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) - by Juude
+- [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs

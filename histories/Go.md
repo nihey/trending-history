@@ -22,3 +22,4 @@
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
+- [fosite](https://github.com/ory-am/fosite) - by ory-am
