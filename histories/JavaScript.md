@@ -92,3 +92,6 @@
 - [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
 - [lodash](https://github.com/lodash/lodash) - by lodash
 - [echarts](https://github.com/ecomfe/echarts) - by ecomfe
+- [SVGnest](https://github.com/Jack000/SVGnest) - by Jack000
+- [react-web](https://github.com/taobaofed/react-web) - by taobaofed
+- [redux-saga](https://github.com/yelouafi/redux-saga) - by yelouafi

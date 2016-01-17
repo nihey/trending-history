@@ -6,3 +6,4 @@
 
 ### 2016-1
 - [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links) - by ericelliott
+- [sailor](https://github.com/NetBSDfr/sailor) - by NetBSDfr
