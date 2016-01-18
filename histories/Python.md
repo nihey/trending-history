@@ -13,9 +13,9 @@
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
-- [lektor](https://github.com/lektor/lektor) - by lektor
 - [ispy](https://github.com/dellis23/ispy) - by dellis23
 - [see](https://github.com/F-Secure/see) - by F-Secure
+- [lektor](https://github.com/lektor/lektor) - by lektor
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -39,3 +39,4 @@
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - by prakhar1989
 - [scapy](https://github.com/secdev/scapy) - by secdev
 - [paperless](https://github.com/danielquinn/paperless) - by danielquinn
+- [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale

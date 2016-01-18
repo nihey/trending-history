@@ -66,3 +66,4 @@
 - [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
 - [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074
+- [sharp](https://github.com/Pixplicity/sharp) - by Pixplicity
