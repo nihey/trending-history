@@ -40,3 +40,4 @@
 - [scapy](https://github.com/secdev/scapy) - by secdev
 - [paperless](https://github.com/danielquinn/paperless) - by danielquinn
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell

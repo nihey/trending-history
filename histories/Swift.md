@@ -27,3 +27,4 @@
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
 - [FireUpYourVPN](https://github.com/johnlui/FireUpYourVPN) - by johnlui
+- [Swift-AI](https://github.com/collinhundley/Swift-AI) - by collinhundley

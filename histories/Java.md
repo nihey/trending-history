@@ -18,9 +18,9 @@
 - [apollo](https://github.com/spotify/apollo) - by spotify
 - [StarWars.Android](https://github.com/Yalantis/StarWars.Android) - by Yalantis
 - [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) - by tangqi92
+- [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
 - [anthelion](https://github.com/yahoo/anthelion) - by yahoo
 - [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
-- [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
 - [Auro](https://github.com/architjn/Auro) - by architjn
 - [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
 - [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
@@ -36,14 +36,14 @@
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
 - [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
-- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
-- [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
-- [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
 - [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
 - [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
+- [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
+- [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
+- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
-- [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
+- [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
 - [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
@@ -55,9 +55,9 @@
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
-- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [Small](https://github.com/wequick/Small) - by wequick
+- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
@@ -67,3 +67,5 @@
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
 - [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074
 - [sharp](https://github.com/Pixplicity/sharp) - by Pixplicity
+- [coolMenu](https://github.com/DxTT/coolMenu) - by DxTT
+- [RxVolley](https://github.com/kymjs/RxVolley) - by kymjs
