@@ -15,10 +15,10 @@
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - by AllThingsSmitty
 - [bootstrap](https://github.com/twbs/bootstrap) - by twbs
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - by ujjwalkarn
-- [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
 - [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
-- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
+- [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
 - [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
 - [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
@@ -31,13 +31,13 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - by jlevy
 
 ### 2016-1
-- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
 - [linux-insides](https://github.com/0xAX/linux-insides) - by 0xAX
+- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - by amontalenti
 - [react-howto](https://github.com/petehunt/react-howto) - by petehunt
 - [vim-galore](https://github.com/mhinz/vim-galore) - by mhinz
-- [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - by braydie
+- [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
 - [css](https://github.com/grvcoelho/css) - by grvcoelho
 - [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) - by rdpeng
 - [easy-application](https://github.com/j-delaney/easy-application) - by j-delaney
@@ -45,11 +45,13 @@
 - [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) - by atConf
 - [frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - by bradfrost
 - [Malware](https://github.com/RPISEC/Malware) - by RPISEC
-- [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - by ValveSoftware
 - [blog](https://github.com/gf-rd/blog) - by gf-rd
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
+- [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - by ValveSoftware
 - [dear-github](https://github.com/dear-github/dear-github) - by dear-github
 - [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
 - [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) - by Juude
 - [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs
 - [thank-you-github](https://github.com/thank-you-github/thank-you-github) - by thank-you-github
+- [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - by PaulSec
+- [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle

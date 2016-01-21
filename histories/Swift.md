@@ -28,3 +28,4 @@
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
 - [FireUpYourVPN](https://github.com/johnlui/FireUpYourVPN) - by johnlui
 - [Swift-AI](https://github.com/collinhundley/Swift-AI) - by collinhundley
+- [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - by FolioReader
