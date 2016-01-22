@@ -65,9 +65,9 @@
 - [frontend-boilerplate](https://github.com/tj/frontend-boilerplate) - by tj
 
 ### 2016-1
+- [guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - by getguesstimate
 - [react-lite](https://github.com/Lucifier129/react-lite) - by Lucifier129
 - [react-router](https://github.com/rackt/react-router) - by rackt
-- [guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - by getguesstimate
 - [trails](https://github.com/trailsjs/trails) - by trailsjs
 - [dragula](https://github.com/bevacqua/dragula) - by bevacqua
 - [slate](https://github.com/tripit/slate) - by tripit
@@ -83,12 +83,12 @@
 - [imba](https://github.com/somebee/imba) - by somebee
 - [Noisecrypt](https://github.com/mschultheiss/Noisecrypt) - by mschultheiss
 - [restreamer](https://github.com/datarhei/restreamer) - by datarhei
-- [fastdom](https://github.com/wilsonpage/fastdom) - by wilsonpage
 - [webpack-demos](https://github.com/ruanyf/webpack-demos) - by ruanyf
 - [x-ray](https://github.com/lapwinglabs/x-ray) - by lapwinglabs
 - [unique-gradient-generator](https://github.com/tiborsaas/unique-gradient-generator) - by tiborsaas
-- [medis](https://github.com/luin/medis) - by luin
+- [fastdom](https://github.com/wilsonpage/fastdom) - by wilsonpage
 - [drift](https://github.com/imgix/drift) - by imgix
+- [medis](https://github.com/luin/medis) - by luin
 - [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
 - [lodash](https://github.com/lodash/lodash) - by lodash
 - [echarts](https://github.com/ecomfe/echarts) - by ecomfe
@@ -102,3 +102,5 @@
 - [devtool](https://github.com/Jam3/devtool) - by Jam3
 - [browser-laptop](https://github.com/brave/browser-laptop) - by brave
 - [rtc-everywhere](https://github.com/contra/rtc-everywhere) - by contra
+- [layzr.js](https://github.com/callmecavs/layzr.js) - by callmecavs
+- [coworkers](https://github.com/tjmehta/coworkers) - by tjmehta

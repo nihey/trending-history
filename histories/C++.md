@@ -18,3 +18,4 @@
 - [tapir](https://github.com/UWSysLab/tapir) - by UWSysLab
 - [py14](https://github.com/lukasmartinelli/py14) - by lukasmartinelli
 - [stoke-release](https://github.com/StanfordPL/stoke-release) - by StanfordPL
+- [hardseed](https://github.com/yangyangwithgnu/hardseed) - by yangyangwithgnu

@@ -17,3 +17,4 @@
 - [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater) - by aerofs
 - [Miku](https://github.com/poboke/Miku) - by poboke
 - [SMSNinja](https://github.com/iosre/SMSNinja) - by iosre
+- [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) - by ChenYilong
