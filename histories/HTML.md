@@ -14,3 +14,4 @@
 - [feature.js](https://github.com/viljamis/feature.js) - by viljamis
 - [SeatPreview](https://github.com/codrops/SeatPreview) - by codrops
 - [lostpass](https://github.com/cxxr/lostpass) - by cxxr
+- [umbrella](https://github.com/umbrellajs/umbrella) - by umbrellajs

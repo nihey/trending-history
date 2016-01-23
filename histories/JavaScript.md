@@ -45,9 +45,9 @@
 - [critical](https://github.com/addyosmani/critical) - by addyosmani
 - [intro.js](https://github.com/usablica/intro.js) - by usablica
 - [HackMyResume](https://github.com/hacksalot/HackMyResume) - by hacksalot
-- [mongotron](https://github.com/officert/mongotron) - by officert
 - [nodejs-web-jade-scaffold](https://github.com/rodrigogs/nodejs-web-jade-scaffold) - by rodrigogs
 - [vue](https://github.com/vuejs/vue) - by vuejs
+- [mongotron](https://github.com/officert/mongotron) - by officert
 - [DVNA](https://github.com/quantumfoam/DVNA) - by quantumfoam
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - by mxstbr
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - by Justineo
@@ -59,8 +59,8 @@
 - [semantic-release](https://github.com/semantic-release/semantic-release) - by semantic-release
 - [d3-scale](https://github.com/d3/d3-scale) - by d3
 - [jumpserver](https://github.com/ibuler/jumpserver) - by ibuler
-- [faker.js](https://github.com/Marak/faker.js) - by Marak
 - [OS.js-v2](https://github.com/andersevenrud/OS.js-v2) - by andersevenrud
+- [faker.js](https://github.com/Marak/faker.js) - by Marak
 - [jstips](https://github.com/loverajoel/jstips) - by loverajoel
 - [frontend-boilerplate](https://github.com/tj/frontend-boilerplate) - by tj
 
@@ -68,12 +68,12 @@
 - [guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - by getguesstimate
 - [react-lite](https://github.com/Lucifier129/react-lite) - by Lucifier129
 - [react-router](https://github.com/rackt/react-router) - by rackt
-- [trails](https://github.com/trailsjs/trails) - by trailsjs
-- [dragula](https://github.com/bevacqua/dragula) - by bevacqua
 - [slate](https://github.com/tripit/slate) - by tripit
+- [dragula](https://github.com/bevacqua/dragula) - by bevacqua
+- [trails](https://github.com/trailsjs/trails) - by trailsjs
 - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - by VerbalExpressions
-- [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) - by istarkov
 - [nearley](https://github.com/Hardmath123/nearley) - by Hardmath123
+- [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) - by istarkov
 - [react-stdio](https://github.com/mjackson/react-stdio) - by mjackson
 - [react-slingshot](https://github.com/coryhouse/react-slingshot) - by coryhouse
 - [react-native](https://github.com/facebook/react-native) - by facebook
@@ -83,12 +83,12 @@
 - [imba](https://github.com/somebee/imba) - by somebee
 - [Noisecrypt](https://github.com/mschultheiss/Noisecrypt) - by mschultheiss
 - [restreamer](https://github.com/datarhei/restreamer) - by datarhei
-- [webpack-demos](https://github.com/ruanyf/webpack-demos) - by ruanyf
+- [fastdom](https://github.com/wilsonpage/fastdom) - by wilsonpage
 - [x-ray](https://github.com/lapwinglabs/x-ray) - by lapwinglabs
 - [unique-gradient-generator](https://github.com/tiborsaas/unique-gradient-generator) - by tiborsaas
-- [fastdom](https://github.com/wilsonpage/fastdom) - by wilsonpage
-- [drift](https://github.com/imgix/drift) - by imgix
+- [webpack-demos](https://github.com/ruanyf/webpack-demos) - by ruanyf
 - [medis](https://github.com/luin/medis) - by luin
+- [drift](https://github.com/imgix/drift) - by imgix
 - [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
 - [lodash](https://github.com/lodash/lodash) - by lodash
 - [echarts](https://github.com/ecomfe/echarts) - by ecomfe
@@ -104,3 +104,5 @@
 - [rtc-everywhere](https://github.com/contra/rtc-everywhere) - by contra
 - [layzr.js](https://github.com/callmecavs/layzr.js) - by callmecavs
 - [coworkers](https://github.com/tjmehta/coworkers) - by tjmehta
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - by DrkSephy
+- [inferno](https://github.com/trueadm/inferno) - by trueadm

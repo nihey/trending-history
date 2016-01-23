@@ -18,3 +18,5 @@
 - [Miku](https://github.com/poboke/Miku) - by poboke
 - [SMSNinja](https://github.com/iosre/SMSNinja) - by iosre
 - [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) - by ChenYilong
+- [Knuff](https://github.com/KnuffApp/Knuff) - by KnuffApp
+- [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) - by matmartinez

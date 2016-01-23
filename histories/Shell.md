@@ -14,3 +14,4 @@
 - [SAConfettiView](https://github.com/sudeepag/SAConfettiView) - by sudeepag
 - [tcpdive](https://github.com/fastos/tcpdive) - by fastos
 - [netboot.xyz](https://github.com/antonym/netboot.xyz) - by antonym
+- [bash-concurrent](https://github.com/themattrix/bash-concurrent) - by themattrix

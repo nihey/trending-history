@@ -9,3 +9,4 @@
 
 ### 2016-1
 - [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - by VerbalExpressions
+- [deployer](https://github.com/deployphp/deployer) - by deployphp

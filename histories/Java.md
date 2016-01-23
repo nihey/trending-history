@@ -74,3 +74,4 @@
 - [browser-android](https://github.com/brave/browser-android) - by brave
 - [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
+- [quasar](https://github.com/puniverse/quasar) - by puniverse
