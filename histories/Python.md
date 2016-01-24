@@ -41,3 +41,4 @@
 - [paperless](https://github.com/danielquinn/paperless) - by danielquinn
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
+- [asyncssh](https://github.com/ronf/asyncssh) - by ronf

@@ -68,12 +68,12 @@
 - [guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - by getguesstimate
 - [react-lite](https://github.com/Lucifier129/react-lite) - by Lucifier129
 - [react-router](https://github.com/rackt/react-router) - by rackt
+- [trails](https://github.com/trailsjs/trails) - by trailsjs
 - [slate](https://github.com/tripit/slate) - by tripit
 - [dragula](https://github.com/bevacqua/dragula) - by bevacqua
-- [trails](https://github.com/trailsjs/trails) - by trailsjs
+- [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) - by istarkov
 - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - by VerbalExpressions
 - [nearley](https://github.com/Hardmath123/nearley) - by Hardmath123
-- [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders) - by istarkov
 - [react-stdio](https://github.com/mjackson/react-stdio) - by mjackson
 - [react-slingshot](https://github.com/coryhouse/react-slingshot) - by coryhouse
 - [react-native](https://github.com/facebook/react-native) - by facebook
@@ -84,9 +84,9 @@
 - [Noisecrypt](https://github.com/mschultheiss/Noisecrypt) - by mschultheiss
 - [restreamer](https://github.com/datarhei/restreamer) - by datarhei
 - [fastdom](https://github.com/wilsonpage/fastdom) - by wilsonpage
+- [webpack-demos](https://github.com/ruanyf/webpack-demos) - by ruanyf
 - [x-ray](https://github.com/lapwinglabs/x-ray) - by lapwinglabs
 - [unique-gradient-generator](https://github.com/tiborsaas/unique-gradient-generator) - by tiborsaas
-- [webpack-demos](https://github.com/ruanyf/webpack-demos) - by ruanyf
 - [medis](https://github.com/luin/medis) - by luin
 - [drift](https://github.com/imgix/drift) - by imgix
 - [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
@@ -106,3 +106,5 @@
 - [coworkers](https://github.com/tjmehta/coworkers) - by tjmehta
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - by DrkSephy
 - [inferno](https://github.com/trueadm/inferno) - by trueadm
+- [phoenix-trello](https://github.com/bigardone/phoenix-trello) - by bigardone
+- [pressure](https://github.com/yamartino/pressure) - by yamartino
