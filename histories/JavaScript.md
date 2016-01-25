@@ -89,12 +89,12 @@
 - [unique-gradient-generator](https://github.com/tiborsaas/unique-gradient-generator) - by tiborsaas
 - [medis](https://github.com/luin/medis) - by luin
 - [drift](https://github.com/imgix/drift) - by imgix
-- [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
 - [lodash](https://github.com/lodash/lodash) - by lodash
+- [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
 - [echarts](https://github.com/ecomfe/echarts) - by ecomfe
 - [SVGnest](https://github.com/Jack000/SVGnest) - by Jack000
-- [react-web](https://github.com/taobaofed/react-web) - by taobaofed
 - [redux-saga](https://github.com/yelouafi/redux-saga) - by yelouafi
+- [react-web](https://github.com/taobaofed/react-web) - by taobaofed
 - [git-draw](https://github.com/ben174/git-draw) - by ben174
 - [cms.js](https://github.com/cdmedia/cms.js) - by cdmedia
 - [serverless](https://github.com/serverless/serverless) - by serverless
@@ -108,3 +108,5 @@
 - [inferno](https://github.com/trueadm/inferno) - by trueadm
 - [phoenix-trello](https://github.com/bigardone/phoenix-trello) - by bigardone
 - [pressure](https://github.com/yamartino/pressure) - by yamartino
+- [soundnode-app](https://github.com/Soundnode/soundnode-app) - by Soundnode
+- [rss-puppy](https://github.com/buzzfeed-openlab/rss-puppy) - by buzzfeed-openlab

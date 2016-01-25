@@ -13,9 +13,9 @@
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
-- [ispy](https://github.com/dellis23/ispy) - by dellis23
-- [see](https://github.com/F-Secure/see) - by F-Secure
 - [lektor](https://github.com/lektor/lektor) - by lektor
+- [see](https://github.com/F-Secure/see) - by F-Secure
+- [ispy](https://github.com/dellis23/ispy) - by dellis23
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -42,3 +42,6 @@
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
+- [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
+- [borg](https://github.com/borgbackup/borg) - by borgbackup
+- [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123

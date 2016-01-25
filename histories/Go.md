@@ -27,3 +27,4 @@
 - [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
+- [s](https://github.com/zquestz/s) - by zquestz

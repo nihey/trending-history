@@ -30,3 +30,4 @@
 - [Swift-AI](https://github.com/collinhundley/Swift-AI) - by collinhundley
 - [FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - by FolioReader
 - [ReSwift](https://github.com/ReSwift/ReSwift) - by ReSwift
+- [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu

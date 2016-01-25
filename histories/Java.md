@@ -62,8 +62,8 @@
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
-- [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
 - [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
+- [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
 - [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074
 - [sharp](https://github.com/Pixplicity/sharp) - by Pixplicity
@@ -75,3 +75,5 @@
 - [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
+- [GT](https://github.com/TencentOpen/GT) - by TencentOpen
+- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
