@@ -20,3 +20,4 @@
 - [stoke-release](https://github.com/StanfordPL/stoke-release) - by StanfordPL
 - [hardseed](https://github.com/yangyangwithgnu/hardseed) - by yangyangwithgnu
 - [TrackYourTime](https://github.com/Allexin/TrackYourTime) - by Allexin
+- [CNTK](https://github.com/Microsoft/CNTK) - by Microsoft

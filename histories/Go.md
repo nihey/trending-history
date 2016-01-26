@@ -9,8 +9,8 @@
 - [git-appraise](https://github.com/google/git-appraise) - by google
 - [gizmo](https://github.com/NYTimes/gizmo) - by NYTimes
 - [containerd](https://github.com/docker/containerd) - by docker
-- [hydra](https://github.com/ory-am/hydra) - by ory-am
 - [example](https://github.com/golang/example) - by golang
+- [hydra](https://github.com/ory-am/hydra) - by ory-am
 - [skizze](https://github.com/seiflotfy/skizze) - by seiflotfy
 - [osxlockdown](https://github.com/SummitRoute/osxlockdown) - by SummitRoute
 
@@ -19,8 +19,8 @@
 - [micro](https://github.com/micro/micro) - by micro
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
-- [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
+- [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
 - [apex](https://github.com/apex/apex) - by apex
@@ -28,3 +28,5 @@
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
+- [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
+- [dlite](https://github.com/nlf/dlite) - by nlf

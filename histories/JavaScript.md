@@ -110,3 +110,4 @@
 - [pressure](https://github.com/yamartino/pressure) - by yamartino
 - [soundnode-app](https://github.com/Soundnode/soundnode-app) - by Soundnode
 - [rss-puppy](https://github.com/buzzfeed-openlab/rss-puppy) - by buzzfeed-openlab
+- [DeepBeliefSDK](https://github.com/jetpacapp/DeepBeliefSDK) - by jetpacapp
