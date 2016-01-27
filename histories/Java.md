@@ -77,3 +77,4 @@
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
+- [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
