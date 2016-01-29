@@ -20,9 +20,9 @@
 - [Then](https://github.com/devxoul/Then) - by devxoul
 
 ### 2016-1
-- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
-- [spi](https://github.com/guoc/spi) - by guoc
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
+- [spi](https://github.com/guoc/spi) - by guoc
+- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -33,3 +33,5 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
+- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
+- [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev

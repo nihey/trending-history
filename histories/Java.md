@@ -51,8 +51,8 @@
 
 ### 2016-1
 - [Slice](https://github.com/mthli/Slice) - by mthli
-- [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
+- [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
@@ -62,8 +62,8 @@
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
-- [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
+- [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
 - [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074
 - [sharp](https://github.com/Pixplicity/sharp) - by Pixplicity
@@ -78,3 +78,4 @@
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
+- [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
