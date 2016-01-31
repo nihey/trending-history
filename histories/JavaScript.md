@@ -53,12 +53,12 @@
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - by mxstbr
 - [gluestick](https://github.com/TrueCar/gluestick) - by TrueCar
 - [tabs-or-spaces](https://github.com/ukupat/tabs-or-spaces) - by ukupat
-- [budo](https://github.com/mattdesl/budo) - by mattdesl
 - [redux](https://github.com/rackt/redux) - by rackt
 - [nwb](https://github.com/insin/nwb) - by insin
+- [budo](https://github.com/mattdesl/budo) - by mattdesl
 - [semantic-release](https://github.com/semantic-release/semantic-release) - by semantic-release
-- [d3-scale](https://github.com/d3/d3-scale) - by d3
 - [jumpserver](https://github.com/ibuler/jumpserver) - by ibuler
+- [d3-scale](https://github.com/d3/d3-scale) - by d3
 - [faker.js](https://github.com/Marak/faker.js) - by Marak
 - [OS.js-v2](https://github.com/andersevenrud/OS.js-v2) - by andersevenrud
 - [jstips](https://github.com/loverajoel/jstips) - by loverajoel
@@ -66,8 +66,8 @@
 
 ### 2016-1
 - [guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - by getguesstimate
-- [react-router](https://github.com/rackt/react-router) - by rackt
 - [react-lite](https://github.com/Lucifier129/react-lite) - by Lucifier129
+- [react-router](https://github.com/rackt/react-router) - by rackt
 - [slate](https://github.com/tripit/slate) - by tripit
 - [dragula](https://github.com/bevacqua/dragula) - by bevacqua
 - [trails](https://github.com/trailsjs/trails) - by trailsjs
@@ -79,18 +79,18 @@
 - [react-native](https://github.com/facebook/react-native) - by facebook
 - [nodal](https://github.com/keithwhor/nodal) - by keithwhor
 - [react](https://github.com/facebook/react) - by facebook
-- [imba](https://github.com/somebee/imba) - by somebee
 - [Charme](https://github.com/mschultheiss/Charme) - by mschultheiss
-- [restreamer](https://github.com/datarhei/restreamer) - by datarhei
+- [imba](https://github.com/somebee/imba) - by somebee
 - [Noisecrypt](https://github.com/mschultheiss/Noisecrypt) - by mschultheiss
-- [webpack-demos](https://github.com/ruanyf/webpack-demos) - by ruanyf
+- [restreamer](https://github.com/datarhei/restreamer) - by datarhei
+- [fastdom](https://github.com/wilsonpage/fastdom) - by wilsonpage
 - [x-ray](https://github.com/lapwinglabs/x-ray) - by lapwinglabs
 - [unique-gradient-generator](https://github.com/tiborsaas/unique-gradient-generator) - by tiborsaas
-- [fastdom](https://github.com/wilsonpage/fastdom) - by wilsonpage
-- [medis](https://github.com/luin/medis) - by luin
+- [webpack-demos](https://github.com/ruanyf/webpack-demos) - by ruanyf
 - [drift](https://github.com/imgix/drift) - by imgix
-- [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
+- [medis](https://github.com/luin/medis) - by luin
 - [lodash](https://github.com/lodash/lodash) - by lodash
+- [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
 - [echarts](https://github.com/ecomfe/echarts) - by ecomfe
 - [SVGnest](https://github.com/Jack000/SVGnest) - by Jack000
 - [react-web](https://github.com/taobaofed/react-web) - by taobaofed
@@ -98,9 +98,9 @@
 - [git-draw](https://github.com/ben174/git-draw) - by ben174
 - [cms.js](https://github.com/cdmedia/cms.js) - by cdmedia
 - [serverless](https://github.com/serverless/serverless) - by serverless
+- [devtool](https://github.com/Jam3/devtool) - by Jam3
 - [nativefier](https://github.com/jiahaog/nativefier) - by jiahaog
 - [browser-laptop](https://github.com/brave/browser-laptop) - by brave
-- [devtool](https://github.com/Jam3/devtool) - by Jam3
 - [rtc-everywhere](https://github.com/contra/rtc-everywhere) - by contra
 - [layzr.js](https://github.com/callmecavs/layzr.js) - by callmecavs
 - [coworkers](https://github.com/tjmehta/coworkers) - by tjmehta
@@ -116,10 +116,12 @@
 - [parse-server](https://github.com/ParsePlatform/parse-server) - by ParsePlatform
 - [pnpm](https://github.com/rstacruz/pnpm) - by rstacruz
 - [preact](https://github.com/developit/preact) - by developit
-- [medium-editor](https://github.com/yabwe/medium-editor) - by yabwe
+- [understanding-es6](https://github.com/sgaurav/understanding-es6) - by sgaurav
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - by denysdovhan
 - [parse-server-example](https://github.com/ParsePlatform/parse-server-example) - by ParsePlatform
 - [You-Dont-Need-Lodash-Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) - by cht8687
 - [viewerjs](https://github.com/fengyuanchen/viewerjs) - by fengyuanchen
 - [whiteboard](https://github.com/mpociot/whiteboard) - by mpociot
-- [understanding-es6](https://github.com/sgaurav/understanding-es6) - by sgaurav
+- [medium-editor](https://github.com/yabwe/medium-editor) - by yabwe
+- [micro](https://github.com/zeithq/micro) - by zeithq
+- [npm-install-webpack-plugin](https://github.com/ericclemmons/npm-install-webpack-plugin) - by ericclemmons

@@ -60,3 +60,4 @@
 - [internals](https://github.com/rabbitmq/internals) - by rabbitmq
 - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
+- [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode

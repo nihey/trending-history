@@ -21,8 +21,8 @@
 
 ### 2016-1
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
-- [spi](https://github.com/guoc/spi) - by guoc
 - [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
+- [spi](https://github.com/guoc/spi) - by guoc
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -35,3 +35,4 @@
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
 - [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
+- [Material](https://github.com/CosmicMind/Material) - by CosmicMind

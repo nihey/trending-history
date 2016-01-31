@@ -19,3 +19,5 @@
 - [goad](https://github.com/gophergala2016/goad) - by gophergala2016
 - [voxel.css](https://github.com/HunterLarco/voxel.css) - by HunterLarco
 - [bulma](https://github.com/jgthms/bulma) - by jgthms
+- [hackathon-starter](https://github.com/sahat/hackathon-starter) - by sahat
+- [openblog](https://github.com/mateogianolio/openblog) - by mateogianolio
