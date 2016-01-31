@@ -19,8 +19,8 @@
 - [micro](https://github.com/micro/micro) - by micro
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
-- [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
+- [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
 - [apex](https://github.com/apex/apex) - by apex
@@ -31,3 +31,6 @@
 - [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
 - [dlite](https://github.com/nlf/dlite) - by nlf
 - [seesaw](https://github.com/google/seesaw) - by google
+
+### 2016-2
+- [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche

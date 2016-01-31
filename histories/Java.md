@@ -10,27 +10,27 @@
 - [easygoogle](https://github.com/googlesamples/easygoogle) - by googlesamples
 - [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - by lfkdsk
 - [scoop](https://github.com/lyft/scoop) - by lyft
-- [Knife](https://github.com/mthli/Knife) - by mthli
 - [LondonEyeLayoutManager](https://github.com/Danylo2006/LondonEyeLayoutManager) - by Danylo2006
+- [Knife](https://github.com/mthli/Knife) - by mthli
+- [FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) - by hujiaweibujidao
 - [Gaffer](https://github.com/GovernmentCommunicationsHeadquarters/Gaffer) - by GovernmentCommunicationsHeadquarters
 - [CircularFillableLoaders](https://github.com/lopspower/CircularFillableLoaders) - by lopspower
-- [FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) - by hujiaweibujidao
-- [apollo](https://github.com/spotify/apollo) - by spotify
 - [StarWars.Android](https://github.com/Yalantis/StarWars.Android) - by Yalantis
 - [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) - by tangqi92
 - [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
 - [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
 - [anthelion](https://github.com/yahoo/anthelion) - by yahoo
+- [apollo](https://github.com/spotify/apollo) - by spotify
 - [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
 - [Auro](https://github.com/architjn/Auro) - by architjn
 - [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
 - [blade](https://github.com/biezhi/blade) - by biezhi
 - [Timeline-View](https://github.com/vipulasri/Timeline-View) - by vipulasri
-- [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) - by cundong
 - [HTextView](https://github.com/hanks-zyh/HTextView) - by hanks-zyh
+- [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) - by cundong
 - [easypermissions](https://github.com/googlesamples/easypermissions) - by googlesamples
-- [LikeAnimation](https://github.com/frogermcs/LikeAnimation) - by frogermcs
 - [ToggleDrawable](https://github.com/renaudcerrato/ToggleDrawable) - by renaudcerrato
+- [LikeAnimation](https://github.com/frogermcs/LikeAnimation) - by frogermcs
 - [ViewAnimator](https://github.com/florent37/ViewAnimator) - by florent37
 - [SimpleNews](https://github.com/liuling07/SimpleNews) - by liuling07
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
@@ -51,12 +51,12 @@
 
 ### 2016-1
 - [Slice](https://github.com/mthli/Slice) - by mthli
-- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
+- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
-- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
+- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [Small](https://github.com/wequick/Small) - by wequick
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
@@ -79,3 +79,8 @@
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
+
+### 2016-2
+- [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
+- [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
+- [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
