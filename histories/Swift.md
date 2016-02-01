@@ -36,3 +36,7 @@
 - [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
+
+### 2016-2
+- [Yep](https://github.com/CatchChat/Yep) - by CatchChat
+- [Freddy](https://github.com/bignerdranch/Freddy) - by bignerdranch

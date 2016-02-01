@@ -8,3 +8,6 @@
 ### 2016-1
 - [friends](https://github.com/JacobEvelyn/friends) - by JacobEvelyn
 - [scenic](https://github.com/thoughtbot/scenic) - by thoughtbot
+
+### 2016-2
+- [huginn](https://github.com/cantino/huginn) - by cantino
