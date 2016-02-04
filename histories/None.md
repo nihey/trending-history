@@ -15,16 +15,16 @@
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - by AllThingsSmitty
 - [bootstrap](https://github.com/twbs/bootstrap) - by twbs
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - by ujjwalkarn
-- [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
 - [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
-- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
+- [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
 - [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
+- [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
-- [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
-- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
+- [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
 - [component-check](https://github.com/Mercateo/component-check) - by Mercateo
 - [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng
+- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
 - [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - by Leo-G
 - [datasharing](https://github.com/jtleek/datasharing) - by jtleek
 - [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - by jobbole
@@ -49,9 +49,9 @@
 - [blog](https://github.com/gf-rd/blog) - by gf-rd
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
 - [dear-github](https://github.com/dear-github/dear-github) - by dear-github
+- [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
 - [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) - by Juude
 - [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs
-- [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
 - [thank-you-github](https://github.com/thank-you-github/thank-you-github) - by thank-you-github
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - by PaulSec
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
@@ -61,3 +61,7 @@
 - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
+
+### 2016-2
+- [lelylan](https://github.com/lelylan/lelylan) - by lelylan
+- [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe

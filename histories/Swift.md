@@ -40,3 +40,4 @@
 ### 2016-2
 - [Yep](https://github.com/CatchChat/Yep) - by CatchChat
 - [Freddy](https://github.com/bignerdranch/Freddy) - by bignerdranch
+- [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion

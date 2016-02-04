@@ -19,3 +19,7 @@
 - [libconcurrent](https://github.com/sharow/libconcurrent) - by sharow
 - [stb](https://github.com/nothings/stb) - by nothings
 - [tbox](https://github.com/waruqi/tbox) - by waruqi
+
+### 2016-2
+- [how2heap](https://github.com/shellphish/how2heap) - by shellphish
+- [Craft](https://github.com/fogleman/Craft) - by fogleman

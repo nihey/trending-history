@@ -93,8 +93,8 @@
 - [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
 - [echarts](https://github.com/ecomfe/echarts) - by ecomfe
 - [SVGnest](https://github.com/Jack000/SVGnest) - by Jack000
-- [react-web](https://github.com/taobaofed/react-web) - by taobaofed
 - [redux-saga](https://github.com/yelouafi/redux-saga) - by yelouafi
+- [react-web](https://github.com/taobaofed/react-web) - by taobaofed
 - [git-draw](https://github.com/ben174/git-draw) - by ben174
 - [cms.js](https://github.com/cdmedia/cms.js) - by cdmedia
 - [serverless](https://github.com/serverless/serverless) - by serverless
@@ -104,23 +104,23 @@
 - [rtc-everywhere](https://github.com/contra/rtc-everywhere) - by contra
 - [layzr.js](https://github.com/callmecavs/layzr.js) - by callmecavs
 - [coworkers](https://github.com/tjmehta/coworkers) - by tjmehta
-- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - by DrkSephy
 - [inferno](https://github.com/trueadm/inferno) - by trueadm
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - by DrkSephy
 - [phoenix-trello](https://github.com/bigardone/phoenix-trello) - by bigardone
 - [pressure](https://github.com/yamartino/pressure) - by yamartino
-- [soundnode-app](https://github.com/Soundnode/soundnode-app) - by Soundnode
 - [rss-puppy](https://github.com/buzzfeed-openlab/rss-puppy) - by buzzfeed-openlab
+- [soundnode-app](https://github.com/Soundnode/soundnode-app) - by Soundnode
 - [DeepBeliefSDK](https://github.com/jetpacapp/DeepBeliefSDK) - by jetpacapp
 - [thunderbird](https://github.com/gophergala2016/thunderbird) - by gophergala2016
 - [crom](https://github.com/mbostock/crom) - by mbostock
-- [viewerjs](https://github.com/fengyuanchen/viewerjs) - by fengyuanchen
 - [parse-server](https://github.com/ParsePlatform/parse-server) - by ParsePlatform
+- [pnpm](https://github.com/rstacruz/pnpm) - by rstacruz
 - [preact](https://github.com/developit/preact) - by developit
 - [understanding-es6](https://github.com/sgaurav/understanding-es6) - by sgaurav
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - by denysdovhan
 - [parse-server-example](https://github.com/ParsePlatform/parse-server-example) - by ParsePlatform
 - [You-Dont-Need-Lodash-Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) - by cht8687
-- [pnpm](https://github.com/rstacruz/pnpm) - by rstacruz
+- [viewerjs](https://github.com/fengyuanchen/viewerjs) - by fengyuanchen
 - [whiteboard](https://github.com/mpociot/whiteboard) - by mpociot
 - [medium-editor](https://github.com/yabwe/medium-editor) - by yabwe
 - [micro](https://github.com/zeithq/micro) - by zeithq
@@ -129,3 +129,6 @@
 ### 2016-2
 - [reactuate](https://github.com/reactuate/reactuate) - by reactuate
 - [Brewr-Site](https://github.com/thebillkidy/Brewr-Site) - by thebillkidy
+- [cv-maker](https://github.com/awalGarg/cv-maker) - by awalGarg
+- [shasta](https://github.com/shastajs/shasta) - by shastajs
+- [atomic-chrome](https://github.com/tuvistavie/atomic-chrome) - by tuvistavie

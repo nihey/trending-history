@@ -56,10 +56,10 @@
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
-- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [Small](https://github.com/wequick/Small) - by wequick
-- [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
+- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
+- [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
@@ -84,3 +84,5 @@
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
 - [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
 - [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
+- [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
+- [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad

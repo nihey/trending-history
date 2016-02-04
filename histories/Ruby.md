@@ -11,3 +11,4 @@
 
 ### 2016-2
 - [huginn](https://github.com/cantino/huginn) - by cantino
+- [scientist](https://github.com/github/scientist) - by github

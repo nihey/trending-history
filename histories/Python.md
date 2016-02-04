@@ -45,3 +45,6 @@
 - [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
 - [borg](https://github.com/borgbackup/borg) - by borgbackup
 - [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
+
+### 2016-2
+- [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
