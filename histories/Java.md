@@ -86,3 +86,4 @@
 - [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
 - [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
 - [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
+- [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli

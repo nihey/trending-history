@@ -3,3 +3,6 @@
 
 ### 2016-1
 - [openface](https://github.com/cmusatyalab/openface) - by cmusatyalab
+
+### 2016-2
+- [fb.resnet.torch](https://github.com/facebook/fb.resnet.torch) - by facebook

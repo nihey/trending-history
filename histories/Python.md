@@ -48,3 +48,4 @@
 
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - by josephmisiti

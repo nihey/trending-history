@@ -36,8 +36,8 @@
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - by amontalenti
 - [react-howto](https://github.com/petehunt/react-howto) - by petehunt
 - [vim-galore](https://github.com/mhinz/vim-galore) - by mhinz
-- [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - by braydie
+- [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
 - [css](https://github.com/grvcoelho/css) - by grvcoelho
 - [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) - by rdpeng
 - [easy-application](https://github.com/j-delaney/easy-application) - by j-delaney
@@ -65,3 +65,5 @@
 ### 2016-2
 - [lelylan](https://github.com/lelylan/lelylan) - by lelylan
 - [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe
+- [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - by mgechev
+- [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
