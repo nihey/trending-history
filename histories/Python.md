@@ -13,9 +13,9 @@
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
+- [ispy](https://github.com/dellis23/ispy) - by dellis23
 - [lektor](https://github.com/lektor/lektor) - by lektor
 - [see](https://github.com/F-Secure/see) - by F-Secure
-- [ispy](https://github.com/dellis23/ispy) - by dellis23
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -28,8 +28,8 @@
 ### 2016-1
 - [reverse](https://github.com/joelpx/reverse) - by joelpx
 - [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - by 0x5e
-- [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
 - [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
+- [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
 - [jasper-client](https://github.com/jasperproject/jasper-client) - by jasperproject
 - [android-plus-plus](https://github.com/webbju/android-plus-plus) - by webbju
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - by VerbalExpressions
@@ -49,3 +49,5 @@
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - by josephmisiti
+- [twtxt](https://github.com/buckket/twtxt) - by buckket
+- [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper

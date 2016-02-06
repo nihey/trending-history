@@ -11,3 +11,6 @@
 - [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - by VerbalExpressions
 - [deployer](https://github.com/deployphp/deployer) - by deployphp
 - [prestissimo](https://github.com/hirak/prestissimo) - by hirak
+
+### 2016-2
+- [scientist](https://github.com/daylerees/scientist) - by daylerees
