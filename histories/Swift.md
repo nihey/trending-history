@@ -41,3 +41,4 @@
 - [Yep](https://github.com/CatchChat/Yep) - by CatchChat
 - [Freddy](https://github.com/bignerdranch/Freddy) - by bignerdranch
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
+- [SwiftString](https://github.com/amayne/SwiftString) - by amayne

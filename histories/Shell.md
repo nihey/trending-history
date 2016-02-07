@@ -15,3 +15,6 @@
 - [tcpdive](https://github.com/fastos/tcpdive) - by fastos
 - [netboot.xyz](https://github.com/antonym/netboot.xyz) - by antonym
 - [bash-concurrent](https://github.com/themattrix/bash-concurrent) - by themattrix
+
+### 2016-2
+- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - by jayphelps

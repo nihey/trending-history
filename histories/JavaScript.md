@@ -89,8 +89,8 @@
 - [unique-gradient-generator](https://github.com/tiborsaas/unique-gradient-generator) - by tiborsaas
 - [drift](https://github.com/imgix/drift) - by imgix
 - [medis](https://github.com/luin/medis) - by luin
-- [lodash](https://github.com/lodash/lodash) - by lodash
 - [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
+- [lodash](https://github.com/lodash/lodash) - by lodash
 - [echarts](https://github.com/ecomfe/echarts) - by ecomfe
 - [SVGnest](https://github.com/Jack000/SVGnest) - by Jack000
 - [redux-saga](https://github.com/yelouafi/redux-saga) - by yelouafi
@@ -98,9 +98,9 @@
 - [git-draw](https://github.com/ben174/git-draw) - by ben174
 - [cms.js](https://github.com/cdmedia/cms.js) - by cdmedia
 - [serverless](https://github.com/serverless/serverless) - by serverless
-- [nativefier](https://github.com/jiahaog/nativefier) - by jiahaog
 - [devtool](https://github.com/Jam3/devtool) - by Jam3
 - [browser-laptop](https://github.com/brave/browser-laptop) - by brave
+- [nativefier](https://github.com/jiahaog/nativefier) - by jiahaog
 - [rtc-everywhere](https://github.com/contra/rtc-everywhere) - by contra
 - [layzr.js](https://github.com/callmecavs/layzr.js) - by callmecavs
 - [coworkers](https://github.com/tjmehta/coworkers) - by tjmehta
@@ -137,3 +137,5 @@
 - [instadate](https://github.com/Teamweek/instadate) - by Teamweek
 - [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - by rafaelrinaldi
 - [samsara](https://github.com/dmvaldman/samsara) - by dmvaldman
+- [WebpackTutorial](https://github.com/AriaFallah/WebpackTutorial) - by AriaFallah
+- [jQuery.sheet](https://github.com/Spreadsheets/jQuery.sheet) - by Spreadsheets

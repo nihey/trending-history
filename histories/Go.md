@@ -37,3 +37,4 @@
 - [ln](https://github.com/fogleman/ln) - by fogleman
 - [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
+- [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity

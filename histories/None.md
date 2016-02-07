@@ -67,3 +67,4 @@
 - [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe
 - [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - by mgechev
 - [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
+- [js-by-examples](https://github.com/bmkmanoj/js-by-examples) - by bmkmanoj
