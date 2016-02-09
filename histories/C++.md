@@ -21,3 +21,6 @@
 - [hardseed](https://github.com/yangyangwithgnu/hardseed) - by yangyangwithgnu
 - [TrackYourTime](https://github.com/Allexin/TrackYourTime) - by Allexin
 - [CNTK](https://github.com/Microsoft/CNTK) - by Microsoft
+
+### 2016-2
+- [zig](https://github.com/andrewrk/zig) - by andrewrk

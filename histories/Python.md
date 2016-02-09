@@ -52,3 +52,4 @@
 - [twtxt](https://github.com/buckket/twtxt) - by buckket
 - [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper
 - [maybe](https://github.com/p-e-w/maybe) - by p-e-w
+- [records](https://github.com/kennethreitz/records) - by kennethreitz
