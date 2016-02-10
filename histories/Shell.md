@@ -18,3 +18,4 @@
 
 ### 2016-2
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - by jayphelps
+- [diff-so-fancy](https://github.com/stevemao/diff-so-fancy) - by stevemao

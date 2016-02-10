@@ -24,3 +24,5 @@
 
 ### 2016-2
 - [zig](https://github.com/andrewrk/zig) - by andrewrk
+- [ion](https://github.com/google/ion) - by google
+- [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts

@@ -14,8 +14,8 @@
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
 - [ispy](https://github.com/dellis23/ispy) - by dellis23
-- [lektor](https://github.com/lektor/lektor) - by lektor
 - [see](https://github.com/F-Secure/see) - by F-Secure
+- [lektor](https://github.com/lektor/lektor) - by lektor
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -43,8 +43,8 @@
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
 - [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
-- [borg](https://github.com/borgbackup/borg) - by borgbackup
 - [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
+- [borg](https://github.com/borgbackup/borg) - by borgbackup
 
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
@@ -53,3 +53,5 @@
 - [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper
 - [maybe](https://github.com/p-e-w/maybe) - by p-e-w
 - [records](https://github.com/kennethreitz/records) - by kennethreitz
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
+- [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
