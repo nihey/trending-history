@@ -70,3 +70,4 @@
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples) - by bmkmanoj
 - [awesome-computer-history](https://github.com/watson/awesome-computer-history) - by watson
 - [til](https://github.com/jbranchaud/til) - by jbranchaud
+- [hyperledger](https://github.com/hyperledger/hyperledger) - by hyperledger

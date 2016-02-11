@@ -21,3 +21,6 @@
 - [bulma](https://github.com/jgthms/bulma) - by jgthms
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - by sahat
 - [openblog](https://github.com/mateogianolio/openblog) - by mateogianolio
+
+### 2016-2
+- [jenkins-neo-theme](https://github.com/aarjithn/jenkins-neo-theme) - by aarjithn
