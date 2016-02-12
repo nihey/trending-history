@@ -20,3 +20,6 @@
 - [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) - by ChenYilong
 - [Knuff](https://github.com/KnuffApp/Knuff) - by KnuffApp
 - [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) - by matmartinez
+
+### 2016-2
+- [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect) - by Cleveroad

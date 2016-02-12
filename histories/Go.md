@@ -38,3 +38,4 @@
 - [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
+- [modd](https://github.com/cortesi/modd) - by cortesi

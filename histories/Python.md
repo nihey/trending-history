@@ -37,14 +37,14 @@
 - [exxo](https://github.com/mbachry/exxo) - by mbachry
 - [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - by mshang
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - by prakhar1989
-- [scapy](https://github.com/secdev/scapy) - by secdev
 - [paperless](https://github.com/danielquinn/paperless) - by danielquinn
+- [scapy](https://github.com/secdev/scapy) - by secdev
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
 - [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
-- [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
 - [borg](https://github.com/borgbackup/borg) - by borgbackup
+- [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
 
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
@@ -55,3 +55,4 @@
 - [records](https://github.com/kennethreitz/records) - by kennethreitz
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
 - [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
+- [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack

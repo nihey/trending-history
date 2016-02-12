@@ -42,3 +42,4 @@
 - [Freddy](https://github.com/bignerdranch/Freddy) - by bignerdranch
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
+- [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
