@@ -56,3 +56,4 @@
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
 - [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
+- [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb

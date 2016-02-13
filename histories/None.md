@@ -56,10 +56,10 @@
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - by PaulSec
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
 - [git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - by mathieudutour
-- [clmystery](https://github.com/veltman/clmystery) - by veltman
 - [internals](https://github.com/rabbitmq/internals) - by rabbitmq
 - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
+- [clmystery](https://github.com/veltman/clmystery) - by veltman
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
 
 ### 2016-2
@@ -71,3 +71,4 @@
 - [awesome-computer-history](https://github.com/watson/awesome-computer-history) - by watson
 - [til](https://github.com/jbranchaud/til) - by jbranchaud
 - [hyperledger](https://github.com/hyperledger/hyperledger) - by hyperledger
+- [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - by praetorian-inc
