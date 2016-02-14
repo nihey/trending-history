@@ -20,3 +20,5 @@
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - by alexazhou
 - [dockers](https://github.com/iron-io/dockers) - by iron-io
 - [gophish](https://github.com/gophish/gophish) - by gophish
+- [mu](https://github.com/akkartik/mu) - by akkartik
+- [frankly](https://github.com/notwaldorf/frankly) - by notwaldorf

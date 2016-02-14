@@ -90,3 +90,4 @@
 - [kickmaterial](https://github.com/byoutline/kickmaterial) - by byoutline
 - [pippo](https://github.com/decebals/pippo) - by decebals
 - [morphy-toolbar](https://github.com/badoualy/morphy-toolbar) - by badoualy
+- [javacpp](https://github.com/bytedeco/javacpp) - by bytedeco

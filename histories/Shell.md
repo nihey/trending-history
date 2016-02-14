@@ -20,3 +20,4 @@
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - by jayphelps
 - [diff-so-fancy](https://github.com/stevemao/diff-so-fancy) - by stevemao
 - [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - by niieani
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - by so-fancy
