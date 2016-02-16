@@ -23,3 +23,4 @@
 
 ### 2016-2
 - [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect) - by Cleveroad
+- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong

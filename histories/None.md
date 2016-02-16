@@ -72,3 +72,4 @@
 - [til](https://github.com/jbranchaud/til) - by jbranchaud
 - [hyperledger](https://github.com/hyperledger/hyperledger) - by hyperledger
 - [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - by praetorian-inc
+- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - by dhamaniasad

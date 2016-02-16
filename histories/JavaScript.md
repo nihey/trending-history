@@ -145,11 +145,11 @@
 - [WordPressExpress](https://github.com/ramsaylanier/WordPressExpress) - by ramsaylanier
 - [The-cost-of-transpiling-es2015-in-2016](https://github.com/paulirish/The-cost-of-transpiling-es2015-in-2016) - by paulirish
 - [react-designer](https://github.com/fatiherikli/react-designer) - by fatiherikli
-- [curl-to-go](https://github.com/mholt/curl-to-go) - by mholt
 - [meatier](https://github.com/mattkrick/meatier) - by mattkrick
 - [socketcluster](https://github.com/SocketCluster/socketcluster) - by SocketCluster
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [hr-til](https://github.com/hashrocket/hr-til) - by hashrocket
+- [curl-to-go](https://github.com/mholt/curl-to-go) - by mholt
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io) - by deepstreamIO
 - [aphrodite](https://github.com/Khan/aphrodite) - by Khan
 - [himawari.js](https://github.com/jakiestfu/himawari.js) - by jakiestfu
@@ -157,3 +157,5 @@
 - [actionhero](https://github.com/evantahler/actionhero) - by evantahler
 - [kneden](https://github.com/marten-de-vries/kneden) - by marten-de-vries
 - [ntl](https://github.com/ruyadorno/ntl) - by ruyadorno
+- [sharer.js](https://github.com/ellisonleao/sharer.js) - by ellisonleao
+- [particles.js](https://github.com/VincentGarreau/particles.js) - by VincentGarreau

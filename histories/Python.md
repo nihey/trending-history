@@ -13,9 +13,9 @@
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
+- [lektor](https://github.com/lektor/lektor) - by lektor
 - [ispy](https://github.com/dellis23/ispy) - by dellis23
 - [see](https://github.com/F-Secure/see) - by F-Secure
-- [lektor](https://github.com/lektor/lektor) - by lektor
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -57,3 +57,4 @@
 - [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
+- [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn

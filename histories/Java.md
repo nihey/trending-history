@@ -72,8 +72,8 @@
 - [blockcanary](https://github.com/moduth/blockcanary) - by moduth
 - [app-theme-engine](https://github.com/afollestad/app-theme-engine) - by afollestad
 - [browser-android](https://github.com/brave/browser-android) - by brave
-- [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
+- [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
@@ -91,3 +91,5 @@
 - [pippo](https://github.com/decebals/pippo) - by decebals
 - [morphy-toolbar](https://github.com/badoualy/morphy-toolbar) - by badoualy
 - [javacpp](https://github.com/bytedeco/javacpp) - by bytedeco
+- [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
+- [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
