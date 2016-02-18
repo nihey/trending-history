@@ -93,3 +93,4 @@
 - [javacpp](https://github.com/bytedeco/javacpp) - by bytedeco
 - [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
 - [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
+- [arrow](https://github.com/apache/arrow) - by apache

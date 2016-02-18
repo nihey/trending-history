@@ -19,9 +19,9 @@
 - [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
 - [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
 - [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
-- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
 - [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng
 - [component-check](https://github.com/Mercateo/component-check) - by Mercateo
@@ -31,8 +31,8 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - by jlevy
 
 ### 2016-1
-- [linux-insides](https://github.com/0xAX/linux-insides) - by 0xAX
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
+- [linux-insides](https://github.com/0xAX/linux-insides) - by 0xAX
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - by amontalenti
 - [react-howto](https://github.com/petehunt/react-howto) - by petehunt
 - [vim-galore](https://github.com/mhinz/vim-galore) - by mhinz
@@ -45,21 +45,21 @@
 - [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) - by atConf
 - [frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - by bradfrost
 - [Malware](https://github.com/RPISEC/Malware) - by RPISEC
+- [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - by ValveSoftware
 - [blog](https://github.com/gf-rd/blog) - by gf-rd
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
-- [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - by ValveSoftware
-- [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
+- [dear-github](https://github.com/dear-github/dear-github) - by dear-github
 - [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) - by Juude
 - [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs
-- [dear-github](https://github.com/dear-github/dear-github) - by dear-github
+- [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
 - [thank-you-github](https://github.com/thank-you-github/thank-you-github) - by thank-you-github
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - by PaulSec
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
 - [git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - by mathieudutour
-- [internals](https://github.com/rabbitmq/internals) - by rabbitmq
+- [clmystery](https://github.com/veltman/clmystery) - by veltman
 - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
-- [clmystery](https://github.com/veltman/clmystery) - by veltman
+- [internals](https://github.com/rabbitmq/internals) - by rabbitmq
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
 
 ### 2016-2
@@ -73,3 +73,4 @@
 - [hyperledger](https://github.com/hyperledger/hyperledger) - by hyperledger
 - [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - by praetorian-inc
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - by dhamaniasad
+- [top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow) - by StijnMiroslav

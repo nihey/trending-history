@@ -58,3 +58,4 @@
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
+- [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
