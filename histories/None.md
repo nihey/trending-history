@@ -20,11 +20,11 @@
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
 - [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
-- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
 - [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
+- [component-check](https://github.com/Mercateo/component-check) - by Mercateo
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
 - [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng
-- [component-check](https://github.com/Mercateo/component-check) - by Mercateo
 - [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - by Leo-G
 - [datasharing](https://github.com/jtleek/datasharing) - by jtleek
 - [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - by jobbole
@@ -34,8 +34,8 @@
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
 - [linux-insides](https://github.com/0xAX/linux-insides) - by 0xAX
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - by amontalenti
-- [react-howto](https://github.com/petehunt/react-howto) - by petehunt
 - [vim-galore](https://github.com/mhinz/vim-galore) - by mhinz
+- [react-howto](https://github.com/petehunt/react-howto) - by petehunt
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - by braydie
 - [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
 - [css](https://github.com/grvcoelho/css) - by grvcoelho
@@ -46,25 +46,25 @@
 - [frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - by bradfrost
 - [Malware](https://github.com/RPISEC/Malware) - by RPISEC
 - [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - by ValveSoftware
-- [blog](https://github.com/gf-rd/blog) - by gf-rd
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
-- [dear-github](https://github.com/dear-github/dear-github) - by dear-github
-- [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) - by Juude
-- [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs
+- [blog](https://github.com/gf-rd/blog) - by gf-rd
 - [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
+- [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) - by Juude
+- [dear-github](https://github.com/dear-github/dear-github) - by dear-github
+- [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs
 - [thank-you-github](https://github.com/thank-you-github/thank-you-github) - by thank-you-github
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - by PaulSec
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
 - [git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - by mathieudutour
 - [clmystery](https://github.com/veltman/clmystery) - by veltman
+- [internals](https://github.com/rabbitmq/internals) - by rabbitmq
 - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
-- [internals](https://github.com/rabbitmq/internals) - by rabbitmq
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
 
 ### 2016-2
-- [lelylan](https://github.com/lelylan/lelylan) - by lelylan
 - [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe
+- [lelylan](https://github.com/lelylan/lelylan) - by lelylan
 - [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - by mgechev
 - [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples) - by bmkmanoj
@@ -74,3 +74,5 @@
 - [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - by praetorian-inc
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - by dhamaniasad
 - [top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow) - by StijnMiroslav
+- [badass](https://github.com/wardowsmcc/badass) - by wardowsmcc
+- [study-path](https://github.com/joebew42/study-path) - by joebew42

@@ -29,3 +29,4 @@
 - [serving](https://github.com/tensorflow/serving) - by tensorflow
 - [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
+- [node-lws](https://github.com/alexhultman/node-lws) - by alexhultman

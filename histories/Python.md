@@ -59,3 +59,6 @@
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
+- [hug](https://github.com/timothycrosley/hug) - by timothycrosley
+- [paperwork](https://github.com/jflesch/paperwork) - by jflesch
+- [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere

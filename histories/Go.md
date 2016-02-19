@@ -42,3 +42,4 @@
 - [go-git](https://github.com/src-d/go-git) - by src-d
 - [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
+- [wego](https://github.com/schachmat/wego) - by schachmat

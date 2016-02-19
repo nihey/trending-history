@@ -47,3 +47,4 @@
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
+- [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
