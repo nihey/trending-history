@@ -15,8 +15,8 @@
 - [osxlockdown](https://github.com/SummitRoute/osxlockdown) - by SummitRoute
 
 ### 2016-1
-- [micro](https://github.com/micro/micro) - by micro
 - [gom](https://github.com/rakyll/gom) - by rakyll
+- [micro](https://github.com/micro/micro) - by micro
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
@@ -24,8 +24,8 @@
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
 - [apex](https://github.com/apex/apex) - by apex
-- [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
+- [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
 - [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
@@ -43,3 +43,4 @@
 - [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [wego](https://github.com/schachmat/wego) - by schachmat
+- [gg](https://github.com/fogleman/gg) - by fogleman

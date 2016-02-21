@@ -14,3 +14,4 @@
 
 ### 2016-2
 - [scientist](https://github.com/daylerees/scientist) - by daylerees
+- [ImagicalMine](https://github.com/ImagicalMine/ImagicalMine) - by ImagicalMine

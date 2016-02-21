@@ -28,8 +28,8 @@
 ### 2016-1
 - [reverse](https://github.com/joelpx/reverse) - by joelpx
 - [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - by 0x5e
-- [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
 - [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
+- [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
 - [jasper-client](https://github.com/jasperproject/jasper-client) - by jasperproject
 - [android-plus-plus](https://github.com/webbju/android-plus-plus) - by webbju
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - by VerbalExpressions
@@ -37,14 +37,14 @@
 - [exxo](https://github.com/mbachry/exxo) - by mbachry
 - [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - by mshang
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - by prakhar1989
-- [paperless](https://github.com/danielquinn/paperless) - by danielquinn
 - [scapy](https://github.com/secdev/scapy) - by secdev
+- [paperless](https://github.com/danielquinn/paperless) - by danielquinn
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
 - [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
-- [borg](https://github.com/borgbackup/borg) - by borgbackup
 - [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
+- [borg](https://github.com/borgbackup/borg) - by borgbackup
 
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
@@ -62,3 +62,5 @@
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
+- [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
+- [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot

@@ -48,3 +48,4 @@
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
+- [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
