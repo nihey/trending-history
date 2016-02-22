@@ -15,3 +15,4 @@
 ### 2016-2
 - [scientist](https://github.com/daylerees/scientist) - by daylerees
 - [ImagicalMine](https://github.com/ImagicalMine/ImagicalMine) - by ImagicalMine
+- [laravel-hackathon-starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - by unicodeveloper

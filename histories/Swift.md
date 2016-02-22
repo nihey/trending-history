@@ -14,8 +14,8 @@
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - by hsavit1
 - [Whisper](https://github.com/hyperoslo/Whisper) - by hyperoslo
 - [WebShell](https://github.com/djyde/WebShell) - by djyde
-- [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - by DanisFabric
 - [Rainbow](https://github.com/onevcat/Rainbow) - by onevcat
+- [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - by DanisFabric
 - [VWInstantRun](https://github.com/wangshengjia/VWInstantRun) - by wangshengjia
 - [Then](https://github.com/devxoul/Then) - by devxoul
 
@@ -49,3 +49,6 @@
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
+- [vapor](https://github.com/qutheory/vapor) - by qutheory
+- [Swifton](https://github.com/necolt/Swifton) - by necolt
+- [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - by AfryMask
