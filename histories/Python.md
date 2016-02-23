@@ -64,3 +64,4 @@
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
+- [howdoi](https://github.com/gleitz/howdoi) - by gleitz

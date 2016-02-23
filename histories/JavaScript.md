@@ -174,3 +174,4 @@
 - [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) - by sqren
 - [react-production-starter](https://github.com/jaredpalmer/react-production-starter) - by jaredpalmer
 - [descartes](https://github.com/JonHMChan/descartes) - by JonHMChan
+- [draft-js](https://github.com/facebook/draft-js) - by facebook
