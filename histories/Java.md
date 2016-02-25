@@ -26,21 +26,21 @@
 - [Auro](https://github.com/architjn/Auro) - by architjn
 - [blade](https://github.com/biezhi/blade) - by biezhi
 - [Timeline-View](https://github.com/vipulasri/Timeline-View) - by vipulasri
-- [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) - by cundong
 - [HTextView](https://github.com/hanks-zyh/HTextView) - by hanks-zyh
+- [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) - by cundong
 - [easypermissions](https://github.com/googlesamples/easypermissions) - by googlesamples
+- [LikeAnimation](https://github.com/frogermcs/LikeAnimation) - by frogermcs
 - [ToggleDrawable](https://github.com/renaudcerrato/ToggleDrawable) - by renaudcerrato
 - [ViewAnimator](https://github.com/florent37/ViewAnimator) - by florent37
-- [LikeAnimation](https://github.com/frogermcs/LikeAnimation) - by frogermcs
 - [SimpleNews](https://github.com/liuling07/SimpleNews) - by liuling07
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
 - [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
 - [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
-- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
-- [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
-- [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
 - [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
+- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
+- [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
+- [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
@@ -62,8 +62,8 @@
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
-- [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
 - [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
+- [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
 - [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074
 - [sharp](https://github.com/Pixplicity/sharp) - by Pixplicity
@@ -75,8 +75,8 @@
 - [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
-- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
+- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
 
@@ -97,3 +97,5 @@
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
+- [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
+- [TimelineView](https://github.com/alorma/TimelineView) - by alorma
