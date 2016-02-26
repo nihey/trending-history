@@ -38,9 +38,9 @@
 - [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
 - [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
+- [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
 - [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
 - [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
-- [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
@@ -56,14 +56,14 @@
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
-- [Small](https://github.com/wequick/Small) - by wequick
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
+- [Small](https://github.com/wequick/Small) - by wequick
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
-- [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
+- [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
 - [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074
 - [sharp](https://github.com/Pixplicity/sharp) - by Pixplicity
@@ -81,9 +81,9 @@
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
 
 ### 2016-2
-- [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
 - [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
 - [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
+- [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
 - [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
 - [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
@@ -99,3 +99,5 @@
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [TimelineView](https://github.com/alorma/TimelineView) - by alorma
+- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
+- [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun

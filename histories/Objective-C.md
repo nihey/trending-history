@@ -27,3 +27,4 @@
 - [EarlGrey](https://github.com/google/EarlGrey) - by google
 - [LoveFreshBeen](https://github.com/ZhongTaoTian/LoveFreshBeen) - by ZhongTaoTian
 - [RealReachability](https://github.com/dustturtle/RealReachability) - by dustturtle
+- [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) - by Zepo

@@ -25,3 +25,4 @@
 - [Craft](https://github.com/fogleman/Craft) - by fogleman
 - [ds](https://github.com/php-ds/ds) - by php-ds
 - [htop](https://github.com/hishamhm/htop) - by hishamhm
+- [mousejack](https://github.com/RFStorm/mousejack) - by RFStorm
