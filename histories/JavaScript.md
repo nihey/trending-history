@@ -186,3 +186,4 @@
 - [keeweb](https://github.com/antelle/keeweb) - by antelle
 - [react-project](https://github.com/ryanflorence/react-project) - by ryanflorence
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - by geeeeeeeeek
+- [ava](https://github.com/sindresorhus/ava) - by sindresorhus

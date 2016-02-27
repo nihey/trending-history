@@ -22,3 +22,4 @@
 - [gophish](https://github.com/gophish/gophish) - by gophish
 - [mu](https://github.com/akkartik/mu) - by akkartik
 - [frankly](https://github.com/notwaldorf/frankly) - by notwaldorf
+- [Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - by tallesl

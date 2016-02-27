@@ -8,3 +8,4 @@
 - [github-backup](https://github.com/joeyh/github-backup) - by joeyh
 - [hython](https://github.com/mattgreen/hython) - by mattgreen
 - [lamdu](https://github.com/lamdu/lamdu) - by lamdu
+- [oden](https://github.com/oden-lang/oden) - by oden-lang

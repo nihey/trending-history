@@ -53,8 +53,8 @@
 - [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper
 - [maybe](https://github.com/p-e-w/maybe) - by p-e-w
 - [records](https://github.com/kennethreitz/records) - by kennethreitz
-- [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
+- [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
@@ -66,3 +66,4 @@
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
 - [sidomo](https://github.com/deepgram/sidomo) - by deepgram
+- [gdom](https://github.com/syrusakbary/gdom) - by syrusakbary

@@ -38,8 +38,8 @@
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
-- [Yep](https://github.com/CatchChat/Yep) - by CatchChat
 - [Freddy](https://github.com/bignerdranch/Freddy) - by bignerdranch
+- [Yep](https://github.com/CatchChat/Yep) - by CatchChat
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
@@ -54,3 +54,4 @@
 - [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - by AfryMask
 - [Kitura](https://github.com/IBM-Swift/Kitura) - by IBM-Swift
 - [Nuke](https://github.com/kean/Nuke) - by kean
+- [Validated](https://github.com/Ben-G/Validated) - by Ben-G
