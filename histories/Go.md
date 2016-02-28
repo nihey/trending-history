@@ -46,3 +46,4 @@
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
 - [spread](https://github.com/redspread/spread) - by redspread
+- [rqlite](https://github.com/otoolep/rqlite) - by otoolep

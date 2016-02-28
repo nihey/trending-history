@@ -26,12 +26,12 @@
 - [Auro](https://github.com/architjn/Auro) - by architjn
 - [blade](https://github.com/biezhi/blade) - by biezhi
 - [Timeline-View](https://github.com/vipulasri/Timeline-View) - by vipulasri
-- [HTextView](https://github.com/hanks-zyh/HTextView) - by hanks-zyh
 - [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) - by cundong
+- [HTextView](https://github.com/hanks-zyh/HTextView) - by hanks-zyh
 - [easypermissions](https://github.com/googlesamples/easypermissions) - by googlesamples
-- [LikeAnimation](https://github.com/frogermcs/LikeAnimation) - by frogermcs
 - [ToggleDrawable](https://github.com/renaudcerrato/ToggleDrawable) - by renaudcerrato
 - [ViewAnimator](https://github.com/florent37/ViewAnimator) - by florent37
+- [LikeAnimation](https://github.com/frogermcs/LikeAnimation) - by frogermcs
 - [SimpleNews](https://github.com/liuling07/SimpleNews) - by liuling07
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
@@ -39,11 +39,11 @@
 - [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
 - [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
-- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
 - [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
+- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
-- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
+- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
 - [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
@@ -55,11 +55,11 @@
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
-- [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [Small](https://github.com/wequick/Small) - by wequick
-- [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
+- [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
+- [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
@@ -81,9 +81,9 @@
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
 
 ### 2016-2
-- [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
-- [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
+- [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
+- [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
 - [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
 - [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
@@ -94,11 +94,13 @@
 - [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
 - [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
 - [arrow](https://github.com/apache/arrow) - by apache
-- [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
+- [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
+- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
+- [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan

@@ -32,3 +32,4 @@
 - [node-lws](https://github.com/alexhultman/node-lws) - by alexhultman
 - [realm-js](https://github.com/realm/realm-js) - by realm
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - by yahoo
+- [griddb_nosql](https://github.com/griddb/griddb_nosql) - by griddb

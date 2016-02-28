@@ -28,6 +28,7 @@ updated.
   - [Cuda](https://github.com/nihey/trending-history/blob/master/histories/Cuda.md)
   - [Elixir](https://github.com/nihey/trending-history/blob/master/histories/Elixir.md)
   - [Emacs Lisp](https://github.com/nihey/trending-history/blob/master/histories/Emacs Lisp.md)
+  - [Erlang](https://github.com/nihey/trending-history/blob/master/histories/Erlang.md)
   - [Go](https://github.com/nihey/trending-history/blob/master/histories/Go.md)
   - [Haskell](https://github.com/nihey/trending-history/blob/master/histories/Haskell.md)
   - [HTML](https://github.com/nihey/trending-history/blob/master/histories/HTML.md)
