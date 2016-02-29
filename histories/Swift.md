@@ -20,9 +20,9 @@
 - [Then](https://github.com/devxoul/Then) - by devxoul
 
 ### 2016-1
-- [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
 - [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [spi](https://github.com/guoc/spi) - by guoc
+- [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -55,3 +55,4 @@
 - [Kitura](https://github.com/IBM-Swift/Kitura) - by IBM-Swift
 - [Nuke](https://github.com/kean/Nuke) - by kean
 - [Validated](https://github.com/Ben-G/Validated) - by Ben-G
+- [EZText.Space](https://github.com/goktugyil/EZText.Space) - by goktugyil

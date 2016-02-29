@@ -33,3 +33,4 @@
 - [realm-js](https://github.com/realm/realm-js) - by realm
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - by yahoo
 - [griddb_nosql](https://github.com/griddb/griddb_nosql) - by griddb
+- [siga](https://github.com/lyle-nel/siga) - by lyle-nel
