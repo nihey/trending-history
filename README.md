@@ -49,8 +49,10 @@ updated.
   - [Ruby](https://github.com/nihey/trending-history/blob/master/histories/Ruby.md)
   - [Rust](https://github.com/nihey/trending-history/blob/master/histories/Rust.md)
   - [Scala](https://github.com/nihey/trending-history/blob/master/histories/Scala.md)
+  - [Scheme](https://github.com/nihey/trending-history/blob/master/histories/Scheme.md)
   - [Shell](https://github.com/nihey/trending-history/blob/master/histories/Shell.md)
   - [Swift](https://github.com/nihey/trending-history/blob/master/histories/Swift.md)
+  - [TeX](https://github.com/nihey/trending-history/blob/master/histories/TeX.md)
   - [TypeScript](https://github.com/nihey/trending-history/blob/master/histories/TypeScript.md)
 
 # How to update

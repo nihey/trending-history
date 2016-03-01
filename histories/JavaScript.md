@@ -87,10 +87,10 @@
 - [webpack-demos](https://github.com/ruanyf/webpack-demos) - by ruanyf
 - [x-ray](https://github.com/lapwinglabs/x-ray) - by lapwinglabs
 - [unique-gradient-generator](https://github.com/tiborsaas/unique-gradient-generator) - by tiborsaas
-- [medis](https://github.com/luin/medis) - by luin
 - [drift](https://github.com/imgix/drift) - by imgix
-- [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
+- [medis](https://github.com/luin/medis) - by luin
 - [lodash](https://github.com/lodash/lodash) - by lodash
+- [ChakraCore](https://github.com/Microsoft/ChakraCore) - by Microsoft
 - [echarts](https://github.com/ecomfe/echarts) - by ecomfe
 - [SVGnest](https://github.com/Jack000/SVGnest) - by Jack000
 - [react-web](https://github.com/taobaofed/react-web) - by taobaofed
@@ -99,8 +99,8 @@
 - [cms.js](https://github.com/cdmedia/cms.js) - by cdmedia
 - [serverless](https://github.com/serverless/serverless) - by serverless
 - [nativefier](https://github.com/jiahaog/nativefier) - by jiahaog
-- [browser-laptop](https://github.com/brave/browser-laptop) - by brave
 - [devtool](https://github.com/Jam3/devtool) - by Jam3
+- [browser-laptop](https://github.com/brave/browser-laptop) - by brave
 - [rtc-everywhere](https://github.com/contra/rtc-everywhere) - by contra
 - [layzr.js](https://github.com/callmecavs/layzr.js) - by callmecavs
 - [coworkers](https://github.com/tjmehta/coworkers) - by tjmehta
@@ -121,10 +121,10 @@
 - [You-Dont-Need-Lodash-Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) - by cht8687
 - [viewerjs](https://github.com/fengyuanchen/viewerjs) - by fengyuanchen
 - [whiteboard](https://github.com/mpociot/whiteboard) - by mpociot
-- [parse-server](https://github.com/ParsePlatform/parse-server) - by ParsePlatform
 - [medium-editor](https://github.com/yabwe/medium-editor) - by yabwe
-- [micro](https://github.com/zeithq/micro) - by zeithq
+- [parse-server](https://github.com/ParsePlatform/parse-server) - by ParsePlatform
 - [npm-install-webpack-plugin](https://github.com/ericclemmons/npm-install-webpack-plugin) - by ericclemmons
+- [micro](https://github.com/zeithq/micro) - by zeithq
 
 ### 2016-2
 - [Brewr-Site](https://github.com/thebillkidy/Brewr-Site) - by thebillkidy
@@ -135,8 +135,8 @@
 - [mjml](https://github.com/mjmlio/mjml) - by mjmlio
 - [vorpal](https://github.com/dthree/vorpal) - by dthree
 - [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - by rafaelrinaldi
-- [instadate](https://github.com/Teamweek/instadate) - by Teamweek
 - [samsara](https://github.com/dmvaldman/samsara) - by dmvaldman
+- [instadate](https://github.com/Teamweek/instadate) - by Teamweek
 - [WebpackTutorial](https://github.com/AriaFallah/WebpackTutorial) - by AriaFallah
 - [jQuery.sheet](https://github.com/Spreadsheets/jQuery.sheet) - by Spreadsheets
 - [Packages](https://github.com/sublimehq/Packages) - by sublimehq
@@ -147,23 +147,23 @@
 - [react-designer](https://github.com/fatiherikli/react-designer) - by fatiherikli
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io) - by deepstreamIO
 - [meatier](https://github.com/mattkrick/meatier) - by mattkrick
+- [socketcluster](https://github.com/SocketCluster/socketcluster) - by SocketCluster
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [hr-til](https://github.com/hashrocket/hr-til) - by hashrocket
 - [curl-to-go](https://github.com/mholt/curl-to-go) - by mholt
-- [socketcluster](https://github.com/SocketCluster/socketcluster) - by SocketCluster
 - [aphrodite](https://github.com/Khan/aphrodite) - by Khan
 - [himawari.js](https://github.com/jakiestfu/himawari.js) - by jakiestfu
 - [actionhero](https://github.com/evantahler/actionhero) - by evantahler
 - [teletraan](https://github.com/pinterest/teletraan) - by pinterest
-- [kneden](https://github.com/marten-de-vries/kneden) - by marten-de-vries
 - [ntl](https://github.com/ruyadorno/ntl) - by ruyadorno
+- [kneden](https://github.com/marten-de-vries/kneden) - by marten-de-vries
 - [particles.js](https://github.com/VincentGarreau/particles.js) - by VincentGarreau
 - [sharer.js](https://github.com/ellisonleao/sharer.js) - by ellisonleao
-- [bricks.js](https://github.com/callmecavs/bricks.js) - by callmecavs
 - [atellier](https://github.com/scup/atellier) - by scup
+- [bricks.js](https://github.com/callmecavs/bricks.js) - by callmecavs
 - [mern-starter](https://github.com/Hashnode/mern-starter) - by Hashnode
-- [autotrack](https://github.com/googleanalytics/autotrack) - by googleanalytics
 - [scientist.js](https://github.com/ziyasal/scientist.js) - by ziyasal
+- [autotrack](https://github.com/googleanalytics/autotrack) - by googleanalytics
 - [claudia](https://github.com/claudiajs/claudia) - by claudiajs
 - [okayNav](https://github.com/VPenkov/okayNav) - by VPenkov
 - [Abricotine](https://github.com/brrd/Abricotine) - by brrd
@@ -190,3 +190,8 @@
 - [mobx](https://github.com/mobxjs/mobx) - by mobxjs
 - [lave](https://github.com/jed/lave) - by jed
 - [gifi](https://github.com/vdemedes/gifi) - by vdemedes
+
+### 2016-3
+- [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - by xiekw2010
+- [p2pspider](https://github.com/Fuck-You-GFW/p2pspider) - by Fuck-You-GFW
+- [react-armor](https://github.com/elierotenberg/react-armor) - by elierotenberg
