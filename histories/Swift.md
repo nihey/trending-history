@@ -14,15 +14,15 @@
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - by hsavit1
 - [Whisper](https://github.com/hyperoslo/Whisper) - by hyperoslo
 - [WebShell](https://github.com/djyde/WebShell) - by djyde
-- [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - by DanisFabric
 - [Rainbow](https://github.com/onevcat/Rainbow) - by onevcat
+- [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - by DanisFabric
 - [VWInstantRun](https://github.com/wangshengjia/VWInstantRun) - by wangshengjia
 - [Then](https://github.com/devxoul/Then) - by devxoul
 
 ### 2016-1
-- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
-- [spi](https://github.com/guoc/spi) - by guoc
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
+- [spi](https://github.com/guoc/spi) - by guoc
+- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -33,13 +33,13 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
-- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
+- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
-- [Freddy](https://github.com/bignerdranch/Freddy) - by bignerdranch
 - [Yep](https://github.com/CatchChat/Yep) - by CatchChat
+- [Freddy](https://github.com/bignerdranch/Freddy) - by bignerdranch
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
@@ -59,3 +59,4 @@
 
 ### 2016-3
 - [BTree](https://github.com/lorentey/BTree) - by lorentey
+- [TVOSSlideViewController](https://github.com/movielala/TVOSSlideViewController) - by movielala

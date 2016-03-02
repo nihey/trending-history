@@ -58,8 +58,8 @@
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [Small](https://github.com/wequick/Small) - by wequick
-- [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
+- [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
@@ -72,8 +72,8 @@
 - [blockcanary](https://github.com/moduth/blockcanary) - by moduth
 - [app-theme-engine](https://github.com/afollestad/app-theme-engine) - by afollestad
 - [browser-android](https://github.com/brave/browser-android) - by brave
-- [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
+- [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
@@ -88,8 +88,8 @@
 - [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
 - [kickmaterial](https://github.com/byoutline/kickmaterial) - by byoutline
-- [pippo](https://github.com/decebals/pippo) - by decebals
 - [morphy-toolbar](https://github.com/badoualy/morphy-toolbar) - by badoualy
+- [pippo](https://github.com/decebals/pippo) - by decebals
 - [javacpp](https://github.com/bytedeco/javacpp) - by bytedeco
 - [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
 - [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
@@ -97,8 +97,8 @@
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
-- [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
+- [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
@@ -107,3 +107,7 @@
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 - [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
+
+### 2016-3
+- [OuNews](https://github.com/oubowu/OuNews) - by oubowu
+- [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen

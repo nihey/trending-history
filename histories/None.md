@@ -76,3 +76,8 @@
 - [top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow) - by StijnMiroslav
 - [badass](https://github.com/wardowsmcc/badass) - by wardowsmcc
 - [study-path](https://github.com/joebew42/study-path) - by joebew42
+
+### 2016-3
+- [React-Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) - by ReactjsProgram
+- [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - by ReactjsProgram
+- [react-makes-you-sad](https://github.com/gaearon/react-makes-you-sad) - by gaearon
