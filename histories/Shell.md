@@ -22,3 +22,6 @@
 - [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - by niieani
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - by so-fancy
 - [wttr.in](https://github.com/chubin/wttr.in) - by chubin
+
+### 2016-3
+- [bash-sensible](https://github.com/mrzool/bash-sensible) - by mrzool

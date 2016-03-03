@@ -34,3 +34,6 @@
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - by yahoo
 - [griddb_nosql](https://github.com/griddb/griddb_nosql) - by griddb
 - [siga](https://github.com/lyle-nel/siga) - by lyle-nel
+
+### 2016-3
+- [rr](https://github.com/mozilla/rr) - by mozilla
