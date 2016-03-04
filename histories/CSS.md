@@ -26,3 +26,6 @@
 - [jenkins-neo-theme](https://github.com/aarjithn/jenkins-neo-theme) - by aarjithn
 - [cssco](https://github.com/we-are-next/cssco) - by we-are-next
 - [lavalamp.js](https://github.com/jgthms/lavalamp.js) - by jgthms
+
+### 2016-3
+- [hamburgers](https://github.com/jonsuh/hamburgers) - by jonsuh

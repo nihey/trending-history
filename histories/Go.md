@@ -47,3 +47,6 @@
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
 - [spread](https://github.com/redspread/spread) - by redspread
 - [rqlite](https://github.com/otoolep/rqlite) - by otoolep
+
+### 2016-3
+- [cpustat](https://github.com/uber-common/cpustat) - by uber-common

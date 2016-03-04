@@ -54,6 +54,7 @@ updated.
   - [Swift](https://github.com/nihey/trending-history/blob/master/histories/Swift.md)
   - [TeX](https://github.com/nihey/trending-history/blob/master/histories/TeX.md)
   - [TypeScript](https://github.com/nihey/trending-history/blob/master/histories/TypeScript.md)
+  - [Vue](https://github.com/nihey/trending-history/blob/master/histories/Vue.md)
 
 # How to update
 Just run `npm run update` and all Markdown files will be updated.

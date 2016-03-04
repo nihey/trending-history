@@ -8,3 +8,6 @@
 - [angular-next-starter-kit](https://github.com/alamgird/angular-next-starter-kit) - by alamgird
 - [searchkit](https://github.com/searchkit/searchkit) - by searchkit
 - [superpowers](https://github.com/superpowers/superpowers) - by superpowers
+
+### 2016-3
+- [vscode-go](https://github.com/Microsoft/vscode-go) - by Microsoft

@@ -196,3 +196,4 @@
 - [p2pspider](https://github.com/Fuck-You-GFW/p2pspider) - by Fuck-You-GFW
 - [react-armor](https://github.com/elierotenberg/react-armor) - by elierotenberg
 - [Hilo](https://github.com/hiloteam/Hilo) - by hiloteam
+- [socrates](https://github.com/matthewmueller/socrates) - by matthewmueller

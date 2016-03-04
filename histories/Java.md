@@ -111,3 +111,4 @@
 ### 2016-3
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
 - [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
+- [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin

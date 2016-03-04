@@ -33,8 +33,8 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
-- [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
 - [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
+- [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
@@ -49,8 +49,8 @@
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
-- [vapor](https://github.com/qutheory/vapor) - by qutheory
 - [Swifton](https://github.com/necolt/Swifton) - by necolt
+- [vapor](https://github.com/qutheory/vapor) - by qutheory
 - [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - by AfryMask
 - [Kitura](https://github.com/IBM-Swift/Kitura) - by IBM-Swift
 - [Nuke](https://github.com/kean/Nuke) - by kean
@@ -61,3 +61,4 @@
 - [BTree](https://github.com/lorentey/BTree) - by lorentey
 - [TVOSSlideViewController](https://github.com/movielala/TVOSSlideViewController) - by movielala
 - [Advance](https://github.com/storehouse/Advance) - by storehouse
+- [TSWeChat](https://github.com/hilen/TSWeChat) - by hilen
