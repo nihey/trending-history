@@ -30,3 +30,6 @@
 
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
+- [luna](https://github.com/tj/luna) - by tj
+- [rappel](https://github.com/yrp604/rappel) - by yrp604
+- [emojicode](https://github.com/emojicode/emojicode) - by emojicode
