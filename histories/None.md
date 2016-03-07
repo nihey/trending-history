@@ -56,10 +56,10 @@
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - by PaulSec
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
 - [git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - by mathieudutour
-- [clmystery](https://github.com/veltman/clmystery) - by veltman
 - [internals](https://github.com/rabbitmq/internals) - by rabbitmq
 - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
+- [clmystery](https://github.com/veltman/clmystery) - by veltman
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
 
 ### 2016-2
@@ -84,3 +84,5 @@
 - [awesome-github](https://github.com/AntBranch/awesome-github) - by AntBranch
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - by kakuilan
 - [awesome-charting](https://github.com/zingchart/awesome-charting) - by zingchart
+- [awesome-bash](https://github.com/awesome-lists/awesome-bash) - by awesome-lists
+- [dojo_rules](https://github.com/deadlyvipers/dojo_rules) - by deadlyvipers

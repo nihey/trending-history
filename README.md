@@ -29,6 +29,7 @@ updated.
   - [Elixir](https://github.com/nihey/trending-history/blob/master/histories/Elixir.md)
   - [Emacs Lisp](https://github.com/nihey/trending-history/blob/master/histories/Emacs Lisp.md)
   - [Erlang](https://github.com/nihey/trending-history/blob/master/histories/Erlang.md)
+  - [Frege](https://github.com/nihey/trending-history/blob/master/histories/Frege.md)
   - [Go](https://github.com/nihey/trending-history/blob/master/histories/Go.md)
   - [Haskell](https://github.com/nihey/trending-history/blob/master/histories/Haskell.md)
   - [HTML](https://github.com/nihey/trending-history/blob/master/histories/HTML.md)
