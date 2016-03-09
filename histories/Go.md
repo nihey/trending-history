@@ -15,8 +15,8 @@
 - [osxlockdown](https://github.com/SummitRoute/osxlockdown) - by SummitRoute
 
 ### 2016-1
-- [gom](https://github.com/rakyll/gom) - by rakyll
 - [micro](https://github.com/micro/micro) - by micro
+- [gom](https://github.com/rakyll/gom) - by rakyll
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
@@ -28,8 +28,8 @@
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
-- [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
 - [dlite](https://github.com/nlf/dlite) - by nlf
+- [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
 - [seesaw](https://github.com/google/seesaw) - by google
 
 ### 2016-2
@@ -51,3 +51,4 @@
 ### 2016-3
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
+- [skizze](https://github.com/skizzehq/skizze) - by skizzehq

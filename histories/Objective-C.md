@@ -18,8 +18,8 @@
 - [Miku](https://github.com/poboke/Miku) - by poboke
 - [SMSNinja](https://github.com/iosre/SMSNinja) - by iosre
 - [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) - by ChenYilong
-- [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) - by matmartinez
 - [Knuff](https://github.com/KnuffApp/Knuff) - by KnuffApp
+- [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) - by matmartinez
 
 ### 2016-2
 - [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect) - by Cleveroad
@@ -32,3 +32,5 @@
 ### 2016-3
 - [GitUp](https://github.com/git-up/GitUp) - by git-up
 - [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - by runner365
+- [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - by renzifeng
+- [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - by johnno1962

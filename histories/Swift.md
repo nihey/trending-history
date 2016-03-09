@@ -62,3 +62,4 @@
 - [TVOSSlideViewController](https://github.com/movielala/TVOSSlideViewController) - by movielala
 - [Advance](https://github.com/storehouse/Advance) - by storehouse
 - [TSWeChat](https://github.com/hilen/TSWeChat) - by hilen
+- [Stevia](https://github.com/s4cha/Stevia) - by s4cha
