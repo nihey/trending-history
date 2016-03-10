@@ -21,8 +21,8 @@
 - [tbox](https://github.com/waruqi/tbox) - by waruqi
 
 ### 2016-2
-- [how2heap](https://github.com/shellphish/how2heap) - by shellphish
 - [Craft](https://github.com/fogleman/Craft) - by fogleman
+- [how2heap](https://github.com/shellphish/how2heap) - by shellphish
 - [ds](https://github.com/php-ds/ds) - by php-ds
 - [htop](https://github.com/hishamhm/htop) - by hishamhm
 - [mousejack](https://github.com/RFStorm/mousejack) - by RFStorm
@@ -33,3 +33,4 @@
 - [luna](https://github.com/tj/luna) - by tj
 - [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [emojicode](https://github.com/emojicode/emojicode) - by emojicode
+- [jo](https://github.com/jpmens/jo) - by jpmens

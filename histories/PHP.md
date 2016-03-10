@@ -17,3 +17,6 @@
 - [ImagicalMine](https://github.com/ImagicalMine/ImagicalMine) - by ImagicalMine
 - [laravel-hackathon-starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - by unicodeveloper
 - [php-terminal-gameboy-emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - by gabrielrcouto
+
+### 2016-3
+- [Attendize](https://github.com/Attendize/Attendize) - by Attendize

@@ -28,8 +28,8 @@
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
-- [dlite](https://github.com/nlf/dlite) - by nlf
 - [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
+- [dlite](https://github.com/nlf/dlite) - by nlf
 - [seesaw](https://github.com/google/seesaw) - by google
 
 ### 2016-2
@@ -52,3 +52,5 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
+- [apns2](https://github.com/sideshow/apns2) - by sideshow
+- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta

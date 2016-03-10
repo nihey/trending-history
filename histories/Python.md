@@ -75,3 +75,4 @@
 - [public_drown_scanner](https://github.com/nimia/public_drown_scanner) - by nimia
 - [image-analogies](https://github.com/awentzonline/image-analogies) - by awentzonline
 - [statuspage](https://github.com/pyupio/statuspage) - by pyupio
+- [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc

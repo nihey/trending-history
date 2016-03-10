@@ -17,10 +17,10 @@
 - [FabDialogMorph](https://github.com/hujiaweibujidao/FabDialogMorph) - by hujiaweibujidao
 - [StarWars.Android](https://github.com/Yalantis/StarWars.Android) - by Yalantis
 - [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) - by tangqi92
-- [anthelion](https://github.com/yahoo/anthelion) - by yahoo
-- [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
-- [apollo](https://github.com/spotify/apollo) - by spotify
 - [android-design-template](https://github.com/andreasschrade/android-design-template) - by andreasschrade
+- [anthelion](https://github.com/yahoo/anthelion) - by yahoo
+- [apollo](https://github.com/spotify/apollo) - by spotify
+- [AnimTextView](https://github.com/z56402344/AnimTextView) - by z56402344
 - [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - by taoliuh
 - [sketches-core](https://github.com/DataSketches/sketches-core) - by DataSketches
 - [Auro](https://github.com/architjn/Auro) - by architjn
@@ -36,17 +36,17 @@
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
 - [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
-- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
-- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
 - [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
+- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
+- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
-- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
+- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
-- [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
+- [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [MathView](https://github.com/kexanie/MathView) - by kexanie
 
 ### 2016-1
@@ -62,8 +62,8 @@
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
-- [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
 - [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
+- [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
 - [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074
 - [sharp](https://github.com/Pixplicity/sharp) - by Pixplicity
@@ -72,18 +72,18 @@
 - [blockcanary](https://github.com/moduth/blockcanary) - by moduth
 - [app-theme-engine](https://github.com/afollestad/app-theme-engine) - by afollestad
 - [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
-- [browser-android](https://github.com/brave/browser-android) - by brave
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
+- [browser-android](https://github.com/brave/browser-android) - by brave
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
-- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
+- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
 
 ### 2016-2
-- [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
-- [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
+- [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
+- [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
 - [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
 - [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
@@ -94,16 +94,16 @@
 - [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
 - [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
 - [arrow](https://github.com/apache/arrow) - by apache
-- [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
+- [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
-- [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [TimelineView](https://github.com/alorma/TimelineView) - by alorma
+- [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
-- [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
 - [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
+- [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 - [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
@@ -115,3 +115,4 @@
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
 - [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
 - [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
+- [che](https://github.com/eclipse/che) - by eclipse
