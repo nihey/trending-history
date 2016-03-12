@@ -105,8 +105,8 @@
 - [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
-- [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
+- [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 
 ### 2016-3
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
@@ -116,3 +116,4 @@
 - [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
 - [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [che](https://github.com/eclipse/che) - by eclipse
+- [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke

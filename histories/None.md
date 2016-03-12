@@ -86,3 +86,4 @@
 - [awesome-charting](https://github.com/zingchart/awesome-charting) - by zingchart
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - by awesome-lists
 - [dojo_rules](https://github.com/deadlyvipers/dojo_rules) - by deadlyvipers
+- [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - by ChromeDevTools

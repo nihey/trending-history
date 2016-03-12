@@ -54,3 +54,4 @@
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
 - [apns2](https://github.com/sideshow/apns2) - by sideshow
 - [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
+- [caddy](https://github.com/mholt/caddy) - by mholt
