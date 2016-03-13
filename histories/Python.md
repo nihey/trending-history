@@ -42,9 +42,9 @@
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
+- [borg](https://github.com/borgbackup/borg) - by borgbackup
 - [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
 - [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
-- [borg](https://github.com/borgbackup/borg) - by borgbackup
 
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
@@ -60,8 +60,8 @@
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
-- [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
 - [paperwork](https://github.com/jflesch/paperwork) - by jflesch
+- [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
@@ -77,3 +77,4 @@
 - [statuspage](https://github.com/pyupio/statuspage) - by pyupio
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis

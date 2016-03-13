@@ -18,3 +18,4 @@
 ### 2016-3
 - [reality](https://github.com/molybdenum-99/reality) - by molybdenum-99
 - [geon.github.com](https://github.com/geon/geon.github.com) - by geon
+- [duckrails](https://github.com/iridakos/duckrails) - by iridakos

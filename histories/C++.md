@@ -39,3 +39,6 @@
 - [rr](https://github.com/mozilla/rr) - by mozilla
 - [xcbuild](https://github.com/facebook/xcbuild) - by facebook
 - [mame](https://github.com/mamedev/mame) - by mamedev
+- [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - by Croteam-official
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
+- [electron](https://github.com/atom/electron) - by atom
