@@ -42,3 +42,4 @@
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - by Croteam-official
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
 - [electron](https://github.com/atom/electron) - by atom
+- [easyLambda](https://github.com/haptork/easyLambda) - by haptork

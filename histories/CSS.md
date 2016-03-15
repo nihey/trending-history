@@ -17,8 +17,8 @@
 - [jstips](https://github.com/loverajoel/jstips) - by loverajoel
 - [hint.css](https://github.com/chinchang/hint.css) - by chinchang
 - [goad](https://github.com/gophergala2016/goad) - by gophergala2016
-- [voxel.css](https://github.com/HunterLarco/voxel.css) - by HunterLarco
 - [bulma](https://github.com/jgthms/bulma) - by jgthms
+- [voxel.css](https://github.com/HunterLarco/voxel.css) - by HunterLarco
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - by sahat
 - [openblog](https://github.com/mateogianolio/openblog) - by mateogianolio
 
@@ -30,3 +30,4 @@
 ### 2016-3
 - [hamburgers](https://github.com/jonsuh/hamburgers) - by jonsuh
 - [balloon.css](https://github.com/kazzkiq/balloon.css) - by kazzkiq
+- [amplify](https://github.com/ageitgey/amplify) - by ageitgey

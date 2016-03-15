@@ -34,3 +34,5 @@
 - [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - by runner365
 - [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - by renzifeng
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - by johnno1962
+- [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - by HarrisHan
+- [EZAudio](https://github.com/syedhali/EZAudio) - by syedhali
