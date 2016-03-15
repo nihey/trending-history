@@ -13,9 +13,9 @@
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
+- [see](https://github.com/F-Secure/see) - by F-Secure
 - [lektor](https://github.com/lektor/lektor) - by lektor
 - [ispy](https://github.com/dellis23/ispy) - by dellis23
-- [see](https://github.com/F-Secure/see) - by F-Secure
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -28,8 +28,8 @@
 ### 2016-1
 - [reverse](https://github.com/joelpx/reverse) - by joelpx
 - [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - by 0x5e
-- [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
 - [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
+- [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
 - [jasper-client](https://github.com/jasperproject/jasper-client) - by jasperproject
 - [android-plus-plus](https://github.com/webbju/android-plus-plus) - by webbju
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - by VerbalExpressions
@@ -42,9 +42,9 @@
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
-- [borg](https://github.com/borgbackup/borg) - by borgbackup
 - [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
 - [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
+- [borg](https://github.com/borgbackup/borg) - by borgbackup
 
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
@@ -78,3 +78,6 @@
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
+- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
+- [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
+- [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ

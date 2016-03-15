@@ -43,8 +43,8 @@
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
-- [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
+- [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
@@ -64,3 +64,4 @@
 - [TSWeChat](https://github.com/hilen/TSWeChat) - by hilen
 - [Stevia](https://github.com/s4cha/Stevia) - by s4cha
 - [navigation-stack](https://github.com/Ramotion/navigation-stack) - by Ramotion
+- [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - by fruitcoder

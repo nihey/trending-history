@@ -22,9 +22,9 @@
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
 - [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
+- [component-check](https://github.com/Mercateo/component-check) - by Mercateo
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
 - [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng
-- [component-check](https://github.com/Mercateo/component-check) - by Mercateo
 - [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - by Leo-G
 - [datasharing](https://github.com/jtleek/datasharing) - by jtleek
 - [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - by jobbole
@@ -34,10 +34,10 @@
 - [linux-insides](https://github.com/0xAX/linux-insides) - by 0xAX
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - by amontalenti
-- [vim-galore](https://github.com/mhinz/vim-galore) - by mhinz
 - [react-howto](https://github.com/petehunt/react-howto) - by petehunt
-- [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
+- [vim-galore](https://github.com/mhinz/vim-galore) - by mhinz
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - by braydie
+- [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
 - [css](https://github.com/grvcoelho/css) - by grvcoelho
 - [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) - by rdpeng
 - [easy-application](https://github.com/j-delaney/easy-application) - by j-delaney
@@ -46,8 +46,8 @@
 - [frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - by bradfrost
 - [Malware](https://github.com/RPISEC/Malware) - by RPISEC
 - [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - by ValveSoftware
-- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
 - [blog](https://github.com/gf-rd/blog) - by gf-rd
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
 - [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
 - [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs
 - [dear-github](https://github.com/dear-github/dear-github) - by dear-github
@@ -87,3 +87,4 @@
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - by awesome-lists
 - [dojo_rules](https://github.com/deadlyvipers/dojo_rules) - by deadlyvipers
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - by ChromeDevTools
+- [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - by easychen
