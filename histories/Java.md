@@ -117,3 +117,4 @@
 - [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
+- [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
