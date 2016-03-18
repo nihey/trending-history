@@ -37,3 +37,4 @@
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
 - [Collections-C](https://github.com/srdja/Collections-C) - by srdja
+- [darknet](https://github.com/pjreddie/darknet) - by pjreddie

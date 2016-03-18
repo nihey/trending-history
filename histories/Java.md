@@ -30,20 +30,20 @@
 - [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) - by cundong
 - [easypermissions](https://github.com/googlesamples/easypermissions) - by googlesamples
 - [LikeAnimation](https://github.com/frogermcs/LikeAnimation) - by frogermcs
-- [ToggleDrawable](https://github.com/renaudcerrato/ToggleDrawable) - by renaudcerrato
 - [ViewAnimator](https://github.com/florent37/ViewAnimator) - by florent37
+- [ToggleDrawable](https://github.com/renaudcerrato/ToggleDrawable) - by renaudcerrato
 - [SimpleNews](https://github.com/liuling07/SimpleNews) - by liuling07
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
 - [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
 - [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
 - [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
-- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
-- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
-- [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
-- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
+- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
+- [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
+- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
+- [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
 - [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
 - [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
@@ -51,19 +51,19 @@
 
 ### 2016-1
 - [Slice](https://github.com/mthli/Slice) - by mthli
-- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
+- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
-- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [Small](https://github.com/wequick/Small) - by wequick
+- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
-- [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
+- [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
 - [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074
 - [sharp](https://github.com/Pixplicity/sharp) - by Pixplicity
@@ -75,15 +75,15 @@
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [browser-android](https://github.com/brave/browser-android) - by brave
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
-- [GT](https://github.com/TencentOpen/GT) - by TencentOpen
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
+- [GT](https://github.com/TencentOpen/GT) - by TencentOpen
 - [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
 
 ### 2016-2
-- [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
-- [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
 - [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
+- [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
+- [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
 - [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
 - [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
@@ -99,14 +99,14 @@
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
 - [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
-- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
+- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
 - [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
-- [android-classyshark](https://github.com/google/android-classyshark) - by google
 - [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
+- [android-classyshark](https://github.com/google/android-classyshark) - by google
 
 ### 2016-3
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
@@ -118,3 +118,5 @@
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
+- [BottomBar](https://github.com/roughike/BottomBar) - by roughike
+- [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
