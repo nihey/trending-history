@@ -20,3 +20,5 @@
 
 ### 2016-3
 - [Attendize](https://github.com/Attendize/Attendize) - by Attendize
+- [php-pm](https://github.com/php-pm/php-pm) - by php-pm
+- [Front-end-tutorial](https://github.com/AutumnsWind/Front-end-tutorial) - by AutumnsWind

@@ -55,9 +55,9 @@
 - [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
-- [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
-- [Small](https://github.com/wequick/Small) - by wequick
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
+- [Small](https://github.com/wequick/Small) - by wequick
+- [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
@@ -97,13 +97,13 @@
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
-- [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
-- [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
+- [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [Rosie](https://github.com/Karumi/Rosie) - by Karumi
+- [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
-- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
+- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 - [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
@@ -120,3 +120,6 @@
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
 - [BottomBar](https://github.com/roughike/BottomBar) - by roughike
 - [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
+- [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
+- [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
+- [carouselview](https://github.com/sayyam/carouselview) - by sayyam
