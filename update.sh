@@ -3,7 +3,7 @@ set -e
 
 # Update local repository for any possible updates
 git fetch
-git rebase --autostash
+git rebase
 
 # Fetch & Update Trending History
 npm run update
