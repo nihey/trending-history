@@ -67,3 +67,4 @@
 - [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - by fruitcoder
 - [PeekPop](https://github.com/marmelroy/PeekPop) - by marmelroy
 - [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
+- [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - by BoltsFramework

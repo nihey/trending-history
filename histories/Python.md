@@ -28,8 +28,8 @@
 ### 2016-1
 - [reverse](https://github.com/joelpx/reverse) - by joelpx
 - [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - by 0x5e
-- [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
 - [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
+- [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
 - [jasper-client](https://github.com/jasperproject/jasper-client) - by jasperproject
 - [android-plus-plus](https://github.com/webbju/android-plus-plus) - by webbju
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - by VerbalExpressions
@@ -53,8 +53,8 @@
 - [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper
 - [maybe](https://github.com/p-e-w/maybe) - by p-e-w
 - [records](https://github.com/kennethreitz/records) - by kennethreitz
-- [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
+- [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
@@ -83,3 +83,4 @@
 - [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
+- [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4

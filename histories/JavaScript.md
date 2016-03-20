@@ -227,3 +227,4 @@
 - [macaca-client](https://github.com/macacajs/macaca-client) - by macacajs
 - [cachecloud](https://github.com/sohutv/cachecloud) - by sohutv
 - [platform](https://github.com/mattermost/platform) - by mattermost
+- [miaou](https://github.com/Canop/miaou) - by Canop
