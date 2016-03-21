@@ -9,8 +9,8 @@
 - [git-appraise](https://github.com/google/git-appraise) - by google
 - [gizmo](https://github.com/NYTimes/gizmo) - by NYTimes
 - [containerd](https://github.com/docker/containerd) - by docker
-- [hydra](https://github.com/ory-am/hydra) - by ory-am
 - [example](https://github.com/golang/example) - by golang
+- [hydra](https://github.com/ory-am/hydra) - by ory-am
 - [skizze](https://github.com/seiflotfy/skizze) - by seiflotfy
 - [osxlockdown](https://github.com/SummitRoute/osxlockdown) - by SummitRoute
 
@@ -19,8 +19,8 @@
 - [micro](https://github.com/micro/micro) - by micro
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
-- [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
+- [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
 - [apex](https://github.com/apex/apex) - by apex
@@ -35,13 +35,13 @@
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
+- [gogs](https://github.com/gogits/gogs) - by gogits
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
-- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
-- [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [go-git](https://github.com/src-d/go-git) - by src-d
+- [overseer](https://github.com/jpillora/overseer) - by jpillora
+- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -58,3 +58,5 @@
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
 - [acmewrapper](https://github.com/dkumor/acmewrapper) - by dkumor
+- [lion](https://github.com/celrenheit/lion) - by celrenheit
+- [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io

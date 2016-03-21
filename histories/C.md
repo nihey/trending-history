@@ -38,3 +38,5 @@
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
 - [Collections-C](https://github.com/srdja/Collections-C) - by srdja
 - [darknet](https://github.com/pjreddie/darknet) - by pjreddie
+- [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
+- [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007

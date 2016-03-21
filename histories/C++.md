@@ -27,8 +27,8 @@
 - [ion](https://github.com/google/ion) - by google
 - [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
 - [serving](https://github.com/tensorflow/serving) - by tensorflow
-- [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
+- [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [node-lws](https://github.com/alexhultman/node-lws) - by alexhultman
 - [realm-js](https://github.com/realm/realm-js) - by realm
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - by yahoo
@@ -43,3 +43,5 @@
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
 - [electron](https://github.com/atom/electron) - by atom
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
+- [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
+- [rhine](https://github.com/artagnon/rhine) - by artagnon

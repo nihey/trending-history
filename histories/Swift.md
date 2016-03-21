@@ -45,8 +45,8 @@
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
-- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
+- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
@@ -68,3 +68,4 @@
 - [PeekPop](https://github.com/marmelroy/PeekPop) - by marmelroy
 - [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
 - [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - by BoltsFramework
+- [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
