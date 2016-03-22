@@ -105,16 +105,16 @@
 - [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
-- [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
+- [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 
 ### 2016-3
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
 - [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
-- [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
+- [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
@@ -124,3 +124,6 @@
 - [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
 - [binnavi](https://github.com/google/binnavi) - by google
+- [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
+- [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
+- [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter

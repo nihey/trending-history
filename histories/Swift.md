@@ -14,15 +14,15 @@
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - by hsavit1
 - [Whisper](https://github.com/hyperoslo/Whisper) - by hyperoslo
 - [WebShell](https://github.com/djyde/WebShell) - by djyde
-- [Rainbow](https://github.com/onevcat/Rainbow) - by onevcat
 - [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - by DanisFabric
+- [Rainbow](https://github.com/onevcat/Rainbow) - by onevcat
 - [VWInstantRun](https://github.com/wangshengjia/VWInstantRun) - by wangshengjia
 - [Then](https://github.com/devxoul/Then) - by devxoul
 
 ### 2016-1
-- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
 - [spi](https://github.com/guoc/spi) - by guoc
+- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -69,3 +69,4 @@
 - [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
 - [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - by BoltsFramework
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
+- [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz

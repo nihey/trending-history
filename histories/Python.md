@@ -84,3 +84,4 @@
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
+- [requirements](https://github.com/socketubs/requirements) - by socketubs
