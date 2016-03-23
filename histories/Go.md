@@ -39,9 +39,9 @@
 - [gogs](https://github.com/gogits/gogs) - by gogits
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
+- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [go-git](https://github.com/src-d/go-git) - by src-d
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
-- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -60,3 +60,4 @@
 - [acmewrapper](https://github.com/dkumor/acmewrapper) - by dkumor
 - [lion](https://github.com/celrenheit/lion) - by celrenheit
 - [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
+- [jsonparser](https://github.com/buger/jsonparser) - by buger

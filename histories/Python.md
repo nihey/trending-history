@@ -85,3 +85,5 @@
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
+- [dplython](https://github.com/dodger487/dplython) - by dodger487
+- [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20

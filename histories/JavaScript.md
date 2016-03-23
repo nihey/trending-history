@@ -192,8 +192,8 @@
 - [gifi](https://github.com/vdemedes/gifi) - by vdemedes
 
 ### 2016-3
-- [p2pspider](https://github.com/Fuck-You-GFW/p2pspider) - by Fuck-You-GFW
 - [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - by xiekw2010
+- [p2pspider](https://github.com/Fuck-You-GFW/p2pspider) - by Fuck-You-GFW
 - [react-armor](https://github.com/elierotenberg/react-armor) - by elierotenberg
 - [Hilo](https://github.com/hiloteam/Hilo) - by hiloteam
 - [socrates](https://github.com/matthewmueller/socrates) - by matthewmueller
@@ -210,14 +210,14 @@
 - [instant-logos](https://github.com/kogg/instant-logos) - by kogg
 - [AlphaGo](https://github.com/Rochester-NRT/AlphaGo) - by Rochester-NRT
 - [js-bits](https://github.com/vasanthk/js-bits) - by vasanthk
-- [eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable) - by jhusain
 - [mobx-react-devtools](https://github.com/mobxjs/mobx-react-devtools) - by mobxjs
 - [enclave](https://github.com/eanplatter/enclave) - by eanplatter
+- [eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable) - by jhusain
 - [quiet-js](https://github.com/brian-armstrong/quiet-js) - by brian-armstrong
-- [GifHub](https://github.com/DrewML/GifHub) - by DrewML
 - [statinamic](https://github.com/MoOx/statinamic) - by MoOx
 - [antSword](https://github.com/antoor/antSword) - by antoor
 - [tonal](https://github.com/danigb/tonal) - by danigb
+- [GifHub](https://github.com/DrewML/GifHub) - by DrewML
 - [calendar-heatmap](https://github.com/DKirwan/calendar-heatmap) - by DKirwan
 - [trymodule](https://github.com/VictorBjelkholm/trymodule) - by VictorBjelkholm
 - [feathers](https://github.com/feathersjs/feathers) - by feathersjs
@@ -228,3 +228,5 @@
 - [cachecloud](https://github.com/sohutv/cachecloud) - by sohutv
 - [platform](https://github.com/mattermost/platform) - by mattermost
 - [miaou](https://github.com/Canop/miaou) - by Canop
+- [tabby](https://github.com/maxogden/tabby) - by maxogden
+- [hain](https://github.com/appetizermonster/hain) - by appetizermonster

@@ -12,3 +12,4 @@
 - [leaf](https://github.com/autumnai/leaf) - by autumnai
 - [pencil](https://github.com/fengsp/pencil) - by fengsp
 - [redox](https://github.com/redox-os/redox) - by redox-os
+- [coreutils](https://github.com/uutils/coreutils) - by uutils
