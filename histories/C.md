@@ -40,3 +40,5 @@
 - [darknet](https://github.com/pjreddie/darknet) - by pjreddie
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
+- [libsixel](https://github.com/saitoha/libsixel) - by saitoha

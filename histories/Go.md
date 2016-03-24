@@ -19,8 +19,8 @@
 - [micro](https://github.com/micro/micro) - by micro
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
-- [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
+- [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
 - [apex](https://github.com/apex/apex) - by apex
@@ -35,12 +35,12 @@
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [client](https://github.com/keybase/client) - by keybase
 - [gogs](https://github.com/gogits/gogs) - by gogits
+- [client](https://github.com/keybase/client) - by keybase
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
-- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [go-git](https://github.com/src-d/go-git) - by src-d
+- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
@@ -61,3 +61,4 @@
 - [lion](https://github.com/celrenheit/lion) - by celrenheit
 - [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
+- [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
