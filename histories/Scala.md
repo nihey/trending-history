@@ -6,3 +6,6 @@
 
 ### 2016-2
 - [linkerd](https://github.com/BuoyantIO/linkerd) - by BuoyantIO
+
+### 2016-3
+- [scio](https://github.com/spotify/scio) - by spotify

@@ -59,9 +59,9 @@
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
-- [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
+- [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
@@ -71,8 +71,8 @@
 
 ### 2016-3
 - [zhao](https://github.com/programthink/zhao) - by programthink
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - by HelloZeroNet
 - [public_drown_scanner](https://github.com/nimia/public_drown_scanner) - by nimia
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - by HelloZeroNet
 - [image-analogies](https://github.com/awentzonline/image-analogies) - by awentzonline
 - [statuspage](https://github.com/pyupio/statuspage) - by pyupio
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
@@ -87,3 +87,5 @@
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
 - [dplython](https://github.com/dodger487/dplython) - by dodger487
 - [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
+- [quantum](https://github.com/karldray/quantum) - by karldray
+- [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo

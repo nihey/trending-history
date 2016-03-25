@@ -42,3 +42,4 @@
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
+- [citus](https://github.com/citusdata/citus) - by citusdata

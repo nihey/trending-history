@@ -17,27 +17,27 @@
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - by ujjwalkarn
 - [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
 - [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
-- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
-- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
+- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
 - [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
+- [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
+- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
 - [component-check](https://github.com/Mercateo/component-check) - by Mercateo
 - [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng
-- [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
 - [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - by Leo-G
 - [datasharing](https://github.com/jtleek/datasharing) - by jtleek
 - [awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - by jobbole
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - by jlevy
 
 ### 2016-1
-- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
 - [linux-insides](https://github.com/0xAX/linux-insides) - by 0xAX
+- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - by amontalenti
 - [react-howto](https://github.com/petehunt/react-howto) - by petehunt
 - [vim-galore](https://github.com/mhinz/vim-galore) - by mhinz
-- [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - by braydie
+- [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
 - [css](https://github.com/grvcoelho/css) - by grvcoelho
 - [ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) - by rdpeng
 - [easy-application](https://github.com/j-delaney/easy-application) - by j-delaney
@@ -50,8 +50,8 @@
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
 - [dear-github](https://github.com/dear-github/dear-github) - by dear-github
 - [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
-- [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs
 - [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) - by Juude
+- [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs
 - [thank-you-github](https://github.com/thank-you-github/thank-you-github) - by thank-you-github
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - by PaulSec
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
@@ -63,8 +63,8 @@
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
 
 ### 2016-2
-- [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe
 - [lelylan](https://github.com/lelylan/lelylan) - by lelylan
+- [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe
 - [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - by mgechev
 - [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples) - by bmkmanoj
@@ -79,8 +79,8 @@
 
 ### 2016-3
 - [React-Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) - by ReactjsProgram
-- [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - by ReactjsProgram
 - [react-makes-you-sad](https://github.com/gaearon/react-makes-you-sad) - by gaearon
+- [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - by ReactjsProgram
 - [awesome-github](https://github.com/AntBranch/awesome-github) - by AntBranch
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - by kakuilan
 - [awesome-charting](https://github.com/zingchart/awesome-charting) - by zingchart
@@ -95,3 +95,4 @@
 - [gitignore](https://github.com/github/gitignore) - by github
 - [public-apis](https://github.com/toddmotto/public-apis) - by toddmotto
 - [ipfs](https://github.com/ipfs/ipfs) - by ipfs
+- [alexa-avs-raspberry-pi](https://github.com/amzn/alexa-avs-raspberry-pi) - by amzn
