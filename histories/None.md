@@ -96,3 +96,4 @@
 - [public-apis](https://github.com/toddmotto/public-apis) - by toddmotto
 - [ipfs](https://github.com/ipfs/ipfs) - by ipfs
 - [alexa-avs-raspberry-pi](https://github.com/amzn/alexa-avs-raspberry-pi) - by amzn
+- [jsemu](https://github.com/fcambus/jsemu) - by fcambus

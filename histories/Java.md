@@ -55,9 +55,9 @@
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
-- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [Small](https://github.com/wequick/Small) - by wequick
+- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
@@ -71,12 +71,12 @@
 - [RxVolley](https://github.com/kymjs/RxVolley) - by kymjs
 - [blockcanary](https://github.com/moduth/blockcanary) - by moduth
 - [app-theme-engine](https://github.com/afollestad/app-theme-engine) - by afollestad
-- [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
-- [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [browser-android](https://github.com/brave/browser-android) - by brave
+- [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
+- [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
-- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
+- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
 
@@ -84,23 +84,23 @@
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
 - [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
 - [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
-- [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
+- [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
-- [kickmaterial](https://github.com/byoutline/kickmaterial) - by byoutline
-- [morphy-toolbar](https://github.com/badoualy/morphy-toolbar) - by badoualy
 - [pippo](https://github.com/decebals/pippo) - by decebals
+- [morphy-toolbar](https://github.com/badoualy/morphy-toolbar) - by badoualy
+- [kickmaterial](https://github.com/byoutline/kickmaterial) - by byoutline
 - [javacpp](https://github.com/bytedeco/javacpp) - by bytedeco
-- [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
 - [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
+- [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
 - [arrow](https://github.com/apache/arrow) - by apache
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
 - [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
-- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
+- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
 - [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
@@ -109,8 +109,8 @@
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
 
 ### 2016-3
-- [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
+- [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
 - [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
@@ -118,15 +118,15 @@
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
-- [BottomBar](https://github.com/roughike/BottomBar) - by roughike
 - [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
+- [BottomBar](https://github.com/roughike/BottomBar) - by roughike
 - [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
 - [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
 - [binnavi](https://github.com/google/binnavi) - by google
-- [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
-- [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
 - [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
+- [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
+- [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
 - [LessCode](https://github.com/openproject/LessCode) - by openproject
 - [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
@@ -136,3 +136,5 @@
 - [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) - by GIGAMOLE
 - [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - by AzimoLabs
 - [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - by Jacksgong
+- [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
+- [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian

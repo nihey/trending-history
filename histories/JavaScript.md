@@ -238,3 +238,4 @@
 - [MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - by romannurik
 - [five](https://github.com/jackdcrawford/five) - by jackdcrawford
 - [teleport](https://github.com/gravitational/teleport) - by gravitational
+- [sticky-state](https://github.com/soenkekluth/sticky-state) - by soenkekluth

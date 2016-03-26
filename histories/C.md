@@ -43,3 +43,5 @@
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [citus](https://github.com/citusdata/citus) - by citusdata
+- [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
+- [xhyve](https://github.com/mist64/xhyve) - by mist64

@@ -62,3 +62,4 @@
 - [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
+- [s3git](https://github.com/s3git/s3git) - by s3git
