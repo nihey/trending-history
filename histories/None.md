@@ -97,3 +97,4 @@
 - [ipfs](https://github.com/ipfs/ipfs) - by ipfs
 - [alexa-avs-raspberry-pi](https://github.com/amzn/alexa-avs-raspberry-pi) - by amzn
 - [jsemu](https://github.com/fcambus/jsemu) - by fcambus
+- [How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) - by ahangchen

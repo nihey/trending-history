@@ -45,3 +45,5 @@
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
+- [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
+- [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
