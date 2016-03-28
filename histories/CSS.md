@@ -32,3 +32,4 @@
 - [balloon.css](https://github.com/kazzkiq/balloon.css) - by kazzkiq
 - [amplify](https://github.com/ageitgey/amplify) - by ageitgey
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - by dutchcoders
+- [easyFindNumber](https://github.com/WittBulter/easyFindNumber) - by WittBulter

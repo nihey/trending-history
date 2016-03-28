@@ -36,17 +36,17 @@
 - [Lazy](https://github.com/l123456789jy/Lazy) - by l123456789jy
 - [pinpoint](https://github.com/naver/pinpoint) - by naver
 - [LikeButton](https://github.com/jd-alexander/LikeButton) - by jd-alexander
-- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
+- [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
 - [SmallBang](https://github.com/hanks-zyh/SmallBang) - by hanks-zyh
 - [showhidepasswordedittext](https://github.com/scottyab/showhidepasswordedittext) - by scottyab
-- [DragScaleCircleView](https://github.com/hpfs0/DragScaleCircleView) - by hpfs0
-- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
-- [GifView](https://github.com/Cutta/GifView) - by Cutta
+- [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
+- [GifView](https://github.com/Cutta/GifView) - by Cutta
+- [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
-- [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
 - [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
+- [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
 - [MathView](https://github.com/kexanie/MathView) - by kexanie
 
 ### 2016-1
@@ -58,12 +58,12 @@
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [Small](https://github.com/wequick/Small) - by wequick
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
-- [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
+- [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
-- [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
+- [MaterialPageStateLayout](https://github.com/Syehunter/MaterialPageStateLayout) - by Syehunter
 - [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) - by Rogero0o
 - [AutoRobRedPackage](https://github.com/sunxu3074/AutoRobRedPackage) - by sunxu3074
 - [sharp](https://github.com/Pixplicity/sharp) - by Pixplicity
@@ -72,8 +72,8 @@
 - [blockcanary](https://github.com/moduth/blockcanary) - by moduth
 - [app-theme-engine](https://github.com/afollestad/app-theme-engine) - by afollestad
 - [browser-android](https://github.com/brave/browser-android) - by brave
-- [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
+- [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
@@ -125,11 +125,11 @@
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
 - [binnavi](https://github.com/google/binnavi) - by google
 - [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
-- [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
 - [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
+- [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
 - [LessCode](https://github.com/openproject/LessCode) - by openproject
-- [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
+- [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
 - [RoadRunner](https://github.com/glomadrian/RoadRunner) - by glomadrian
 - [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
 - [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
@@ -138,3 +138,5 @@
 - [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - by Jacksgong
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
+- [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
+- [smile](https://github.com/haifengl/smile) - by haifengl

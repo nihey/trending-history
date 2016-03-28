@@ -13,9 +13,9 @@
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
-- [see](https://github.com/F-Secure/see) - by F-Secure
 - [lektor](https://github.com/lektor/lektor) - by lektor
 - [ispy](https://github.com/dellis23/ispy) - by dellis23
+- [see](https://github.com/F-Secure/see) - by F-Secure
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -28,8 +28,8 @@
 ### 2016-1
 - [reverse](https://github.com/joelpx/reverse) - by joelpx
 - [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - by 0x5e
-- [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
 - [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
+- [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
 - [jasper-client](https://github.com/jasperproject/jasper-client) - by jasperproject
 - [android-plus-plus](https://github.com/webbju/android-plus-plus) - by webbju
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - by VerbalExpressions
@@ -53,15 +53,15 @@
 - [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper
 - [maybe](https://github.com/p-e-w/maybe) - by p-e-w
 - [records](https://github.com/kennethreitz/records) - by kennethreitz
-- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
 - [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
+- [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
-- [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
@@ -90,3 +90,5 @@
 - [quantum](https://github.com/karldray/quantum) - by karldray
 - [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
+- [pytrader](https://github.com/owocki/pytrader) - by owocki
+- [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui

@@ -98,3 +98,4 @@
 - [alexa-avs-raspberry-pi](https://github.com/amzn/alexa-avs-raspberry-pi) - by amzn
 - [jsemu](https://github.com/fcambus/jsemu) - by fcambus
 - [How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) - by ahangchen
+- [what-do-you-call-this-in-ruby](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby) - by JuanitoFatas
