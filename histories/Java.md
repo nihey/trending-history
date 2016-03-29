@@ -140,3 +140,4 @@
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
 - [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
 - [smile](https://github.com/haifengl/smile) - by haifengl
+- [VideoListPlayer](https://github.com/waynell/VideoListPlayer) - by waynell

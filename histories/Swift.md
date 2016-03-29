@@ -20,9 +20,9 @@
 - [Then](https://github.com/devxoul/Then) - by devxoul
 
 ### 2016-1
+- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
 - [spi](https://github.com/guoc/spi) - by guoc
-- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -45,8 +45,8 @@
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
-- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
+- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
@@ -71,3 +71,6 @@
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
+- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
+- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust

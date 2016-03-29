@@ -235,12 +235,13 @@
 - [left-pad](https://github.com/azer/left-pad) - by azer
 - [kik](https://github.com/starters/kik) - by starters
 - [is-thirteen](https://github.com/jezen/is-thirteen) - by jezen
-- [MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - by romannurik
 - [five](https://github.com/jackdcrawford/five) - by jackdcrawford
 - [teleport](https://github.com/gravitational/teleport) - by gravitational
+- [MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - by romannurik
 - [sticky-state](https://github.com/soenkekluth/sticky-state) - by soenkekluth
 - [computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - by benoitvallon
 - [nodejs-fullstack](https://github.com/i5ting/nodejs-fullstack) - by i5ting
 - [canibekikked](https://github.com/parro-it/canibekikked) - by parro-it
 - [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide) - by thejameskyle
 - [dimple](https://github.com/PMSI-AlignAlytics/dimple) - by PMSI-AlignAlytics
+- [ua-device](https://github.com/fex-team/ua-device) - by fex-team
