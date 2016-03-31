@@ -13,3 +13,5 @@
 - [ink](https://github.com/inkle/ink) - by inkle
 - [temporal](https://github.com/playdeadgames/temporal) - by playdeadgames
 - [VS-PPT](https://github.com/Microsoft/VS-PPT) - by Microsoft
+- [BotBuilder](https://github.com/Microsoft/BotBuilder) - by Microsoft
+- [GalaxyExplorer](https://github.com/Microsoft/GalaxyExplorer) - by Microsoft

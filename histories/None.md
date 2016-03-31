@@ -100,3 +100,4 @@
 - [How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) - by ahangchen
 - [what-do-you-call-this-in-ruby](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby) - by JuanitoFatas
 - [react-basic](https://github.com/reactjs/react-basic) - by reactjs
+- [android-architecture](https://github.com/googlesamples/android-architecture) - by googlesamples

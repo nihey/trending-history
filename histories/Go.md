@@ -15,8 +15,8 @@
 - [osxlockdown](https://github.com/SummitRoute/osxlockdown) - by SummitRoute
 
 ### 2016-1
-- [gom](https://github.com/rakyll/gom) - by rakyll
 - [micro](https://github.com/micro/micro) - by micro
+- [gom](https://github.com/rakyll/gom) - by rakyll
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
@@ -39,9 +39,9 @@
 - [client](https://github.com/keybase/client) - by keybase
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
-- [go-git](https://github.com/src-d/go-git) - by src-d
 - [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
+- [go-git](https://github.com/src-d/go-git) - by src-d
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -63,3 +63,5 @@
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
+- [bigcache](https://github.com/allegro/bigcache) - by allegro
+- [abot](https://github.com/itsabot/abot) - by itsabot
