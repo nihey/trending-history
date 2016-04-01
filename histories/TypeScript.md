@@ -11,3 +11,6 @@
 
 ### 2016-3
 - [vscode-go](https://github.com/Microsoft/vscode-go) - by Microsoft
+
+### 2016-4
+- [vscode-react-native](https://github.com/Microsoft/vscode-react-native) - by Microsoft
