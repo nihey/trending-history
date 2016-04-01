@@ -97,16 +97,16 @@
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
-- [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [TimelineView](https://github.com/alorma/TimelineView) - by alorma
-- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
+- [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
+- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
-- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
-- [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
+- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
+- [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 
 ### 2016-3
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
@@ -147,3 +147,4 @@
 ### 2016-4
 - [SwitchButton](https://github.com/kyleduo/SwitchButton) - by kyleduo
 - [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator) - by txusballesteros
+- [druid](https://github.com/druid-io/druid) - by druid-io
