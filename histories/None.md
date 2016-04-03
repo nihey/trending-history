@@ -101,3 +101,7 @@
 - [what-do-you-call-this-in-ruby](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby) - by JuanitoFatas
 - [react-basic](https://github.com/reactjs/react-basic) - by reactjs
 - [android-architecture](https://github.com/googlesamples/android-architecture) - by googlesamples
+
+### 2016-4
+- [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
+- [core-notes](https://github.com/reactjs/core-notes) - by reactjs

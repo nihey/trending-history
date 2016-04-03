@@ -9,3 +9,6 @@
 
 ### 2016-3
 - [neural-style](https://github.com/jcjohnson/neural-style) - by jcjohnson
+
+### 2016-4
+- [Stochastic_Depth](https://github.com/yueatsprograms/Stochastic_Depth) - by yueatsprograms
