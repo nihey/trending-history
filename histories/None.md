@@ -19,8 +19,8 @@
 - [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
 - [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
-- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
 - [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
+- [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
 - [component-check](https://github.com/Mercateo/component-check) - by Mercateo
@@ -56,17 +56,17 @@
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - by PaulSec
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
 - [git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - by mathieudutour
+- [clmystery](https://github.com/veltman/clmystery) - by veltman
+- [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
 - [internals](https://github.com/rabbitmq/internals) - by rabbitmq
 - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
-- [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
-- [clmystery](https://github.com/veltman/clmystery) - by veltman
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
 
 ### 2016-2
 - [lelylan](https://github.com/lelylan/lelylan) - by lelylan
 - [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe
-- [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
 - [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - by mgechev
+- [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples) - by bmkmanoj
 - [awesome-computer-history](https://github.com/watson/awesome-computer-history) - by watson
 - [til](https://github.com/jbranchaud/til) - by jbranchaud
@@ -105,3 +105,5 @@
 ### 2016-4
 - [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
 - [core-notes](https://github.com/reactjs/core-notes) - by reactjs
+- [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
+- [test01](https://github.com/mortonNex/test01) - by mortonNex

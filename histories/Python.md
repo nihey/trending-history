@@ -28,8 +28,8 @@
 ### 2016-1
 - [reverse](https://github.com/joelpx/reverse) - by joelpx
 - [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - by 0x5e
-- [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
 - [pymux](https://github.com/jonathanslenders/pymux) - by jonathanslenders
+- [dhcpwn](https://github.com/mschwager/dhcpwn) - by mschwager
 - [jasper-client](https://github.com/jasperproject/jasper-client) - by jasperproject
 - [android-plus-plus](https://github.com/webbju/android-plus-plus) - by webbju
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - by VerbalExpressions
@@ -78,9 +78,9 @@
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
+- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
-- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
@@ -100,3 +100,6 @@
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
 - [bcc](https://github.com/iovisor/bcc) - by iovisor
+- [tflearn](https://github.com/tflearn/tflearn) - by tflearn
+- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
+- [you-get](https://github.com/soimort/you-get) - by soimort
