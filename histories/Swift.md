@@ -78,3 +78,4 @@
 
 ### 2016-4
 - [WKZombie](https://github.com/mkoehnke/WKZombie) - by mkoehnke
+- [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - by gmarm
