@@ -26,3 +26,4 @@
 ### 2016-4
 - [BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - by Pomax
 - [laravel-langman](https://github.com/themsaid/laravel-langman) - by themsaid
+- [wechat](https://github.com/overtrue/wechat) - by overtrue

@@ -24,8 +24,8 @@
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
 - [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
-- [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [apex](https://github.com/apex/apex) - by apex
+- [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
 - [dlite](https://github.com/nlf/dlite) - by nlf
@@ -39,9 +39,9 @@
 - [client](https://github.com/keybase/client) - by keybase
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
-- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [go-git](https://github.com/src-d/go-git) - by src-d
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
+- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -69,3 +69,6 @@
 ### 2016-4
 - [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
+- [echo](https://github.com/labstack/echo) - by labstack
+- [vegeta](https://github.com/tsenart/vegeta) - by tsenart
+- [qor](https://github.com/qor/qor) - by qor

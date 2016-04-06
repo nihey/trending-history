@@ -6,3 +6,6 @@
 
 ### 2016-2
 - [tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) - by pkmital
+
+### 2016-4
+- [deep3d](https://github.com/piiswrong/deep3d) - by piiswrong
