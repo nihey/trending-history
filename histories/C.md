@@ -30,9 +30,9 @@
 
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
-- [rappel](https://github.com/yrp604/rappel) - by yrp604
-- [emojicode](https://github.com/emojicode/emojicode) - by emojicode
 - [luna](https://github.com/tj/luna) - by tj
+- [emojicode](https://github.com/emojicode/emojicode) - by emojicode
+- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [jo](https://github.com/jpmens/jo) - by jpmens
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
@@ -51,3 +51,4 @@
 
 ### 2016-4
 - [mozc-devices](https://github.com/google/mozc-devices) - by google
+- [vis](https://github.com/martanne/vis) - by martanne

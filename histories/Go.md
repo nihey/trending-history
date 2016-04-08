@@ -58,8 +58,8 @@
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
 - [acmewrapper](https://github.com/dkumor/acmewrapper) - by dkumor
-- [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [lion](https://github.com/celrenheit/lion) - by celrenheit
+- [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
@@ -74,3 +74,4 @@
 - [qor](https://github.com/qor/qor) - by qor
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
+- [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
