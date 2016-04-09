@@ -28,8 +28,8 @@
 - [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
-- [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
 - [dlite](https://github.com/nlf/dlite) - by nlf
+- [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
 - [seesaw](https://github.com/google/seesaw) - by google
 
 ### 2016-2
@@ -75,3 +75,4 @@
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
+- [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom

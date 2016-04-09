@@ -33,8 +33,8 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
-- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
+- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
@@ -43,14 +43,14 @@
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
-- [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
+- [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
-- [Swifton](https://github.com/necolt/Swifton) - by necolt
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
+- [Swifton](https://github.com/necolt/Swifton) - by necolt
 - [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - by AfryMask
 - [Kitura](https://github.com/IBM-Swift/Kitura) - by IBM-Swift
 - [Nuke](https://github.com/kean/Nuke) - by kean
@@ -79,3 +79,4 @@
 ### 2016-4
 - [WKZombie](https://github.com/mkoehnke/WKZombie) - by mkoehnke
 - [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - by gmarm
+- [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner

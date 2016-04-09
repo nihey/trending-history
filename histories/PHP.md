@@ -28,3 +28,4 @@
 - [laravel-langman](https://github.com/themsaid/laravel-langman) - by themsaid
 - [wechat](https://github.com/overtrue/wechat) - by overtrue
 - [versionpress](https://github.com/versionpress/versionpress) - by versionpress
+- [php-gui](https://github.com/gabrielrcouto/php-gui) - by gabrielrcouto
