@@ -97,10 +97,10 @@
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
-- [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [TimelineView](https://github.com/alorma/TimelineView) - by alorma
-- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
+- [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
+- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
 - [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
@@ -109,8 +109,8 @@
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
 
 ### 2016-3
-- [OuNews](https://github.com/oubowu/OuNews) - by oubowu
 - [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
+- [OuNews](https://github.com/oubowu/OuNews) - by oubowu
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
 - [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
@@ -154,3 +154,4 @@
 - [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
 - [Conductor](https://github.com/bluelinelabs/Conductor) - by bluelinelabs
 - [sqlite-android](https://github.com/requery/sqlite-android) - by requery
+- [ActivityRouter](https://github.com/mzule/ActivityRouter) - by mzule

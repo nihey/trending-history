@@ -245,8 +245,8 @@
 - [dimple](https://github.com/PMSI-AlignAlytics/dimple) - by PMSI-AlignAlytics
 - [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide) - by thejameskyle
 - [ua-device](https://github.com/fex-team/ua-device) - by fex-team
-- [thinscript](https://github.com/evanw/thinscript) - by evanw
 - [react-native-desktop](https://github.com/ptmt/react-native-desktop) - by ptmt
+- [thinscript](https://github.com/evanw/thinscript) - by evanw
 
 ### 2016-4
 - [the-super-tiny-compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - by thejameskyle
@@ -255,9 +255,9 @@
 - [react-storybook](https://github.com/kadirahq/react-storybook) - by kadirahq
 - [cash](https://github.com/kenwheeler/cash) - by kenwheeler
 - [hotel](https://github.com/typicode/hotel) - by typicode
-- [natika](https://github.com/asika32764/natika) - by asika32764
-- [ng-rest-api](https://github.com/zaqqaz/ng-rest-api) - by zaqqaz
 - [lime](https://github.com/marcotcr/lime) - by marcotcr
+- [ng-rest-api](https://github.com/zaqqaz/ng-rest-api) - by zaqqaz
+- [natika](https://github.com/asika32764/natika) - by asika32764
 - [mailtrain](https://github.com/andris9/mailtrain) - by andris9
 - [vizflow](https://github.com/vizflow/vizflow) - by vizflow
 - [popper.js](https://github.com/FezVrasta/popper.js) - by FezVrasta
@@ -266,3 +266,5 @@
 - [Docbase](https://github.com/appbaseio/Docbase) - by appbaseio
 - [webtorrent-desktop](https://github.com/feross/webtorrent-desktop) - by feross
 - [webpack-boilerplate](https://github.com/geniuscarrier/webpack-boilerplate) - by geniuscarrier
+- [blur-admin](https://github.com/akveo/blur-admin) - by akveo
+- [justified-layout](https://github.com/flickr/justified-layout) - by flickr

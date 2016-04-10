@@ -105,3 +105,4 @@
 - [you-get](https://github.com/soimort/you-get) - by soimort
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
+- [Mathics](https://github.com/mathics/Mathics) - by mathics

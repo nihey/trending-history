@@ -9,3 +9,4 @@
 
 ### 2016-4
 - [deep3d](https://github.com/piiswrong/deep3d) - by piiswrong
+- [CourseraML](https://github.com/kaleko/CourseraML) - by kaleko
