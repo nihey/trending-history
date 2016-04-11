@@ -27,3 +27,6 @@
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - by mrzool
 - [dcw](https://github.com/rezzza/dcw) - by rezzza
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - by robbyrussell
+
+### 2016-4
+- [git-standup](https://github.com/kamranahmedse/git-standup) - by kamranahmedse
