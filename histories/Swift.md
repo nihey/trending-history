@@ -80,3 +80,4 @@
 - [WKZombie](https://github.com/mkoehnke/WKZombie) - by mkoehnke
 - [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - by gmarm
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
+- [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav

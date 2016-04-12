@@ -52,3 +52,4 @@
 ### 2016-4
 - [mozc-devices](https://github.com/google/mozc-devices) - by google
 - [vis](https://github.com/martanne/vis) - by martanne
+- [pelikan](https://github.com/twitter/pelikan) - by twitter
