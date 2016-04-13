@@ -7,8 +7,8 @@
 - [braindump](https://github.com/levlaz/braindump) - by levlaz
 - [zerodb](https://github.com/zero-db/zerodb) - by zero-db
 - [prettytensor](https://github.com/google/prettytensor) - by google
-- [q](https://github.com/harelba/q) - by harelba
 - [gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - by paicha
+- [q](https://github.com/harelba/q) - by harelba
 - [kinto](https://github.com/Kinto/kinto) - by Kinto
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
@@ -43,8 +43,8 @@
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
 - [borg](https://github.com/borgbackup/borg) - by borgbackup
-- [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
 - [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
+- [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
 
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
@@ -59,11 +59,11 @@
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
-- [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
-- [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [paperwork](https://github.com/jflesch/paperwork) - by jflesch
-- [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
+- [hug](https://github.com/timothycrosley/hug) - by timothycrosley
+- [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
+- [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
 - [sidomo](https://github.com/deepgram/sidomo) - by deepgram
 - [gdom](https://github.com/syrusakbary/gdom) - by syrusakbary
@@ -87,8 +87,8 @@
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
 - [dplython](https://github.com/dodger487/dplython) - by dodger487
 - [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
-- [quantum](https://github.com/karldray/quantum) - by karldray
 - [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
+- [quantum](https://github.com/karldray/quantum) - by karldray
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
 - [pytrader](https://github.com/owocki/pytrader) - by owocki
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
@@ -107,3 +107,6 @@
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
+- [voltron](https://github.com/snare/voltron) - by snare
+- [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
+- [keras](https://github.com/fchollet/keras) - by fchollet

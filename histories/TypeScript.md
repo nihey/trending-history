@@ -14,3 +14,4 @@
 
 ### 2016-4
 - [vscode-react-native](https://github.com/Microsoft/vscode-react-native) - by Microsoft
+- [playground](https://github.com/tensorflow/playground) - by tensorflow
