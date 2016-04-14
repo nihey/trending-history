@@ -31,8 +31,8 @@
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
 - [luna](https://github.com/tj/luna) - by tj
-- [emojicode](https://github.com/emojicode/emojicode) - by emojicode
 - [rappel](https://github.com/yrp604/rappel) - by yrp604
+- [emojicode](https://github.com/emojicode/emojicode) - by emojicode
 - [jo](https://github.com/jpmens/jo) - by jpmens
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
@@ -53,3 +53,4 @@
 - [mozc-devices](https://github.com/google/mozc-devices) - by google
 - [vis](https://github.com/martanne/vis) - by martanne
 - [pelikan](https://github.com/twitter/pelikan) - by twitter
+- [vim](https://github.com/vim/vim) - by vim

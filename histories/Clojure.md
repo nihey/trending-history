@@ -9,3 +9,6 @@
 
 ### 2016-3
 - [klangmeister](https://github.com/ctford/klangmeister) - by ctford
+
+### 2016-4
+- [alda](https://github.com/alda-lang/alda) - by alda-lang

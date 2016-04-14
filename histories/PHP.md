@@ -29,3 +29,4 @@
 - [wechat](https://github.com/overtrue/wechat) - by overtrue
 - [versionpress](https://github.com/versionpress/versionpress) - by versionpress
 - [php-gui](https://github.com/gabrielrcouto/php-gui) - by gabrielrcouto
+- [pagekit](https://github.com/pagekit/pagekit) - by pagekit

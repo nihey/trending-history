@@ -113,8 +113,8 @@
 - [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
-- [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
+- [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
@@ -127,22 +127,22 @@
 - [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
 - [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
 - [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
-- [LessCode](https://github.com/openproject/LessCode) - by openproject
 - [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
+- [LessCode](https://github.com/openproject/LessCode) - by openproject
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
 - [RoadRunner](https://github.com/glomadrian/RoadRunner) - by glomadrian
 - [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
-- [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
 - [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) - by GIGAMOLE
-- [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - by AzimoLabs
+- [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
 - [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - by Jacksgong
+- [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - by AzimoLabs
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
 - [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
 - [smile](https://github.com/haifengl/smile) - by haifengl
 - [VideoListPlayer](https://github.com/waynell/VideoListPlayer) - by waynell
-- [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) - by niorgai
 - [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - by ybq
+- [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) - by niorgai
 
 ### 2016-4
 - [SwitchButton](https://github.com/kyleduo/SwitchButton) - by kyleduo
@@ -158,3 +158,4 @@
 - [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
 - [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - by hongyangAndroid
+- [folding-cell-android](https://github.com/Ramotion/folding-cell-android) - by Ramotion
