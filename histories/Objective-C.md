@@ -37,3 +37,7 @@
 - [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - by HarrisHan
 - [EZAudio](https://github.com/syedhali/EZAudio) - by syedhali
 - [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - by spotify
+
+### 2016-4
+- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - by facebook
+- [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - by facebook
