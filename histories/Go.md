@@ -78,3 +78,4 @@
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
 - [hack-petya](https://github.com/leo-stone/hack-petya) - by leo-stone
+- [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole

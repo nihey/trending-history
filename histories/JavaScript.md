@@ -230,14 +230,14 @@
 - [miaou](https://github.com/Canop/miaou) - by Canop
 - [hain](https://github.com/appetizermonster/hain) - by appetizermonster
 - [tabby](https://github.com/maxogden/tabby) - by maxogden
-- [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - by draft-js-plugins
 - [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow) - by carpedm20
-- [kik](https://github.com/starters/kik) - by starters
 - [left-pad](https://github.com/azer/left-pad) - by azer
+- [kik](https://github.com/starters/kik) - by starters
+- [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - by draft-js-plugins
 - [MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - by romannurik
 - [five](https://github.com/jackdcrawford/five) - by jackdcrawford
-- [is-thirteen](https://github.com/jezen/is-thirteen) - by jezen
 - [teleport](https://github.com/gravitational/teleport) - by gravitational
+- [is-thirteen](https://github.com/jezen/is-thirteen) - by jezen
 - [sticky-state](https://github.com/soenkekluth/sticky-state) - by soenkekluth
 - [computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - by benoitvallon
 - [nodejs-fullstack](https://github.com/i5ting/nodejs-fullstack) - by i5ting
@@ -276,3 +276,5 @@
 - [golden-layout](https://github.com/deepstreamIO/golden-layout) - by deepstreamIO
 - [f8app](https://github.com/fbsamples/f8app) - by fbsamples
 - [react-native](https://github.com/ReactWindows/react-native) - by ReactWindows
+- [bricklayer](https://github.com/ademilter/bricklayer) - by ademilter
+- [messenger-bot](https://github.com/remixz/messenger-bot) - by remixz

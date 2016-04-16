@@ -35,3 +35,4 @@
 - [gentelella](https://github.com/puikinsh/gentelella) - by puikinsh
 - [growth-ebook](https://github.com/phodal/growth-ebook) - by phodal
 - [min](https://github.com/PalmerAL/min) - by PalmerAL
+- [hjson](https://github.com/laktak/hjson) - by laktak

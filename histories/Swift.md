@@ -45,12 +45,12 @@
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
-- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
+- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
-- [vapor](https://github.com/qutheory/vapor) - by qutheory
 - [Swifton](https://github.com/necolt/Swifton) - by necolt
+- [vapor](https://github.com/qutheory/vapor) - by qutheory
 - [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - by AfryMask
 - [Kitura](https://github.com/IBM-Swift/Kitura) - by IBM-Swift
 - [Nuke](https://github.com/kean/Nuke) - by kean
@@ -82,3 +82,5 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
+- [TextAttributes](https://github.com/delba/TextAttributes) - by delba
+- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio

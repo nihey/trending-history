@@ -10,3 +10,4 @@
 ### 2016-4
 - [deep3d](https://github.com/piiswrong/deep3d) - by piiswrong
 - [CourseraML](https://github.com/kaleko/CourseraML) - by kaleko
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - by aymericdamien
