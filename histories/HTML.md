@@ -36,3 +36,5 @@
 - [growth-ebook](https://github.com/phodal/growth-ebook) - by phodal
 - [min](https://github.com/PalmerAL/min) - by PalmerAL
 - [hjson](https://github.com/laktak/hjson) - by laktak
+- [awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - by larsbrinkhoff
+- [pamela](https://github.com/dollabs/pamela) - by dollabs

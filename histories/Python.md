@@ -79,8 +79,8 @@
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
 - [pseudo](https://github.com/alehander42/pseudo) - by alehander42
-- [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
+- [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
@@ -101,8 +101,8 @@
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
 - [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [tflearn](https://github.com/tflearn/tflearn) - by tflearn
-- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [you-get](https://github.com/soimort/you-get) - by soimort
+- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
@@ -110,3 +110,4 @@
 - [voltron](https://github.com/snare/voltron) - by snare
 - [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
 - [keras](https://github.com/fchollet/keras) - by fchollet
+- [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel

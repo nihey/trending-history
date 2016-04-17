@@ -221,27 +221,27 @@
 - [calendar-heatmap](https://github.com/DKirwan/calendar-heatmap) - by DKirwan
 - [trymodule](https://github.com/VictorBjelkholm/trymodule) - by VictorBjelkholm
 - [feathers](https://github.com/feathersjs/feathers) - by feathersjs
-- [hublin](https://github.com/linagora/hublin) - by linagora
-- [insight](https://github.com/3Dparallax/insight) - by 3Dparallax
 - [browserhtml](https://github.com/browserhtml/browserhtml) - by browserhtml
 - [macaca-client](https://github.com/macacajs/macaca-client) - by macacajs
+- [hublin](https://github.com/linagora/hublin) - by linagora
+- [insight](https://github.com/3Dparallax/insight) - by 3Dparallax
 - [cachecloud](https://github.com/sohutv/cachecloud) - by sohutv
 - [platform](https://github.com/mattermost/platform) - by mattermost
 - [miaou](https://github.com/Canop/miaou) - by Canop
-- [hain](https://github.com/appetizermonster/hain) - by appetizermonster
 - [tabby](https://github.com/maxogden/tabby) - by maxogden
+- [hain](https://github.com/appetizermonster/hain) - by appetizermonster
 - [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow) - by carpedm20
-- [left-pad](https://github.com/azer/left-pad) - by azer
-- [kik](https://github.com/starters/kik) - by starters
 - [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - by draft-js-plugins
-- [MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - by romannurik
+- [kik](https://github.com/starters/kik) - by starters
+- [left-pad](https://github.com/azer/left-pad) - by azer
+- [is-thirteen](https://github.com/jezen/is-thirteen) - by jezen
 - [five](https://github.com/jackdcrawford/five) - by jackdcrawford
 - [teleport](https://github.com/gravitational/teleport) - by gravitational
-- [is-thirteen](https://github.com/jezen/is-thirteen) - by jezen
+- [MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - by romannurik
 - [sticky-state](https://github.com/soenkekluth/sticky-state) - by soenkekluth
 - [computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - by benoitvallon
-- [nodejs-fullstack](https://github.com/i5ting/nodejs-fullstack) - by i5ting
 - [canibekikked](https://github.com/parro-it/canibekikked) - by parro-it
+- [nodejs-fullstack](https://github.com/i5ting/nodejs-fullstack) - by i5ting
 - [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide) - by thejameskyle
 - [dimple](https://github.com/PMSI-AlignAlytics/dimple) - by PMSI-AlignAlytics
 - [ua-device](https://github.com/fex-team/ua-device) - by fex-team
@@ -249,8 +249,8 @@
 - [thinscript](https://github.com/evanw/thinscript) - by evanw
 
 ### 2016-4
-- [npm-check](https://github.com/dylang/npm-check) - by dylang
 - [the-super-tiny-compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - by thejameskyle
+- [npm-check](https://github.com/dylang/npm-check) - by dylang
 - [react-storybook](https://github.com/kadirahq/react-storybook) - by kadirahq
 - [vrview](https://github.com/google/vrview) - by google
 - [cash](https://github.com/kenwheeler/cash) - by kenwheeler
@@ -258,8 +258,8 @@
 - [natika](https://github.com/asika32764/natika) - by asika32764
 - [ng-rest-api](https://github.com/zaqqaz/ng-rest-api) - by zaqqaz
 - [lime](https://github.com/marcotcr/lime) - by marcotcr
-- [mailtrain](https://github.com/andris9/mailtrain) - by andris9
 - [vizflow](https://github.com/vizflow/vizflow) - by vizflow
+- [mailtrain](https://github.com/andris9/mailtrain) - by andris9
 - [popper.js](https://github.com/FezVrasta/popper.js) - by FezVrasta
 - [js_designpatterns](https://github.com/nnupoor/js_designpatterns) - by nnupoor
 - [command](https://github.com/jessepollak/command) - by jessepollak
@@ -278,3 +278,4 @@
 - [react-native](https://github.com/ReactWindows/react-native) - by ReactWindows
 - [bricklayer](https://github.com/ademilter/bricklayer) - by ademilter
 - [messenger-bot](https://github.com/remixz/messenger-bot) - by remixz
+- [jaspy](https://github.com/koehlma/jaspy) - by koehlma

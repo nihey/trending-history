@@ -37,6 +37,7 @@ updated.
   - [Java](https://github.com/nihey/trending-history/blob/master/histories/Java.md)
   - [JavaScript](https://github.com/nihey/trending-history/blob/master/histories/JavaScript.md)
   - [Jupyter Notebook](https://github.com/nihey/trending-history/blob/master/histories/Jupyter Notebook.md)
+  - [KiCad](https://github.com/nihey/trending-history/blob/master/histories/KiCad.md)
   - [Limbo](https://github.com/nihey/trending-history/blob/master/histories/Limbo.md)
   - [Lua](https://github.com/nihey/trending-history/blob/master/histories/Lua.md)
   - [Makefile](https://github.com/nihey/trending-history/blob/master/histories/Makefile.md)
@@ -58,6 +59,7 @@ updated.
   - [Swift](https://github.com/nihey/trending-history/blob/master/histories/Swift.md)
   - [TeX](https://github.com/nihey/trending-history/blob/master/histories/TeX.md)
   - [TypeScript](https://github.com/nihey/trending-history/blob/master/histories/TypeScript.md)
+  - [VimL](https://github.com/nihey/trending-history/blob/master/histories/VimL.md)
   - [Vue](https://github.com/nihey/trending-history/blob/master/histories/Vue.md)
 
 # How to update
