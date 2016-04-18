@@ -102,19 +102,19 @@
 - [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
-- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
+- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
+- [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
-- [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 
 ### 2016-3
 - [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
-- [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
+- [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
@@ -125,8 +125,8 @@
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
 - [binnavi](https://github.com/google/binnavi) - by google
 - [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
-- [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
 - [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
+- [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
 - [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
 - [LessCode](https://github.com/openproject/LessCode) - by openproject
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
@@ -161,3 +161,4 @@
 - [folding-cell-android](https://github.com/Ramotion/folding-cell-android) - by Ramotion
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - by Vedenin
 - [plugins](https://github.com/kiteco/plugins) - by kiteco
+- [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - by dinuscxj

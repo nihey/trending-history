@@ -84,3 +84,5 @@
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
+- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
+- [Peek](https://github.com/shaps80/Peek) - by shaps80

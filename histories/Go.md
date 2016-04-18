@@ -80,3 +80,4 @@
 - [hack-petya](https://github.com/leo-stone/hack-petya) - by leo-stone
 - [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole
 - [binctr](https://github.com/jfrazelle/binctr) - by jfrazelle
+- [micro](https://github.com/zyedidia/micro) - by zyedidia

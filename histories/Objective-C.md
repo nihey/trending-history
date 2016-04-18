@@ -24,8 +24,8 @@
 ### 2016-2
 - [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect) - by Cleveroad
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
-- [EarlGrey](https://github.com/google/EarlGrey) - by google
 - [LoveFreshBeen](https://github.com/ZhongTaoTian/LoveFreshBeen) - by ZhongTaoTian
+- [EarlGrey](https://github.com/google/EarlGrey) - by google
 - [RealReachability](https://github.com/dustturtle/RealReachability) - by dustturtle
 - [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) - by Zepo
 
@@ -41,3 +41,4 @@
 ### 2016-4
 - [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - by facebook
 - [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - by facebook
+- [LCFInfiniteScrollView](https://github.com/leichunfeng/LCFInfiniteScrollView) - by leichunfeng
