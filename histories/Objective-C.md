@@ -42,3 +42,4 @@
 - [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - by facebook
 - [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - by facebook
 - [LCFInfiniteScrollView](https://github.com/leichunfeng/LCFInfiniteScrollView) - by leichunfeng
+- [xichuangzhu-ios](https://github.com/hustlzp/xichuangzhu-ios) - by hustlzp

@@ -162,3 +162,4 @@
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - by Vedenin
 - [plugins](https://github.com/kiteco/plugins) - by kiteco
 - [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - by dinuscxj
+- [-dampView-springingView](https://github.com/Huyamin150/-dampView-springingView) - by Huyamin150

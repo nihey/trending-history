@@ -55,3 +55,4 @@
 - [redex](https://github.com/facebook/redex) - by facebook
 - [Revive](https://github.com/LibreVR/Revive) - by LibreVR
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - by kyleneideck
+- [dijkstra-cartography](https://github.com/ibaaj/dijkstra-cartography) - by ibaaj

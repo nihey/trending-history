@@ -19,8 +19,8 @@
 - [micro](https://github.com/micro/micro) - by micro
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
-- [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
+- [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
 - [apex](https://github.com/apex/apex) - by apex
@@ -28,8 +28,8 @@
 - [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
-- [dlite](https://github.com/nlf/dlite) - by nlf
 - [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
+- [dlite](https://github.com/nlf/dlite) - by nlf
 - [seesaw](https://github.com/google/seesaw) - by google
 
 ### 2016-2
@@ -52,8 +52,8 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [apns2](https://github.com/sideshow/apns2) - by sideshow
+- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
@@ -63,8 +63,8 @@
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
-- [abot](https://github.com/itsabot/abot) - by itsabot
 - [bigcache](https://github.com/allegro/bigcache) - by allegro
+- [abot](https://github.com/itsabot/abot) - by itsabot
 
 ### 2016-4
 - [depscheck](https://github.com/divan/depscheck) - by divan
@@ -81,3 +81,5 @@
 - [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole
 - [binctr](https://github.com/jfrazelle/binctr) - by jfrazelle
 - [micro](https://github.com/zyedidia/micro) - by zyedidia
+- [find](https://github.com/schollz/find) - by schollz
+- [gobgp](https://github.com/osrg/gobgp) - by osrg
