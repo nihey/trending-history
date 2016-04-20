@@ -54,3 +54,4 @@
 - [vis](https://github.com/martanne/vis) - by martanne
 - [pelikan](https://github.com/twitter/pelikan) - by twitter
 - [vim](https://github.com/vim/vim) - by vim
+- [nuklear](https://github.com/vurtun/nuklear) - by vurtun

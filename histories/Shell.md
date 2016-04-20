@@ -31,3 +31,4 @@
 ### 2016-4
 - [git-standup](https://github.com/kamranahmedse/git-standup) - by kamranahmedse
 - [InternetSemLimites](https://github.com/InternetSemLimites/InternetSemLimites) - by InternetSemLimites
+- [ansiweather](https://github.com/fcambus/ansiweather) - by fcambus

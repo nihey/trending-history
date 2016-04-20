@@ -280,3 +280,4 @@
 - [messenger-bot](https://github.com/remixz/messenger-bot) - by remixz
 - [jaspy](https://github.com/koehlma/jaspy) - by koehlma
 - [babel-react-optimize](https://github.com/thejameskyle/babel-react-optimize) - by thejameskyle
+- [mapquery](https://github.com/Quartz/mapquery) - by Quartz

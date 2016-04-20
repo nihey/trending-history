@@ -99,27 +99,27 @@
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [TimelineView](https://github.com/alorma/TimelineView) - by alorma
-- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
+- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
-- [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
 - [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
-- [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
+- [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
+- [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 
 ### 2016-3
-- [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
+- [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
-- [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
 - [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
+- [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
-- [BottomBar](https://github.com/roughike/BottomBar) - by roughike
 - [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
+- [BottomBar](https://github.com/roughike/BottomBar) - by roughike
 - [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
 - [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
@@ -127,15 +127,15 @@
 - [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
 - [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
 - [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
-- [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
 - [LessCode](https://github.com/openproject/LessCode) - by openproject
+- [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
-- [RoadRunner](https://github.com/glomadrian/RoadRunner) - by glomadrian
 - [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
+- [RoadRunner](https://github.com/glomadrian/RoadRunner) - by glomadrian
 - [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) - by GIGAMOLE
 - [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - by AzimoLabs
-- [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
 - [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - by Jacksgong
+- [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
 - [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
@@ -163,3 +163,4 @@
 - [plugins](https://github.com/kiteco/plugins) - by kiteco
 - [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - by dinuscxj
 - [-dampView-springingView](https://github.com/Huyamin150/-dampView-springingView) - by Huyamin150
+- [agera](https://github.com/google/agera) - by google
