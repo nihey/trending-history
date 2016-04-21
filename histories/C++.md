@@ -57,3 +57,4 @@
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - by kyleneideck
 - [dijkstra-cartography](https://github.com/ibaaj/dijkstra-cartography) - by ibaaj
 - [imgui](https://github.com/ocornut/imgui) - by ocornut
+- [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) - by GPUOpen-Tools

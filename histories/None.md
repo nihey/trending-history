@@ -114,3 +114,4 @@
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by johnpapa
 - [InternetSemLimites](https://github.com/jlcarvalho/InternetSemLimites) - by jlcarvalho
 - [react-redux-links](https://github.com/markerikson/react-redux-links) - by markerikson
+- [awesome-python-books](https://github.com/Junnplus/awesome-python-books) - by Junnplus
