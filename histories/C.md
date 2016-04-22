@@ -55,3 +55,4 @@
 - [pelikan](https://github.com/twitter/pelikan) - by twitter
 - [vim](https://github.com/vim/vim) - by vim
 - [nuklear](https://github.com/vurtun/nuklear) - by vurtun
+- [ngs](https://github.com/ilyash/ngs) - by ilyash

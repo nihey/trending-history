@@ -115,3 +115,4 @@
 - [InternetSemLimites](https://github.com/jlcarvalho/InternetSemLimites) - by jlcarvalho
 - [react-redux-links](https://github.com/markerikson/react-redux-links) - by markerikson
 - [awesome-python-books](https://github.com/Junnplus/awesome-python-books) - by Junnplus
+- [HEAD](https://github.com/joshbuchea/HEAD) - by joshbuchea

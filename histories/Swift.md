@@ -86,3 +86,4 @@
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
+- [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy

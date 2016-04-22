@@ -62,8 +62,8 @@
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
-- [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
+- [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
 - [sidomo](https://github.com/deepgram/sidomo) - by deepgram
 - [gdom](https://github.com/syrusakbary/gdom) - by syrusakbary
@@ -71,16 +71,16 @@
 
 ### 2016-3
 - [zhao](https://github.com/programthink/zhao) - by programthink
-- [public_drown_scanner](https://github.com/nimia/public_drown_scanner) - by nimia
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - by HelloZeroNet
+- [public_drown_scanner](https://github.com/nimia/public_drown_scanner) - by nimia
 - [image-analogies](https://github.com/awentzonline/image-analogies) - by awentzonline
 - [statuspage](https://github.com/pyupio/statuspage) - by pyupio
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
-- [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
 - [pseudo](https://github.com/alehander42/pseudo) - by alehander42
+- [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
@@ -115,3 +115,4 @@
 - [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
 - [pycraft](https://github.com/traverseda/pycraft) - by traverseda
 - [dcos](https://github.com/dcos/dcos) - by dcos
+- [colornet](https://github.com/pavelgonchar/colornet) - by pavelgonchar

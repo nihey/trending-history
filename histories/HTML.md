@@ -38,3 +38,4 @@
 - [hjson](https://github.com/laktak/hjson) - by laktak
 - [awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - by larsbrinkhoff
 - [pamela](https://github.com/dollabs/pamela) - by dollabs
+- [skill-map](https://github.com/TeamStuQ/skill-map) - by TeamStuQ

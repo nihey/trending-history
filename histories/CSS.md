@@ -34,3 +34,6 @@
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - by dutchcoders
 - [easyFindNumber](https://github.com/WittBulter/easyFindNumber) - by WittBulter
 - [Dataproofer](https://github.com/dataproofer/Dataproofer) - by dataproofer
+
+### 2016-4
+- [flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - by cjcenizal
