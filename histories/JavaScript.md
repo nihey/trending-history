@@ -286,3 +286,4 @@
 - [autochecker](https://github.com/VictorBjelkholm/autochecker) - by VictorBjelkholm
 - [bot-wat](https://github.com/peralmq/bot-wat) - by peralmq
 - [strman](https://github.com/dleitee/strman) - by dleitee
+- [checklistomania](https://github.com/18F/checklistomania) - by 18F

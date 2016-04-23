@@ -44,3 +44,4 @@
 - [LCFInfiniteScrollView](https://github.com/leichunfeng/LCFInfiniteScrollView) - by leichunfeng
 - [xichuangzhu-ios](https://github.com/hustlzp/xichuangzhu-ios) - by hustlzp
 - [JSPatchX](https://github.com/bang590/JSPatchX) - by bang590
+- [osx-wallpaper](https://github.com/sindresorhus/osx-wallpaper) - by sindresorhus
