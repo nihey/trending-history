@@ -109,8 +109,8 @@
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 
 ### 2016-3
-- [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
+- [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
 - [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
@@ -120,9 +120,9 @@
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
 - [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
 - [BottomBar](https://github.com/roughike/BottomBar) - by roughike
-- [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
 - [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
+- [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
 - [binnavi](https://github.com/google/binnavi) - by google
 - [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
 - [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
@@ -130,19 +130,19 @@
 - [LessCode](https://github.com/openproject/LessCode) - by openproject
 - [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
-- [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
 - [RoadRunner](https://github.com/glomadrian/RoadRunner) - by glomadrian
+- [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
 - [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) - by GIGAMOLE
-- [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - by AzimoLabs
 - [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - by Jacksgong
 - [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
-- [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
+- [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - by AzimoLabs
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
+- [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
 - [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
 - [smile](https://github.com/haifengl/smile) - by haifengl
 - [VideoListPlayer](https://github.com/waynell/VideoListPlayer) - by waynell
-- [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - by ybq
 - [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) - by niorgai
+- [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - by ybq
 
 ### 2016-4
 - [SwitchButton](https://github.com/kyleduo/SwitchButton) - by kyleduo
@@ -150,13 +150,13 @@
 - [druid](https://github.com/druid-io/druid) - by druid-io
 - [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) - by Rogero0o
 - [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) - by DevLight-Mobile-Agency
+- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
 - [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
 - [Conductor](https://github.com/bluelinelabs/Conductor) - by bluelinelabs
 - [sqlite-android](https://github.com/requery/sqlite-android) - by requery
-- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
 - [ActivityRouter](https://github.com/mzule/ActivityRouter) - by mzule
-- [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
+- [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - by hongyangAndroid
 - [folding-cell-android](https://github.com/Ramotion/folding-cell-android) - by Ramotion
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - by Vedenin
@@ -167,3 +167,4 @@
 - [ion-java](https://github.com/amznlabs/ion-java) - by amznlabs
 - [android-about-page](https://github.com/medyo/android-about-page) - by medyo
 - [Girls](https://github.com/flyou/Girls) - by flyou
+- [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) - by wingjay

@@ -37,3 +37,4 @@
 
 ### 2016-4
 - [flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - by cjcenizal
+- [Modaal](https://github.com/humaan/Modaal) - by humaan

@@ -16,3 +16,4 @@
 - [vscode-react-native](https://github.com/Microsoft/vscode-react-native) - by Microsoft
 - [playground](https://github.com/tensorflow/playground) - by tensorflow
 - [vscode](https://github.com/Microsoft/vscode) - by Microsoft
+- [xstream](https://github.com/staltz/xstream) - by staltz
