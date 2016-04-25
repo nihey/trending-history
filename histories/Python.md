@@ -78,9 +78,9 @@
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
-- [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
+- [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
@@ -94,22 +94,22 @@
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
 
 ### 2016-4
-- [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
 - [caravel](https://github.com/airbnb/caravel) - by airbnb
-- [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
+- [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
-- [bcc](https://github.com/iovisor/bcc) - by iovisor
+- [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
+- [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [tflearn](https://github.com/tflearn/tflearn) - by tflearn
-- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [you-get](https://github.com/soimort/you-get) - by soimort
+- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
 - [voltron](https://github.com/snare/voltron) - by snare
-- [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
 - [keras](https://github.com/fchollet/keras) - by fchollet
+- [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
 - [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
@@ -117,3 +117,5 @@
 - [dcos](https://github.com/dcos/dcos) - by dcos
 - [colornet](https://github.com/pavelgonchar/colornet) - by pavelgonchar
 - [enjarify](https://github.com/google/enjarify) - by google
+- [elastalert](https://github.com/Yelp/elastalert) - by Yelp
+- [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp

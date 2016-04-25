@@ -266,10 +266,10 @@
 - [command](https://github.com/jessepollak/command) - by jessepollak
 - [webtorrent-desktop](https://github.com/feross/webtorrent-desktop) - by feross
 - [webpack-boilerplate](https://github.com/geniuscarrier/webpack-boilerplate) - by geniuscarrier
-- [blur-admin](https://github.com/akveo/blur-admin) - by akveo
 - [justified-layout](https://github.com/flickr/justified-layout) - by flickr
-- [angular2-mean-starter](https://github.com/giacomocerquone/angular2-mean-starter) - by giacomocerquone
+- [blur-admin](https://github.com/akveo/blur-admin) - by akveo
 - [favesound-redux](https://github.com/rwieruch/favesound-redux) - by rwieruch
+- [angular2-mean-starter](https://github.com/giacomocerquone/angular2-mean-starter) - by giacomocerquone
 - [newcrawler](https://github.com/speed/newcrawler) - by speed
 - [rn_rank](https://github.com/zhongjie-chen/rn_rank) - by zhongjie-chen
 - [rrtr](https://github.com/taion/rrtr) - by taion
@@ -288,3 +288,5 @@
 - [strman](https://github.com/dleitee/strman) - by dleitee
 - [checklistomania](https://github.com/18F/checklistomania) - by 18F
 - [react-native-web](https://github.com/necolas/react-native-web) - by necolas
+- [Dazzle](https://github.com/Raathigesh/Dazzle) - by Raathigesh
+- [Styleguide](https://github.com/devbridge/Styleguide) - by devbridge
