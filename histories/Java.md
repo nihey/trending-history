@@ -42,21 +42,21 @@
 - [HashTagHelper](https://github.com/Danylo2006/HashTagHelper) - by Danylo2006
 - [SwipeMenuRecyclerView](https://github.com/TUBB/SwipeMenuRecyclerView) - by TUBB
 - [FileDownloader](https://github.com/lingochamp/FileDownloader) - by lingochamp
-- [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
+- [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
-- [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
 - [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
+- [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
 - [MathView](https://github.com/kexanie/MathView) - by kexanie
 
 ### 2016-1
 - [Slice](https://github.com/mthli/Slice) - by mthli
-- [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
+- [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
-- [Small](https://github.com/wequick/Small) - by wequick
 - [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
+- [Small](https://github.com/wequick/Small) - by wequick
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
@@ -71,9 +71,9 @@
 - [RxVolley](https://github.com/kymjs/RxVolley) - by kymjs
 - [blockcanary](https://github.com/moduth/blockcanary) - by moduth
 - [app-theme-engine](https://github.com/afollestad/app-theme-engine) - by afollestad
-- [browser-android](https://github.com/brave/browser-android) - by brave
 - [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
+- [browser-android](https://github.com/brave/browser-android) - by brave
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
@@ -88,8 +88,8 @@
 - [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
 - [kickmaterial](https://github.com/byoutline/kickmaterial) - by byoutline
-- [morphy-toolbar](https://github.com/badoualy/morphy-toolbar) - by badoualy
 - [pippo](https://github.com/decebals/pippo) - by decebals
+- [morphy-toolbar](https://github.com/badoualy/morphy-toolbar) - by badoualy
 - [javacpp](https://github.com/bytedeco/javacpp) - by bytedeco
 - [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
 - [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
@@ -102,19 +102,19 @@
 - [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
-- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
+- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
+- [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 - [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
 - [android-classyshark](https://github.com/google/android-classyshark) - by google
-- [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 
 ### 2016-3
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
 - [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
-- [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
+- [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
@@ -169,3 +169,4 @@
 - [Girls](https://github.com/flyou/Girls) - by flyou
 - [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) - by wingjay
 - [motan](https://github.com/weibocom/motan) - by weibocom
+- [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - by borjabravo10
