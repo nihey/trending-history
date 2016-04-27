@@ -75,8 +75,8 @@
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [browser-android](https://github.com/brave/browser-android) - by brave
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
-- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
+- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
 
@@ -94,32 +94,32 @@
 - [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
 - [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
 - [arrow](https://github.com/apache/arrow) - by apache
-- [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
+- [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
-- [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [TimelineView](https://github.com/alorma/TimelineView) - by alorma
-- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
+- [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
+- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
-- [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
 - [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
+- [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
+- [android-classyshark](https://github.com/google/android-classyshark) - by google
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 - [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
-- [android-classyshark](https://github.com/google/android-classyshark) - by google
 
 ### 2016-3
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
 - [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
-- [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
 - [jiecaovideoplayer](https://github.com/lipangit/jiecaovideoplayer) - by lipangit
+- [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
-- [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
 - [BottomBar](https://github.com/roughike/BottomBar) - by roughike
+- [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
 - [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
 - [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
@@ -132,21 +132,21 @@
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
 - [RoadRunner](https://github.com/glomadrian/RoadRunner) - by glomadrian
 - [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
+- [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
 - [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) - by GIGAMOLE
 - [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - by Jacksgong
-- [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
 - [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - by AzimoLabs
-- [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
-- [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
+- [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
 - [smile](https://github.com/haifengl/smile) - by haifengl
+- [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
 - [VideoListPlayer](https://github.com/waynell/VideoListPlayer) - by waynell
 - [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) - by niorgai
 - [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - by ybq
 
 ### 2016-4
-- [SwitchButton](https://github.com/kyleduo/SwitchButton) - by kyleduo
 - [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator) - by txusballesteros
+- [SwitchButton](https://github.com/kyleduo/SwitchButton) - by kyleduo
 - [druid](https://github.com/druid-io/druid) - by druid-io
 - [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) - by Rogero0o
 - [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) - by DevLight-Mobile-Agency
@@ -170,3 +170,5 @@
 - [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) - by wingjay
 - [motan](https://github.com/weibocom/motan) - by weibocom
 - [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - by borjabravo10
+- [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - by sfsheng0322
+- [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) - by kakajika

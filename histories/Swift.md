@@ -89,3 +89,4 @@
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
 - [JASON](https://github.com/delba/JASON) - by delba
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - by mobileplayer
+- [GlitchLabel](https://github.com/kciter/GlitchLabel) - by kciter
