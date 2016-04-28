@@ -57,3 +57,4 @@
 - [nuklear](https://github.com/vurtun/nuklear) - by vurtun
 - [ngs](https://github.com/ilyash/ngs) - by ilyash
 - [moreram](https://github.com/graphitemaster/moreram) - by graphitemaster
+- [no-more-secrets](https://github.com/bartobri/no-more-secrets) - by bartobri

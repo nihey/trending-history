@@ -9,3 +9,4 @@
 
 ### 2016-4
 - [tis-interpreter](https://github.com/TrustInSoft/tis-interpreter) - by TrustInSoft
+- [type-inference](https://github.com/prakhar1989/type-inference) - by prakhar1989

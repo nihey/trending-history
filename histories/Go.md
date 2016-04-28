@@ -23,9 +23,9 @@
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
+- [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
 - [apex](https://github.com/apex/apex) - by apex
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
-- [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
 - [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
@@ -35,8 +35,8 @@
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
+- [gogs](https://github.com/gogits/gogs) - by gogits
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
 - [go-git](https://github.com/src-d/go-git) - by src-d
@@ -83,3 +83,4 @@
 - [micro](https://github.com/zyedidia/micro) - by zyedidia
 - [find](https://github.com/schollz/find) - by schollz
 - [gobgp](https://github.com/osrg/gobgp) - by osrg
+- [passgo](https://github.com/ejcx/passgo) - by ejcx

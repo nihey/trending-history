@@ -15,3 +15,8 @@
 - [VS-PPT](https://github.com/Microsoft/VS-PPT) - by Microsoft
 - [BotBuilder](https://github.com/Microsoft/BotBuilder) - by Microsoft
 - [GalaxyExplorer](https://github.com/Microsoft/GalaxyExplorer) - by Microsoft
+
+### 2016-4
+- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - by xamarin
+- [xamarin-macios](https://github.com/xamarin/xamarin-macios) - by xamarin
+- [xamarin-android](https://github.com/xamarin/xamarin-android) - by xamarin
