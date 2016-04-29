@@ -40,3 +40,4 @@
 - [pamela](https://github.com/dollabs/pamela) - by dollabs
 - [skill-map](https://github.com/TeamStuQ/skill-map) - by TeamStuQ
 - [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - by shekhargulati
+- [jam-api](https://github.com/gavindinubilo/jam-api) - by gavindinubilo

@@ -15,8 +15,8 @@
 - [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - by MoZhouqi
 - [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - by leichunfeng
 - [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater) - by aerofs
-- [Miku](https://github.com/poboke/Miku) - by poboke
 - [SMSNinja](https://github.com/iosre/SMSNinja) - by iosre
+- [Miku](https://github.com/poboke/Miku) - by poboke
 - [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) - by ChenYilong
 - [Knuff](https://github.com/KnuffApp/Knuff) - by KnuffApp
 - [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) - by matmartinez
@@ -45,3 +45,4 @@
 - [xichuangzhu-ios](https://github.com/hustlzp/xichuangzhu-ios) - by hustlzp
 - [JSPatchX](https://github.com/bang590/JSPatchX) - by bang590
 - [osx-wallpaper](https://github.com/sindresorhus/osx-wallpaper) - by sindresorhus
+- [CareKit](https://github.com/carekit-apple/CareKit) - by carekit-apple

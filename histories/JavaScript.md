@@ -282,8 +282,8 @@
 - [babel-react-optimize](https://github.com/thejameskyle/babel-react-optimize) - by thejameskyle
 - [mapquery](https://github.com/Quartz/mapquery) - by Quartz
 - [monod](https://github.com/TailorDev/monod) - by TailorDev
-- [autochecker](https://github.com/VictorBjelkholm/autochecker) - by VictorBjelkholm
 - [reactotron](https://github.com/skellock/reactotron) - by skellock
+- [autochecker](https://github.com/VictorBjelkholm/autochecker) - by VictorBjelkholm
 - [bot-wat](https://github.com/peralmq/bot-wat) - by peralmq
 - [strman](https://github.com/dleitee/strman) - by dleitee
 - [checklistomania](https://github.com/18F/checklistomania) - by 18F
@@ -296,3 +296,5 @@
 - [Encryptr](https://github.com/SpiderOak/Encryptr) - by SpiderOak
 - [postgraphql](https://github.com/calebmer/postgraphql) - by calebmer
 - [node](https://github.com/nodejs/node) - by nodejs
+- [PokeMMO](https://github.com/maierfelix/PokeMMO) - by maierfelix
+- [standard](https://github.com/feross/standard) - by feross

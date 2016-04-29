@@ -14,8 +14,8 @@
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
 - [ispy](https://github.com/dellis23/ispy) - by dellis23
-- [lektor](https://github.com/lektor/lektor) - by lektor
 - [see](https://github.com/F-Secure/see) - by F-Secure
+- [lektor](https://github.com/lektor/lektor) - by lektor
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -53,8 +53,8 @@
 - [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper
 - [maybe](https://github.com/p-e-w/maybe) - by p-e-w
 - [records](https://github.com/kennethreitz/records) - by kennethreitz
-- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
 - [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
@@ -78,17 +78,17 @@
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
-- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
-- [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
+- [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
+- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
 - [dplython](https://github.com/dodger487/dplython) - by dodger487
 - [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
-- [quantum](https://github.com/karldray/quantum) - by karldray
 - [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
+- [quantum](https://github.com/karldray/quantum) - by karldray
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
 - [pytrader](https://github.com/owocki/pytrader) - by owocki
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
@@ -96,12 +96,12 @@
 ### 2016-4
 - [caravel](https://github.com/airbnb/caravel) - by airbnb
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
-- [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
+- [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
-- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [tflearn](https://github.com/tflearn/tflearn) - by tflearn
+- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [you-get](https://github.com/soimort/you-get) - by soimort
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
@@ -121,3 +121,4 @@
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
 - [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
+- [gym](https://github.com/openai/gym) - by openai

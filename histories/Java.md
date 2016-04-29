@@ -159,8 +159,8 @@
 - [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
 - [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - by hongyangAndroid
 - [folding-cell-android](https://github.com/Ramotion/folding-cell-android) - by Ramotion
-- [useful-java-links](https://github.com/Vedenin/useful-java-links) - by Vedenin
 - [plugins](https://github.com/kiteco/plugins) - by kiteco
+- [useful-java-links](https://github.com/Vedenin/useful-java-links) - by Vedenin
 - [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - by dinuscxj
 - [-dampView-springingView](https://github.com/Huyamin150/-dampView-springingView) - by Huyamin150
 - [agera](https://github.com/google/agera) - by google
@@ -174,3 +174,6 @@
 - [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) - by kakajika
 - [FloatingToolbar](https://github.com/rubensousa/FloatingToolbar) - by rubensousa
 - [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout) - by BCsl
+- [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - by pili-engineering
+- [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - by danielzeller
+- [MusicBobber](https://github.com/Cleveroad/MusicBobber) - by Cleveroad
