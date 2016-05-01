@@ -122,3 +122,6 @@
 - [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
 - [gym](https://github.com/openai/gym) - by openai
+
+### 2016-5
+- [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - by teachthenet
