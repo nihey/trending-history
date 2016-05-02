@@ -46,3 +46,6 @@
 - [JSPatchX](https://github.com/bang590/JSPatchX) - by bang590
 - [osx-wallpaper](https://github.com/sindresorhus/osx-wallpaper) - by sindresorhus
 - [CareKit](https://github.com/carekit-apple/CareKit) - by carekit-apple
+
+### 2016-5
+- [SwiftOCR](https://github.com/garnele007/SwiftOCR) - by garnele007

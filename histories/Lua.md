@@ -12,3 +12,6 @@
 
 ### 2016-4
 - [Stochastic_Depth](https://github.com/yueatsprograms/Stochastic_Depth) - by yueatsprograms
+
+### 2016-5
+- [siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) - by satoshiiizuka

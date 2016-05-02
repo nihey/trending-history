@@ -58,8 +58,8 @@
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
 - [acmewrapper](https://github.com/dkumor/acmewrapper) - by dkumor
-- [lion](https://github.com/celrenheit/lion) - by celrenheit
 - [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
+- [lion](https://github.com/celrenheit/lion) - by celrenheit
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
@@ -70,8 +70,8 @@
 - [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
 - [echo](https://github.com/labstack/echo) - by labstack
-- [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
+- [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
@@ -87,3 +87,5 @@
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
+- [gollum](https://github.com/trivago/gollum) - by trivago
+- [kit](https://github.com/go-kit/kit) - by go-kit
