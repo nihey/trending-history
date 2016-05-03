@@ -40,8 +40,8 @@
 - [darknet](https://github.com/pjreddie/darknet) - by pjreddie
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007
-- [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [citus](https://github.com/citusdata/citus) - by citusdata
 - [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [xhyve](https://github.com/mist64/xhyve) - by mist64
@@ -58,3 +58,7 @@
 - [ngs](https://github.com/ilyash/ngs) - by ilyash
 - [moreram](https://github.com/graphitemaster/moreram) - by graphitemaster
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - by bartobri
+
+### 2016-5
+- [wren](https://github.com/munificent/wren) - by munificent
+- [magma](https://github.com/lavabit/magma) - by lavabit
