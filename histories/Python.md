@@ -78,17 +78,17 @@
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
+- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
-- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
 - [dplython](https://github.com/dodger487/dplython) - by dodger487
 - [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
-- [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [quantum](https://github.com/karldray/quantum) - by karldray
+- [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
 - [pytrader](https://github.com/owocki/pytrader) - by owocki
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
@@ -98,10 +98,10 @@
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
 - [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
-- [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
-- [tflearn](https://github.com/tflearn/tflearn) - by tflearn
+- [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
+- [tflearn](https://github.com/tflearn/tflearn) - by tflearn
 - [you-get](https://github.com/soimort/you-get) - by soimort
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
@@ -111,9 +111,9 @@
 - [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
 - [keras](https://github.com/fchollet/keras) - by fchollet
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
+- [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
 - [pycraft](https://github.com/traverseda/pycraft) - by traverseda
-- [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [dcos](https://github.com/dcos/dcos) - by dcos
 - [colornet](https://github.com/pavelgonchar/colornet) - by pavelgonchar
 - [enjarify](https://github.com/google/enjarify) - by google
@@ -125,3 +125,4 @@
 
 ### 2016-5
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - by teachthenet
+- [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine

@@ -17,3 +17,6 @@
 - [playground](https://github.com/tensorflow/playground) - by tensorflow
 - [vscode](https://github.com/Microsoft/vscode) - by Microsoft
 - [xstream](https://github.com/staltz/xstream) - by staltz
+
+### 2016-5
+- [angular](https://github.com/angular/angular) - by angular

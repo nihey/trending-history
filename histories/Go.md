@@ -90,3 +90,4 @@
 - [gollum](https://github.com/trivago/gollum) - by trivago
 - [kit](https://github.com/go-kit/kit) - by go-kit
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
+- [gam](https://github.com/rogeralsing/gam) - by rogeralsing

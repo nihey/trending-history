@@ -97,20 +97,20 @@
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
-- [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
-- [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
+- [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [Rosie](https://github.com/Karumi/Rosie) - by Karumi
+- [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
-- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
-- [android-classyshark](https://github.com/google/android-classyshark) - by google
+- [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample) - by liaohuqiu
 - [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar) - by Shinelw
+- [android-classyshark](https://github.com/google/android-classyshark) - by google
 
 ### 2016-3
-- [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [OuNews](https://github.com/oubowu/OuNews) - by oubowu
+- [Git.NB](https://github.com/Jeffmen/Git.NB) - by Jeffmen
 - [TranslateApp](https://github.com/maoruibin/TranslateApp) - by maoruibin
 - [NineGridImageView](https://github.com/laobie/NineGridImageView) - by laobie
 - [HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - by Hitomis
@@ -118,17 +118,17 @@
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
-- [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
 - [BottomBar](https://github.com/roughike/BottomBar) - by roughike
-- [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
+- [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
 - [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
+- [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
 - [binnavi](https://github.com/google/binnavi) - by google
 - [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
-- [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
 - [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
-- [LessCode](https://github.com/openproject/LessCode) - by openproject
+- [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
 - [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
+- [LessCode](https://github.com/openproject/LessCode) - by openproject
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
 - [RoadRunner](https://github.com/glomadrian/RoadRunner) - by glomadrian
 - [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
@@ -138,8 +138,8 @@
 - [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - by Jacksgong
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
-- [smile](https://github.com/haifengl/smile) - by haifengl
 - [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
+- [smile](https://github.com/haifengl/smile) - by haifengl
 - [VideoListPlayer](https://github.com/waynell/VideoListPlayer) - by waynell
 - [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - by ybq
 - [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) - by niorgai
@@ -150,10 +150,10 @@
 - [druid](https://github.com/druid-io/druid) - by druid-io
 - [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) - by Rogero0o
 - [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) - by DevLight-Mobile-Agency
-- [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
+- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
 - [Conductor](https://github.com/bluelinelabs/Conductor) - by bluelinelabs
 - [sqlite-android](https://github.com/requery/sqlite-android) - by requery
-- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
+- [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
 - [ActivityRouter](https://github.com/mzule/ActivityRouter) - by mzule
 - [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
@@ -179,3 +179,7 @@
 - [MusicBobber](https://github.com/Cleveroad/MusicBobber) - by Cleveroad
 - [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - by Rogero0o
 - [drawee-text-view](https://github.com/Bilibili/drawee-text-view) - by Bilibili
+
+### 2016-5
+- [PieMessage](https://github.com/bboyairwreck/PieMessage) - by bboyairwreck
+- [MicroReader](https://github.com/YiuChoi/MicroReader) - by YiuChoi
