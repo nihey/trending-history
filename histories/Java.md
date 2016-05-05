@@ -45,19 +45,19 @@
 - [GifView](https://github.com/Cutta/GifView) - by Cutta
 - [NBAPlus](https://github.com/SilenceDut/NBAPlus) - by SilenceDut
 - [PhotoNoter](https://github.com/yydcdut/PhotoNoter) - by yydcdut
-- [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) - by mcxiaoke
+- [RxRelay](https://github.com/JakeWharton/RxRelay) - by JakeWharton
 - [MathView](https://github.com/kexanie/MathView) - by kexanie
 
 ### 2016-1
 - [Slice](https://github.com/mthli/Slice) - by mthli
-- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
+- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
-- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
-- [Small](https://github.com/wequick/Small) - by wequick
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
+- [Small](https://github.com/wequick/Small) - by wequick
+- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
@@ -75,15 +75,15 @@
 - [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
-- [GT](https://github.com/TencentOpen/GT) - by TencentOpen
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
+- [GT](https://github.com/TencentOpen/GT) - by TencentOpen
 - [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
 
 ### 2016-2
+- [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
 - [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
 - [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
-- [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
 - [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
@@ -120,16 +120,16 @@
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
 - [BottomBar](https://github.com/roughike/BottomBar) - by roughike
 - [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
-- [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
 - [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
+- [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
 - [binnavi](https://github.com/google/binnavi) - by google
 - [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
-- [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
 - [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
+- [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
 - [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
-- [LessCode](https://github.com/openproject/LessCode) - by openproject
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
+- [LessCode](https://github.com/openproject/LessCode) - by openproject
 - [RoadRunner](https://github.com/glomadrian/RoadRunner) - by glomadrian
 - [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
 - [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
@@ -145,18 +145,18 @@
 - [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) - by niorgai
 
 ### 2016-4
-- [SwitchButton](https://github.com/kyleduo/SwitchButton) - by kyleduo
 - [welcome-coordinator](https://github.com/txusballesteros/welcome-coordinator) - by txusballesteros
+- [SwitchButton](https://github.com/kyleduo/SwitchButton) - by kyleduo
 - [druid](https://github.com/druid-io/druid) - by druid-io
 - [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) - by Rogero0o
 - [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) - by DevLight-Mobile-Agency
-- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
+- [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
 - [Conductor](https://github.com/bluelinelabs/Conductor) - by bluelinelabs
 - [sqlite-android](https://github.com/requery/sqlite-android) - by requery
-- [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
+- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
 - [ActivityRouter](https://github.com/mzule/ActivityRouter) - by mzule
-- [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
+- [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - by hongyangAndroid
 - [folding-cell-android](https://github.com/Ramotion/folding-cell-android) - by Ramotion
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - by Vedenin
@@ -165,8 +165,8 @@
 - [-dampView-springingView](https://github.com/Huyamin150/-dampView-springingView) - by Huyamin150
 - [agera](https://github.com/google/agera) - by google
 - [ion-java](https://github.com/amznlabs/ion-java) - by amznlabs
-- [android-about-page](https://github.com/medyo/android-about-page) - by medyo
 - [Girls](https://github.com/flyou/Girls) - by flyou
+- [android-about-page](https://github.com/medyo/android-about-page) - by medyo
 - [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) - by wingjay
 - [motan](https://github.com/weibocom/motan) - by weibocom
 - [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - by borjabravo10
@@ -183,3 +183,6 @@
 ### 2016-5
 - [PieMessage](https://github.com/bboyairwreck/PieMessage) - by bboyairwreck
 - [MicroReader](https://github.com/YiuChoi/MicroReader) - by YiuChoi
+- [SwipeAwayDialog](https://github.com/kakajika/SwipeAwayDialog) - by kakajika
+- [GithubWidget](https://github.com/Nightonke/GithubWidget) - by Nightonke
+- [FloatMenuSample](https://github.com/crosg/FloatMenuSample) - by crosg
