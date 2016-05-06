@@ -17,3 +17,6 @@
 ### 2016-4
 - [tikv](https://github.com/pingcap/tikv) - by pingcap
 - [xi-editor](https://github.com/google/xi-editor) - by google
+
+### 2016-5
+- [rdedup](https://github.com/dpc/rdedup) - by dpc

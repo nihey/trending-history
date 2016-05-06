@@ -20,9 +20,9 @@
 - [Then](https://github.com/devxoul/Then) - by devxoul
 
 ### 2016-1
-- [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
 - [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [spi](https://github.com/guoc/spi) - by guoc
+- [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -72,8 +72,8 @@
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
 - [Gifu](https://github.com/kaishin/Gifu) - by kaishin
-- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
+- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -95,3 +95,6 @@
 ### 2016-5
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
+- [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
+- [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
+- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
