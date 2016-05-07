@@ -4,8 +4,8 @@
 ### 2015-12
 - [phan](https://github.com/etsy/phan) - by etsy
 - [koel](https://github.com/phanan/koel) - by phanan
-- [php-gif](https://github.com/ErikvdVen/php-gif) - by ErikvdVen
 - [slackwolf](https://github.com/chrisgillis/slackwolf) - by chrisgillis
+- [php-gif](https://github.com/ErikvdVen/php-gif) - by ErikvdVen
 
 ### 2016-1
 - [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - by VerbalExpressions
@@ -31,3 +31,6 @@
 - [php-gui](https://github.com/gabrielrcouto/php-gui) - by gabrielrcouto
 - [pagekit](https://github.com/pagekit/pagekit) - by pagekit
 - [Lelive](https://github.com/volio/Lelive) - by volio
+
+### 2016-5
+- [valet](https://github.com/laravel/valet) - by laravel
