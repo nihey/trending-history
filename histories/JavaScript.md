@@ -288,8 +288,8 @@
 - [strman](https://github.com/dleitee/strman) - by dleitee
 - [checklistomania](https://github.com/18F/checklistomania) - by 18F
 - [react-native-web](https://github.com/necolas/react-native-web) - by necolas
-- [Styleguide](https://github.com/devbridge/Styleguide) - by devbridge
 - [Dazzle](https://github.com/Raathigesh/Dazzle) - by Raathigesh
+- [Styleguide](https://github.com/devbridge/Styleguide) - by devbridge
 - [Chart.js](https://github.com/chartjs/Chart.js) - by chartjs
 - [grafi](https://github.com/grafijs/grafi) - by grafijs
 - [mama-hd](https://github.com/nareix/mama-hd) - by nareix
@@ -301,9 +301,9 @@
 - [vConsole](https://github.com/WechatFE/vConsole) - by WechatFE
 
 ### 2016-5
-- [hogwatch](https://github.com/akshayKMR/hogwatch) - by akshayKMR
 - [scrape-it](https://github.com/IonicaBizau/scrape-it) - by IonicaBizau
 - [tota11y](https://github.com/Khan/tota11y) - by Khan
+- [hogwatch](https://github.com/akshayKMR/hogwatch) - by akshayKMR
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - by GeekyAnts
 - [json-server](https://github.com/typicode/json-server) - by typicode
 - [panther](https://github.com/joshwcomeau/panther) - by joshwcomeau
@@ -315,3 +315,5 @@
 - [anatine](https://github.com/sindresorhus/anatine) - by sindresorhus
 - [shots](https://github.com/bevacqua/shots) - by bevacqua
 - [lambda-comments](https://github.com/jimpick/lambda-comments) - by jimpick
+- [reactspeedcoding](https://github.com/manavsehgal/reactspeedcoding) - by manavsehgal
+- [studio](https://github.com/ericholiveira/studio) - by ericholiveira
