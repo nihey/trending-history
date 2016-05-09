@@ -19,17 +19,17 @@
 - [micro](https://github.com/micro/micro) - by micro
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
-- [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
+- [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
+- [apex](https://github.com/apex/apex) - by apex
 - [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
-- [apex](https://github.com/apex/apex) - by apex
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
-- [dlite](https://github.com/nlf/dlite) - by nlf
 - [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
+- [dlite](https://github.com/nlf/dlite) - by nlf
 - [seesaw](https://github.com/google/seesaw) - by google
 
 ### 2016-2
@@ -40,8 +40,8 @@
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
 - [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
-- [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [go-git](https://github.com/src-d/go-git) - by src-d
+- [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -52,8 +52,8 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [apns2](https://github.com/sideshow/apns2) - by sideshow
+- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
@@ -63,8 +63,8 @@
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
-- [bigcache](https://github.com/allegro/bigcache) - by allegro
 - [abot](https://github.com/itsabot/abot) - by itsabot
+- [bigcache](https://github.com/allegro/bigcache) - by allegro
 
 ### 2016-4
 - [depscheck](https://github.com/divan/depscheck) - by divan
@@ -95,3 +95,4 @@
 - [gor](https://github.com/buger/gor) - by buger
 - [doctl](https://github.com/digitalocean/doctl) - by digitalocean
 - [knox](https://github.com/pinterest/knox) - by pinterest
+- [httpexpect](https://github.com/gavv/httpexpect) - by gavv
