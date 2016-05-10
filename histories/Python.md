@@ -53,8 +53,8 @@
 - [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper
 - [maybe](https://github.com/p-e-w/maybe) - by p-e-w
 - [records](https://github.com/kennethreitz/records) - by kennethreitz
-- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
 - [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
@@ -62,8 +62,8 @@
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
-- [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
+- [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
 - [sidomo](https://github.com/deepgram/sidomo) - by deepgram
 - [gdom](https://github.com/syrusakbary/gdom) - by syrusakbary
@@ -71,24 +71,24 @@
 
 ### 2016-3
 - [zhao](https://github.com/programthink/zhao) - by programthink
-- [public_drown_scanner](https://github.com/nimia/public_drown_scanner) - by nimia
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - by HelloZeroNet
+- [public_drown_scanner](https://github.com/nimia/public_drown_scanner) - by nimia
 - [image-analogies](https://github.com/awentzonline/image-analogies) - by awentzonline
 - [statuspage](https://github.com/pyupio/statuspage) - by pyupio
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
 - [pseudo](https://github.com/alehander42/pseudo) - by alehander42
-- [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
+- [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
-- [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
 - [dplython](https://github.com/dodger487/dplython) - by dodger487
-- [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
+- [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
 - [quantum](https://github.com/karldray/quantum) - by karldray
+- [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
 - [pytrader](https://github.com/owocki/pytrader) - by owocki
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
@@ -119,8 +119,8 @@
 - [enjarify](https://github.com/google/enjarify) - by google
 - [elastalert](https://github.com/Yelp/elastalert) - by Yelp
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
-- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
 - [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
+- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
 - [gym](https://github.com/openai/gym) - by openai
 
 ### 2016-5
@@ -133,3 +133,5 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
+- [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
+- [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl

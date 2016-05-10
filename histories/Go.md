@@ -63,8 +63,8 @@
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
-- [abot](https://github.com/itsabot/abot) - by itsabot
 - [bigcache](https://github.com/allegro/bigcache) - by allegro
+- [abot](https://github.com/itsabot/abot) - by itsabot
 
 ### 2016-4
 - [depscheck](https://github.com/divan/depscheck) - by divan
@@ -96,3 +96,4 @@
 - [doctl](https://github.com/digitalocean/doctl) - by digitalocean
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
+- [rack](https://github.com/convox/rack) - by convox
