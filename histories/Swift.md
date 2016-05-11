@@ -99,3 +99,4 @@
 - [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
 - [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
+- [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan

@@ -21,3 +21,4 @@
 ### 2016-5
 - [rdedup](https://github.com/dpc/rdedup) - by dpc
 - [panopticon](https://github.com/das-labor/panopticon) - by das-labor
+- [hydrogen](https://github.com/nathansizemore/hydrogen) - by nathansizemore

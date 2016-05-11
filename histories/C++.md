@@ -62,3 +62,4 @@
 
 ### 2016-5
 - [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - by BearishSun
+- [amazon-dsstne](https://github.com/amznlabs/amazon-dsstne) - by amznlabs

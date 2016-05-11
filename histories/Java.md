@@ -124,9 +124,9 @@
 - [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
 - [binnavi](https://github.com/google/binnavi) - by google
+- [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
 - [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
 - [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
-- [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
 - [LessCode](https://github.com/openproject/LessCode) - by openproject
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
 - [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
@@ -138,8 +138,8 @@
 - [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
-- [smile](https://github.com/haifengl/smile) - by haifengl
 - [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
+- [smile](https://github.com/haifengl/smile) - by haifengl
 - [VideoListPlayer](https://github.com/waynell/VideoListPlayer) - by waynell
 - [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - by ybq
 - [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) - by niorgai
@@ -150,23 +150,23 @@
 - [druid](https://github.com/druid-io/druid) - by druid-io
 - [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) - by Rogero0o
 - [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) - by DevLight-Mobile-Agency
+- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
 - [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
 - [sqlite-android](https://github.com/requery/sqlite-android) - by requery
-- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
 - [Conductor](https://github.com/bluelinelabs/Conductor) - by bluelinelabs
 - [ActivityRouter](https://github.com/mzule/ActivityRouter) - by mzule
 - [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
 - [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - by hongyangAndroid
 - [folding-cell-android](https://github.com/Ramotion/folding-cell-android) - by Ramotion
-- [plugins](https://github.com/kiteco/plugins) - by kiteco
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - by Vedenin
+- [plugins](https://github.com/kiteco/plugins) - by kiteco
 - [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable) - by dinuscxj
 - [-dampView-springingView](https://github.com/Huyamin150/-dampView-springingView) - by Huyamin150
 - [agera](https://github.com/google/agera) - by google
-- [ion-java](https://github.com/amznlabs/ion-java) - by amznlabs
 - [android-about-page](https://github.com/medyo/android-about-page) - by medyo
 - [Girls](https://github.com/flyou/Girls) - by flyou
+- [ion-java](https://github.com/amznlabs/ion-java) - by amznlabs
 - [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) - by wingjay
 - [motan](https://github.com/weibocom/motan) - by weibocom
 - [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - by borjabravo10
@@ -175,8 +175,8 @@
 - [FloatingToolbar](https://github.com/rubensousa/FloatingToolbar) - by rubensousa
 - [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout) - by BCsl
 - [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - by pili-engineering
-- [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - by danielzeller
 - [MusicBobber](https://github.com/Cleveroad/MusicBobber) - by Cleveroad
+- [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - by danielzeller
 - [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - by Rogero0o
 - [drawee-text-view](https://github.com/Bilibili/drawee-text-view) - by Bilibili
 
@@ -194,3 +194,6 @@
 - [Shuffle](https://github.com/Meetic/Shuffle) - by Meetic
 - [Baby](https://github.com/rogerou/Baby) - by rogerou
 - [sensey](https://github.com/nisrulz/sensey) - by nisrulz
+- [distributedlog](https://github.com/twitter/distributedlog) - by twitter
+- [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - by MasayukiSuda
+- [TLint](https://github.com/gzsll/TLint) - by gzsll
