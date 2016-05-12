@@ -97,3 +97,5 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
+- [grafana](https://github.com/grafana/grafana) - by grafana
+- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo

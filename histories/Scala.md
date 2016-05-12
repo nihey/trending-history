@@ -9,3 +9,6 @@
 
 ### 2016-3
 - [scio](https://github.com/spotify/scio) - by spotify
+
+### 2016-5
+- [scala-native](https://github.com/scala-native/scala-native) - by scala-native

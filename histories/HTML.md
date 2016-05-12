@@ -46,3 +46,4 @@
 ### 2016-5
 - [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
+- [electron-api-demos](https://github.com/electron/electron-api-demos) - by electron
