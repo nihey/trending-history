@@ -66,3 +66,4 @@
 - [electron](https://github.com/electron/electron) - by electron
 - [openthread](https://github.com/openthread/openthread) - by openthread
 - [Fido](https://github.com/FidoProject/Fido) - by FidoProject
+- [pika](https://github.com/Qihoo360/pika) - by Qihoo360

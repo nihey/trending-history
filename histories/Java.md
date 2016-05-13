@@ -198,3 +198,5 @@
 - [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - by MasayukiSuda
 - [TLint](https://github.com/gzsll/TLint) - by gzsll
 - [T-MVP](https://github.com/north2014/T-MVP) - by north2014
+- [ExpandableLayout](https://github.com/cachapa/ExpandableLayout) - by cachapa
+- [UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin) - by yjfnypeu

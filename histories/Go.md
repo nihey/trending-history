@@ -28,8 +28,8 @@
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
-- [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
 - [dlite](https://github.com/nlf/dlite) - by nlf
+- [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
 - [seesaw](https://github.com/google/seesaw) - by google
 
 ### 2016-2
@@ -40,8 +40,8 @@
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
 - [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
-- [go-git](https://github.com/src-d/go-git) - by src-d
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
+- [go-git](https://github.com/src-d/go-git) - by src-d
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -58,8 +58,8 @@
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
 - [acmewrapper](https://github.com/dkumor/acmewrapper) - by dkumor
-- [lion](https://github.com/celrenheit/lion) - by celrenheit
 - [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
+- [lion](https://github.com/celrenheit/lion) - by celrenheit
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
@@ -99,3 +99,5 @@
 - [rack](https://github.com/convox/rack) - by convox
 - [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
+- [leveros](https://github.com/leveros/leveros) - by leveros
+- [imageserver](https://github.com/pierrre/imageserver) - by pierrre

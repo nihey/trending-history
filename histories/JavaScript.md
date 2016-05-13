@@ -322,3 +322,4 @@
 - [unstuck-webpack](https://github.com/linuxenko/unstuck-webpack) - by linuxenko
 - [react-router-scroll](https://github.com/taion/react-router-scroll) - by taion
 - [devtron](https://github.com/electron/devtron) - by electron
+- [tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - by iamdustan
