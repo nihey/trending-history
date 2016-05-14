@@ -51,15 +51,15 @@
 
 ### 2016-1
 - [Slice](https://github.com/mthli/Slice) - by mthli
-- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [WeekCalendar](https://github.com/nomanr/WeekCalendar) - by nomanr
+- [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - by renaudcerrato
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
-- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
 - [Small](https://github.com/wequick/Small) - by wequick
-- [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
+- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
+- [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
@@ -84,15 +84,15 @@
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
 - [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
 - [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
-- [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
 - [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
+- [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
+- [kickmaterial](https://github.com/byoutline/kickmaterial) - by byoutline
 - [pippo](https://github.com/decebals/pippo) - by decebals
 - [morphy-toolbar](https://github.com/badoualy/morphy-toolbar) - by badoualy
-- [kickmaterial](https://github.com/byoutline/kickmaterial) - by byoutline
 - [javacpp](https://github.com/bytedeco/javacpp) - by bytedeco
-- [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
 - [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
+- [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
 - [arrow](https://github.com/apache/arrow) - by apache
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
@@ -118,31 +118,31 @@
 - [che](https://github.com/eclipse/che) - by eclipse
 - [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - by Nightonke
 - [ExpandablePager](https://github.com/Telenav/ExpandablePager) - by Telenav
-- [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
 - [BottomBar](https://github.com/roughike/BottomBar) - by roughike
-- [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
-- [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
+- [IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - by jiang111
 - [carouselview](https://github.com/sayyam/carouselview) - by sayyam
+- [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - by aurelhubert
+- [MarsDaemon](https://github.com/Marswin/MarsDaemon) - by Marswin
 - [binnavi](https://github.com/google/binnavi) - by google
+- [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
 - [BlurLockView](https://github.com/Nightonke/BlurLockView) - by Nightonke
 - [EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - by CaMnter
-- [EasingInterpolator](https://github.com/MasayukiSuda/EasingInterpolator) - by MasayukiSuda
 - [LessCode](https://github.com/openproject/LessCode) - by openproject
-- [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
 - [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) - by xmuSistone
-- [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
+- [Steppers](https://github.com/drozdzynski/Steppers) - by drozdzynski
 - [RoadRunner](https://github.com/glomadrian/RoadRunner) - by glomadrian
+- [Idaily](https://github.com/liuguangqiang/Idaily) - by liuguangqiang
 - [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) - by GIGAMOLE
-- [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - by AzimoLabs
 - [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - by Jacksgong
 - [BoomMenu](https://github.com/Nightonke/BoomMenu) - by Nightonke
+- [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - by AzimoLabs
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
 - [smile](https://github.com/haifengl/smile) - by haifengl
 - [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
 - [VideoListPlayer](https://github.com/waynell/VideoListPlayer) - by waynell
-- [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - by ybq
 - [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) - by niorgai
+- [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - by ybq
 
 ### 2016-4
 - [SwitchButton](https://github.com/kyleduo/SwitchButton) - by kyleduo
@@ -165,8 +165,8 @@
 - [-dampView-springingView](https://github.com/Huyamin150/-dampView-springingView) - by Huyamin150
 - [agera](https://github.com/google/agera) - by google
 - [android-about-page](https://github.com/medyo/android-about-page) - by medyo
-- [ion-java](https://github.com/amznlabs/ion-java) - by amznlabs
 - [Girls](https://github.com/flyou/Girls) - by flyou
+- [ion-java](https://github.com/amznlabs/ion-java) - by amznlabs
 - [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) - by wingjay
 - [motan](https://github.com/weibocom/motan) - by weibocom
 - [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - by borjabravo10
@@ -200,3 +200,5 @@
 - [T-MVP](https://github.com/north2014/T-MVP) - by north2014
 - [ExpandableLayout](https://github.com/cachapa/ExpandableLayout) - by cachapa
 - [UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin) - by yjfnypeu
+- [pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup) - by Yalantis
+- [TagsEditText](https://github.com/mabbas007/TagsEditText) - by mabbas007

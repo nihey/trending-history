@@ -262,22 +262,22 @@
 - [vizflow](https://github.com/vizflow/vizflow) - by vizflow
 - [command](https://github.com/jessepollak/command) - by jessepollak
 - [Docbase](https://github.com/appbaseio/Docbase) - by appbaseio
-- [js_designpatterns](https://github.com/nnupoor/js_designpatterns) - by nnupoor
 - [popper.js](https://github.com/FezVrasta/popper.js) - by FezVrasta
-- [webpack-boilerplate](https://github.com/geniuscarrier/webpack-boilerplate) - by geniuscarrier
+- [js_designpatterns](https://github.com/nnupoor/js_designpatterns) - by nnupoor
 - [webtorrent-desktop](https://github.com/feross/webtorrent-desktop) - by feross
-- [justified-layout](https://github.com/flickr/justified-layout) - by flickr
+- [webpack-boilerplate](https://github.com/geniuscarrier/webpack-boilerplate) - by geniuscarrier
 - [blur-admin](https://github.com/akveo/blur-admin) - by akveo
-- [favesound-redux](https://github.com/rwieruch/favesound-redux) - by rwieruch
+- [justified-layout](https://github.com/flickr/justified-layout) - by flickr
 - [angular2-mean-starter](https://github.com/giacomocerquone/angular2-mean-starter) - by giacomocerquone
+- [favesound-redux](https://github.com/rwieruch/favesound-redux) - by rwieruch
 - [rn_rank](https://github.com/zhongjie-chen/rn_rank) - by zhongjie-chen
 - [newcrawler](https://github.com/speed/newcrawler) - by speed
-- [rrtr](https://github.com/taion/rrtr) - by taion
 - [golden-layout](https://github.com/deepstreamIO/golden-layout) - by deepstreamIO
+- [rrtr](https://github.com/taion/rrtr) - by taion
 - [f8app](https://github.com/fbsamples/f8app) - by fbsamples
 - [react-native](https://github.com/ReactWindows/react-native) - by ReactWindows
-- [bricklayer](https://github.com/ademilter/bricklayer) - by ademilter
 - [messenger-bot](https://github.com/remixz/messenger-bot) - by remixz
+- [bricklayer](https://github.com/ademilter/bricklayer) - by ademilter
 - [jaspy](https://github.com/koehlma/jaspy) - by koehlma
 - [babel-react-optimize](https://github.com/thejameskyle/babel-react-optimize) - by thejameskyle
 - [mapquery](https://github.com/Quartz/mapquery) - by Quartz
@@ -294,10 +294,10 @@
 - [grafi](https://github.com/grafijs/grafi) - by grafijs
 - [mama-hd](https://github.com/nareix/mama-hd) - by nareix
 - [Encryptr](https://github.com/SpiderOak/Encryptr) - by SpiderOak
-- [postgraphql](https://github.com/calebmer/postgraphql) - by calebmer
 - [node](https://github.com/nodejs/node) - by nodejs
-- [PokeMMO](https://github.com/maierfelix/PokeMMO) - by maierfelix
+- [postgraphql](https://github.com/calebmer/postgraphql) - by calebmer
 - [standard](https://github.com/feross/standard) - by feross
+- [PokeMMO](https://github.com/maierfelix/PokeMMO) - by maierfelix
 - [vConsole](https://github.com/WechatFE/vConsole) - by WechatFE
 
 ### 2016-5
@@ -306,8 +306,8 @@
 - [tota11y](https://github.com/Khan/tota11y) - by Khan
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - by GeekyAnts
 - [json-server](https://github.com/typicode/json-server) - by typicode
-- [T-Rex](https://github.com/amaneureka/T-Rex) - by amaneureka
 - [panther](https://github.com/joshwcomeau/panther) - by joshwcomeau
+- [T-Rex](https://github.com/amaneureka/T-Rex) - by amaneureka
 - [relax](https://github.com/relax/relax) - by relax
 - [refined-twitter](https://github.com/sindresorhus/refined-twitter) - by sindresorhus
 - [PTHospital.chrome](https://github.com/hustcc/PTHospital.chrome) - by hustcc
@@ -323,3 +323,5 @@
 - [react-router-scroll](https://github.com/taion/react-router-scroll) - by taion
 - [devtron](https://github.com/electron/devtron) - by electron
 - [tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - by iamdustan
+- [why-did-you-update](https://github.com/garbles/why-did-you-update) - by garbles
+- [redux-observable](https://github.com/blesh/redux-observable) - by blesh

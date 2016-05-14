@@ -98,18 +98,18 @@
 - [caravel](https://github.com/airbnb/caravel) - by airbnb
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
-- [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
-- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
-- [you-get](https://github.com/soimort/you-get) - by soimort
+- [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [tflearn](https://github.com/tflearn/tflearn) - by tflearn
+- [you-get](https://github.com/soimort/you-get) - by soimort
+- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
 - [voltron](https://github.com/snare/voltron) - by snare
-- [keras](https://github.com/fchollet/keras) - by fchollet
 - [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
+- [keras](https://github.com/fchollet/keras) - by fchollet
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
 - [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [pycraft](https://github.com/traverseda/pycraft) - by traverseda
@@ -126,8 +126,8 @@
 ### 2016-5
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - by teachthenet
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
-- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
+- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
@@ -138,3 +138,5 @@
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
+- [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
+- [certbot](https://github.com/certbot/certbot) - by certbot
