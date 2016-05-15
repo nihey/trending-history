@@ -21,8 +21,8 @@
 - [tbox](https://github.com/waruqi/tbox) - by waruqi
 
 ### 2016-2
-- [how2heap](https://github.com/shellphish/how2heap) - by shellphish
 - [Craft](https://github.com/fogleman/Craft) - by fogleman
+- [how2heap](https://github.com/shellphish/how2heap) - by shellphish
 - [ds](https://github.com/php-ds/ds) - by php-ds
 - [htop](https://github.com/hishamhm/htop) - by hishamhm
 - [mousejack](https://github.com/RFStorm/mousejack) - by RFStorm
@@ -40,11 +40,11 @@
 - [darknet](https://github.com/pjreddie/darknet) - by pjreddie
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007
-- [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
+- [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [citus](https://github.com/citusdata/citus) - by citusdata
-- [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [xhyve](https://github.com/mist64/xhyve) - by mist64
+- [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [netdata](https://github.com/firehol/netdata) - by firehol
 - [lwan](https://github.com/lpereira/lwan) - by lpereira
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - by edent
@@ -63,3 +63,5 @@
 - [wren](https://github.com/munificent/wren) - by munificent
 - [magma](https://github.com/lavabit/magma) - by lavabit
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
+- [lightmapper](https://github.com/ands/lightmapper) - by ands
+- [facebooc](https://github.com/jserv/facebooc) - by jserv
