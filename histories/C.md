@@ -21,8 +21,8 @@
 - [tbox](https://github.com/waruqi/tbox) - by waruqi
 
 ### 2016-2
-- [Craft](https://github.com/fogleman/Craft) - by fogleman
 - [how2heap](https://github.com/shellphish/how2heap) - by shellphish
+- [Craft](https://github.com/fogleman/Craft) - by fogleman
 - [ds](https://github.com/php-ds/ds) - by php-ds
 - [htop](https://github.com/hishamhm/htop) - by hishamhm
 - [mousejack](https://github.com/RFStorm/mousejack) - by RFStorm
@@ -30,21 +30,21 @@
 
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
-- [luna](https://github.com/tj/luna) - by tj
 - [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [emojicode](https://github.com/emojicode/emojicode) - by emojicode
+- [luna](https://github.com/tj/luna) - by tj
 - [jo](https://github.com/jpmens/jo) - by jpmens
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
 - [Collections-C](https://github.com/srdja/Collections-C) - by srdja
 - [darknet](https://github.com/pjreddie/darknet) - by pjreddie
-- [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007
-- [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
+- [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [citus](https://github.com/citusdata/citus) - by citusdata
-- [xhyve](https://github.com/mist64/xhyve) - by mist64
 - [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
+- [xhyve](https://github.com/mist64/xhyve) - by mist64
 - [netdata](https://github.com/firehol/netdata) - by firehol
 - [lwan](https://github.com/lpereira/lwan) - by lpereira
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - by edent
@@ -65,3 +65,4 @@
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
 - [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
+- [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - by christinaa

@@ -270,10 +270,10 @@
 - [blur-admin](https://github.com/akveo/blur-admin) - by akveo
 - [angular2-mean-starter](https://github.com/giacomocerquone/angular2-mean-starter) - by giacomocerquone
 - [favesound-redux](https://github.com/rwieruch/favesound-redux) - by rwieruch
-- [newcrawler](https://github.com/speed/newcrawler) - by speed
 - [rn_rank](https://github.com/zhongjie-chen/rn_rank) - by zhongjie-chen
-- [rrtr](https://github.com/taion/rrtr) - by taion
+- [newcrawler](https://github.com/speed/newcrawler) - by speed
 - [golden-layout](https://github.com/deepstreamIO/golden-layout) - by deepstreamIO
+- [rrtr](https://github.com/taion/rrtr) - by taion
 - [react-native](https://github.com/ReactWindows/react-native) - by ReactWindows
 - [f8app](https://github.com/fbsamples/f8app) - by fbsamples
 - [messenger-bot](https://github.com/remixz/messenger-bot) - by remixz
@@ -281,9 +281,9 @@
 - [jaspy](https://github.com/koehlma/jaspy) - by koehlma
 - [babel-react-optimize](https://github.com/thejameskyle/babel-react-optimize) - by thejameskyle
 - [mapquery](https://github.com/Quartz/mapquery) - by Quartz
+- [reactotron](https://github.com/skellock/reactotron) - by skellock
 - [monod](https://github.com/TailorDev/monod) - by TailorDev
 - [autochecker](https://github.com/VictorBjelkholm/autochecker) - by VictorBjelkholm
-- [reactotron](https://github.com/skellock/reactotron) - by skellock
 - [bot-wat](https://github.com/peralmq/bot-wat) - by peralmq
 - [strman](https://github.com/dleitee/strman) - by dleitee
 - [checklistomania](https://github.com/18F/checklistomania) - by 18F
@@ -292,8 +292,8 @@
 - [Styleguide](https://github.com/devbridge/Styleguide) - by devbridge
 - [Chart.js](https://github.com/chartjs/Chart.js) - by chartjs
 - [grafi](https://github.com/grafijs/grafi) - by grafijs
-- [Encryptr](https://github.com/SpiderOak/Encryptr) - by SpiderOak
 - [mama-hd](https://github.com/nareix/mama-hd) - by nareix
+- [Encryptr](https://github.com/SpiderOak/Encryptr) - by SpiderOak
 - [node](https://github.com/nodejs/node) - by nodejs
 - [postgraphql](https://github.com/calebmer/postgraphql) - by calebmer
 - [standard](https://github.com/feross/standard) - by feross
@@ -329,3 +329,5 @@
 - [color-wander](https://github.com/mattdesl/color-wander) - by mattdesl
 - [wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate) - by panteng
 - [plyr](https://github.com/Selz/plyr) - by Selz
+- [kajero](https://github.com/JoelOtter/kajero) - by JoelOtter
+- [visual-center](https://github.com/javierbyte/visual-center) - by javierbyte
