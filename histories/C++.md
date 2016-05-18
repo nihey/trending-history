@@ -24,8 +24,8 @@
 
 ### 2016-2
 - [zig](https://github.com/andrewrk/zig) - by andrewrk
-- [ion](https://github.com/google/ion) - by google
 - [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
+- [ion](https://github.com/google/ion) - by google
 - [serving](https://github.com/tensorflow/serving) - by tensorflow
 - [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
@@ -39,14 +39,14 @@
 - [rr](https://github.com/mozilla/rr) - by mozilla
 - [xcbuild](https://github.com/facebook/xcbuild) - by facebook
 - [mame](https://github.com/mamedev/mame) - by mamedev
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - by Croteam-official
 - [electron](https://github.com/atom/electron) - by atom
-- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
-- [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
-- [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
+- [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
+- [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
 - [feather](https://github.com/wesm/feather) - by wesm
 - [uWebSockets](https://github.com/alexhultman/uWebSockets) - by alexhultman
 
@@ -67,3 +67,4 @@
 - [openthread](https://github.com/openthread/openthread) - by openthread
 - [Fido](https://github.com/FidoProject/Fido) - by FidoProject
 - [pika](https://github.com/Qihoo360/pika) - by Qihoo360
+- [FireRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FireRays_SDK) - by GPUOpen-LibrariesAndSDKs

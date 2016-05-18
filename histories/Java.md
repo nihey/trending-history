@@ -170,8 +170,8 @@
 - [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) - by wingjay
 - [motan](https://github.com/weibocom/motan) - by weibocom
 - [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - by borjabravo10
-- [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) - by kakajika
 - [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - by sfsheng0322
+- [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) - by kakajika
 - [FloatingToolbar](https://github.com/rubensousa/FloatingToolbar) - by rubensousa
 - [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout) - by BCsl
 - [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - by pili-engineering
@@ -186,8 +186,8 @@
 - [SwipeAwayDialog](https://github.com/kakajika/SwipeAwayDialog) - by kakajika
 - [GithubWidget](https://github.com/Nightonke/GithubWidget) - by Nightonke
 - [FloatMenuSample](https://github.com/crosg/FloatMenuSample) - by crosg
-- [Evil-Hide](https://github.com/blackbbc/Evil-Hide) - by blackbbc
 - [RadarScan](https://github.com/ImmortalZ/RadarScan) - by ImmortalZ
+- [Evil-Hide](https://github.com/blackbbc/Evil-Hide) - by blackbbc
 - [flexbox-layout](https://github.com/google/flexbox-layout) - by google
 - [Bourbon](https://github.com/hitherejoe/Bourbon) - by hitherejoe
 - [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - by nisrulz
@@ -205,3 +205,5 @@
 - [paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android) - by Ramotion
 - [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - by ArthurHub
 - [ScratchView](https://github.com/cooltechworks/ScratchView) - by cooltechworks
+- [ECTranslation](https://github.com/Skykai521/ECTranslation) - by Skykai521
+- [ambry](https://github.com/linkedin/ambry) - by linkedin

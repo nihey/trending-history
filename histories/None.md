@@ -134,3 +134,4 @@
 - [post-mortems](https://github.com/danluu/post-mortems) - by danluu
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - by jobbole
 - [BoilingFrogs](https://github.com/GovernmentCommunicationsHeadquarters/BoilingFrogs) - by GovernmentCommunicationsHeadquarters
+- [best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) - by FrankFang
