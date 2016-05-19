@@ -48,3 +48,5 @@
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - by electron
 - [biu](https://github.com/egoist/biu) - by egoist
+- [google-spaces](https://github.com/egorsmkv/google-spaces) - by egorsmkv
+- [min](https://github.com/minbrowser/min) - by minbrowser

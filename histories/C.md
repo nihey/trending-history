@@ -66,3 +66,4 @@
 - [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
 - [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - by christinaa
+- [hyperkit](https://github.com/docker/hyperkit) - by docker

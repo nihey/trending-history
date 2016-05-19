@@ -50,3 +50,4 @@
 ### 2016-5
 - [SwiftOCR](https://github.com/garnele007/SwiftOCR) - by garnele007
 - [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - by Guikunzhi
+- [LLSwitch](https://github.com/lilei644/LLSwitch) - by lilei644
