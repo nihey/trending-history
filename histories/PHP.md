@@ -37,3 +37,4 @@
 - [PHP-backdoors](https://github.com/bartblaze/PHP-backdoors) - by bartblaze
 - [dial2verify-twilio](https://github.com/natsu90/dial2verify-twilio) - by natsu90
 - [Diaspora](https://github.com/LoeiFy/Diaspora) - by LoeiFy
+- [pinyin](https://github.com/overtrue/pinyin) - by overtrue
