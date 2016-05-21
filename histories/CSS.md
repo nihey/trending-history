@@ -44,3 +44,4 @@
 - [Gutenberg](https://github.com/matejlatin/Gutenberg) - by matejlatin
 - [DistortedButtonEffects](https://github.com/codrops/DistortedButtonEffects) - by codrops
 - [mononoki](https://github.com/madmalik/mononoki) - by madmalik
+- [cutestrap](https://github.com/cutestrap/cutestrap) - by cutestrap

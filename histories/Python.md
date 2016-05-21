@@ -59,9 +59,9 @@
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
+- [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
-- [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
@@ -78,20 +78,20 @@
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
-- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
+- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
-- [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
 - [dplython](https://github.com/dodger487/dplython) - by dodger487
+- [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
 - [quantum](https://github.com/karldray/quantum) - by karldray
 - [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
-- [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
 - [pytrader](https://github.com/owocki/pytrader) - by owocki
+- [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
 
 ### 2016-4
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
@@ -101,10 +101,10 @@
 - [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
 - [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
-- [tflearn](https://github.com/tflearn/tflearn) - by tflearn
 - [you-get](https://github.com/soimort/you-get) - by soimort
-- [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
+- [tflearn](https://github.com/tflearn/tflearn) - by tflearn
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
+- [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
 - [voltron](https://github.com/snare/voltron) - by snare
@@ -112,15 +112,15 @@
 - [keras](https://github.com/fchollet/keras) - by fchollet
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
 - [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
-- [pycraft](https://github.com/traverseda/pycraft) - by traverseda
 - [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
+- [pycraft](https://github.com/traverseda/pycraft) - by traverseda
 - [dcos](https://github.com/dcos/dcos) - by dcos
 - [colornet](https://github.com/pavelgonchar/colornet) - by pavelgonchar
 - [enjarify](https://github.com/google/enjarify) - by google
 - [elastalert](https://github.com/Yelp/elastalert) - by Yelp
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
-- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
 - [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
+- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
 - [gym](https://github.com/openai/gym) - by openai
 
 ### 2016-5
@@ -133,8 +133,8 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
-- [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
+- [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
@@ -144,3 +144,5 @@
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
+- [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
+- [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
