@@ -104,3 +104,4 @@
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
+- [texttop](https://github.com/tombh/texttop) - by tombh

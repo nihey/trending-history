@@ -68,3 +68,4 @@
 - [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - by christinaa
 - [hyperkit](https://github.com/docker/hyperkit) - by docker
 - [libui](https://github.com/andlabs/libui) - by andlabs
+- [30dayMakeOS](https://github.com/yourtion/30dayMakeOS) - by yourtion
