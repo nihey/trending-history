@@ -340,3 +340,5 @@
 - [react-server](https://github.com/redfin/react-server) - by redfin
 - [DPlayer](https://github.com/DIYgod/DPlayer) - by DIYgod
 - [coach](https://github.com/sitespeedio/coach) - by sitespeedio
+- [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - by parkjs814
+- [bideo.js](https://github.com/rishabhp/bideo.js) - by rishabhp
