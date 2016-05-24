@@ -209,3 +209,5 @@
 - [ambry](https://github.com/linkedin/ambry) - by linkedin
 - [NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip) - by DevLight-Mobile-Agency
 - [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) - by andkulikov
+- [99-problems](https://github.com/shekhargulati/99-problems) - by shekhargulati
+- [LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - by alibaba

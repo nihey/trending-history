@@ -342,3 +342,4 @@
 - [coach](https://github.com/sitespeedio/coach) - by sitespeedio
 - [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - by parkjs814
 - [bideo.js](https://github.com/rishabhp/bideo.js) - by rishabhp
+- [lighthouse](https://github.com/GoogleChrome/lighthouse) - by GoogleChrome
