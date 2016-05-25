@@ -52,3 +52,5 @@
 - [min](https://github.com/minbrowser/min) - by minbrowser
 - [growth-in-action](https://github.com/phodal/growth-in-action) - by phodal
 - [family.scss](https://github.com/LukyVj/family.scss) - by LukyVj
+- [spectre](https://github.com/picturepan2/spectre) - by picturepan2
+- [Pastejacking](https://github.com/dxa4481/Pastejacking) - by dxa4481

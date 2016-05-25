@@ -70,3 +70,4 @@
 - [libui](https://github.com/andlabs/libui) - by andlabs
 - [30dayMakeOS](https://github.com/yourtion/30dayMakeOS) - by yourtion
 - [balde](https://github.com/balde/balde) - by balde
+- [traildb](https://github.com/traildb/traildb) - by traildb

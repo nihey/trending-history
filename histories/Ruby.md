@@ -25,3 +25,4 @@
 
 ### 2016-5
 - [gitreflow](https://github.com/reenhanced/gitreflow) - by reenhanced
+- [hanami](https://github.com/hanami/hanami) - by hanami

@@ -70,3 +70,4 @@
 - [FireRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FireRays_SDK) - by GPUOpen-LibrariesAndSDKs
 - [x64dbg](https://github.com/x64dbg/x64dbg) - by x64dbg
 - [doctest](https://github.com/onqtam/doctest) - by onqtam
+- [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - by CRYTEK-CRYENGINE

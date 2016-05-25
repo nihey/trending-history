@@ -148,3 +148,4 @@
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
 - [bless](https://github.com/Netflix/bless) - by Netflix
+- [fizz-buzz-tensorflow](https://github.com/joelgrus/fizz-buzz-tensorflow) - by joelgrus
