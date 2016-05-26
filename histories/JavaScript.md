@@ -318,8 +318,8 @@
 - [reactspeedcoding](https://github.com/manavsehgal/reactspeedcoding) - by manavsehgal
 - [studio](https://github.com/ericholiveira/studio) - by ericholiveira
 - [group-income-simple](https://github.com/okTurtles/group-income-simple) - by okTurtles
-- [unstuck-webpack](https://github.com/linuxenko/unstuck-webpack) - by linuxenko
 - [status-page](https://github.com/sahin/status-page) - by sahin
+- [unstuck-webpack](https://github.com/linuxenko/unstuck-webpack) - by linuxenko
 - [react-router-scroll](https://github.com/taion/react-router-scroll) - by taion
 - [devtron](https://github.com/electron/devtron) - by electron
 - [tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - by iamdustan
@@ -344,3 +344,5 @@
 - [bideo.js](https://github.com/rishabhp/bideo.js) - by rishabhp
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) - by GoogleChrome
 - [pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit) - by futurice
+- [deco-ide](https://github.com/decosoftware/deco-ide) - by decosoftware
+- [WebGazer](https://github.com/brownhci/WebGazer) - by brownhci
