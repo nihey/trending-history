@@ -195,13 +195,13 @@
 - [Baby](https://github.com/rogerou/Baby) - by rogerou
 - [sensey](https://github.com/nisrulz/sensey) - by nisrulz
 - [distributedlog](https://github.com/twitter/distributedlog) - by twitter
-- [TLint](https://github.com/gzsll/TLint) - by gzsll
 - [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - by MasayukiSuda
+- [TLint](https://github.com/gzsll/TLint) - by gzsll
 - [T-MVP](https://github.com/north2014/T-MVP) - by north2014
 - [ExpandableLayout](https://github.com/cachapa/ExpandableLayout) - by cachapa
 - [UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin) - by yjfnypeu
-- [pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup) - by Yalantis
 - [TagsEditText](https://github.com/mabbas007/TagsEditText) - by mabbas007
+- [pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup) - by Yalantis
 - [paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android) - by Ramotion
 - [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - by ArthurHub
 - [ScratchView](https://github.com/cooltechworks/ScratchView) - by cooltechworks
@@ -215,3 +215,4 @@
 - [GanHuoIO](https://github.com/burgessjp/GanHuoIO) - by burgessjp
 - [heron](https://github.com/twitter/heron) - by twitter
 - [realm-java](https://github.com/realm/realm-java) - by realm
+- [FriendCircle](https://github.com/razerdp/FriendCircle) - by razerdp

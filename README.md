@@ -62,6 +62,7 @@ updated.
   - [Swift](https://github.com/nihey/trending-history/blob/master/histories/Swift.md)
   - [TeX](https://github.com/nihey/trending-history/blob/master/histories/TeX.md)
   - [TypeScript](https://github.com/nihey/trending-history/blob/master/histories/TypeScript.md)
+  - [VHDL](https://github.com/nihey/trending-history/blob/master/histories/VHDL.md)
   - [VimL](https://github.com/nihey/trending-history/blob/master/histories/VimL.md)
   - [Vue](https://github.com/nihey/trending-history/blob/master/histories/Vue.md)
 

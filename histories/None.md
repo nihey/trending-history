@@ -81,17 +81,17 @@
 - [react-makes-you-sad](https://github.com/gaearon/react-makes-you-sad) - by gaearon
 - [React-Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) - by ReactjsProgram
 - [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - by ReactjsProgram
-- [awesome-github](https://github.com/AntBranch/awesome-github) - by AntBranch
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - by kakuilan
+- [awesome-github](https://github.com/AntBranch/awesome-github) - by AntBranch
 - [awesome-charting](https://github.com/zingchart/awesome-charting) - by zingchart
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - by awesome-lists
 - [dojo_rules](https://github.com/deadlyvipers/dojo_rules) - by deadlyvipers
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - by ChromeDevTools
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - by easychen
-- [servo](https://github.com/servo/servo) - by servo
 - [of-release](https://github.com/open-falcon/of-release) - by open-falcon
-- [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - by jiang111
+- [servo](https://github.com/servo/servo) - by servo
 - [macaca](https://github.com/alibaba/macaca) - by alibaba
+- [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - by jiang111
 - [gitignore](https://github.com/github/gitignore) - by github
 - [public-apis](https://github.com/toddmotto/public-apis) - by toddmotto
 - [ipfs](https://github.com/ipfs/ipfs) - by ipfs
@@ -118,16 +118,16 @@
 - [HEAD](https://github.com/joshbuchea/HEAD) - by joshbuchea
 
 ### 2016-5
-- [hosts](https://github.com/racaljk/hosts) - by racaljk
-- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
 - [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
+- [hosts](https://github.com/racaljk/hosts) - by racaljk
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
 - [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
 - [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - by giantray
-- [membership.db](https://github.com/membership/membership.db) - by membership
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - by dbohdan
+- [membership.db](https://github.com/membership/membership.db) - by membership
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - by jobbole
 - [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - by LittleFriendsGroup
 - [tesla-features](https://github.com/sahin/tesla-features) - by sahin
@@ -140,3 +140,4 @@
 - [opengov](https://github.com/seoul-opengov/opengov) - by seoul-opengov
 - [awesome-ng2](https://github.com/gf-rd/awesome-ng2) - by gf-rd
 - [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - by jdsutton
+- [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) - by veficos
