@@ -152,8 +152,8 @@
 - [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) - by DevLight-Mobile-Agency
 - [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
 - [Conductor](https://github.com/bluelinelabs/Conductor) - by bluelinelabs
-- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
 - [sqlite-android](https://github.com/requery/sqlite-android) - by requery
+- [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
 - [ActivityRouter](https://github.com/mzule/ActivityRouter) - by mzule
 - [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
@@ -177,12 +177,12 @@
 - [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - by pili-engineering
 - [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - by danielzeller
 - [MusicBobber](https://github.com/Cleveroad/MusicBobber) - by Cleveroad
-- [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - by Rogero0o
 - [drawee-text-view](https://github.com/Bilibili/drawee-text-view) - by Bilibili
+- [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - by Rogero0o
 
 ### 2016-5
-- [PieMessage](https://github.com/bboyairwreck/PieMessage) - by bboyairwreck
 - [MicroReader](https://github.com/YiuChoi/MicroReader) - by YiuChoi
+- [PieMessage](https://github.com/bboyairwreck/PieMessage) - by bboyairwreck
 - [SwipeAwayDialog](https://github.com/kakajika/SwipeAwayDialog) - by kakajika
 - [GithubWidget](https://github.com/Nightonke/GithubWidget) - by Nightonke
 - [FloatMenuSample](https://github.com/crosg/FloatMenuSample) - by crosg
@@ -216,3 +216,4 @@
 - [heron](https://github.com/twitter/heron) - by twitter
 - [realm-java](https://github.com/realm/realm-java) - by realm
 - [FriendCircle](https://github.com/razerdp/FriendCircle) - by razerdp
+- [TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - by gshevtsov

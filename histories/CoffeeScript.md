@@ -10,3 +10,6 @@
 
 ### 2016-4
 - [Algebrite](https://github.com/davidedc/Algebrite) - by davidedc
+
+### 2016-5
+- [vimium](https://github.com/philc/vimium) - by philc

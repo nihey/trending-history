@@ -65,8 +65,8 @@
 ### 2016-2
 - [lelylan](https://github.com/lelylan/lelylan) - by lelylan
 - [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe
-- [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - by mgechev
 - [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
+- [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - by mgechev
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples) - by bmkmanoj
 - [awesome-computer-history](https://github.com/watson/awesome-computer-history) - by watson
 - [til](https://github.com/jbranchaud/til) - by jbranchaud
@@ -74,8 +74,8 @@
 - [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - by praetorian-inc
 - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - by dhamaniasad
 - [top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow) - by StijnMiroslav
-- [badass](https://github.com/wardowsmcc/badass) - by wardowsmcc
 - [study-path](https://github.com/joebew42/study-path) - by joebew42
+- [badass](https://github.com/wardowsmcc/badass) - by wardowsmcc
 
 ### 2016-3
 - [react-makes-you-sad](https://github.com/gaearon/react-makes-you-sad) - by gaearon
@@ -90,8 +90,8 @@
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - by easychen
 - [of-release](https://github.com/open-falcon/of-release) - by open-falcon
 - [servo](https://github.com/servo/servo) - by servo
-- [macaca](https://github.com/alibaba/macaca) - by alibaba
 - [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - by jiang111
+- [macaca](https://github.com/alibaba/macaca) - by alibaba
 - [gitignore](https://github.com/github/gitignore) - by github
 - [public-apis](https://github.com/toddmotto/public-apis) - by toddmotto
 - [ipfs](https://github.com/ipfs/ipfs) - by ipfs
@@ -103,26 +103,26 @@
 - [android-architecture](https://github.com/googlesamples/android-architecture) - by googlesamples
 
 ### 2016-4
-- [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
 - [core-notes](https://github.com/reactjs/core-notes) - by reactjs
+- [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
 - [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
 - [test01](https://github.com/mortonNex/test01) - by mortonNex
 - [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - by markerikson
 - [panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - by amaboura
 - [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - by shutterstock
-- [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by johnpapa
 - [smq](https://github.com/antontarasenko/smq) - by antontarasenko
+- [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by johnpapa
 - [InternetSemLimites](https://github.com/jlcarvalho/InternetSemLimites) - by jlcarvalho
 - [react-redux-links](https://github.com/markerikson/react-redux-links) - by markerikson
 - [awesome-python-books](https://github.com/Junnplus/awesome-python-books) - by Junnplus
 - [HEAD](https://github.com/joshbuchea/HEAD) - by joshbuchea
 
 ### 2016-5
-- [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
-- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
 - [hosts](https://github.com/racaljk/hosts) - by racaljk
-- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
+- [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
 - [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
+- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
 - [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - by giantray
@@ -141,3 +141,4 @@
 - [awesome-ng2](https://github.com/gf-rd/awesome-ng2) - by gf-rd
 - [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - by jdsutton
 - [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) - by veficos
+- [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - by hemanth

@@ -43,8 +43,8 @@
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
-- [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
+- [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
@@ -105,3 +105,4 @@
 - [Networking](https://github.com/3lvis/Networking) - by 3lvis
 - [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
 - [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
+- [expanding-collection](https://github.com/Ramotion/expanding-collection) - by Ramotion

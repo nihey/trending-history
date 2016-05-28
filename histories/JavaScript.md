@@ -348,3 +348,4 @@
 - [WebGazer](https://github.com/brownhci/WebGazer) - by brownhci
 - [lightgallery-desktop](https://github.com/sachinchoolur/lightgallery-desktop) - by sachinchoolur
 - [headless-gl](https://github.com/stackgl/headless-gl) - by stackgl
+- [react-yelp-clone](https://github.com/fullstackreact/react-yelp-clone) - by fullstackreact
