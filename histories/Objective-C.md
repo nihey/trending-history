@@ -15,8 +15,8 @@
 - [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - by MoZhouqi
 - [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - by leichunfeng
 - [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater) - by aerofs
-- [SMSNinja](https://github.com/iosre/SMSNinja) - by iosre
 - [Miku](https://github.com/poboke/Miku) - by poboke
+- [SMSNinja](https://github.com/iosre/SMSNinja) - by iosre
 - [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) - by ChenYilong
 - [Knuff](https://github.com/KnuffApp/Knuff) - by KnuffApp
 - [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) - by matmartinez
@@ -30,8 +30,8 @@
 - [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) - by Zepo
 
 ### 2016-3
-- [GitUp](https://github.com/git-up/GitUp) - by git-up
 - [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - by runner365
+- [GitUp](https://github.com/git-up/GitUp) - by git-up
 - [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - by renzifeng
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - by johnno1962
 - [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - by HarrisHan
@@ -51,3 +51,4 @@
 - [SwiftOCR](https://github.com/garnele007/SwiftOCR) - by garnele007
 - [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - by Guikunzhi
 - [LLSwitch](https://github.com/lilei644/LLSwitch) - by lilei644
+- [CTVideoPlayerView](https://github.com/casatwy/CTVideoPlayerView) - by casatwy

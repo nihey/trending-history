@@ -12,3 +12,6 @@
 - [CourseraML](https://github.com/kaleko/CourseraML) - by kaleko
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - by aymericdamien
 - [densecap](https://github.com/jcjohnson/densecap) - by jcjohnson
+
+### 2016-5
+- [pythalesians](https://github.com/thalesians/pythalesians) - by thalesians

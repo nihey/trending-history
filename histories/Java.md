@@ -56,10 +56,10 @@
 - [DropDownMenu](https://github.com/dongjunkun/DropDownMenu) - by dongjunkun
 - [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - by pengjianbo
 - [AndroidTagView](https://github.com/whilu/AndroidTagView) - by whilu
-- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [Small](https://github.com/wequick/Small) - by wequick
-- [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
+- [ribot-app-android](https://github.com/ribot/ribot-app-android) - by ribot
 - [WeiBo](https://github.com/wenmingvs/WeiBo) - by wenmingvs
+- [BrokenView](https://github.com/zhanyongsheng/BrokenView) - by zhanyongsheng
 - [viskell](https://github.com/wandernauta/viskell) - by wandernauta
 - [MovieGuide](https://github.com/esoxjem/MovieGuide) - by esoxjem
 - [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) - by gzu-liyujiang
@@ -71,12 +71,12 @@
 - [RxVolley](https://github.com/kymjs/RxVolley) - by kymjs
 - [blockcanary](https://github.com/moduth/blockcanary) - by moduth
 - [app-theme-engine](https://github.com/afollestad/app-theme-engine) - by afollestad
-- [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [browser-android](https://github.com/brave/browser-android) - by brave
 - [PhotoEditDemo](https://github.com/jarlen/PhotoEditDemo) - by jarlen
+- [uCrop](https://github.com/Yalantis/uCrop) - by Yalantis
 - [quasar](https://github.com/puniverse/quasar) - by puniverse
-- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [GT](https://github.com/TencentOpen/GT) - by TencentOpen
+- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) - by danylovolokh
 - [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox) - by andyxialm
 - [SwipeStack](https://github.com/flschweiger/SwipeStack) - by flschweiger
 
@@ -84,12 +84,12 @@
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView) - by iammert
 - [DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) - by JustZak
 - [FuLiApp](https://github.com/threezj/FuLiApp) - by threezj
-- [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [elasticsearch](https://github.com/elastic/elasticsearch) - by elastic
+- [slidingtutorial-android](https://github.com/Cleveroad/slidingtutorial-android) - by Cleveroad
 - [qianghongbao](https://github.com/lendylongli/qianghongbao) - by lendylongli
+- [pippo](https://github.com/decebals/pippo) - by decebals
 - [kickmaterial](https://github.com/byoutline/kickmaterial) - by byoutline
 - [morphy-toolbar](https://github.com/badoualy/morphy-toolbar) - by badoualy
-- [pippo](https://github.com/decebals/pippo) - by decebals
 - [javacpp](https://github.com/bytedeco/javacpp) - by bytedeco
 - [NewPipe](https://github.com/theScrabi/NewPipe) - by theScrabi
 - [kotlin](https://github.com/JetBrains/kotlin) - by JetBrains
@@ -97,10 +97,10 @@
 - [SeeWeather](https://github.com/xcc3641/SeeWeather) - by xcc3641
 - [Android_Data](https://github.com/Freelander/Android_Data) - by Freelander
 - [CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - by TomWithJerry
-- [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [SwipeCardView](https://github.com/xiepeijie/SwipeCardView) - by xiepeijie
-- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
+- [TimelineView](https://github.com/alorma/TimelineView) - by alorma
 - [GanK](https://github.com/dongjunkun/GanK) - by dongjunkun
+- [Rosie](https://github.com/Karumi/Rosie) - by Karumi
 - [greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android) - by 500px
 - [Douya](https://github.com/DreaminginCodeZH/Douya) - by DreaminginCodeZH
 - [AndroidReview](https://github.com/envyfan/AndroidReview) - by envyfan
@@ -219,3 +219,4 @@
 - [TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - by gshevtsov
 - [blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - by jenkinsci
 - [PiracyChecker](https://github.com/javiersantos/PiracyChecker) - by javiersantos
+- [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - by CymChad
