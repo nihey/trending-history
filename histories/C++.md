@@ -24,8 +24,8 @@
 
 ### 2016-2
 - [zig](https://github.com/andrewrk/zig) - by andrewrk
-- [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
 - [ion](https://github.com/google/ion) - by google
+- [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
 - [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
 - [serving](https://github.com/tensorflow/serving) - by tensorflow
@@ -40,8 +40,8 @@
 - [xcbuild](https://github.com/facebook/xcbuild) - by facebook
 - [mame](https://github.com/mamedev/mame) - by mamedev
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - by Croteam-official
-- [electron](https://github.com/atom/electron) - by atom
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
+- [electron](https://github.com/atom/electron) - by atom
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
@@ -71,3 +71,4 @@
 - [x64dbg](https://github.com/x64dbg/x64dbg) - by x64dbg
 - [doctest](https://github.com/onqtam/doctest) - by onqtam
 - [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - by CRYTEK-CRYENGINE
+- [atari-ai](https://github.com/Stitchpunk/atari-ai) - by Stitchpunk
