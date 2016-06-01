@@ -150,3 +150,6 @@
 - [bless](https://github.com/Netflix/bless) - by Netflix
 - [fizz-buzz-tensorflow](https://github.com/joelgrus/fizz-buzz-tensorflow) - by joelgrus
 - [warberry](https://github.com/secgroundzero/warberry) - by secgroundzero
+
+### 2016-6
+- [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind

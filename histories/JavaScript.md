@@ -351,3 +351,7 @@
 - [react-yelp-clone](https://github.com/fullstackreact/react-yelp-clone) - by fullstackreact
 - [500lines](https://github.com/aosabook/500lines) - by aosabook
 - [microlight](https://github.com/asvd/microlight) - by asvd
+
+### 2016-6
+- [xeon](https://github.com/hzlmn/xeon) - by hzlmn
+- [facebook-sixth-sense](https://github.com/Morhaus/facebook-sixth-sense) - by Morhaus

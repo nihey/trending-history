@@ -15,3 +15,6 @@
 
 ### 2016-5
 - [pythalesians](https://github.com/thalesians/pythalesians) - by thalesians
+
+### 2016-6
+- [introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - by amueller
