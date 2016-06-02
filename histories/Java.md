@@ -165,20 +165,20 @@
 - [-dampView-springingView](https://github.com/Huyamin150/-dampView-springingView) - by Huyamin150
 - [agera](https://github.com/google/agera) - by google
 - [ion-java](https://github.com/amznlabs/ion-java) - by amznlabs
-- [android-about-page](https://github.com/medyo/android-about-page) - by medyo
 - [Girls](https://github.com/flyou/Girls) - by flyou
+- [android-about-page](https://github.com/medyo/android-about-page) - by medyo
 - [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) - by wingjay
 - [motan](https://github.com/weibocom/motan) - by weibocom
 - [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - by borjabravo10
 - [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - by sfsheng0322
 - [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) - by kakajika
-- [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout) - by BCsl
 - [FloatingToolbar](https://github.com/rubensousa/FloatingToolbar) - by rubensousa
-- [MusicBobber](https://github.com/Cleveroad/MusicBobber) - by Cleveroad
-- [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - by pili-engineering
+- [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout) - by BCsl
 - [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - by danielzeller
-- [drawee-text-view](https://github.com/Bilibili/drawee-text-view) - by Bilibili
+- [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - by pili-engineering
+- [MusicBobber](https://github.com/Cleveroad/MusicBobber) - by Cleveroad
 - [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - by Rogero0o
+- [drawee-text-view](https://github.com/Bilibili/drawee-text-view) - by Bilibili
 
 ### 2016-5
 - [PieMessage](https://github.com/bboyairwreck/PieMessage) - by bboyairwreck
@@ -186,13 +186,13 @@
 - [SwipeAwayDialog](https://github.com/kakajika/SwipeAwayDialog) - by kakajika
 - [GithubWidget](https://github.com/Nightonke/GithubWidget) - by Nightonke
 - [FloatMenuSample](https://github.com/crosg/FloatMenuSample) - by crosg
-- [RadarScan](https://github.com/ImmortalZ/RadarScan) - by ImmortalZ
 - [Evil-Hide](https://github.com/blackbbc/Evil-Hide) - by blackbbc
-- [flexbox-layout](https://github.com/google/flexbox-layout) - by google
+- [RadarScan](https://github.com/ImmortalZ/RadarScan) - by ImmortalZ
 - [Bourbon](https://github.com/hitherejoe/Bourbon) - by hitherejoe
+- [flexbox-layout](https://github.com/google/flexbox-layout) - by google
+- [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - by nisrulz
 - [Shuffle](https://github.com/Meetic/Shuffle) - by Meetic
 - [Baby](https://github.com/rogerou/Baby) - by rogerou
-- [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - by nisrulz
 - [sensey](https://github.com/nisrulz/sensey) - by nisrulz
 - [distributedlog](https://github.com/twitter/distributedlog) - by twitter
 - [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - by MasayukiSuda
@@ -226,3 +226,4 @@
 
 ### 2016-6
 - [TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) - by JZXiang
+- [material-tip](https://github.com/fcannizzaro/material-tip) - by fcannizzaro

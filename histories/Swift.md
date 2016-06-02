@@ -21,8 +21,8 @@
 
 ### 2016-1
 - [spi](https://github.com/guoc/spi) - by guoc
-- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
+- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -33,8 +33,8 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
-- [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
 - [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
+- [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
@@ -43,10 +43,10 @@
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
-- [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
-- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
+- [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
+- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
@@ -84,8 +84,8 @@
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
-- [Peek](https://github.com/shaps80/Peek) - by shaps80
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
+- [Peek](https://github.com/shaps80/Peek) - by shaps80
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
 - [JASON](https://github.com/delba/JASON) - by delba
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - by mobileplayer
@@ -107,3 +107,6 @@
 - [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
 - [expanding-collection](https://github.com/Ramotion/expanding-collection) - by Ramotion
 - [Render](https://github.com/alexdrone/Render) - by alexdrone
+
+### 2016-6
+- [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush

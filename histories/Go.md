@@ -87,8 +87,8 @@
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [gollum](https://github.com/trivago/gollum) - by trivago
 - [kit](https://github.com/go-kit/kit) - by go-kit
+- [gollum](https://github.com/trivago/gollum) - by trivago
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -106,3 +106,6 @@
 - [zap](https://github.com/uber-go/zap) - by uber-go
 - [texttop](https://github.com/tombh/texttop) - by tombh
 - [pxl](https://github.com/ichinaski/pxl) - by ichinaski
+
+### 2016-6
+- [torus](https://github.com/coreos/torus) - by coreos
