@@ -155,3 +155,4 @@
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
 - [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [streisand](https://github.com/jlund/streisand) - by jlund
+- [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida

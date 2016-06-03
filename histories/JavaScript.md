@@ -356,3 +356,5 @@
 - [xeon](https://github.com/hzlmn/xeon) - by hzlmn
 - [facebook-sixth-sense](https://github.com/Morhaus/facebook-sixth-sense) - by Morhaus
 - [ppmessage](https://github.com/PPMESSAGE/ppmessage) - by PPMESSAGE
+- [barba.js](https://github.com/luruke/barba.js) - by luruke
+- [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - by clauderic
