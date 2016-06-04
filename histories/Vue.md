@@ -6,3 +6,6 @@
 
 ### 2016-5
 - [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) - by hilongjw
+
+### 2016-6
+- [mint-ui](https://github.com/ElemeFE/mint-ui) - by ElemeFE

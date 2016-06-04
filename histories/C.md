@@ -72,3 +72,6 @@
 - [balde](https://github.com/balde/balde) - by balde
 - [traildb](https://github.com/traildb/traildb) - by traildb
 - [harvey](https://github.com/Harvey-OS/harvey) - by Harvey-OS
+
+### 2016-6
+- [anypixel](https://github.com/googlecreativelab/anypixel) - by googlecreativelab
