@@ -58,8 +58,8 @@
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
 - [acmewrapper](https://github.com/dkumor/acmewrapper) - by dkumor
-- [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [lion](https://github.com/celrenheit/lion) - by celrenheit
+- [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
@@ -70,10 +70,10 @@
 - [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
-- [echo](https://github.com/labstack/echo) - by labstack
 - [qor](https://github.com/qor/qor) - by qor
-- [vuls](https://github.com/future-architect/vuls) - by future-architect
+- [echo](https://github.com/labstack/echo) - by labstack
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
+- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -109,3 +109,4 @@
 
 ### 2016-6
 - [torus](https://github.com/coreos/torus) - by coreos
+- [go-libp2p](https://github.com/ipfs/go-libp2p) - by ipfs

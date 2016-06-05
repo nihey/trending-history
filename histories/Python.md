@@ -128,10 +128,10 @@
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
 - [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
-- [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
-- [fierce](https://github.com/mschwager/fierce) - by mschwager
+- [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
+- [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
 - [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
@@ -156,3 +156,4 @@
 - [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [streisand](https://github.com/jlund/streisand) - by jlund
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
+- [ansible-container](https://github.com/ansible/ansible-container) - by ansible
