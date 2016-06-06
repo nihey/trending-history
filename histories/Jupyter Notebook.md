@@ -19,3 +19,4 @@
 ### 2016-6
 - [introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - by amueller
 - [data](https://github.com/fivethirtyeight/data) - by fivethirtyeight
+- [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - by rasbt
