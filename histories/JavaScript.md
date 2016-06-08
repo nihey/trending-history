@@ -334,11 +334,11 @@
 - [push.js](https://github.com/Nickersoft/push.js) - by Nickersoft
 - [horizon](https://github.com/rethinkdb/horizon) - by rethinkdb
 - [tellform](https://github.com/whitef0x0/tellform) - by whitef0x0
-- [browsix](https://github.com/plasma-umass/browsix) - by plasma-umass
 - [date-fns](https://github.com/date-fns/date-fns) - by date-fns
+- [browsix](https://github.com/plasma-umass/browsix) - by plasma-umass
 - [lebab](https://github.com/mohebifar/lebab) - by mohebifar
-- [react-server](https://github.com/redfin/react-server) - by redfin
 - [DPlayer](https://github.com/DIYgod/DPlayer) - by DIYgod
+- [react-server](https://github.com/redfin/react-server) - by redfin
 - [coach](https://github.com/sitespeedio/coach) - by sitespeedio
 - [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - by parkjs814
 - [bideo.js](https://github.com/rishabhp/bideo.js) - by rishabhp
@@ -368,3 +368,4 @@
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - by react-d3-library
 - [css-in-js](https://github.com/MicheleBertoli/css-in-js) - by MicheleBertoli
 - [webpack-hot-server-example](https://github.com/ericclemmons/webpack-hot-server-example) - by ericclemmons
+- [ignite](https://github.com/infinitered/ignite) - by infinitered

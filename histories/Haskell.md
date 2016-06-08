@@ -9,3 +9,6 @@
 - [hython](https://github.com/mattgreen/hython) - by mattgreen
 - [lamdu](https://github.com/lamdu/lamdu) - by lamdu
 - [oden](https://github.com/oden-lang/oden) - by oden-lang
+
+### 2016-6
+- [hylogen](https://github.com/sleexyz/hylogen) - by sleexyz

@@ -47,8 +47,8 @@
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
 - [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
 - [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
-- [feather](https://github.com/wesm/feather) - by wesm
 - [uWebSockets](https://github.com/alexhultman/uWebSockets) - by alexhultman
+- [feather](https://github.com/wesm/feather) - by wesm
 
 ### 2016-4
 - [aria2](https://github.com/tatsuhiro-t/aria2) - by tatsuhiro-t
@@ -72,3 +72,6 @@
 - [doctest](https://github.com/onqtam/doctest) - by onqtam
 - [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - by CRYTEK-CRYENGINE
 - [atari-ai](https://github.com/Stitchpunk/atari-ai) - by Stitchpunk
+
+### 2016-6
+- [magnum](https://github.com/mosra/magnum) - by mosra

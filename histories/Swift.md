@@ -72,8 +72,8 @@
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
 - [Gifu](https://github.com/kaishin/Gifu) - by kaishin
-- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -111,3 +111,5 @@
 ### 2016-6
 - [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
+- [WWDC](https://github.com/insidegui/WWDC) - by insidegui

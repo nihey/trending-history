@@ -17,8 +17,8 @@
 - [umbrella](https://github.com/umbrellajs/umbrella) - by umbrellajs
 
 ### 2016-2
-- [VeryNginx](https://github.com/alexazhou/VeryNginx) - by alexazhou
 - [dockers](https://github.com/iron-io/dockers) - by iron-io
+- [VeryNginx](https://github.com/alexazhou/VeryNginx) - by alexazhou
 - [gophish](https://github.com/gophish/gophish) - by gophish
 - [mu](https://github.com/akkartik/mu) - by akkartik
 - [frankly](https://github.com/notwaldorf/frankly) - by notwaldorf
@@ -55,3 +55,6 @@
 - [spectre](https://github.com/picturepan2/spectre) - by picturepan2
 - [Pastejacking](https://github.com/dxa4481/Pastejacking) - by dxa4481
 - [mailgen](https://github.com/eladnava/mailgen) - by eladnava
+
+### 2016-6
+- [picnic](https://github.com/picnicss/picnic) - by picnicss
