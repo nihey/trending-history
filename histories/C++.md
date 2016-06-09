@@ -27,8 +27,8 @@
 - [ion](https://github.com/google/ion) - by google
 - [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
 - [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
-- [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
 - [serving](https://github.com/tensorflow/serving) - by tensorflow
+- [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
 - [node-lws](https://github.com/alexhultman/node-lws) - by alexhultman
 - [realm-js](https://github.com/realm/realm-js) - by realm
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - by yahoo
@@ -45,8 +45,8 @@
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
-- [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
 - [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
+- [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
 - [uWebSockets](https://github.com/alexhultman/uWebSockets) - by alexhultman
 - [feather](https://github.com/wesm/feather) - by wesm
 
@@ -75,3 +75,4 @@
 
 ### 2016-6
 - [magnum](https://github.com/mosra/magnum) - by mosra
+- [paratext](https://github.com/wiseio/paratext) - by wiseio

@@ -69,11 +69,11 @@
 ### 2016-4
 - [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
+- [echo](https://github.com/labstack/echo) - by labstack
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
-- [echo](https://github.com/labstack/echo) - by labstack
-- [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
+- [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -87,8 +87,8 @@
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [kit](https://github.com/go-kit/kit) - by go-kit
 - [gollum](https://github.com/trivago/gollum) - by trivago
+- [kit](https://github.com/go-kit/kit) - by go-kit
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -110,3 +110,4 @@
 ### 2016-6
 - [torus](https://github.com/coreos/torus) - by coreos
 - [go-libp2p](https://github.com/ipfs/go-libp2p) - by ipfs
+- [swarmkit](https://github.com/docker/swarmkit) - by docker

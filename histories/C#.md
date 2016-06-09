@@ -24,3 +24,6 @@
 ### 2016-5
 - [Numerical-Analysis-Examples](https://github.com/ergenekonyigit/Numerical-Analysis-Examples) - by ergenekonyigit
 - [Wox](https://github.com/Wox-launcher/Wox) - by Wox-launcher
+
+### 2016-6
+- [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - by ivaylokenov
