@@ -76,3 +76,4 @@
 ### 2016-6
 - [magnum](https://github.com/mosra/magnum) - by mosra
 - [paratext](https://github.com/wiseio/paratext) - by wiseio
+- [WebGL](https://github.com/MicrosoftEdge/WebGL) - by MicrosoftEdge
