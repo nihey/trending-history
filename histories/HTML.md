@@ -59,3 +59,4 @@
 ### 2016-6
 - [picnic](https://github.com/picnicss/picnic) - by picnicss
 - [requests-for-research](https://github.com/openai/requests-for-research) - by openai
+- [drizzle](https://github.com/cloudfour/drizzle) - by cloudfour

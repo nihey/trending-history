@@ -76,3 +76,4 @@
 ### 2016-6
 - [anypixel](https://github.com/googlecreativelab/anypixel) - by googlecreativelab
 - [memleax](https://github.com/WuBingzheng/memleax) - by WuBingzheng
+- [darkforestGo](https://github.com/facebookresearch/darkforestGo) - by facebookresearch
