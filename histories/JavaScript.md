@@ -344,8 +344,8 @@
 - [bideo.js](https://github.com/rishabhp/bideo.js) - by rishabhp
 - [lighthouse](https://github.com/GoogleChrome/lighthouse) - by GoogleChrome
 - [pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit) - by futurice
-- [deco-ide](https://github.com/decosoftware/deco-ide) - by decosoftware
 - [WebGazer](https://github.com/brownhci/WebGazer) - by brownhci
+- [deco-ide](https://github.com/decosoftware/deco-ide) - by decosoftware
 - [lightgallery-desktop](https://github.com/sachinchoolur/lightgallery-desktop) - by sachinchoolur
 - [headless-gl](https://github.com/stackgl/headless-gl) - by stackgl
 - [react-yelp-clone](https://github.com/fullstackreact/react-yelp-clone) - by fullstackreact
@@ -356,8 +356,8 @@
 - [xeon](https://github.com/hzlmn/xeon) - by hzlmn
 - [facebook-sixth-sense](https://github.com/Morhaus/facebook-sixth-sense) - by Morhaus
 - [ppmessage](https://github.com/PPMESSAGE/ppmessage) - by PPMESSAGE
-- [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - by clauderic
 - [barba.js](https://github.com/luruke/barba.js) - by luruke
+- [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - by clauderic
 - [carte-blanche](https://github.com/carteb/carte-blanche) - by carteb
 - [reactpack](https://github.com/olahol/reactpack) - by olahol
 - [tips](https://github.com/git-tips/tips) - by git-tips
@@ -376,3 +376,4 @@
 - [cf-ui](https://github.com/cloudflare/cf-ui) - by cloudflare
 - [holmes](https://github.com/Haroenv/holmes) - by Haroenv
 - [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - by clauderic
+- [jpress](https://github.com/JpressProjects/jpress) - by JpressProjects

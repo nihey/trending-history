@@ -239,3 +239,4 @@
 - [android-drag-square](https://github.com/xmuSistone/android-drag-square) - by xmuSistone
 - [QQBubbleView](https://github.com/Yasic/QQBubbleView) - by Yasic
 - [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) - by h4de5ing
+- [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) - by Zomato

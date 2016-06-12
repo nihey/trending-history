@@ -133,8 +133,8 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
-- [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
 - [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
+- [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
@@ -142,8 +142,8 @@
 - [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
-- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
+- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
@@ -160,3 +160,4 @@
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
 - [LeadQualifier](https://github.com/xeneta/LeadQualifier) - by xeneta
 - [async-rl](https://github.com/coreylynch/async-rl) - by coreylynch
+- [httpie](https://github.com/jkbrzt/httpie) - by jkbrzt

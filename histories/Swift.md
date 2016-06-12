@@ -7,8 +7,8 @@
 - [Chatto](https://github.com/badoo/Chatto) - by badoo
 - [focus](https://github.com/mozilla/focus) - by mozilla
 - [Laurine](https://github.com/JiriTrecak/Laurine) - by JiriTrecak
-- [MaterialKit](https://github.com/CosmicMind/MaterialKit) - by CosmicMind
 - [C4iOS](https://github.com/C4Framework/C4iOS) - by C4Framework
+- [MaterialKit](https://github.com/CosmicMind/MaterialKit) - by CosmicMind
 - [KZLinkedConsole](https://github.com/krzysztofzablocki/KZLinkedConsole) - by krzysztofzablocki
 - [XLActionController](https://github.com/xmartlabs/XLActionController) - by xmartlabs
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - by hsavit1
@@ -33,8 +33,8 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
-- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
+- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
@@ -43,10 +43,10 @@
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
-- [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
-- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
+- [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
+- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
@@ -71,9 +71,9 @@
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
-- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -96,15 +96,15 @@
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
 - [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
-- [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
 - [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
+- [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
 - [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
 - [PMAlertController](https://github.com/Codeido/PMAlertController) - by Codeido
 - [Networking](https://github.com/3lvis/Networking) - by 3lvis
-- [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
 - [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
+- [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
 - [expanding-collection](https://github.com/Ramotion/expanding-collection) - by Ramotion
 - [Render](https://github.com/alexdrone/Render) - by alexdrone
 
@@ -113,3 +113,5 @@
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [WWDC](https://github.com/insidegui/WWDC) - by insidegui
+- [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
+- [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu

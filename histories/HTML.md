@@ -17,8 +17,8 @@
 - [umbrella](https://github.com/umbrellajs/umbrella) - by umbrellajs
 
 ### 2016-2
-- [dockers](https://github.com/iron-io/dockers) - by iron-io
 - [VeryNginx](https://github.com/alexazhou/VeryNginx) - by alexazhou
+- [dockers](https://github.com/iron-io/dockers) - by iron-io
 - [gophish](https://github.com/gophish/gophish) - by gophish
 - [mu](https://github.com/akkartik/mu) - by akkartik
 - [frankly](https://github.com/notwaldorf/frankly) - by notwaldorf
@@ -60,3 +60,5 @@
 - [picnic](https://github.com/picnicss/picnic) - by picnicss
 - [requests-for-research](https://github.com/openai/requests-for-research) - by openai
 - [drizzle](https://github.com/cloudfour/drizzle) - by cloudfour
+- [coursera-dl](https://github.com/coursera-dl/coursera-dl) - by coursera-dl
+- [scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - by IPGP
