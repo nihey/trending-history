@@ -72,8 +72,8 @@
 - [echo](https://github.com/labstack/echo) - by labstack
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
-- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
+- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -111,3 +111,4 @@
 - [torus](https://github.com/coreos/torus) - by coreos
 - [go-libp2p](https://github.com/ipfs/go-libp2p) - by ipfs
 - [swarmkit](https://github.com/docker/swarmkit) - by docker
+- [errors](https://github.com/pkg/errors) - by pkg

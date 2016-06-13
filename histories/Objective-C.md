@@ -52,3 +52,6 @@
 - [BeautifyFaceDemo](https://github.com/Guikunzhi/BeautifyFaceDemo) - by Guikunzhi
 - [LLSwitch](https://github.com/lilei644/LLSwitch) - by lilei644
 - [CTVideoPlayerView](https://github.com/casatwy/CTVideoPlayerView) - by casatwy
+
+### 2016-6
+- [VTMagic](https://github.com/tianzhuo112/VTMagic) - by tianzhuo112
