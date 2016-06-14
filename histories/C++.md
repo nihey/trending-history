@@ -78,3 +78,4 @@
 - [paratext](https://github.com/wiseio/paratext) - by wiseio
 - [WebGL](https://github.com/MicrosoftEdge/WebGL) - by MicrosoftEdge
 - [nbind](https://github.com/charto/nbind) - by charto
+- [libui-node](https://github.com/parro-it/libui-node) - by parro-it

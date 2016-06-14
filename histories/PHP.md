@@ -38,3 +38,6 @@
 - [dial2verify-twilio](https://github.com/natsu90/dial2verify-twilio) - by natsu90
 - [Diaspora](https://github.com/LoeiFy/Diaspora) - by LoeiFy
 - [pinyin](https://github.com/overtrue/pinyin) - by overtrue
+
+### 2016-6
+- [Hifone](https://github.com/Hifone/Hifone) - by Hifone

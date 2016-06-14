@@ -112,3 +112,4 @@
 - [go-libp2p](https://github.com/ipfs/go-libp2p) - by ipfs
 - [swarmkit](https://github.com/docker/swarmkit) - by docker
 - [errors](https://github.com/pkg/errors) - by pkg
+- [tag](https://github.com/aykamko/tag) - by aykamko

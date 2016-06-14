@@ -27,3 +27,4 @@
 
 ### 2016-6
 - [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - by ivaylokenov
+- [roslyn](https://github.com/dotnet/roslyn) - by dotnet
