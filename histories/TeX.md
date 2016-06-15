@@ -6,3 +6,6 @@
 
 ### 2016-5
 - [RE-for-beginners](https://github.com/dennis714/RE-for-beginners) - by dennis714
+
+### 2016-6
+- [checkedc](https://github.com/Microsoft/checkedc) - by Microsoft

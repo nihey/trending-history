@@ -20,3 +20,4 @@
 - [introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - by amueller
 - [data](https://github.com/fivethirtyeight/data) - by fivethirtyeight
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - by rasbt
+- [Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - by sjchoi86

@@ -51,6 +51,7 @@ updated.
   - [OCaml](https://github.com/nihey/trending-history/blob/master/histories/OCaml.md)
   - [Objective-C](https://github.com/nihey/trending-history/blob/master/histories/Objective-C.md)
   - [PHP](https://github.com/nihey/trending-history/blob/master/histories/PHP.md)
+  - [Perl](https://github.com/nihey/trending-history/blob/master/histories/Perl.md)
   - [Python](https://github.com/nihey/trending-history/blob/master/histories/Python.md)
   - [R](https://github.com/nihey/trending-history/blob/master/histories/R.md)
   - [Racket](https://github.com/nihey/trending-history/blob/master/histories/Racket.md)

@@ -21,8 +21,8 @@
 - [tbox](https://github.com/waruqi/tbox) - by waruqi
 
 ### 2016-2
-- [Craft](https://github.com/fogleman/Craft) - by fogleman
 - [how2heap](https://github.com/shellphish/how2heap) - by shellphish
+- [Craft](https://github.com/fogleman/Craft) - by fogleman
 - [ds](https://github.com/php-ds/ds) - by php-ds
 - [htop](https://github.com/hishamhm/htop) - by hishamhm
 - [mousejack](https://github.com/RFStorm/mousejack) - by RFStorm
@@ -45,8 +45,8 @@
 - [citus](https://github.com/citusdata/citus) - by citusdata
 - [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [xhyve](https://github.com/mist64/xhyve) - by mist64
-- [netdata](https://github.com/firehol/netdata) - by firehol
 - [lwan](https://github.com/lpereira/lwan) - by lpereira
+- [netdata](https://github.com/firehol/netdata) - by firehol
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - by edent
 
 ### 2016-4
@@ -63,8 +63,8 @@
 - [wren](https://github.com/munificent/wren) - by munificent
 - [magma](https://github.com/lavabit/magma) - by lavabit
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
-- [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
+- [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - by christinaa
 - [hyperkit](https://github.com/docker/hyperkit) - by docker
 - [libui](https://github.com/andlabs/libui) - by andlabs
@@ -77,3 +77,4 @@
 - [anypixel](https://github.com/googlecreativelab/anypixel) - by googlecreativelab
 - [memleax](https://github.com/WuBingzheng/memleax) - by WuBingzheng
 - [darkforestGo](https://github.com/facebookresearch/darkforestGo) - by facebookresearch
+- [quiet-lwip](https://github.com/quiet/quiet-lwip) - by quiet

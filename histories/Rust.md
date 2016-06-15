@@ -24,3 +24,6 @@
 - [hydrogen](https://github.com/nathansizemore/hydrogen) - by nathansizemore
 - [helix](https://github.com/rustbridge/helix) - by rustbridge
 - [wsta](https://github.com/esphen/wsta) - by esphen
+
+### 2016-6
+- [habitat](https://github.com/habitat-sh/habitat) - by habitat-sh
