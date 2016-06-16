@@ -126,18 +126,18 @@
 ### 2016-5
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - by teachthenet
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
-- [edward](https://github.com/blei-lab/edward) - by blei-lab
 - [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
+- [edward](https://github.com/blei-lab/edward) - by blei-lab
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
-- [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
+- [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
 - [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
-- [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
+- [models](https://github.com/tensorflow/models) - by tensorflow
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
 - [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
@@ -162,3 +162,4 @@
 - [async-rl](https://github.com/coreylynch/async-rl) - by coreylynch
 - [httpie](https://github.com/jkbrzt/httpie) - by jkbrzt
 - [deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow) - by carpedm20
+- [awesome-aws](https://github.com/donnemartin/awesome-aws) - by donnemartin

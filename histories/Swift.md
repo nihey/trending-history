@@ -45,8 +45,8 @@
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
-- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
+- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
@@ -72,8 +72,8 @@
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
-- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
+- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -82,8 +82,8 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
-- [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
+- [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
@@ -96,15 +96,15 @@
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
 - [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
-- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
 - [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
+- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
 - [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
 - [PMAlertController](https://github.com/Codeido/PMAlertController) - by Codeido
 - [Networking](https://github.com/3lvis/Networking) - by 3lvis
-- [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
 - [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
+- [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
 - [expanding-collection](https://github.com/Ramotion/expanding-collection) - by Ramotion
 - [Render](https://github.com/alexdrone/Render) - by alexdrone
 
@@ -115,3 +115,5 @@
 - [WWDC](https://github.com/insidegui/WWDC) - by insidegui
 - [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
+- [Cleanse](https://github.com/square/Cleanse) - by square
+- [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv

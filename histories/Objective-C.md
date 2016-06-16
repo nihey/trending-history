@@ -30,8 +30,8 @@
 - [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) - by Zepo
 
 ### 2016-3
-- [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - by runner365
 - [GitUp](https://github.com/git-up/GitUp) - by git-up
+- [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - by runner365
 - [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - by renzifeng
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - by johnno1962
 - [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - by HarrisHan
@@ -55,3 +55,4 @@
 
 ### 2016-6
 - [VTMagic](https://github.com/tianzhuo112/VTMagic) - by tianzhuo112
+- [AppDevKit](https://github.com/yahoo/AppDevKit) - by yahoo

@@ -247,3 +247,5 @@
 - [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView) - by shchurov
 - [ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout) - by SilenceDut
 - [RxGroups](https://github.com/airbnb/RxGroups) - by airbnb
+- [stepper-indicator](https://github.com/badoualy/stepper-indicator) - by badoualy
+- [logger](https://github.com/orhanobut/logger) - by orhanobut
