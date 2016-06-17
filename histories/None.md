@@ -103,13 +103,13 @@
 - [android-architecture](https://github.com/googlesamples/android-architecture) - by googlesamples
 
 ### 2016-4
-- [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
 - [core-notes](https://github.com/reactjs/core-notes) - by reactjs
-- [test01](https://github.com/mortonNex/test01) - by mortonNex
+- [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
 - [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
+- [test01](https://github.com/mortonNex/test01) - by mortonNex
 - [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - by markerikson
-- [panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - by amaboura
 - [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - by shutterstock
+- [panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - by amaboura
 - [smq](https://github.com/antontarasenko/smq) - by antontarasenko
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by johnpapa
 - [InternetSemLimites](https://github.com/jlcarvalho/InternetSemLimites) - by jlcarvalho
@@ -118,18 +118,18 @@
 - [HEAD](https://github.com/joshbuchea/HEAD) - by joshbuchea
 
 ### 2016-5
-- [hosts](https://github.com/racaljk/hosts) - by racaljk
 - [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
-- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
+- [hosts](https://github.com/racaljk/hosts) - by racaljk
 - [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
-- [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
+- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
 - [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
+- [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - by giantray
 - [membership.db](https://github.com/membership/membership.db) - by membership
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - by dbohdan
-- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - by jobbole
 - [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - by LittleFriendsGroup
+- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - by jobbole
 - [tesla-features](https://github.com/sahin/tesla-features) - by sahin
 - [post-mortems](https://github.com/danluu/post-mortems) - by danluu
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - by jobbole
@@ -151,3 +151,5 @@
 - [maruos](https://github.com/maruos/maruos) - by maruos
 - [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
 - [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
+- [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
+- [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony

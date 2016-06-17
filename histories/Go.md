@@ -28,15 +28,15 @@
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
-- [dlite](https://github.com/nlf/dlite) - by nlf
 - [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
+- [dlite](https://github.com/nlf/dlite) - by nlf
 - [seesaw](https://github.com/google/seesaw) - by google
 
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
+- [gogs](https://github.com/gogits/gogs) - by gogits
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
 - [go-git](https://github.com/src-d/go-git) - by src-d
@@ -72,8 +72,8 @@
 - [echo](https://github.com/labstack/echo) - by labstack
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
-- [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
+- [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -113,3 +113,4 @@
 - [swarmkit](https://github.com/docker/swarmkit) - by docker
 - [errors](https://github.com/pkg/errors) - by pkg
 - [tag](https://github.com/aykamko/tag) - by aykamko
+- [gron](https://github.com/roylee0704/gron) - by roylee0704
