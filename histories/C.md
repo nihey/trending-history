@@ -78,3 +78,4 @@
 - [memleax](https://github.com/WuBingzheng/memleax) - by WuBingzheng
 - [darkforestGo](https://github.com/facebookresearch/darkforestGo) - by facebookresearch
 - [quiet-lwip](https://github.com/quiet/quiet-lwip) - by quiet
+- [lzfse](https://github.com/lzfse/lzfse) - by lzfse

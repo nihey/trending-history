@@ -26,3 +26,6 @@
 ### 2016-5
 - [gitreflow](https://github.com/reenhanced/gitreflow) - by reenhanced
 - [hanami](https://github.com/hanami/hanami) - by hanami
+
+### 2016-6
+- [faster_path](https://github.com/danielpclark/faster_path) - by danielpclark

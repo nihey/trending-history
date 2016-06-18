@@ -13,3 +13,6 @@
 
 ### 2016-5
 - [vimium](https://github.com/philc/vimium) - by philc
+
+### 2016-6
+- [yakyak](https://github.com/yakyak/yakyak) - by yakyak
