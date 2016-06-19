@@ -41,3 +41,4 @@
 ### 2016-6
 - [FullPageOS](https://github.com/guysoft/FullPageOS) - by guysoft
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - by nojhan
+- [c.sh](https://github.com/eklitzke/c.sh) - by eklitzke

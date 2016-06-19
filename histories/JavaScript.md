@@ -388,3 +388,4 @@
 - [react-enroute](https://github.com/tj/react-enroute) - by tj
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - by justjavac
 - [WeFlow](https://github.com/weixin/WeFlow) - by weixin
+- [Vidage](https://github.com/dvLden/Vidage) - by dvLden
