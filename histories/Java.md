@@ -230,18 +230,18 @@
 - [BubbleView](https://github.com/cpiz/BubbleView) - by cpiz
 - [MarqueeView](https://github.com/sfsheng0322/MarqueeView) - by sfsheng0322
 - [DrawerBehavior](https://github.com/JakeWharton/DrawerBehavior) - by JakeWharton
-- [material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens) - by DmitryMalkovich
 - [BlurView](https://github.com/Dimezis/BlurView) - by Dimezis
-- [slide](https://github.com/trikita/slide) - by trikita
 - [yasea](https://github.com/begeekmyfriend/yasea) - by begeekmyfriend
-- [vectalign](https://github.com/bonnyfone/vectalign) - by bonnyfone
+- [slide](https://github.com/trikita/slide) - by trikita
+- [material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens) - by DmitryMalkovich
 - [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) - by diegodobelo
+- [vectalign](https://github.com/bonnyfone/vectalign) - by bonnyfone
 - [android-drag-square](https://github.com/xmuSistone/android-drag-square) - by xmuSistone
 - [QQBubbleView](https://github.com/Yasic/QQBubbleView) - by Yasic
 - [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) - by h4de5ing
 - [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) - by Zomato
-- [AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView) - by jaredrummler
 - [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) - by Azoft
+- [AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView) - by jaredrummler
 - [PinLockView](https://github.com/aritraroy/PinLockView) - by aritraroy
 - [failsafe](https://github.com/jhalterman/failsafe) - by jhalterman
 - [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView) - by shchurov
@@ -252,3 +252,4 @@
 - [NoHttp](https://github.com/yanzhenjie/NoHttp) - by yanzhenjie
 - [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe) - by HoneyNeutrons
 - [Spotlight](https://github.com/wooplr/Spotlight) - by wooplr
+- [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView) - by JeasonWong
