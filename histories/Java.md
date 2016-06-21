@@ -138,8 +138,8 @@
 - [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - by Jacksgong
 - [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - by w446108264
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) - by rengwuxian
-- [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
 - [smile](https://github.com/haifengl/smile) - by haifengl
+- [StatusBarUtil](https://github.com/laobie/StatusBarUtil) - by laobie
 - [VideoListPlayer](https://github.com/waynell/VideoListPlayer) - by waynell
 - [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) - by niorgai
 - [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - by ybq
@@ -150,13 +150,13 @@
 - [druid](https://github.com/druid-io/druid) - by druid-io
 - [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) - by Rogero0o
 - [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) - by DevLight-Mobile-Agency
-- [Conductor](https://github.com/bluelinelabs/Conductor) - by bluelinelabs
-- [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
 - [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - by android-cjj
 - [sqlite-android](https://github.com/requery/sqlite-android) - by requery
+- [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
+- [Conductor](https://github.com/bluelinelabs/Conductor) - by bluelinelabs
 - [ActivityRouter](https://github.com/mzule/ActivityRouter) - by mzule
-- [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
 - [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
+- [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
 - [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - by hongyangAndroid
 - [folding-cell-android](https://github.com/Ramotion/folding-cell-android) - by Ramotion
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - by Vedenin
@@ -174,20 +174,20 @@
 - [FragmentAnimations](https://github.com/kakajika/FragmentAnimations) - by kakajika
 - [FloatingToolbar](https://github.com/rubensousa/FloatingToolbar) - by rubensousa
 - [CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout) - by BCsl
-- [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - by danielzeller
-- [MusicBobber](https://github.com/Cleveroad/MusicBobber) - by Cleveroad
 - [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) - by pili-engineering
-- [drawee-text-view](https://github.com/Bilibili/drawee-text-view) - by Bilibili
+- [MusicBobber](https://github.com/Cleveroad/MusicBobber) - by Cleveroad
+- [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-) - by danielzeller
 - [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - by Rogero0o
+- [drawee-text-view](https://github.com/Bilibili/drawee-text-view) - by Bilibili
 
 ### 2016-5
-- [MicroReader](https://github.com/YiuChoi/MicroReader) - by YiuChoi
 - [PieMessage](https://github.com/bboyairwreck/PieMessage) - by bboyairwreck
+- [MicroReader](https://github.com/YiuChoi/MicroReader) - by YiuChoi
 - [SwipeAwayDialog](https://github.com/kakajika/SwipeAwayDialog) - by kakajika
-- [GithubWidget](https://github.com/Nightonke/GithubWidget) - by Nightonke
 - [FloatMenuSample](https://github.com/crosg/FloatMenuSample) - by crosg
-- [RadarScan](https://github.com/ImmortalZ/RadarScan) - by ImmortalZ
+- [GithubWidget](https://github.com/Nightonke/GithubWidget) - by Nightonke
 - [Evil-Hide](https://github.com/blackbbc/Evil-Hide) - by blackbbc
+- [RadarScan](https://github.com/ImmortalZ/RadarScan) - by ImmortalZ
 - [flexbox-layout](https://github.com/google/flexbox-layout) - by google
 - [Bourbon](https://github.com/hitherejoe/Bourbon) - by hitherejoe
 - [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - by nisrulz
@@ -200,8 +200,8 @@
 - [T-MVP](https://github.com/north2014/T-MVP) - by north2014
 - [ExpandableLayout](https://github.com/cachapa/ExpandableLayout) - by cachapa
 - [UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin) - by yjfnypeu
-- [pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup) - by Yalantis
 - [TagsEditText](https://github.com/mabbas007/TagsEditText) - by mabbas007
+- [pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup) - by Yalantis
 - [paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android) - by Ramotion
 - [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - by ArthurHub
 - [ScratchView](https://github.com/cooltechworks/ScratchView) - by cooltechworks
@@ -209,20 +209,20 @@
 - [ambry](https://github.com/linkedin/ambry) - by linkedin
 - [NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip) - by DevLight-Mobile-Agency
 - [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) - by andkulikov
-- [LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - by alibaba
 - [99-problems](https://github.com/shekhargulati/99-problems) - by shekhargulati
+- [LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - by alibaba
 - [GanHuoIO](https://github.com/burgessjp/GanHuoIO) - by burgessjp
 - [welcome-android](https://github.com/stephentuso/welcome-android) - by stephentuso
-- [heron](https://github.com/twitter/heron) - by twitter
 - [realm-java](https://github.com/realm/realm-java) - by realm
+- [heron](https://github.com/twitter/heron) - by twitter
 - [FriendCircle](https://github.com/razerdp/FriendCircle) - by razerdp
 - [TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - by gshevtsov
 - [blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - by jenkinsci
 - [PiracyChecker](https://github.com/javiersantos/PiracyChecker) - by javiersantos
 - [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - by CymChad
-- [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar) - by H07000223
 - [RocooFix](https://github.com/dodola/RocooFix) - by dodola
 - [yava](https://github.com/hujiaweibujidao/yava) - by hujiaweibujidao
+- [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar) - by H07000223
 
 ### 2016-6
 - [TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) - by JZXiang
@@ -231,14 +231,14 @@
 - [MarqueeView](https://github.com/sfsheng0322/MarqueeView) - by sfsheng0322
 - [DrawerBehavior](https://github.com/JakeWharton/DrawerBehavior) - by JakeWharton
 - [BlurView](https://github.com/Dimezis/BlurView) - by Dimezis
-- [yasea](https://github.com/begeekmyfriend/yasea) - by begeekmyfriend
 - [slide](https://github.com/trikita/slide) - by trikita
 - [material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens) - by DmitryMalkovich
-- [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) - by diegodobelo
+- [yasea](https://github.com/begeekmyfriend/yasea) - by begeekmyfriend
 - [vectalign](https://github.com/bonnyfone/vectalign) - by bonnyfone
+- [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) - by diegodobelo
 - [android-drag-square](https://github.com/xmuSistone/android-drag-square) - by xmuSistone
-- [QQBubbleView](https://github.com/Yasic/QQBubbleView) - by Yasic
 - [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) - by h4de5ing
+- [QQBubbleView](https://github.com/Yasic/QQBubbleView) - by Yasic
 - [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) - by Zomato
 - [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) - by Azoft
 - [AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView) - by jaredrummler
@@ -253,3 +253,6 @@
 - [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe) - by HoneyNeutrons
 - [Spotlight](https://github.com/wooplr/Spotlight) - by wooplr
 - [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView) - by JeasonWong
+- [ExpandingPager](https://github.com/qs-lll/ExpandingPager) - by qs-lll
+- [GuideView](https://github.com/binIoter/GuideView) - by binIoter
+- [CircleCheckBox](https://github.com/arlindiDev/CircleCheckBox) - by arlindiDev

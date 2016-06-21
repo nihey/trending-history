@@ -166,3 +166,4 @@
 - [facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper) - by minimaxir
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - by a1studmuffin
 - [Instant-Movie-Streamer](https://github.com/yask123/Instant-Movie-Streamer) - by yask123
+- [beets](https://github.com/beetbox/beets) - by beetbox

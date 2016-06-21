@@ -392,3 +392,4 @@
 - [Kalm](https://github.com/fed135/Kalm) - by fed135
 - [reify](https://github.com/benjamn/reify) - by benjamn
 - [javascript-journey](https://github.com/bahmutov/javascript-journey) - by bahmutov
+- [vizicities](https://github.com/UDST/vizicities) - by UDST

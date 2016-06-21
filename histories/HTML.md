@@ -52,8 +52,8 @@
 - [min](https://github.com/minbrowser/min) - by minbrowser
 - [growth-in-action](https://github.com/phodal/growth-in-action) - by phodal
 - [family.scss](https://github.com/LukyVj/family.scss) - by LukyVj
-- [spectre](https://github.com/picturepan2/spectre) - by picturepan2
 - [Pastejacking](https://github.com/dxa4481/Pastejacking) - by dxa4481
+- [spectre](https://github.com/picturepan2/spectre) - by picturepan2
 - [mailgen](https://github.com/eladnava/mailgen) - by eladnava
 
 ### 2016-6
@@ -62,3 +62,5 @@
 - [drizzle](https://github.com/cloudfour/drizzle) - by cloudfour
 - [coursera-dl](https://github.com/coursera-dl/coursera-dl) - by coursera-dl
 - [scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - by IPGP
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) - by Microsoft
+- [SingleDivProject](https://github.com/ManrajGrover/SingleDivProject) - by ManrajGrover
