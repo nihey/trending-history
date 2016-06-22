@@ -213,16 +213,16 @@
 - [LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - by alibaba
 - [GanHuoIO](https://github.com/burgessjp/GanHuoIO) - by burgessjp
 - [welcome-android](https://github.com/stephentuso/welcome-android) - by stephentuso
-- [realm-java](https://github.com/realm/realm-java) - by realm
 - [heron](https://github.com/twitter/heron) - by twitter
+- [realm-java](https://github.com/realm/realm-java) - by realm
 - [FriendCircle](https://github.com/razerdp/FriendCircle) - by razerdp
 - [TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - by gshevtsov
-- [blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - by jenkinsci
 - [PiracyChecker](https://github.com/javiersantos/PiracyChecker) - by javiersantos
+- [blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - by jenkinsci
 - [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - by CymChad
-- [RocooFix](https://github.com/dodola/RocooFix) - by dodola
-- [yava](https://github.com/hujiaweibujidao/yava) - by hujiaweibujidao
 - [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar) - by H07000223
+- [yava](https://github.com/hujiaweibujidao/yava) - by hujiaweibujidao
+- [RocooFix](https://github.com/dodola/RocooFix) - by dodola
 
 ### 2016-6
 - [TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) - by JZXiang
@@ -230,12 +230,12 @@
 - [BubbleView](https://github.com/cpiz/BubbleView) - by cpiz
 - [MarqueeView](https://github.com/sfsheng0322/MarqueeView) - by sfsheng0322
 - [DrawerBehavior](https://github.com/JakeWharton/DrawerBehavior) - by JakeWharton
+- [material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens) - by DmitryMalkovich
 - [BlurView](https://github.com/Dimezis/BlurView) - by Dimezis
 - [slide](https://github.com/trikita/slide) - by trikita
-- [material-design-dimens](https://github.com/DmitryMalkovich/material-design-dimens) - by DmitryMalkovich
 - [yasea](https://github.com/begeekmyfriend/yasea) - by begeekmyfriend
-- [vectalign](https://github.com/bonnyfone/vectalign) - by bonnyfone
 - [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) - by diegodobelo
+- [vectalign](https://github.com/bonnyfone/vectalign) - by bonnyfone
 - [android-drag-square](https://github.com/xmuSistone/android-drag-square) - by xmuSistone
 - [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) - by h4de5ing
 - [QQBubbleView](https://github.com/Yasic/QQBubbleView) - by Yasic
@@ -247,8 +247,8 @@
 - [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView) - by shchurov
 - [ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout) - by SilenceDut
 - [RxGroups](https://github.com/airbnb/RxGroups) - by airbnb
-- [stepper-indicator](https://github.com/badoualy/stepper-indicator) - by badoualy
 - [logger](https://github.com/orhanobut/logger) - by orhanobut
+- [stepper-indicator](https://github.com/badoualy/stepper-indicator) - by badoualy
 - [NoHttp](https://github.com/yanzhenjie/NoHttp) - by yanzhenjie
 - [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe) - by HoneyNeutrons
 - [Spotlight](https://github.com/wooplr/Spotlight) - by wooplr
@@ -256,3 +256,4 @@
 - [ExpandingPager](https://github.com/qs-lll/ExpandingPager) - by qs-lll
 - [GuideView](https://github.com/binIoter/GuideView) - by binIoter
 - [CircleCheckBox](https://github.com/arlindiDev/CircleCheckBox) - by arlindiDev
+- [CardStackView](https://github.com/loopeer/CardStackView) - by loopeer

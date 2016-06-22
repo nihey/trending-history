@@ -80,3 +80,4 @@
 - [nbind](https://github.com/charto/nbind) - by charto
 - [libui-node](https://github.com/parro-it/libui-node) - by parro-it
 - [ClickHouse](https://github.com/yandex/ClickHouse) - by yandex
+- [persistent-rnn](https://github.com/baidu-research/persistent-rnn) - by baidu-research
