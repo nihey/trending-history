@@ -361,11 +361,11 @@
 - [reactpack](https://github.com/olahol/reactpack) - by olahol
 - [tips](https://github.com/git-tips/tips) - by git-tips
 - [victory](https://github.com/FormidableLabs/victory) - by FormidableLabs
-- [carte-blanche](https://github.com/carteb/carte-blanche) - by carteb
 - [recon](https://github.com/recon-js/recon) - by recon-js
-- [ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - by garrylachman
+- [carte-blanche](https://github.com/carteb/carte-blanche) - by carteb
 - [magic-mirror-demo](https://github.com/MicrosoftEdge/magic-mirror-demo) - by MicrosoftEdge
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - by react-d3-library
+- [ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - by garrylachman
 - [css-in-js](https://github.com/MicheleBertoli/css-in-js) - by MicheleBertoli
 - [webpack-hot-server-example](https://github.com/ericclemmons/webpack-hot-server-example) - by ericclemmons
 - [ignite](https://github.com/infinitered/ignite) - by infinitered
@@ -377,10 +377,10 @@
 - [holmes](https://github.com/Haroenv/holmes) - by Haroenv
 - [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - by clauderic
 - [jpress](https://github.com/JpressProjects/jpress) - by JpressProjects
-- [rill](https://github.com/rill-js/rill) - by rill-js
 - [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin) - by ampedandwired
-- [react-css-components](https://github.com/andreypopp/react-css-components) - by andreypopp
+- [rill](https://github.com/rill-js/rill) - by rill-js
 - [Clairvoyance](https://github.com/abalone0204/Clairvoyance) - by abalone0204
+- [react-css-components](https://github.com/andreypopp/react-css-components) - by andreypopp
 - [VisualAlchemist](https://github.com/prahladyeri/VisualAlchemist) - by prahladyeri
 - [N1](https://github.com/nylas/N1) - by nylas
 - [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - by claudiajs
@@ -395,3 +395,5 @@
 - [vizicities](https://github.com/UDST/vizicities) - by UDST
 - [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - by alexkuz
 - [gitkit-js](https://github.com/SamyPesse/gitkit-js) - by SamyPesse
+- [flatpickr](https://github.com/chmln/flatpickr) - by chmln
+- [choo](https://github.com/yoshuawuyts/choo) - by yoshuawuyts

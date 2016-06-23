@@ -30,9 +30,9 @@
 
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
-- [rappel](https://github.com/yrp604/rappel) - by yrp604
-- [emojicode](https://github.com/emojicode/emojicode) - by emojicode
 - [luna](https://github.com/tj/luna) - by tj
+- [emojicode](https://github.com/emojicode/emojicode) - by emojicode
+- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [jo](https://github.com/jpmens/jo) - by jpmens
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
@@ -80,3 +80,6 @@
 - [quiet-lwip](https://github.com/quiet/quiet-lwip) - by quiet
 - [lzfse](https://github.com/lzfse/lzfse) - by lzfse
 - [afl.rs](https://github.com/frewsxcv/afl.rs) - by frewsxcv
+- [u2f-zero](https://github.com/conorpp/u2f-zero) - by conorpp
+- [huo](https://github.com/incrediblesound/huo) - by incrediblesound
+- [longs](https://github.com/riolet/longs) - by riolet

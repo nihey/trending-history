@@ -26,9 +26,9 @@
 - [zig](https://github.com/andrewrk/zig) - by andrewrk
 - [ion](https://github.com/google/ion) - by google
 - [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
-- [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [serving](https://github.com/tensorflow/serving) - by tensorflow
 - [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
+- [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [node-lws](https://github.com/alexhultman/node-lws) - by alexhultman
 - [realm-js](https://github.com/realm/realm-js) - by realm
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - by yahoo
@@ -64,8 +64,8 @@
 - [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - by BearishSun
 - [amazon-dsstne](https://github.com/amznlabs/amazon-dsstne) - by amznlabs
 - [electron](https://github.com/electron/electron) - by electron
-- [Fido](https://github.com/FidoProject/Fido) - by FidoProject
 - [openthread](https://github.com/openthread/openthread) - by openthread
+- [Fido](https://github.com/FidoProject/Fido) - by FidoProject
 - [pika](https://github.com/Qihoo360/pika) - by Qihoo360
 - [FireRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FireRays_SDK) - by GPUOpen-LibrariesAndSDKs
 - [x64dbg](https://github.com/x64dbg/x64dbg) - by x64dbg
@@ -81,3 +81,4 @@
 - [libui-node](https://github.com/parro-it/libui-node) - by parro-it
 - [ClickHouse](https://github.com/yandex/ClickHouse) - by yandex
 - [persistent-rnn](https://github.com/baidu-research/persistent-rnn) - by baidu-research
+- [phxpaxos](https://github.com/tencent-wechat/phxpaxos) - by tencent-wechat
