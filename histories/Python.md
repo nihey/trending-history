@@ -87,8 +87,8 @@
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
 - [dplython](https://github.com/dodger487/dplython) - by dodger487
 - [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
-- [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [quantum](https://github.com/karldray/quantum) - by karldray
+- [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
 - [pytrader](https://github.com/owocki/pytrader) - by owocki
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
@@ -100,27 +100,27 @@
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
 - [bcc](https://github.com/iovisor/bcc) - by iovisor
-- [you-get](https://github.com/soimort/you-get) - by soimort
 - [tflearn](https://github.com/tflearn/tflearn) - by tflearn
 - [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
-- [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
+- [you-get](https://github.com/soimort/you-get) - by soimort
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
+- [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
 - [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
 - [voltron](https://github.com/snare/voltron) - by snare
 - [keras](https://github.com/fchollet/keras) - by fchollet
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
+- [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
 - [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [pycraft](https://github.com/traverseda/pycraft) - by traverseda
-- [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
 - [dcos](https://github.com/dcos/dcos) - by dcos
 - [colornet](https://github.com/pavelgonchar/colornet) - by pavelgonchar
 - [enjarify](https://github.com/google/enjarify) - by google
 - [elastalert](https://github.com/Yelp/elastalert) - by Yelp
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
-- [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
+- [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [gym](https://github.com/openai/gym) - by openai
 
 ### 2016-5
@@ -130,8 +130,8 @@
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
-- [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
+- [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
 - [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
@@ -167,3 +167,4 @@
 - [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - by a1studmuffin
 - [Instant-Movie-Streamer](https://github.com/yask123/Instant-Movie-Streamer) - by yask123
 - [beets](https://github.com/beetbox/beets) - by beetbox
+- [coconut](https://github.com/evhub/coconut) - by evhub

@@ -20,9 +20,9 @@
 - [Then](https://github.com/devxoul/Then) - by devxoul
 
 ### 2016-1
-- [spi](https://github.com/guoc/spi) - by guoc
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
 - [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
+- [spi](https://github.com/guoc/spi) - by guoc
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -33,8 +33,8 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
-- [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
 - [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
+- [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
@@ -45,8 +45,8 @@
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
-- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
+- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
@@ -71,9 +71,9 @@
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
+- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
-- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -82,8 +82,8 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
-- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
+- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
@@ -117,3 +117,4 @@
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
 - [Cleanse](https://github.com/square/Cleanse) - by square
 - [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
+- [Graphs](https://github.com/recruit-mtl/Graphs) - by recruit-mtl

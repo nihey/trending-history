@@ -15,3 +15,6 @@
 
 ### 2016-5
 - [siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) - by satoshiiizuka
+
+### 2016-6
+- [torchnet](https://github.com/torchnet/torchnet) - by torchnet
