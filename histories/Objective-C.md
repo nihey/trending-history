@@ -56,3 +56,4 @@
 ### 2016-6
 - [VTMagic](https://github.com/tianzhuo112/VTMagic) - by tianzhuo112
 - [AppDevKit](https://github.com/yahoo/AppDevKit) - by yahoo
+- [AWA](https://github.com/huanxsd/AWA) - by huanxsd

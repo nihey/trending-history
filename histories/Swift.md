@@ -71,9 +71,9 @@
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
-- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
+- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -84,8 +84,8 @@
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
-- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
+- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
 - [JASON](https://github.com/delba/JASON) - by delba
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - by mobileplayer
@@ -118,3 +118,4 @@
 - [Cleanse](https://github.com/square/Cleanse) - by square
 - [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
 - [Graphs](https://github.com/recruit-mtl/Graphs) - by recruit-mtl
+- [reform-swift](https://github.com/laszlokorte/reform-swift) - by laszlokorte

@@ -157,3 +157,4 @@
 - [gitalias](https://github.com/GitAlias/gitalias) - by GitAlias
 - [LearningNotes](https://github.com/GeniusVJR/LearningNotes) - by GeniusVJR
 - [AndroidInterview](https://github.com/fanrunqi/AndroidInterview) - by fanrunqi
+- [swift-style-guide](https://github.com/linkedin/swift-style-guide) - by linkedin
