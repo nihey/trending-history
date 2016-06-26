@@ -43,3 +43,4 @@
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - by nojhan
 - [c.sh](https://github.com/eklitzke/c.sh) - by eklitzke
 - [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - by kvz
+- [mac-cli](https://github.com/guarinogabriel/mac-cli) - by guarinogabriel

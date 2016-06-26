@@ -168,3 +168,4 @@
 - [Instant-Movie-Streamer](https://github.com/yask123/Instant-Movie-Streamer) - by yask123
 - [beets](https://github.com/beetbox/beets) - by beetbox
 - [coconut](https://github.com/evhub/coconut) - by evhub
+- [Daily-Reddit-Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - by ssimunic
