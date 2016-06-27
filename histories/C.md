@@ -45,8 +45,8 @@
 - [citus](https://github.com/citusdata/citus) - by citusdata
 - [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [xhyve](https://github.com/mist64/xhyve) - by mist64
-- [lwan](https://github.com/lpereira/lwan) - by lpereira
 - [netdata](https://github.com/firehol/netdata) - by firehol
+- [lwan](https://github.com/lpereira/lwan) - by lpereira
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - by edent
 
 ### 2016-4
@@ -83,3 +83,4 @@
 - [u2f-zero](https://github.com/conorpp/u2f-zero) - by conorpp
 - [huo](https://github.com/incrediblesound/huo) - by incrediblesound
 - [longs](https://github.com/riolet/longs) - by riolet
+- [massdns](https://github.com/blechschmidt/massdns) - by blechschmidt

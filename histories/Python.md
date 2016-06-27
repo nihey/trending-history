@@ -108,12 +108,12 @@
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
 - [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
-- [voltron](https://github.com/snare/voltron) - by snare
 - [keras](https://github.com/fchollet/keras) - by fchollet
+- [voltron](https://github.com/snare/voltron) - by snare
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
-- [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
 - [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [pycraft](https://github.com/traverseda/pycraft) - by traverseda
+- [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
 - [dcos](https://github.com/dcos/dcos) - by dcos
 - [colornet](https://github.com/pavelgonchar/colornet) - by pavelgonchar
 - [enjarify](https://github.com/google/enjarify) - by google
@@ -169,3 +169,5 @@
 - [beets](https://github.com/beetbox/beets) - by beetbox
 - [coconut](https://github.com/evhub/coconut) - by evhub
 - [Daily-Reddit-Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - by ssimunic
+- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
+- [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar

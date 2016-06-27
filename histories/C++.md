@@ -45,8 +45,8 @@
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
-- [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
 - [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
+- [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
 - [uWebSockets](https://github.com/alexhultman/uWebSockets) - by alexhultman
 - [feather](https://github.com/wesm/feather) - by wesm
 
@@ -82,3 +82,5 @@
 - [ClickHouse](https://github.com/yandex/ClickHouse) - by yandex
 - [persistent-rnn](https://github.com/baidu-research/persistent-rnn) - by baidu-research
 - [phxpaxos](https://github.com/tencent-wechat/phxpaxos) - by tencent-wechat
+- [tiny-cnn](https://github.com/nyanp/tiny-cnn) - by nyanp
+- [Natron](https://github.com/MrKepzie/Natron) - by MrKepzie

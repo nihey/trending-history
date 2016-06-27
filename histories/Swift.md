@@ -33,8 +33,8 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
-- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
+- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
@@ -49,8 +49,8 @@
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
-- [vapor](https://github.com/qutheory/vapor) - by qutheory
 - [Swifton](https://github.com/necolt/Swifton) - by necolt
+- [vapor](https://github.com/qutheory/vapor) - by qutheory
 - [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - by AfryMask
 - [Kitura](https://github.com/IBM-Swift/Kitura) - by IBM-Swift
 - [Nuke](https://github.com/kean/Nuke) - by kean
@@ -65,15 +65,15 @@
 - [Stevia](https://github.com/s4cha/Stevia) - by s4cha
 - [navigation-stack](https://github.com/Ramotion/navigation-stack) - by Ramotion
 - [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - by fruitcoder
-- [PeekPop](https://github.com/marmelroy/PeekPop) - by marmelroy
 - [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
+- [PeekPop](https://github.com/marmelroy/PeekPop) - by marmelroy
 - [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - by BoltsFramework
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
 - [Gifu](https://github.com/kaishin/Gifu) - by kaishin
-- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
+- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -82,8 +82,8 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
-- [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
+- [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
@@ -95,9 +95,9 @@
 ### 2016-5
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
-- [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
-- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
 - [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
+- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
+- [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
 - [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
@@ -111,8 +111,8 @@
 ### 2016-6
 - [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
-- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [WWDC](https://github.com/insidegui/WWDC) - by insidegui
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
 - [Cleanse](https://github.com/square/Cleanse) - by square
@@ -120,3 +120,5 @@
 - [Graphs](https://github.com/recruit-mtl/Graphs) - by recruit-mtl
 - [reform-swift](https://github.com/laszlokorte/reform-swift) - by laszlokorte
 - [Preheat](https://github.com/kean/Preheat) - by kean
+- [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
+- [LayoutKit](https://github.com/linkedin/LayoutKit) - by linkedin
