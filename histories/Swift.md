@@ -96,8 +96,8 @@
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
 - [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
-- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
 - [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
+- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
 - [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
@@ -111,8 +111,8 @@
 ### 2016-6
 - [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
-- [WWDC](https://github.com/insidegui/WWDC) - by insidegui
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
+- [WWDC](https://github.com/insidegui/WWDC) - by insidegui
 - [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
 - [Cleanse](https://github.com/square/Cleanse) - by square
@@ -122,3 +122,4 @@
 - [Preheat](https://github.com/kean/Preheat) - by kean
 - [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
 - [LayoutKit](https://github.com/linkedin/LayoutKit) - by linkedin
+- [Potatso-iOS](https://github.com/shadowsocks/Potatso-iOS) - by shadowsocks
