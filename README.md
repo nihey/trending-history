@@ -35,6 +35,7 @@ updated.
   - [FORTRAN](https://github.com/nihey/trending-history/blob/master/histories/FORTRAN.md)
   - [Frege](https://github.com/nihey/trending-history/blob/master/histories/Frege.md)
   - [Go](https://github.com/nihey/trending-history/blob/master/histories/Go.md)
+  - [Groovy](https://github.com/nihey/trending-history/blob/master/histories/Groovy.md)
   - [HCL](https://github.com/nihey/trending-history/blob/master/histories/HCL.md)
   - [HTML](https://github.com/nihey/trending-history/blob/master/histories/HTML.md)
   - [Hack](https://github.com/nihey/trending-history/blob/master/histories/Hack.md)

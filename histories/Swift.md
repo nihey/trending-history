@@ -45,12 +45,12 @@
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
-- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
+- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
-- [Swifton](https://github.com/necolt/Swifton) - by necolt
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
+- [Swifton](https://github.com/necolt/Swifton) - by necolt
 - [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - by AfryMask
 - [Kitura](https://github.com/IBM-Swift/Kitura) - by IBM-Swift
 - [Nuke](https://github.com/kean/Nuke) - by kean
@@ -65,15 +65,15 @@
 - [Stevia](https://github.com/s4cha/Stevia) - by s4cha
 - [navigation-stack](https://github.com/Ramotion/navigation-stack) - by Ramotion
 - [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - by fruitcoder
-- [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
 - [PeekPop](https://github.com/marmelroy/PeekPop) - by marmelroy
+- [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
 - [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - by BoltsFramework
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
-- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
+- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -82,10 +82,10 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
-- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
-- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
+- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
+- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
 - [JASON](https://github.com/delba/JASON) - by delba
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - by mobileplayer
@@ -123,3 +123,5 @@
 - [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
 - [LayoutKit](https://github.com/linkedin/LayoutKit) - by linkedin
 - [Potatso-iOS](https://github.com/shadowsocks/Potatso-iOS) - by shadowsocks
+- [FNMatchPull](https://github.com/Fnoz/FNMatchPull) - by Fnoz
+- [Willow](https://github.com/Nike-Inc/Willow) - by Nike-Inc
