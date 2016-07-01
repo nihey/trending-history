@@ -126,3 +126,6 @@
 - [FNMatchPull](https://github.com/Fnoz/FNMatchPull) - by Fnoz
 - [Willow](https://github.com/Nike-Inc/Willow) - by Nike-Inc
 - [mal](https://github.com/kanaka/mal) - by kanaka
+
+### 2016-7
+- [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - by AntonTheDev
