@@ -71,9 +71,9 @@
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
-- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
 - [Gifu](https://github.com/kaishin/Gifu) - by kaishin
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -129,3 +129,4 @@
 
 ### 2016-7
 - [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - by AntonTheDev
+- [Elevate](https://github.com/Nike-Inc/Elevate) - by Nike-Inc

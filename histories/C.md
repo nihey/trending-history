@@ -84,3 +84,6 @@
 - [huo](https://github.com/incrediblesound/huo) - by incrediblesound
 - [longs](https://github.com/riolet/longs) - by riolet
 - [massdns](https://github.com/blechschmidt/massdns) - by blechschmidt
+
+### 2016-7
+- [lily](https://github.com/jesserayadkins/lily) - by jesserayadkins
