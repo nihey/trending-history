@@ -164,3 +164,6 @@
 - [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
 - [core](https://github.com/dotnet/core) - by dotnet
 - [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
+
+### 2016-7
+- [forget-the-king](https://github.com/usgov/forget-the-king) - by usgov

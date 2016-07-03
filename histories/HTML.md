@@ -64,3 +64,6 @@
 - [scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - by IPGP
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - by Microsoft
 - [SingleDivProject](https://github.com/ManrajGrover/SingleDivProject) - by ManrajGrover
+
+### 2016-7
+- [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse) - by warmheartli

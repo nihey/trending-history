@@ -82,10 +82,10 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
-- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
-- [Peek](https://github.com/shaps80/Peek) - by shaps80
+- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
+- [Peek](https://github.com/shaps80/Peek) - by shaps80
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
 - [JASON](https://github.com/delba/JASON) - by delba
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - by mobileplayer
@@ -130,3 +130,5 @@
 ### 2016-7
 - [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - by AntonTheDev
 - [Elevate](https://github.com/Nike-Inc/Elevate) - by Nike-Inc
+- [ISTimeline](https://github.com/instant-solutions/ISTimeline) - by instant-solutions
+- [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
