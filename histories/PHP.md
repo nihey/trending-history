@@ -47,3 +47,4 @@
 
 ### 2016-7
 - [geographer](https://github.com/MenaraSolutions/geographer) - by MenaraSolutions
+- [Canvas](https://github.com/austintoddj/Canvas) - by austintoddj

@@ -173,3 +173,6 @@
 - [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar
 - [netbox](https://github.com/digitalocean/netbox) - by digitalocean
 - [GraphDash](https://github.com/AmadeusITGroup/GraphDash) - by AmadeusITGroup
+
+### 2016-7
+- [pyspider](https://github.com/binux/pyspider) - by binux

@@ -13,8 +13,8 @@
 - [RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN) - by yuxingxin
 - [weui](https://github.com/weui/weui) - by weui
 - [overpass](https://github.com/RedHatBrand/overpass) - by RedHatBrand
-- [jstips](https://github.com/loverajoel/jstips) - by loverajoel
 - [pev](https://github.com/AlexTatiyants/pev) - by AlexTatiyants
+- [jstips](https://github.com/loverajoel/jstips) - by loverajoel
 - [hint.css](https://github.com/chinchang/hint.css) - by chinchang
 - [goad](https://github.com/gophergala2016/goad) - by gophergala2016
 - [voxel.css](https://github.com/HunterLarco/voxel.css) - by HunterLarco
@@ -53,3 +53,6 @@
 - [megaboilerplate](https://github.com/sahat/megaboilerplate) - by sahat
 - [CodeView](https://github.com/Thereisnospon/CodeView) - by Thereisnospon
 - [lcthw-zh](https://github.com/wizardforcel/lcthw-zh) - by wizardforcel
+
+### 2016-7
+- [ress](https://github.com/filipelinhares/ress) - by filipelinhares

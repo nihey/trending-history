@@ -18,3 +18,6 @@
 
 ### 2016-6
 - [torchnet](https://github.com/torchnet/torchnet) - by torchnet
+
+### 2016-7
+- [luaradio](https://github.com/vsergeev/luaradio) - by vsergeev
