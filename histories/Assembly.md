@@ -9,3 +9,6 @@
 
 ### 2016-6
 - [calc.asm](https://github.com/flouthoc/calc.asm) - by flouthoc
+
+### 2016-7
+- [msdos](https://github.com/BlastarIndia/msdos) - by BlastarIndia

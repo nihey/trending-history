@@ -58,3 +58,6 @@
 - [AppDevKit](https://github.com/yahoo/AppDevKit) - by yahoo
 - [AWA](https://github.com/huanxsd/AWA) - by huanxsd
 - [xTextHandler](https://github.com/cyanzhong/xTextHandler) - by cyanzhong
+
+### 2016-7
+- [tools](https://github.com/leeSmile/tools) - by leeSmile

@@ -27,3 +27,6 @@
 
 ### 2016-6
 - [habitat](https://github.com/habitat-sh/habitat) - by habitat-sh
+
+### 2016-7
+- [ruma](https://github.com/ruma/ruma) - by ruma
