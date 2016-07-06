@@ -84,3 +84,6 @@
 - [phxpaxos](https://github.com/tencent-wechat/phxpaxos) - by tencent-wechat
 - [tiny-cnn](https://github.com/nyanp/tiny-cnn) - by nyanp
 - [Natron](https://github.com/MrKepzie/Natron) - by MrKepzie
+
+### 2016-7
+- [mlpack](https://github.com/mlpack/mlpack) - by mlpack

@@ -95,16 +95,16 @@
 ### 2016-5
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
-- [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
 - [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
 - [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
+- [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
 - [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
 - [PMAlertController](https://github.com/Codeido/PMAlertController) - by Codeido
 - [Networking](https://github.com/3lvis/Networking) - by 3lvis
-- [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
 - [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
+- [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
 - [expanding-collection](https://github.com/Ramotion/expanding-collection) - by Ramotion
 - [Render](https://github.com/alexdrone/Render) - by alexdrone
 
@@ -132,3 +132,4 @@
 - [Elevate](https://github.com/Nike-Inc/Elevate) - by Nike-Inc
 - [ISTimeline](https://github.com/instant-solutions/ISTimeline) - by instant-solutions
 - [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
+- [Potatso](https://github.com/shadowsocks/Potatso) - by shadowsocks

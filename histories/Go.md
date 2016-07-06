@@ -52,8 +52,8 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [apns2](https://github.com/sideshow/apns2) - by sideshow
 - [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
+- [apns2](https://github.com/sideshow/apns2) - by sideshow
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
@@ -63,15 +63,15 @@
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
-- [abot](https://github.com/itsabot/abot) - by itsabot
 - [bigcache](https://github.com/allegro/bigcache) - by allegro
+- [abot](https://github.com/itsabot/abot) - by itsabot
 
 ### 2016-4
-- [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
+- [depscheck](https://github.com/divan/depscheck) - by divan
 - [qor](https://github.com/qor/qor) - by qor
-- [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [echo](https://github.com/labstack/echo) - by labstack
+- [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
@@ -81,14 +81,14 @@
 - [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole
 - [binctr](https://github.com/jfrazelle/binctr) - by jfrazelle
 - [micro](https://github.com/zyedidia/micro) - by zyedidia
-- [find](https://github.com/schollz/find) - by schollz
 - [gobgp](https://github.com/osrg/gobgp) - by osrg
+- [find](https://github.com/schollz/find) - by schollz
 - [passgo](https://github.com/ejcx/passgo) - by ejcx
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [gollum](https://github.com/trivago/gollum) - by trivago
 - [kit](https://github.com/go-kit/kit) - by go-kit
+- [gollum](https://github.com/trivago/gollum) - by trivago
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -120,3 +120,5 @@
 ### 2016-7
 - [zoekt](https://github.com/google/zoekt) - by google
 - [unik](https://github.com/emc-advanced-dev/unik) - by emc-advanced-dev
+- [lgtm](https://github.com/lgtmco/lgtm) - by lgtmco
+- [cnki-downloader](https://github.com/amyhaber/cnki-downloader) - by amyhaber
