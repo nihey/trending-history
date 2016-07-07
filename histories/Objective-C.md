@@ -34,8 +34,8 @@
 - [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - by runner365
 - [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - by renzifeng
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - by johnno1962
-- [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - by HarrisHan
 - [EZAudio](https://github.com/syedhali/EZAudio) - by syedhali
+- [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - by HarrisHan
 - [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - by spotify
 
 ### 2016-4
@@ -61,3 +61,5 @@
 
 ### 2016-7
 - [tools](https://github.com/leeSmile/tools) - by leeSmile
+- [MiaowShow](https://github.com/SunLiner/MiaowShow) - by SunLiner
+- [Eleven](https://github.com/coderyi/Eleven) - by coderyi
