@@ -29,3 +29,6 @@
 
 ### 2016-6
 - [faster_path](https://github.com/danielpclark/faster_path) - by danielpclark
+
+### 2016-7
+- [PokemonHook](https://github.com/rpplusplus/PokemonHook) - by rpplusplus

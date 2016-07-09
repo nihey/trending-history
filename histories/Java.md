@@ -183,9 +183,9 @@
 ### 2016-5
 - [PieMessage](https://github.com/bboyairwreck/PieMessage) - by bboyairwreck
 - [MicroReader](https://github.com/YiuChoi/MicroReader) - by YiuChoi
+- [GithubWidget](https://github.com/Nightonke/GithubWidget) - by Nightonke
 - [SwipeAwayDialog](https://github.com/kakajika/SwipeAwayDialog) - by kakajika
 - [FloatMenuSample](https://github.com/crosg/FloatMenuSample) - by crosg
-- [GithubWidget](https://github.com/Nightonke/GithubWidget) - by Nightonke
 - [RadarScan](https://github.com/ImmortalZ/RadarScan) - by ImmortalZ
 - [Evil-Hide](https://github.com/blackbbc/Evil-Hide) - by blackbbc
 - [Bourbon](https://github.com/hitherejoe/Bourbon) - by hitherejoe
@@ -194,23 +194,23 @@
 - [sensey](https://github.com/nisrulz/sensey) - by nisrulz
 - [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - by nisrulz
 - [Shuffle](https://github.com/Meetic/Shuffle) - by Meetic
+- [TLint](https://github.com/gzsll/TLint) - by gzsll
 - [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - by MasayukiSuda
 - [distributedlog](https://github.com/twitter/distributedlog) - by twitter
-- [TLint](https://github.com/gzsll/TLint) - by gzsll
 - [T-MVP](https://github.com/north2014/T-MVP) - by north2014
 - [ExpandableLayout](https://github.com/cachapa/ExpandableLayout) - by cachapa
 - [UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin) - by yjfnypeu
-- [TagsEditText](https://github.com/mabbas007/TagsEditText) - by mabbas007
 - [pull-to-make-soup](https://github.com/Yalantis/pull-to-make-soup) - by Yalantis
+- [TagsEditText](https://github.com/mabbas007/TagsEditText) - by mabbas007
 - [paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android) - by Ramotion
-- [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - by ArthurHub
 - [ScratchView](https://github.com/cooltechworks/ScratchView) - by cooltechworks
+- [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper) - by ArthurHub
 - [ambry](https://github.com/linkedin/ambry) - by linkedin
 - [ECTranslation](https://github.com/Skykai521/ECTranslation) - by Skykai521
 - [NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip) - by DevLight-Mobile-Agency
 - [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) - by andkulikov
-- [LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - by alibaba
 - [99-problems](https://github.com/shekhargulati/99-problems) - by shekhargulati
+- [LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - by alibaba
 - [welcome-android](https://github.com/stephentuso/welcome-android) - by stephentuso
 - [GanHuoIO](https://github.com/burgessjp/GanHuoIO) - by burgessjp
 - [heron](https://github.com/twitter/heron) - by twitter
@@ -221,8 +221,8 @@
 - [PiracyChecker](https://github.com/javiersantos/PiracyChecker) - by javiersantos
 - [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - by CymChad
 - [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar) - by H07000223
-- [RocooFix](https://github.com/dodola/RocooFix) - by dodola
 - [yava](https://github.com/hujiaweibujidao/yava) - by hujiaweibujidao
+- [RocooFix](https://github.com/dodola/RocooFix) - by dodola
 
 ### 2016-6
 - [TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) - by JZXiang
@@ -234,18 +234,18 @@
 - [BlurView](https://github.com/Dimezis/BlurView) - by Dimezis
 - [yasea](https://github.com/begeekmyfriend/yasea) - by begeekmyfriend
 - [slide](https://github.com/trikita/slide) - by trikita
-- [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) - by diegodobelo
 - [vectalign](https://github.com/bonnyfone/vectalign) - by bonnyfone
+- [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) - by diegodobelo
 - [android-drag-square](https://github.com/xmuSistone/android-drag-square) - by xmuSistone
-- [QQBubbleView](https://github.com/Yasic/QQBubbleView) - by Yasic
 - [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) - by h4de5ing
+- [QQBubbleView](https://github.com/Yasic/QQBubbleView) - by Yasic
 - [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) - by Zomato
 - [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) - by Azoft
 - [AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView) - by jaredrummler
 - [failsafe](https://github.com/jhalterman/failsafe) - by jhalterman
-- [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView) - by shchurov
-- [PinLockView](https://github.com/aritraroy/PinLockView) - by aritraroy
 - [ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout) - by SilenceDut
+- [PinLockView](https://github.com/aritraroy/PinLockView) - by aritraroy
+- [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView) - by shchurov
 - [RxGroups](https://github.com/airbnb/RxGroups) - by airbnb
 - [stepper-indicator](https://github.com/badoualy/stepper-indicator) - by badoualy
 - [logger](https://github.com/orhanobut/logger) - by orhanobut
@@ -254,12 +254,12 @@
 - [Spotlight](https://github.com/wooplr/Spotlight) - by wooplr
 - [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView) - by JeasonWong
 - [ExpandingPager](https://github.com/qs-lll/ExpandingPager) - by qs-lll
-- [CircleCheckBox](https://github.com/arlindiDev/CircleCheckBox) - by arlindiDev
 - [GuideView](https://github.com/binIoter/GuideView) - by binIoter
+- [CircleCheckBox](https://github.com/arlindiDev/CircleCheckBox) - by arlindiDev
 - [CardStackView](https://github.com/loopeer/CardStackView) - by loopeer
 - [Compressor](https://github.com/zetbaitsu/Compressor) - by zetbaitsu
-- [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - by barteksc
 - [JellyToggleButton](https://github.com/Nightonke/JellyToggleButton) - by Nightonke
+- [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - by barteksc
 - [material-intro](https://github.com/HeinrichReimer/material-intro) - by HeinrichReimer
 - [StepView](https://github.com/baoyachi/StepView) - by baoyachi
 - [LoadingView](https://github.com/ldoublem/LoadingView) - by ldoublem
@@ -270,13 +270,13 @@
 - [SideBar](https://github.com/kongnanlive/SideBar) - by kongnanlive
 - [quill](https://github.com/vickychijwani/quill) - by vickychijwani
 - [dagger2Demo](https://github.com/luxiaoming/dagger2Demo) - by luxiaoming
-- [Revealator](https://github.com/Jaouan/Revealator) - by Jaouan
 - [VideoListDemo](https://github.com/w1123440793/VideoListDemo) - by w1123440793
+- [Revealator](https://github.com/Jaouan/Revealator) - by Jaouan
 
 ### 2016-7
 - [weex](https://github.com/alibaba/weex) - by alibaba
-- [elegant-underline](https://github.com/romainguy/elegant-underline) - by romainguy
 - [NumberPickerView](https://github.com/Carbs0126/NumberPickerView) - by Carbs0126
+- [elegant-underline](https://github.com/romainguy/elegant-underline) - by romainguy
 - [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) - by HeZaiJin
 - [JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer) - by lipangit
 - [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) - by Mauker1
@@ -286,3 +286,6 @@
 - [TEmptyView](https://github.com/barryhappy/TEmptyView) - by barryhappy
 - [tooltips](https://github.com/tomergoldst/tooltips) - by tomergoldst
 - [VirtualApp](https://github.com/asLody/VirtualApp) - by asLody
+- [malmo](https://github.com/Microsoft/malmo) - by Microsoft
+- [elassandra](https://github.com/vroyer/elassandra) - by vroyer
+- [Music-Player](https://github.com/andremion/Music-Player) - by andremion
