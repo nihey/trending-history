@@ -47,6 +47,7 @@ updated.
   - [Kotlin](https://github.com/nihey/trending-history/blob/master/histories/Kotlin.md)
   - [Limbo](https://github.com/nihey/trending-history/blob/master/histories/Limbo.md)
   - [Lua](https://github.com/nihey/trending-history/blob/master/histories/Lua.md)
+  - [M](https://github.com/nihey/trending-history/blob/master/histories/M.md)
   - [Makefile](https://github.com/nihey/trending-history/blob/master/histories/Makefile.md)
   - [Mathematica](https://github.com/nihey/trending-history/blob/master/histories/Mathematica.md)
   - [Matlab](https://github.com/nihey/trending-history/blob/master/histories/Matlab.md)

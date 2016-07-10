@@ -87,3 +87,4 @@
 
 ### 2016-7
 - [mlpack](https://github.com/mlpack/mlpack) - by mlpack
+- [verve-lang](https://github.com/tadeuzagallo/verve-lang) - by tadeuzagallo

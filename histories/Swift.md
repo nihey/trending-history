@@ -33,24 +33,24 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
-- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
+- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
-- [Freddy](https://github.com/bignerdranch/Freddy) - by bignerdranch
 - [Yep](https://github.com/CatchChat/Yep) - by CatchChat
+- [Freddy](https://github.com/bignerdranch/Freddy) - by bignerdranch
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
-- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
+- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
-- [Swifton](https://github.com/necolt/Swifton) - by necolt
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
+- [Swifton](https://github.com/necolt/Swifton) - by necolt
 - [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - by AfryMask
 - [Kitura](https://github.com/IBM-Swift/Kitura) - by IBM-Swift
 - [Nuke](https://github.com/kean/Nuke) - by kean
@@ -71,9 +71,9 @@
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
-- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
 - [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
+- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -84,8 +84,8 @@
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
-- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
+- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
 - [JASON](https://github.com/delba/JASON) - by delba
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - by mobileplayer
@@ -95,33 +95,33 @@
 ### 2016-5
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
-- [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
-- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
 - [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
+- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
+- [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
 - [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
 - [PMAlertController](https://github.com/Codeido/PMAlertController) - by Codeido
 - [Networking](https://github.com/3lvis/Networking) - by 3lvis
-- [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
 - [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
+- [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
 - [expanding-collection](https://github.com/Ramotion/expanding-collection) - by Ramotion
 - [Render](https://github.com/alexdrone/Render) - by alexdrone
 
 ### 2016-6
 - [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
-- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [WWDC](https://github.com/insidegui/WWDC) - by insidegui
-- [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
+- [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
 - [Cleanse](https://github.com/square/Cleanse) - by square
 - [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
 - [Graphs](https://github.com/recruit-mtl/Graphs) - by recruit-mtl
 - [reform-swift](https://github.com/laszlokorte/reform-swift) - by laszlokorte
 - [Preheat](https://github.com/kean/Preheat) - by kean
-- [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
 - [LayoutKit](https://github.com/linkedin/LayoutKit) - by linkedin
+- [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
 - [Potatso-iOS](https://github.com/shadowsocks/Potatso-iOS) - by shadowsocks
 - [FNMatchPull](https://github.com/Fnoz/FNMatchPull) - by Fnoz
 - [Willow](https://github.com/Nike-Inc/Willow) - by Nike-Inc
@@ -133,3 +133,4 @@
 - [ISTimeline](https://github.com/instant-solutions/ISTimeline) - by instant-solutions
 - [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
 - [Potatso](https://github.com/shadowsocks/Potatso) - by shadowsocks
+- [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - by soapyigu

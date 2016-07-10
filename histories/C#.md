@@ -29,3 +29,6 @@
 - [MyTested.AspNetCore.Mvc](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - by ivaylokenov
 - [roslyn](https://github.com/dotnet/roslyn) - by dotnet
 - [dafny](https://github.com/Microsoft/dafny) - by Microsoft
+
+### 2016-7
+- [Avalonia](https://github.com/AvaloniaUI/Avalonia) - by AvaloniaUI
