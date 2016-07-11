@@ -45,8 +45,8 @@
 - [atswift-2016-resources](https://github.com/atConf/atswift-2016-resources) - by atConf
 - [frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - by bradfrost
 - [Malware](https://github.com/RPISEC/Malware) - by RPISEC
-- [blog](https://github.com/gf-rd/blog) - by gf-rd
 - [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - by ValveSoftware
+- [blog](https://github.com/gf-rd/blog) - by gf-rd
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - by sindresorhus
 - [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
 - [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) - by Juude
@@ -57,16 +57,16 @@
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
 - [git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - by mathieudutour
 - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
+- [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
 - [clmystery](https://github.com/veltman/clmystery) - by veltman
 - [internals](https://github.com/rabbitmq/internals) - by rabbitmq
-- [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
 
 ### 2016-2
-- [lelylan](https://github.com/lelylan/lelylan) - by lelylan
 - [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe
-- [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
+- [lelylan](https://github.com/lelylan/lelylan) - by lelylan
 - [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - by mgechev
+- [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples) - by bmkmanoj
 - [awesome-computer-history](https://github.com/watson/awesome-computer-history) - by watson
 - [til](https://github.com/jbranchaud/til) - by jbranchaud
@@ -78,9 +78,9 @@
 - [study-path](https://github.com/joebew42/study-path) - by joebew42
 
 ### 2016-3
+- [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - by ReactjsProgram
 - [React-Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) - by ReactjsProgram
 - [react-makes-you-sad](https://github.com/gaearon/react-makes-you-sad) - by gaearon
-- [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - by ReactjsProgram
 - [awesome-github](https://github.com/AntBranch/awesome-github) - by AntBranch
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - by kakuilan
 - [awesome-charting](https://github.com/zingchart/awesome-charting) - by zingchart
@@ -103,13 +103,13 @@
 - [android-architecture](https://github.com/googlesamples/android-architecture) - by googlesamples
 
 ### 2016-4
-- [core-notes](https://github.com/reactjs/core-notes) - by reactjs
 - [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
-- [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
+- [core-notes](https://github.com/reactjs/core-notes) - by reactjs
 - [test01](https://github.com/mortonNex/test01) - by mortonNex
+- [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
 - [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - by markerikson
-- [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - by shutterstock
 - [panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - by amaboura
+- [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - by shutterstock
 - [smq](https://github.com/antontarasenko/smq) - by antontarasenko
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by johnpapa
 - [InternetSemLimites](https://github.com/jlcarvalho/InternetSemLimites) - by jlcarvalho
@@ -121,10 +121,10 @@
 - [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
 - [hosts](https://github.com/racaljk/hosts) - by racaljk
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
-- [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
-- [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
+- [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
+- [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - by giantray
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - by dbohdan
 - [membership.db](https://github.com/membership/membership.db) - by membership
@@ -173,3 +173,4 @@
 - [Macmoji](https://github.com/warpling/Macmoji) - by warpling
 - [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) - by TalAter
 - [established-remote](https://github.com/yanirs/established-remote) - by yanirs
+- [egghead.io_idiomatic_redux_course_notes](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes) - by tayiorbeii

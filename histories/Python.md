@@ -126,8 +126,8 @@
 ### 2016-5
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - by teachthenet
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
-- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
+- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
@@ -138,12 +138,12 @@
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
-- [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
 - [certbot](https://github.com/certbot/certbot) - by certbot
+- [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
-- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
+- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
@@ -176,3 +176,4 @@
 
 ### 2016-7
 - [pyspider](https://github.com/binux/pyspider) - by binux
+- [shutit](https://github.com/ianmiell/shutit) - by ianmiell

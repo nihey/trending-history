@@ -353,21 +353,21 @@
 - [microlight](https://github.com/asvd/microlight) - by asvd
 
 ### 2016-6
-- [facebook-sixth-sense](https://github.com/Morhaus/facebook-sixth-sense) - by Morhaus
 - [xeon](https://github.com/hzlmn/xeon) - by hzlmn
+- [facebook-sixth-sense](https://github.com/Morhaus/facebook-sixth-sense) - by Morhaus
 - [ppmessage](https://github.com/PPMESSAGE/ppmessage) - by PPMESSAGE
-- [barba.js](https://github.com/luruke/barba.js) - by luruke
 - [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - by clauderic
-- [carte-blanche](https://github.com/carteb/carte-blanche) - by carteb
+- [barba.js](https://github.com/luruke/barba.js) - by luruke
 - [reactpack](https://github.com/olahol/reactpack) - by olahol
 - [tips](https://github.com/git-tips/tips) - by git-tips
 - [victory](https://github.com/FormidableLabs/victory) - by FormidableLabs
 - [recon](https://github.com/recon-js/recon) - by recon-js
+- [carte-blanche](https://github.com/carteb/carte-blanche) - by carteb
+- [ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - by garrylachman
 - [magic-mirror-demo](https://github.com/MicrosoftEdge/magic-mirror-demo) - by MicrosoftEdge
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - by react-d3-library
-- [ElectroCRUD](https://github.com/garrylachman/ElectroCRUD) - by garrylachman
-- [webpack-hot-server-example](https://github.com/ericclemmons/webpack-hot-server-example) - by ericclemmons
 - [css-in-js](https://github.com/MicheleBertoli/css-in-js) - by MicheleBertoli
+- [webpack-hot-server-example](https://github.com/ericclemmons/webpack-hot-server-example) - by ericclemmons
 - [ignite](https://github.com/infinitered/ignite) - by infinitered
 - [hypernova](https://github.com/airbnb/hypernova) - by airbnb
 - [aos](https://github.com/michalsnik/aos) - by michalsnik
@@ -379,22 +379,22 @@
 - [jpress](https://github.com/JpressProjects/jpress) - by JpressProjects
 - [rill](https://github.com/rill-js/rill) - by rill-js
 - [html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin) - by ampedandwired
-- [react-css-components](https://github.com/andreypopp/react-css-components) - by andreypopp
 - [Clairvoyance](https://github.com/abalone0204/Clairvoyance) - by abalone0204
+- [react-css-components](https://github.com/andreypopp/react-css-components) - by andreypopp
 - [N1](https://github.com/nylas/N1) - by nylas
 - [claudia-bot-builder](https://github.com/claudiajs/claudia-bot-builder) - by claudiajs
 - [VisualAlchemist](https://github.com/prahladyeri/VisualAlchemist) - by prahladyeri
 - [places](https://github.com/algolia/places) - by algolia
-- [react-enroute](https://github.com/tj/react-enroute) - by tj
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - by justjavac
+- [react-enroute](https://github.com/tj/react-enroute) - by tj
 - [WeFlow](https://github.com/weixin/WeFlow) - by weixin
 - [Vidage](https://github.com/dvLden/Vidage) - by dvLden
 - [Kalm](https://github.com/fed135/Kalm) - by fed135
-- [javascript-journey](https://github.com/bahmutov/javascript-journey) - by bahmutov
 - [reify](https://github.com/benjamn/reify) - by benjamn
+- [javascript-journey](https://github.com/bahmutov/javascript-journey) - by bahmutov
 - [vizicities](https://github.com/UDST/vizicities) - by UDST
-- [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - by alexkuz
 - [gitkit-js](https://github.com/SamyPesse/gitkit-js) - by SamyPesse
+- [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - by alexkuz
 - [flatpickr](https://github.com/chmln/flatpickr) - by chmln
 - [choo](https://github.com/yoshuawuyts/choo) - by yoshuawuyts
 - [emoj](https://github.com/sindresorhus/emoj) - by sindresorhus
@@ -408,9 +408,9 @@
 - [oryoki](https://github.com/thmsbfft/oryoki) - by thmsbfft
 
 ### 2016-7
-- [monkberry](https://github.com/monkberry/monkberry) - by monkberry
-- [sagui](https://github.com/saguijs/sagui) - by saguijs
 - [warriorjs](https://github.com/olistic/warriorjs) - by olistic
+- [sagui](https://github.com/saguijs/sagui) - by saguijs
+- [monkberry](https://github.com/monkberry/monkberry) - by monkberry
 - [djent](https://github.com/RossMcMillan92/djent) - by RossMcMillan92
 - [ScrollTrigger](https://github.com/terwanerik/ScrollTrigger) - by terwanerik
 - [impress.js](https://github.com/impress/impress.js) - by impress
@@ -418,13 +418,16 @@
 - [Moeditor](https://github.com/Moeditor/Moeditor) - by Moeditor
 - [LokiJS](https://github.com/techfort/LokiJS) - by techfort
 - [react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects) - by halilb
+- [lambci](https://github.com/lambci/lambci) - by lambci
 - [rheostat](https://github.com/airbnb/rheostat) - by airbnb
 - [Prism](https://github.com/LaloMrtnz/Prism) - by LaloMrtnz
 - [spa-github-pages](https://github.com/rafrex/spa-github-pages) - by rafrex
-- [lambci](https://github.com/lambci/lambci) - by lambci
 - [np](https://github.com/sindresorhus/np) - by sindresorhus
 - [gifify](https://github.com/vvo/gifify) - by vvo
 - [proxy-fun](https://github.com/mikaelbr/proxy-fun) - by mikaelbr
 - [tailor](https://github.com/andrew-worsfold/tailor) - by andrew-worsfold
 - [fathom](https://github.com/mozilla/fathom) - by mozilla
 - [bitscript-temperate](https://github.com/zakattax/bitscript-temperate) - by zakattax
+- [lounge](https://github.com/thelounge/lounge) - by thelounge
+- [zingtouch](https://github.com/zingchart/zingtouch) - by zingchart
+- [netmonitor](https://github.com/awalGarg/netmonitor) - by awalGarg
