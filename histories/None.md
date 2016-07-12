@@ -174,3 +174,4 @@
 - [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) - by TalAter
 - [established-remote](https://github.com/yanirs/established-remote) - by yanirs
 - [egghead.io_idiomatic_redux_course_notes](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes) - by tayiorbeii
+- [awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - by TalAter

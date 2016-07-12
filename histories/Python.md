@@ -13,9 +13,9 @@
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
-- [lektor](https://github.com/lektor/lektor) - by lektor
-- [see](https://github.com/F-Secure/see) - by F-Secure
 - [ispy](https://github.com/dellis23/ispy) - by dellis23
+- [see](https://github.com/F-Secure/see) - by F-Secure
+- [lektor](https://github.com/lektor/lektor) - by lektor
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -42,9 +42,9 @@
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
+- [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
 - [borg](https://github.com/borgbackup/borg) - by borgbackup
 - [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
-- [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
 
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
@@ -53,15 +53,15 @@
 - [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper
 - [maybe](https://github.com/p-e-w/maybe) - by p-e-w
 - [records](https://github.com/kennethreitz/records) - by kennethreitz
-- [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
+- [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
+- [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [paperwork](https://github.com/jflesch/paperwork) - by jflesch
-- [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
@@ -71,16 +71,16 @@
 
 ### 2016-3
 - [zhao](https://github.com/programthink/zhao) - by programthink
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - by HelloZeroNet
 - [public_drown_scanner](https://github.com/nimia/public_drown_scanner) - by nimia
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - by HelloZeroNet
 - [image-analogies](https://github.com/awentzonline/image-analogies) - by awentzonline
 - [statuspage](https://github.com/pyupio/statuspage) - by pyupio
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
+- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
-- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
@@ -177,3 +177,4 @@
 ### 2016-7
 - [pyspider](https://github.com/binux/pyspider) - by binux
 - [shutit](https://github.com/ianmiell/shutit) - by ianmiell
+- [chalice](https://github.com/awslabs/chalice) - by awslabs

@@ -21,8 +21,8 @@
 - [tbox](https://github.com/waruqi/tbox) - by waruqi
 
 ### 2016-2
-- [how2heap](https://github.com/shellphish/how2heap) - by shellphish
 - [Craft](https://github.com/fogleman/Craft) - by fogleman
+- [how2heap](https://github.com/shellphish/how2heap) - by shellphish
 - [ds](https://github.com/php-ds/ds) - by php-ds
 - [htop](https://github.com/hishamhm/htop) - by hishamhm
 - [mousejack](https://github.com/RFStorm/mousejack) - by RFStorm
@@ -30,16 +30,16 @@
 
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
+- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [luna](https://github.com/tj/luna) - by tj
 - [emojicode](https://github.com/emojicode/emojicode) - by emojicode
-- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [jo](https://github.com/jpmens/jo) - by jpmens
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
 - [Collections-C](https://github.com/srdja/Collections-C) - by srdja
 - [darknet](https://github.com/pjreddie/darknet) - by pjreddie
-- [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007
+- [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [citus](https://github.com/citusdata/citus) - by citusdata
@@ -60,8 +60,8 @@
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - by bartobri
 
 ### 2016-5
-- [magma](https://github.com/lavabit/magma) - by lavabit
 - [wren](https://github.com/munificent/wren) - by munificent
+- [magma](https://github.com/lavabit/magma) - by lavabit
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
 - [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
@@ -89,3 +89,4 @@
 - [lily](https://github.com/jesserayadkins/lily) - by jesserayadkins
 - [ThinkPwn](https://github.com/Cr4sh/ThinkPwn) - by Cr4sh
 - [Carp](https://github.com/eriksvedang/Carp) - by eriksvedang
+- [kilo](https://github.com/antirez/kilo) - by antirez
