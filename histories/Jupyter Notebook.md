@@ -21,3 +21,6 @@
 - [data](https://github.com/fivethirtyeight/data) - by fivethirtyeight
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - by rasbt
 - [Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - by sjchoi86
+
+### 2016-7
+- [altair](https://github.com/ellisonbg/altair) - by ellisonbg
