@@ -12,3 +12,6 @@
 
 ### 2016-4
 - [alda](https://github.com/alda-lang/alda) - by alda-lang
+
+### 2016-7
+- [Nightcode](https://github.com/oakes/Nightcode) - by oakes

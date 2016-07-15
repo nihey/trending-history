@@ -84,8 +84,8 @@
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
-- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
+- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
 - [JASON](https://github.com/delba/JASON) - by delba
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - by mobileplayer
@@ -96,8 +96,8 @@
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
 - [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
-- [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
 - [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
+- [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
 - [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
@@ -111,20 +111,20 @@
 ### 2016-6
 - [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
-- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [WWDC](https://github.com/insidegui/WWDC) - by insidegui
-- [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
-- [Cleanse](https://github.com/square/Cleanse) - by square
+- [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
 - [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
+- [Cleanse](https://github.com/square/Cleanse) - by square
 - [Graphs](https://github.com/recruit-mtl/Graphs) - by recruit-mtl
 - [reform-swift](https://github.com/laszlokorte/reform-swift) - by laszlokorte
 - [Preheat](https://github.com/kean/Preheat) - by kean
 - [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
 - [LayoutKit](https://github.com/linkedin/LayoutKit) - by linkedin
 - [Potatso-iOS](https://github.com/shadowsocks/Potatso-iOS) - by shadowsocks
-- [FNMatchPull](https://github.com/Fnoz/FNMatchPull) - by Fnoz
 - [Willow](https://github.com/Nike-Inc/Willow) - by Nike-Inc
+- [FNMatchPull](https://github.com/Fnoz/FNMatchPull) - by Fnoz
 - [mal](https://github.com/kanaka/mal) - by kanaka
 
 ### 2016-7
@@ -136,3 +136,4 @@
 - [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - by soapyigu
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
 - [NightNight](https://github.com/Draveness/NightNight) - by Draveness
+- [Live](https://github.com/ltebean/Live) - by ltebean

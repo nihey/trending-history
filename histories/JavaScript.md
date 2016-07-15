@@ -436,3 +436,4 @@
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - by RocketChat
 - [laverna](https://github.com/Laverna/laverna) - by Laverna
 - [slate](https://github.com/ianstormtaylor/slate) - by ianstormtaylor
+- [SC_Js](https://github.com/gloomyson/SC_Js) - by gloomyson

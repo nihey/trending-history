@@ -296,3 +296,4 @@
 - [FlyoutMenus](https://github.com/ShamylZakariya/FlyoutMenus) - by ShamylZakariya
 - [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) - by lawloretienne
 - [FogView_Library](https://github.com/dynamitechetan/FogView_Library) - by dynamitechetan
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - by iluwatar

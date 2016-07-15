@@ -58,3 +58,4 @@
 - [ress](https://github.com/filipelinhares/ress) - by filipelinhares
 - [You-Dont-Need-Javascript](https://github.com/NamPNQ/You-Dont-Need-Javascript) - by NamPNQ
 - [the-old-github-font](https://github.com/rreusser/the-old-github-font) - by rreusser
+- [material-kit](https://github.com/timcreative/material-kit) - by timcreative
