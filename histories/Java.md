@@ -191,9 +191,9 @@
 - [flexbox-layout](https://github.com/google/flexbox-layout) - by google
 - [Bourbon](https://github.com/hitherejoe/Bourbon) - by hitherejoe
 - [Shuffle](https://github.com/Meetic/Shuffle) - by Meetic
+- [Baby](https://github.com/rogerou/Baby) - by rogerou
 - [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - by nisrulz
 - [sensey](https://github.com/nisrulz/sensey) - by nisrulz
-- [Baby](https://github.com/rogerou/Baby) - by rogerou
 - [distributedlog](https://github.com/twitter/distributedlog) - by twitter
 - [TLint](https://github.com/gzsll/TLint) - by gzsll
 - [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - by MasayukiSuda
@@ -211,18 +211,18 @@
 - [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) - by andkulikov
 - [LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - by alibaba
 - [99-problems](https://github.com/shekhargulati/99-problems) - by shekhargulati
-- [GanHuoIO](https://github.com/burgessjp/GanHuoIO) - by burgessjp
 - [welcome-android](https://github.com/stephentuso/welcome-android) - by stephentuso
+- [GanHuoIO](https://github.com/burgessjp/GanHuoIO) - by burgessjp
 - [realm-java](https://github.com/realm/realm-java) - by realm
 - [heron](https://github.com/twitter/heron) - by twitter
 - [FriendCircle](https://github.com/razerdp/FriendCircle) - by razerdp
 - [TroikaDumper](https://github.com/gshevtsov/TroikaDumper) - by gshevtsov
-- [PiracyChecker](https://github.com/javiersantos/PiracyChecker) - by javiersantos
 - [blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - by jenkinsci
+- [PiracyChecker](https://github.com/javiersantos/PiracyChecker) - by javiersantos
 - [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - by CymChad
-- [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar) - by H07000223
 - [RocooFix](https://github.com/dodola/RocooFix) - by dodola
 - [yava](https://github.com/hujiaweibujidao/yava) - by hujiaweibujidao
+- [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar) - by H07000223
 
 ### 2016-6
 - [TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) - by JZXiang
@@ -237,25 +237,25 @@
 - [AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) - by diegodobelo
 - [vectalign](https://github.com/bonnyfone/vectalign) - by bonnyfone
 - [android-drag-square](https://github.com/xmuSistone/android-drag-square) - by xmuSistone
-- [QQBubbleView](https://github.com/Yasic/QQBubbleView) - by Yasic
 - [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) - by h4de5ing
+- [QQBubbleView](https://github.com/Yasic/QQBubbleView) - by Yasic
 - [AndroidPhotoFilters](https://github.com/Zomato/AndroidPhotoFilters) - by Zomato
 - [CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) - by Azoft
 - [AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView) - by jaredrummler
-- [failsafe](https://github.com/jhalterman/failsafe) - by jhalterman
 - [HorizontalWheelView](https://github.com/shchurov/HorizontalWheelView) - by shchurov
 - [ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout) - by SilenceDut
+- [failsafe](https://github.com/jhalterman/failsafe) - by jhalterman
 - [PinLockView](https://github.com/aritraroy/PinLockView) - by aritraroy
 - [RxGroups](https://github.com/airbnb/RxGroups) - by airbnb
-- [stepper-indicator](https://github.com/badoualy/stepper-indicator) - by badoualy
 - [logger](https://github.com/orhanobut/logger) - by orhanobut
+- [stepper-indicator](https://github.com/badoualy/stepper-indicator) - by badoualy
 - [NoHttp](https://github.com/yanzhenjie/NoHttp) - by yanzhenjie
 - [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe) - by HoneyNeutrons
 - [Spotlight](https://github.com/wooplr/Spotlight) - by wooplr
 - [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView) - by JeasonWong
 - [GuideView](https://github.com/binIoter/GuideView) - by binIoter
-- [ExpandingPager](https://github.com/qs-lll/ExpandingPager) - by qs-lll
 - [CircleCheckBox](https://github.com/arlindiDev/CircleCheckBox) - by arlindiDev
+- [ExpandingPager](https://github.com/qs-lll/ExpandingPager) - by qs-lll
 - [CardStackView](https://github.com/loopeer/CardStackView) - by loopeer
 - [Compressor](https://github.com/zetbaitsu/Compressor) - by zetbaitsu
 - [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - by barteksc
@@ -270,20 +270,20 @@
 - [quill](https://github.com/vickychijwani/quill) - by vickychijwani
 - [SideBar](https://github.com/kongnanlive/SideBar) - by kongnanlive
 - [dagger2Demo](https://github.com/luxiaoming/dagger2Demo) - by luxiaoming
-- [Revealator](https://github.com/Jaouan/Revealator) - by Jaouan
 - [VideoListDemo](https://github.com/w1123440793/VideoListDemo) - by w1123440793
+- [Revealator](https://github.com/Jaouan/Revealator) - by Jaouan
 
 ### 2016-7
-- [elegant-underline](https://github.com/romainguy/elegant-underline) - by romainguy
-- [NumberPickerView](https://github.com/Carbs0126/NumberPickerView) - by Carbs0126
 - [weex](https://github.com/alibaba/weex) - by alibaba
+- [NumberPickerView](https://github.com/Carbs0126/NumberPickerView) - by Carbs0126
+- [elegant-underline](https://github.com/romainguy/elegant-underline) - by romainguy
 - [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) - by HeZaiJin
 - [JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer) - by lipangit
 - [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) - by Mauker1
 - [MarkdownEditors](https://github.com/qinci/MarkdownEditors) - by qinci
 - [ShineButton](https://github.com/ChadCSong/ShineButton) - by ChadCSong
-- [TEmptyView](https://github.com/barryhappy/TEmptyView) - by barryhappy
 - [KeyBox](https://github.com/skavanagh/KeyBox) - by skavanagh
+- [TEmptyView](https://github.com/barryhappy/TEmptyView) - by barryhappy
 - [tooltips](https://github.com/tomergoldst/tooltips) - by tomergoldst
 - [VirtualApp](https://github.com/asLody/VirtualApp) - by asLody
 - [malmo](https://github.com/Microsoft/malmo) - by Microsoft
@@ -297,3 +297,5 @@
 - [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) - by lawloretienne
 - [FogView_Library](https://github.com/dynamitechetan/FogView_Library) - by dynamitechetan
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - by iluwatar
+- [HermesEventBus](https://github.com/eleme/HermesEventBus) - by eleme
+- [Hermes](https://github.com/Xiaofei-it/Hermes) - by Xiaofei-it

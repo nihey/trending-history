@@ -48,3 +48,4 @@
 ### 2016-7
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - by guarinogabriel
 - [dotfiles](https://github.com/lewagon/dotfiles) - by lewagon
+- [m-cli](https://github.com/rgcr/m-cli) - by rgcr

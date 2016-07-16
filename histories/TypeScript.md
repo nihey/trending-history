@@ -22,3 +22,6 @@
 - [angular](https://github.com/angular/angular) - by angular
 - [black-screen](https://github.com/shockone/black-screen) - by shockone
 - [ng2-admin](https://github.com/akveo/ng2-admin) - by akveo
+
+### 2016-7
+- [jupyterlab](https://github.com/jupyter/jupyterlab) - by jupyter

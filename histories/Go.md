@@ -35,13 +35,13 @@
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
+- [gogs](https://github.com/gogits/gogs) - by gogits
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
-- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [go-git](https://github.com/src-d/go-git) - by src-d
+- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -52,8 +52,8 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [apns2](https://github.com/sideshow/apns2) - by sideshow
+- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
@@ -81,14 +81,14 @@
 - [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole
 - [binctr](https://github.com/jfrazelle/binctr) - by jfrazelle
 - [micro](https://github.com/zyedidia/micro) - by zyedidia
-- [gobgp](https://github.com/osrg/gobgp) - by osrg
 - [find](https://github.com/schollz/find) - by schollz
+- [gobgp](https://github.com/osrg/gobgp) - by osrg
 - [passgo](https://github.com/ejcx/passgo) - by ejcx
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [kit](https://github.com/go-kit/kit) - by go-kit
 - [gollum](https://github.com/trivago/gollum) - by trivago
+- [kit](https://github.com/go-kit/kit) - by go-kit
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -97,10 +97,10 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [grafana](https://github.com/grafana/grafana) - by grafana
-- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
+- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [leveros](https://github.com/leveros/leveros) - by leveros
+- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
@@ -123,3 +123,4 @@
 - [lgtm](https://github.com/lgtmco/lgtm) - by lgtmco
 - [cnki-downloader](https://github.com/amyhaber/cnki-downloader) - by amyhaber
 - [pget](https://github.com/Code-Hex/pget) - by Code-Hex
+- [sharkey](https://github.com/square/sharkey) - by square
