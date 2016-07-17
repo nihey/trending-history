@@ -97,10 +97,10 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
-- [leveros](https://github.com/leveros/leveros) - by leveros
+- [grafana](https://github.com/grafana/grafana) - by grafana
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
+- [leveros](https://github.com/leveros/leveros) - by leveros
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
@@ -124,3 +124,4 @@
 - [cnki-downloader](https://github.com/amyhaber/cnki-downloader) - by amyhaber
 - [pget](https://github.com/Code-Hex/pget) - by Code-Hex
 - [sharkey](https://github.com/square/sharkey) - by square
+- [cryptopasta](https://github.com/gtank/cryptopasta) - by gtank
