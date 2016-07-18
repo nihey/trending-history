@@ -108,8 +108,8 @@
 - [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
 - [test01](https://github.com/mortonNex/test01) - by mortonNex
 - [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - by markerikson
-- [panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - by amaboura
 - [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - by shutterstock
+- [panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - by amaboura
 - [smq](https://github.com/antontarasenko/smq) - by antontarasenko
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - by johnpapa
 - [InternetSemLimites](https://github.com/jlcarvalho/InternetSemLimites) - by jlcarvalho
@@ -118,16 +118,16 @@
 - [HEAD](https://github.com/joshbuchea/HEAD) - by joshbuchea
 
 ### 2016-5
+- [hosts](https://github.com/racaljk/hosts) - by racaljk
 - [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
-- [hosts](https://github.com/racaljk/hosts) - by racaljk
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
 - [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
 - [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - by giantray
-- [membership.db](https://github.com/membership/membership.db) - by membership
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - by dbohdan
+- [membership.db](https://github.com/membership/membership.db) - by membership
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - by jobbole
 - [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - by LittleFriendsGroup
 - [tesla-features](https://github.com/sahin/tesla-features) - by sahin
@@ -138,8 +138,8 @@
 - [androidstudio-plugins](https://github.com/dreamlivemeng/androidstudio-plugins) - by dreamlivemeng
 - [what-happens-when](https://github.com/alex/what-happens-when) - by alex
 - [opengov](https://github.com/seoul-opengov/opengov) - by seoul-opengov
-- [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - by jdsutton
 - [awesome-ng2](https://github.com/gf-rd/awesome-ng2) - by gf-rd
+- [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - by jdsutton
 - [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) - by veficos
 - [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - by hemanth
 
@@ -147,8 +147,8 @@
 - [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - by vic317yeh
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - by terryum
 - [one-python](https://github.com/geekan/one-python) - by geekan
-- [maruos](https://github.com/maruos/maruos) - by maruos
 - [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
+- [maruos](https://github.com/maruos/maruos) - by maruos
 - [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
 - [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
 - [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
@@ -158,8 +158,8 @@
 - [LearningNotes](https://github.com/GeniusVJR/LearningNotes) - by GeniusVJR
 - [AndroidInterview](https://github.com/fanrunqi/AndroidInterview) - by fanrunqi
 - [swift-style-guide](https://github.com/linkedin/swift-style-guide) - by linkedin
-- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - by herrbischoff
 - [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
+- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - by herrbischoff
 - [data-science](https://github.com/open-source-society/data-science) - by open-source-society
 - [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
 - [core](https://github.com/dotnet/core) - by dotnet
@@ -177,3 +177,4 @@
 - [awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - by TalAter
 - [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - by fatih
 - [awesome-java](https://github.com/akullpp/awesome-java) - by akullpp
+- [awesome-hyperterm](https://github.com/bnb/awesome-hyperterm) - by bnb
