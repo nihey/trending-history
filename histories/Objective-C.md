@@ -15,11 +15,11 @@
 - [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - by MoZhouqi
 - [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) - by leichunfeng
 - [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater) - by aerofs
-- [SMSNinja](https://github.com/iosre/SMSNinja) - by iosre
 - [Miku](https://github.com/poboke/Miku) - by poboke
+- [SMSNinja](https://github.com/iosre/SMSNinja) - by iosre
 - [ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy) - by ChenYilong
-- [Knuff](https://github.com/KnuffApp/Knuff) - by KnuffApp
 - [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) - by matmartinez
+- [Knuff](https://github.com/KnuffApp/Knuff) - by KnuffApp
 
 ### 2016-2
 - [CRParticleEffect](https://github.com/Cleveroad/CRParticleEffect) - by Cleveroad
@@ -34,8 +34,8 @@
 - [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - by runner365
 - [ZFPlayer](https://github.com/renzifeng/ZFPlayer) - by renzifeng
 - [injectionforxcode](https://github.com/johnno1962/injectionforxcode) - by johnno1962
-- [EZAudio](https://github.com/syedhali/EZAudio) - by syedhali
 - [LeagueofLegends](https://github.com/HarrisHan/LeagueofLegends) - by HarrisHan
+- [EZAudio](https://github.com/syedhali/EZAudio) - by syedhali
 - [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache) - by spotify
 
 ### 2016-4
@@ -63,3 +63,4 @@
 - [tools](https://github.com/leeSmile/tools) - by leeSmile
 - [MiaowShow](https://github.com/SunLiner/MiaowShow) - by SunLiner
 - [Eleven](https://github.com/coderyi/Eleven) - by coderyi
+- [JHUD](https://github.com/jinxiansen/JHUD) - by jinxiansen

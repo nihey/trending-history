@@ -423,14 +423,14 @@
 - [Prism](https://github.com/LaloMrtnz/Prism) - by LaloMrtnz
 - [spa-github-pages](https://github.com/rafrex/spa-github-pages) - by rafrex
 - [np](https://github.com/sindresorhus/np) - by sindresorhus
-- [proxy-fun](https://github.com/mikaelbr/proxy-fun) - by mikaelbr
 - [gifify](https://github.com/vvo/gifify) - by vvo
+- [proxy-fun](https://github.com/mikaelbr/proxy-fun) - by mikaelbr
 - [tailor](https://github.com/andrew-worsfold/tailor) - by andrew-worsfold
 - [fathom](https://github.com/mozilla/fathom) - by mozilla
 - [bitscript-temperate](https://github.com/zakattax/bitscript-temperate) - by zakattax
-- [lounge](https://github.com/thelounge/lounge) - by thelounge
 - [zingtouch](https://github.com/zingchart/zingtouch) - by zingchart
 - [netmonitor](https://github.com/awalGarg/netmonitor) - by awalGarg
+- [lounge](https://github.com/thelounge/lounge) - by thelounge
 - [cleave.js](https://github.com/nosir/cleave.js) - by nosir
 - [simple-static-react-firebase](https://github.com/Jon-Biz/simple-static-react-firebase) - by Jon-Biz
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - by RocketChat
@@ -443,3 +443,5 @@
 - [2016-talks](https://github.com/gophercon/2016-talks) - by gophercon
 - [snabbdom](https://github.com/paldepind/snabbdom) - by paldepind
 - [uppy](https://github.com/transloadit/uppy) - by transloadit
+- [d4](https://github.com/joelburget/d4) - by joelburget
+- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - by iam4x
