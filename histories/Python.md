@@ -107,20 +107,20 @@
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
-- [keras](https://github.com/fchollet/keras) - by fchollet
 - [voltron](https://github.com/snare/voltron) - by snare
 - [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
+- [keras](https://github.com/fchollet/keras) - by fchollet
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
-- [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [pycraft](https://github.com/traverseda/pycraft) - by traverseda
+- [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
 - [dcos](https://github.com/dcos/dcos) - by dcos
 - [colornet](https://github.com/pavelgonchar/colornet) - by pavelgonchar
 - [enjarify](https://github.com/google/enjarify) - by google
 - [elastalert](https://github.com/Yelp/elastalert) - by Yelp
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
-- [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
+- [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [gym](https://github.com/openai/gym) - by openai
 
 ### 2016-5
@@ -130,8 +130,8 @@
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
-- [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
+- [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
 - [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
@@ -142,8 +142,8 @@
 - [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
-- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
+- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
@@ -153,8 +153,8 @@
 
 ### 2016-6
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
-- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [streisand](https://github.com/jlund/streisand) - by jlund
+- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
 - [ansible-container](https://github.com/ansible/ansible-container) - by ansible
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
@@ -185,3 +185,4 @@
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
+- [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
