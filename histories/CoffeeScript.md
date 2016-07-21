@@ -20,3 +20,4 @@
 ### 2016-7
 - [marp](https://github.com/yhatt/marp) - by yhatt
 - [hydrogen](https://github.com/nteract/hydrogen) - by nteract
+- [Awkward](https://github.com/iostreamer-X/Awkward) - by iostreamer-X
