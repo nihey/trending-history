@@ -169,8 +169,8 @@
 - [beets](https://github.com/beetbox/beets) - by beetbox
 - [coconut](https://github.com/evhub/coconut) - by evhub
 - [Daily-Reddit-Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - by ssimunic
-- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
 - [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar
+- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
 - [netbox](https://github.com/digitalocean/netbox) - by digitalocean
 - [GraphDash](https://github.com/AmadeusITGroup/GraphDash) - by AmadeusITGroup
 
@@ -188,3 +188,5 @@
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
+- [riko](https://github.com/nerevu/riko) - by nerevu
+- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
