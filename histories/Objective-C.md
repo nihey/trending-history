@@ -64,3 +64,4 @@
 - [MiaowShow](https://github.com/SunLiner/MiaowShow) - by SunLiner
 - [Eleven](https://github.com/coderyi/Eleven) - by coderyi
 - [JHUD](https://github.com/jinxiansen/JHUD) - by jinxiansen
+- [wire-ios](https://github.com/wireapp/wire-ios) - by wireapp

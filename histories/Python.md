@@ -190,3 +190,4 @@
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
 - [riko](https://github.com/nerevu/riko) - by nerevu
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
+- [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere

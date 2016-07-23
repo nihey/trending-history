@@ -32,3 +32,4 @@
 
 ### 2016-7
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - by AvaloniaUI
+- [GO-Bot](https://github.com/AnthonyOSX/GO-Bot) - by AnthonyOSX
