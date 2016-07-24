@@ -33,3 +33,5 @@
 ### 2016-7
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - by AvaloniaUI
 - [GO-Bot](https://github.com/AnthonyOSX/GO-Bot) - by AnthonyOSX
+- [NecroBot](https://github.com/NecronomiconCoding/NecroBot) - by NecronomiconCoding
+- [Pokemon-Go-Rocket-API](https://github.com/DetectiveSquirrel/Pokemon-Go-Rocket-API) - by DetectiveSquirrel

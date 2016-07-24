@@ -90,3 +90,4 @@
 - [verve-lang](https://github.com/tadeuzagallo/verve-lang) - by tadeuzagallo
 - [lepton](https://github.com/dropbox/lepton) - by dropbox
 - [libyojimbo](https://github.com/networkprotocol/libyojimbo) - by networkprotocol
+- [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - by KhronosGroup

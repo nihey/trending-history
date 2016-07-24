@@ -306,3 +306,4 @@
 - [PaperShredder](https://github.com/ldoublem/PaperShredder) - by ldoublem
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - by omkarmoghe
+- [wire-android](https://github.com/wireapp/wire-android) - by wireapp
