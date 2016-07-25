@@ -247,24 +247,24 @@
 - [ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout) - by SilenceDut
 - [PinLockView](https://github.com/aritraroy/PinLockView) - by aritraroy
 - [RxGroups](https://github.com/airbnb/RxGroups) - by airbnb
-- [logger](https://github.com/orhanobut/logger) - by orhanobut
 - [stepper-indicator](https://github.com/badoualy/stepper-indicator) - by badoualy
+- [logger](https://github.com/orhanobut/logger) - by orhanobut
 - [NoHttp](https://github.com/yanzhenjie/NoHttp) - by yanzhenjie
 - [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe) - by HoneyNeutrons
 - [Spotlight](https://github.com/wooplr/Spotlight) - by wooplr
 - [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView) - by JeasonWong
-- [GuideView](https://github.com/binIoter/GuideView) - by binIoter
 - [ExpandingPager](https://github.com/qs-lll/ExpandingPager) - by qs-lll
 - [CircleCheckBox](https://github.com/arlindiDev/CircleCheckBox) - by arlindiDev
+- [GuideView](https://github.com/binIoter/GuideView) - by binIoter
 - [CardStackView](https://github.com/loopeer/CardStackView) - by loopeer
+- [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - by barteksc
 - [Compressor](https://github.com/zetbaitsu/Compressor) - by zetbaitsu
 - [JellyToggleButton](https://github.com/Nightonke/JellyToggleButton) - by Nightonke
-- [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - by barteksc
 - [StepView](https://github.com/baoyachi/StepView) - by baoyachi
 - [material-intro](https://github.com/HeinrichReimer/material-intro) - by HeinrichReimer
+- [RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced) - by nikhilpanju
 - [LoadingView](https://github.com/ldoublem/LoadingView) - by ldoublem
 - [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) - by wdullaer
-- [RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced) - by nikhilpanju
 - [MagicaSakura](https://github.com/Bilibili/MagicaSakura) - by Bilibili
 - [Scoops](https://github.com/52inc/Scoops) - by 52inc
 - [SideBar](https://github.com/kongnanlive/SideBar) - by kongnanlive
@@ -274,18 +274,18 @@
 - [Revealator](https://github.com/Jaouan/Revealator) - by Jaouan
 
 ### 2016-7
-- [elegant-underline](https://github.com/romainguy/elegant-underline) - by romainguy
 - [weex](https://github.com/alibaba/weex) - by alibaba
+- [elegant-underline](https://github.com/romainguy/elegant-underline) - by romainguy
 - [NumberPickerView](https://github.com/Carbs0126/NumberPickerView) - by Carbs0126
-- [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) - by HeZaiJin
 - [JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer) - by lipangit
+- [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) - by HeZaiJin
 - [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) - by Mauker1
 - [MarkdownEditors](https://github.com/qinci/MarkdownEditors) - by qinci
-- [ShineButton](https://github.com/ChadCSong/ShineButton) - by ChadCSong
-- [TEmptyView](https://github.com/barryhappy/TEmptyView) - by barryhappy
 - [KeyBox](https://github.com/skavanagh/KeyBox) - by skavanagh
-- [tooltips](https://github.com/tomergoldst/tooltips) - by tomergoldst
+- [TEmptyView](https://github.com/barryhappy/TEmptyView) - by barryhappy
+- [ShineButton](https://github.com/ChadCSong/ShineButton) - by ChadCSong
 - [VirtualApp](https://github.com/asLody/VirtualApp) - by asLody
+- [tooltips](https://github.com/tomergoldst/tooltips) - by tomergoldst
 - [malmo](https://github.com/Microsoft/malmo) - by Microsoft
 - [elassandra](https://github.com/vroyer/elassandra) - by vroyer
 - [Music-Player](https://github.com/andremion/Music-Player) - by andremion
@@ -307,3 +307,4 @@
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - by omkarmoghe
 - [wire-android](https://github.com/wireapp/wire-android) - by wireapp
+- [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - by Grover-c13
