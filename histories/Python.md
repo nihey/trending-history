@@ -192,3 +192,4 @@
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere
 - [Pokemon-Go-Bot-Working-Hack-API](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - by TomTheBotter
+- [DeepHeart](https://github.com/jisaacso/DeepHeart) - by jisaacso

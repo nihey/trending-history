@@ -126,3 +126,5 @@
 - [sharkey](https://github.com/square/sharkey) - by square
 - [cryptopasta](https://github.com/gtank/cryptopasta) - by gtank
 - [buntdb](https://github.com/tidwall/buntdb) - by tidwall
+- [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
+- [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
