@@ -24,11 +24,11 @@
 
 ### 2016-2
 - [zig](https://github.com/andrewrk/zig) - by andrewrk
-- [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
 - [ion](https://github.com/google/ion) - by google
-- [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
+- [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
 - [serving](https://github.com/tensorflow/serving) - by tensorflow
 - [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
+- [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [node-lws](https://github.com/alexhultman/node-lws) - by alexhultman
 - [realm-js](https://github.com/realm/realm-js) - by realm
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - by yahoo
@@ -39,9 +39,9 @@
 - [rr](https://github.com/mozilla/rr) - by mozilla
 - [xcbuild](https://github.com/facebook/xcbuild) - by facebook
 - [mame](https://github.com/mamedev/mame) - by mamedev
-- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
-- [electron](https://github.com/atom/electron) - by atom
 - [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - by Croteam-official
+- [electron](https://github.com/atom/electron) - by atom
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
@@ -64,8 +64,8 @@
 - [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - by BearishSun
 - [amazon-dsstne](https://github.com/amznlabs/amazon-dsstne) - by amznlabs
 - [electron](https://github.com/electron/electron) - by electron
-- [openthread](https://github.com/openthread/openthread) - by openthread
 - [Fido](https://github.com/FidoProject/Fido) - by FidoProject
+- [openthread](https://github.com/openthread/openthread) - by openthread
 - [pika](https://github.com/Qihoo360/pika) - by Qihoo360
 - [FireRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FireRays_SDK) - by GPUOpen-LibrariesAndSDKs
 - [x64dbg](https://github.com/x64dbg/x64dbg) - by x64dbg
@@ -92,3 +92,5 @@
 - [libyojimbo](https://github.com/networkprotocol/libyojimbo) - by networkprotocol
 - [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - by KhronosGroup
 - [GameLad](https://github.com/Dooskington/GameLad) - by Dooskington
+- [Surround360](https://github.com/facebook/Surround360) - by facebook
+- [eventql](https://github.com/eventql/eventql) - by eventql

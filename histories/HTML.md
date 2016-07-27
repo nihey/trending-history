@@ -68,3 +68,4 @@
 ### 2016-7
 - [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse) - by warmheartli
 - [hack](https://github.com/egoist/hack) - by egoist
+- [web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - by jgthms

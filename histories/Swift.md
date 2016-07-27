@@ -111,12 +111,12 @@
 ### 2016-6
 - [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
-- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [WWDC](https://github.com/insidegui/WWDC) - by insidegui
-- [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
-- [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
+- [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
 - [Cleanse](https://github.com/square/Cleanse) - by square
+- [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
 - [Graphs](https://github.com/recruit-mtl/Graphs) - by recruit-mtl
 - [reform-swift](https://github.com/laszlokorte/reform-swift) - by laszlokorte
 - [Preheat](https://github.com/kean/Preheat) - by kean
@@ -140,3 +140,4 @@
 - [Celluloid](https://github.com/100mango/Celluloid) - by 100mango
 - [PopupDialog](https://github.com/Orderella/PopupDialog) - by Orderella
 - [facebook-sdk-swift](https://github.com/facebook/facebook-sdk-swift) - by facebook
+- [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - by mcmatan

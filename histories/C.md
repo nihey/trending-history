@@ -92,3 +92,4 @@
 - [kilo](https://github.com/antirez/kilo) - by antirez
 - [nsntrace](https://github.com/jonasdn/nsntrace) - by jonasdn
 - [winfsp](https://github.com/billziss-gh/winfsp) - by billziss-gh
+- [swoole-src](https://github.com/swoole/swoole-src) - by swoole

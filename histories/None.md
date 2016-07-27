@@ -147,10 +147,10 @@
 - [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - by vic317yeh
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - by terryum
 - [one-python](https://github.com/geekan/one-python) - by geekan
-- [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
 - [maruos](https://github.com/maruos/maruos) - by maruos
-- [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
+- [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
 - [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
+- [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
 - [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
 - [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony
 - [UI](https://github.com/iOS10-KIT/UI) - by iOS10-KIT
@@ -169,8 +169,8 @@
 - [forget-the-king](https://github.com/usgov/forget-the-king) - by usgov
 - [bigoposter](https://github.com/ro31337/bigoposter) - by ro31337
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - by kelseyhightower
-- [Macmoji](https://github.com/warpling/Macmoji) - by warpling
 - [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - by metagrover
+- [Macmoji](https://github.com/warpling/Macmoji) - by warpling
 - [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) - by TalAter
 - [established-remote](https://github.com/yanirs/established-remote) - by yanirs
 - [egghead.io_idiomatic_redux_course_notes](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes) - by tayiorbeii
@@ -188,3 +188,4 @@
 - [notation](https://github.com/hypotext/notation) - by hypotext
 - [wire](https://github.com/wireapp/wire) - by wireapp
 - [mms](https://github.com/struct/mms) - by struct
+- [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - by Droogans
