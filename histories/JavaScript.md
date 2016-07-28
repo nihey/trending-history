@@ -418,10 +418,10 @@
 - [Moeditor](https://github.com/Moeditor/Moeditor) - by Moeditor
 - [LokiJS](https://github.com/techfort/LokiJS) - by techfort
 - [react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects) - by halilb
-- [lambci](https://github.com/lambci/lambci) - by lambci
-- [Prism](https://github.com/LaloMrtnz/Prism) - by LaloMrtnz
-- [spa-github-pages](https://github.com/rafrex/spa-github-pages) - by rafrex
 - [rheostat](https://github.com/airbnb/rheostat) - by airbnb
+- [lambci](https://github.com/lambci/lambci) - by lambci
+- [spa-github-pages](https://github.com/rafrex/spa-github-pages) - by rafrex
+- [Prism](https://github.com/LaloMrtnz/Prism) - by LaloMrtnz
 - [np](https://github.com/sindresorhus/np) - by sindresorhus
 - [gifify](https://github.com/vvo/gifify) - by vvo
 - [proxy-fun](https://github.com/mikaelbr/proxy-fun) - by mikaelbr
@@ -433,15 +433,15 @@
 - [netmonitor](https://github.com/awalGarg/netmonitor) - by awalGarg
 - [cleave.js](https://github.com/nosir/cleave.js) - by nosir
 - [simple-static-react-firebase](https://github.com/Jon-Biz/simple-static-react-firebase) - by Jon-Biz
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - by RocketChat
 - [laverna](https://github.com/Laverna/laverna) - by Laverna
 - [slate](https://github.com/ianstormtaylor/slate) - by ianstormtaylor
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - by RocketChat
 - [SC_Js](https://github.com/gloomyson/SC_Js) - by gloomyson
 - [hyperterm](https://github.com/zeit/hyperterm) - by zeit
 - [react-reformed](https://github.com/davezuko/react-reformed) - by davezuko
 - [just](https://github.com/angus-c/just) - by angus-c
-- [2016-talks](https://github.com/gophercon/2016-talks) - by gophercon
 - [snabbdom](https://github.com/paldepind/snabbdom) - by paldepind
+- [2016-talks](https://github.com/gophercon/2016-talks) - by gophercon
 - [uppy](https://github.com/transloadit/uppy) - by transloadit
 - [d4](https://github.com/joelburget/d4) - by joelburget
 - [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - by iam4x
@@ -456,3 +456,4 @@
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - by krasimir
 - [react-monocle](https://github.com/team-gryff/react-monocle) - by team-gryff
 - [github-widget](https://github.com/surbhioberoi/github-widget) - by surbhioberoi
+- [birl-language.github.io](https://github.com/birl-language/birl-language.github.io) - by birl-language

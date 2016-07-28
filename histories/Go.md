@@ -19,12 +19,12 @@
 - [gom](https://github.com/rakyll/gom) - by rakyll
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
-- [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
+- [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
-- [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
+- [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
 - [apex](https://github.com/apex/apex) - by apex
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
@@ -35,13 +35,13 @@
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
+- [gogs](https://github.com/gogits/gogs) - by gogits
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
+- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [go-git](https://github.com/src-d/go-git) - by src-d
-- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -58,8 +58,8 @@
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
 - [acmewrapper](https://github.com/dkumor/acmewrapper) - by dkumor
-- [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [lion](https://github.com/celrenheit/lion) - by celrenheit
+- [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
@@ -69,11 +69,11 @@
 ### 2016-4
 - [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
+- [echo](https://github.com/labstack/echo) - by labstack
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
-- [echo](https://github.com/labstack/echo) - by labstack
-- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
+- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -81,8 +81,8 @@
 - [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole
 - [binctr](https://github.com/jfrazelle/binctr) - by jfrazelle
 - [micro](https://github.com/zyedidia/micro) - by zyedidia
-- [gobgp](https://github.com/osrg/gobgp) - by osrg
 - [find](https://github.com/schollz/find) - by schollz
+- [gobgp](https://github.com/osrg/gobgp) - by osrg
 - [passgo](https://github.com/ejcx/passgo) - by ejcx
 
 ### 2016-5
@@ -129,3 +129,5 @@
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
+- [manul](https://github.com/kovetskiy/manul) - by kovetskiy
+- [lexvec](https://github.com/alexandres/lexvec) - by alexandres

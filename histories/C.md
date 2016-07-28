@@ -30,9 +30,9 @@
 
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
-- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [luna](https://github.com/tj/luna) - by tj
 - [emojicode](https://github.com/emojicode/emojicode) - by emojicode
+- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [jo](https://github.com/jpmens/jo) - by jpmens
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
@@ -60,11 +60,11 @@
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - by bartobri
 
 ### 2016-5
-- [magma](https://github.com/lavabit/magma) - by lavabit
 - [wren](https://github.com/munificent/wren) - by munificent
+- [magma](https://github.com/lavabit/magma) - by lavabit
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
-- [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
+- [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - by christinaa
 - [hyperkit](https://github.com/docker/hyperkit) - by docker
 - [libui](https://github.com/andlabs/libui) - by andlabs
@@ -93,3 +93,4 @@
 - [nsntrace](https://github.com/jonasdn/nsntrace) - by jonasdn
 - [winfsp](https://github.com/billziss-gh/winfsp) - by billziss-gh
 - [swoole-src](https://github.com/swoole/swoole-src) - by swoole
+- [utymap](https://github.com/reinterpretcat/utymap) - by reinterpretcat

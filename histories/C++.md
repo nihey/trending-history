@@ -94,3 +94,4 @@
 - [GameLad](https://github.com/Dooskington/GameLad) - by Dooskington
 - [Surround360](https://github.com/facebook/Surround360) - by facebook
 - [eventql](https://github.com/eventql/eventql) - by eventql
+- [USD](https://github.com/PixarAnimationStudios/USD) - by PixarAnimationStudios
