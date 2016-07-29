@@ -131,3 +131,4 @@
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
+- [shadowd](https://github.com/reconquest/shadowd) - by reconquest

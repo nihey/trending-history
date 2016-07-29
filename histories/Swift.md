@@ -49,8 +49,8 @@
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
-- [Swifton](https://github.com/necolt/Swifton) - by necolt
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
+- [Swifton](https://github.com/necolt/Swifton) - by necolt
 - [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - by AfryMask
 - [Kitura](https://github.com/IBM-Swift/Kitura) - by IBM-Swift
 - [Nuke](https://github.com/kean/Nuke) - by kean
@@ -65,8 +65,8 @@
 - [Stevia](https://github.com/s4cha/Stevia) - by s4cha
 - [navigation-stack](https://github.com/Ramotion/navigation-stack) - by Ramotion
 - [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - by fruitcoder
-- [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
 - [PeekPop](https://github.com/marmelroy/PeekPop) - by marmelroy
+- [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
 - [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - by BoltsFramework
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
@@ -82,8 +82,8 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
-- [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
+- [TextAttributes](https://github.com/delba/TextAttributes) - by delba
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
@@ -95,9 +95,9 @@
 ### 2016-5
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
+- [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
 - [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
 - [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
-- [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
 - [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
@@ -111,17 +111,17 @@
 ### 2016-6
 - [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
-- [WWDC](https://github.com/insidegui/WWDC) - by insidegui
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
+- [WWDC](https://github.com/insidegui/WWDC) - by insidegui
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
 - [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
-- [Cleanse](https://github.com/square/Cleanse) - by square
 - [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
+- [Cleanse](https://github.com/square/Cleanse) - by square
 - [Graphs](https://github.com/recruit-mtl/Graphs) - by recruit-mtl
 - [reform-swift](https://github.com/laszlokorte/reform-swift) - by laszlokorte
 - [Preheat](https://github.com/kean/Preheat) - by kean
-- [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
 - [LayoutKit](https://github.com/linkedin/LayoutKit) - by linkedin
+- [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
 - [Potatso-iOS](https://github.com/shadowsocks/Potatso-iOS) - by shadowsocks
 - [FNMatchPull](https://github.com/Fnoz/FNMatchPull) - by Fnoz
 - [Willow](https://github.com/Nike-Inc/Willow) - by Nike-Inc
@@ -141,3 +141,4 @@
 - [PopupDialog](https://github.com/Orderella/PopupDialog) - by Orderella
 - [facebook-sdk-swift](https://github.com/facebook/facebook-sdk-swift) - by facebook
 - [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - by mcmatan
+- [RaceMe](https://github.com/enochng1/RaceMe) - by enochng1

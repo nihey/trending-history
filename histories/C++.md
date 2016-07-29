@@ -95,3 +95,4 @@
 - [Surround360](https://github.com/facebook/Surround360) - by facebook
 - [eventql](https://github.com/eventql/eventql) - by eventql
 - [USD](https://github.com/PixarAnimationStudios/USD) - by PixarAnimationStudios
+- [Magic-Sand](https://github.com/thomwolf/Magic-Sand) - by thomwolf
