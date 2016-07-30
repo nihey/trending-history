@@ -66,3 +66,4 @@
 - [JHUD](https://github.com/jinxiansen/JHUD) - by jinxiansen
 - [wire-ios](https://github.com/wireapp/wire-ios) - by wireapp
 - [iPokeGo](https://github.com/istornz/iPokeGo) - by istornz
+- [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda) - by MichaelHuyp

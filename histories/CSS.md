@@ -62,3 +62,4 @@
 - [blaze](https://github.com/BlazeCSS/blaze) - by BlazeCSS
 - [hubpress.io](https://github.com/HubPress/hubpress.io) - by HubPress
 - [hack](https://github.com/egoist/hack) - by egoist
+- [SmartMirror](https://github.com/Shinao/SmartMirror) - by Shinao
