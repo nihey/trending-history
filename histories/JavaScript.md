@@ -460,3 +460,4 @@
 - [LaunchKit](https://github.com/LaunchKit/LaunchKit) - by LaunchKit
 - [image-diff](https://github.com/uber/image-diff) - by uber
 - [ViralJS](https://github.com/PixelsCommander/ViralJS) - by PixelsCommander
+- [aws-sms-send](https://github.com/svtek/aws-sms-send) - by svtek

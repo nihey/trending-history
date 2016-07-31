@@ -108,8 +108,8 @@
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
 - [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
-- [voltron](https://github.com/snare/voltron) - by snare
 - [keras](https://github.com/fchollet/keras) - by fchollet
+- [voltron](https://github.com/snare/voltron) - by snare
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
 - [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
@@ -126,8 +126,8 @@
 ### 2016-5
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - by teachthenet
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
-- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
+- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
@@ -136,10 +136,10 @@
 - [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
-- [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
-- [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
+- [models](https://github.com/tensorflow/models) - by tensorflow
 - [certbot](https://github.com/certbot/certbot) - by certbot
+- [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
@@ -153,8 +153,8 @@
 
 ### 2016-6
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
-- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [streisand](https://github.com/jlund/streisand) - by jlund
+- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
 - [ansible-container](https://github.com/ansible/ansible-container) - by ansible
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
@@ -193,3 +193,4 @@
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere
 - [Pokemon-Go-Bot-Working-Hack-API](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - by TomTheBotter
 - [DeepHeart](https://github.com/jisaacso/DeepHeart) - by jisaacso
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - by seleniumbase

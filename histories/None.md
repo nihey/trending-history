@@ -190,3 +190,4 @@
 - [mms](https://github.com/struct/mms) - by struct
 - [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - by Droogans
 - [TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) - by Xyl2k
+- [NecroBot](https://github.com/NecronomiconCoding/NecroBot) - by NecronomiconCoding
