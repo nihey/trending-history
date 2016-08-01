@@ -6,3 +6,6 @@
 
 ### 2016-4
 - [ChezScheme](https://github.com/cisco/ChezScheme) - by cisco
+
+### 2016-8
+- [Barliman](https://github.com/webyrd/Barliman) - by webyrd

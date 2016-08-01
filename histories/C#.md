@@ -35,3 +35,7 @@
 - [GO-Bot](https://github.com/AnthonyOSX/GO-Bot) - by AnthonyOSX
 - [NecroBot](https://github.com/NecronomiconCoding/NecroBot) - by NecronomiconCoding
 - [Pokemon-Go-Rocket-API](https://github.com/DetectiveSquirrel/Pokemon-Go-Rocket-API) - by DetectiveSquirrel
+
+### 2016-8
+- [PokeMobBot](https://github.com/PocketMobsters/PokeMobBot) - by PocketMobsters
+- [PoGo-UWP](https://github.com/ST-Apps/PoGo-UWP) - by ST-Apps

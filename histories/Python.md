@@ -194,3 +194,6 @@
 - [Pokemon-Go-Bot-Working-Hack-API](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - by TomTheBotter
 - [DeepHeart](https://github.com/jisaacso/DeepHeart) - by jisaacso
 - [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - by seleniumbase
+
+### 2016-8
+- [digit-classifier](https://github.com/karandesai-96/digit-classifier) - by karandesai-96

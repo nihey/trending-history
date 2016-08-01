@@ -24,3 +24,6 @@
 
 ### 2016-7
 - [altair](https://github.com/ellisonbg/altair) - by ellisonbg
+
+### 2016-8
+- [hackermath](https://github.com/amitkaps/hackermath) - by amitkaps
