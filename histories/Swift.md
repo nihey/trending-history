@@ -130,8 +130,8 @@
 ### 2016-7
 - [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - by AntonTheDev
 - [Elevate](https://github.com/Nike-Inc/Elevate) - by Nike-Inc
-- [ISTimeline](https://github.com/instant-solutions/ISTimeline) - by instant-solutions
 - [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
+- [ISTimeline](https://github.com/instant-solutions/ISTimeline) - by instant-solutions
 - [Potatso](https://github.com/shadowsocks/Potatso) - by shadowsocks
 - [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - by soapyigu
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
@@ -142,3 +142,6 @@
 - [facebook-sdk-swift](https://github.com/facebook/facebook-sdk-swift) - by facebook
 - [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - by mcmatan
 - [RaceMe](https://github.com/enochng1/RaceMe) - by enochng1
+
+### 2016-8
+- [AspectFillFaceAware](https://github.com/BeauNouvelle/AspectFillFaceAware) - by BeauNouvelle

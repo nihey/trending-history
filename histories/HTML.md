@@ -69,3 +69,6 @@
 - [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse) - by warmheartli
 - [hack](https://github.com/egoist/hack) - by egoist
 - [web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - by jgthms
+
+### 2016-8
+- [sublime-enhanced](https://github.com/shagabutdinov/sublime-enhanced) - by shagabutdinov

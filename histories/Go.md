@@ -132,3 +132,6 @@
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
 - [shadowd](https://github.com/reconquest/shadowd) - by reconquest
+
+### 2016-8
+- [gh-ost](https://github.com/github/gh-ost) - by github
