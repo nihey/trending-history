@@ -155,8 +155,8 @@
 - [sqlite-android](https://github.com/requery/sqlite-android) - by requery
 - [FlexLayout](https://github.com/mmin18/FlexLayout) - by mmin18
 - [ActivityRouter](https://github.com/mzule/ActivityRouter) - by mzule
-- [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [DBinding](https://github.com/tianzhijiexian/DBinding) - by tianzhijiexian
+- [es4j](https://github.com/eventsourcing/es4j) - by eventsourcing
 - [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - by hongyangAndroid
 - [folding-cell-android](https://github.com/Ramotion/folding-cell-android) - by Ramotion
 - [useful-java-links](https://github.com/Vedenin/useful-java-links) - by Vedenin
@@ -165,8 +165,8 @@
 - [-dampView-springingView](https://github.com/Huyamin150/-dampView-springingView) - by Huyamin150
 - [agera](https://github.com/google/agera) - by google
 - [ion-java](https://github.com/amznlabs/ion-java) - by amznlabs
-- [Girls](https://github.com/flyou/Girls) - by flyou
 - [android-about-page](https://github.com/medyo/android-about-page) - by medyo
+- [Girls](https://github.com/flyou/Girls) - by flyou
 - [WJMagicCurveView](https://github.com/wingjay/WJMagicCurveView) - by wingjay
 - [motan](https://github.com/weibocom/motan) - by weibocom
 - [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - by borjabravo10
@@ -292,13 +292,13 @@
 - [AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) - by JackyAndroid
 - [FocusResize](https://github.com/borjabravo10/FocusResize) - by borjabravo10
 - [SparkButton](https://github.com/varunest/SparkButton) - by varunest
+- [Pulsator4Droid](https://github.com/booncol/Pulsator4Droid) - by booncol
 - [FlyoutMenus](https://github.com/ShamylZakariya/FlyoutMenus) - by ShamylZakariya
 - [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) - by lawloretienne
 - [FogView_Library](https://github.com/dynamitechetan/FogView_Library) - by dynamitechetan
-- [Pulsator4Droid](https://github.com/booncol/Pulsator4Droid) - by booncol
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - by iluwatar
-- [HermesEventBus](https://github.com/eleme/HermesEventBus) - by eleme
 - [Hermes](https://github.com/Xiaofei-it/Hermes) - by Xiaofei-it
+- [HermesEventBus](https://github.com/eleme/HermesEventBus) - by eleme
 - [StereoView](https://github.com/ImmortalZ/StereoView) - by ImmortalZ
 - [PokemonGo_Android_RE](https://github.com/applidium/PokemonGo_Android_RE) - by applidium
 - [GiftCard](https://github.com/ldoublem/GiftCard) - by ldoublem
@@ -322,3 +322,5 @@
 - [Parallax-Layer-Layout](https://github.com/SchibstedSpain/Parallax-Layer-Layout) - by SchibstedSpain
 - [SlyceMessaging](https://github.com/snipsnap/SlyceMessaging) - by snipsnap
 - [circular-music-progressbar](https://github.com/aliab/circular-music-progressbar) - by aliab
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - by Blankj
+- [ExpandableRecyclerview](https://github.com/zaihuishou/ExpandableRecyclerview) - by zaihuishou

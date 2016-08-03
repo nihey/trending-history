@@ -33,3 +33,6 @@
 - [theca](https://github.com/rolandshoemaker/theca) - by rolandshoemaker
 - [rustls](https://github.com/ctz/rustls) - by ctz
 - [gluon](https://github.com/Marwes/gluon) - by Marwes
+
+### 2016-8
+- [font-rs](https://github.com/google/font-rs) - by google

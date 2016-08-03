@@ -52,8 +52,8 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [apns2](https://github.com/sideshow/apns2) - by sideshow
+- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
@@ -72,8 +72,8 @@
 - [echo](https://github.com/labstack/echo) - by labstack
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
-- [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
+- [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -87,8 +87,8 @@
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [kit](https://github.com/go-kit/kit) - by go-kit
 - [gollum](https://github.com/trivago/gollum) - by trivago
+- [kit](https://github.com/go-kit/kit) - by go-kit
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -97,8 +97,8 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
+- [grafana](https://github.com/grafana/grafana) - by grafana
 - [leveros](https://github.com/leveros/leveros) - by leveros
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
@@ -135,3 +135,4 @@
 
 ### 2016-8
 - [gh-ost](https://github.com/github/gh-ost) - by github
+- [noms](https://github.com/attic-labs/noms) - by attic-labs
