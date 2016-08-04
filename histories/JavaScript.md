@@ -453,9 +453,9 @@
 - [aquarelle](https://github.com/Ramotion/aquarelle) - by Ramotion
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - by facebookincubator
 - [pcb-stackup](https://github.com/tracespace/pcb-stackup) - by tracespace
-- [react-monocle](https://github.com/team-gryff/react-monocle) - by team-gryff
-- [github-widget](https://github.com/surbhioberoi/github-widget) - by surbhioberoi
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) - by krasimir
+- [github-widget](https://github.com/surbhioberoi/github-widget) - by surbhioberoi
+- [react-monocle](https://github.com/team-gryff/react-monocle) - by team-gryff
 - [birl-language.github.io](https://github.com/birl-language/birl-language.github.io) - by birl-language
 - [LaunchKit](https://github.com/LaunchKit/LaunchKit) - by LaunchKit
 - [image-diff](https://github.com/uber/image-diff) - by uber
@@ -466,3 +466,4 @@
 - [directus](https://github.com/directus/directus) - by directus
 - [sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - by mxstbr
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - by sachinchoolur
+- [react-native](https://github.com/CanonicalLtd/react-native) - by CanonicalLtd

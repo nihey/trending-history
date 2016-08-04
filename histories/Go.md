@@ -97,8 +97,8 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [grafana](https://github.com/grafana/grafana) - by grafana
+- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [leveros](https://github.com/leveros/leveros) - by leveros
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
@@ -136,3 +136,5 @@
 ### 2016-8
 - [gh-ost](https://github.com/github/gh-ost) - by github
 - [noms](https://github.com/attic-labs/noms) - by attic-labs
+- [frp](https://github.com/fatedier/frp) - by fatedier
+- [ssh-chat](https://github.com/shazow/ssh-chat) - by shazow
