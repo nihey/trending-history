@@ -40,3 +40,4 @@
 - [PokeMobBot](https://github.com/PocketMobsters/PokeMobBot) - by PocketMobsters
 - [PoGo-UWP](https://github.com/ST-Apps/PoGo-UWP) - by ST-Apps
 - [NecroBot](https://github.com/NECROBOTIO/NecroBot) - by NECROBOTIO
+- [PokemonGo-Bot](https://github.com/Ar1i/PokemonGo-Bot) - by Ar1i

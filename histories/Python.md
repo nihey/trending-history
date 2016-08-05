@@ -142,8 +142,8 @@
 - [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
-- [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
+- [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
 - [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
@@ -179,12 +179,12 @@
 - [shutit](https://github.com/ianmiell/shutit) - by ianmiell
 - [chalice](https://github.com/awslabs/chalice) - by awslabs
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
 - [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
@@ -199,3 +199,6 @@
 - [digit-classifier](https://github.com/karandesai-96/digit-classifier) - by karandesai-96
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - by hanc00l
 - [keras-rl](https://github.com/matthiasplappert/keras-rl) - by matthiasplappert
+- [research](https://github.com/commaai/research) - by commaai
+- [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
+- [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
