@@ -15,3 +15,6 @@
 
 ### 2016-7
 - [Nightcode](https://github.com/oakes/Nightcode) - by oakes
+
+### 2016-8
+- [hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree) - by datacrypt-project

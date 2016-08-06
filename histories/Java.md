@@ -258,32 +258,32 @@
 - [CircleCheckBox](https://github.com/arlindiDev/CircleCheckBox) - by arlindiDev
 - [CardStackView](https://github.com/loopeer/CardStackView) - by loopeer
 - [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - by barteksc
-- [JellyToggleButton](https://github.com/Nightonke/JellyToggleButton) - by Nightonke
 - [Compressor](https://github.com/zetbaitsu/Compressor) - by zetbaitsu
+- [JellyToggleButton](https://github.com/Nightonke/JellyToggleButton) - by Nightonke
 - [StepView](https://github.com/baoyachi/StepView) - by baoyachi
 - [material-intro](https://github.com/HeinrichReimer/material-intro) - by HeinrichReimer
 - [LoadingView](https://github.com/ldoublem/LoadingView) - by ldoublem
 - [RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced) - by nikhilpanju
 - [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) - by wdullaer
 - [MagicaSakura](https://github.com/Bilibili/MagicaSakura) - by Bilibili
+- [Scoops](https://github.com/52inc/Scoops) - by 52inc
 - [SideBar](https://github.com/kongnanlive/SideBar) - by kongnanlive
 - [quill](https://github.com/vickychijwani/quill) - by vickychijwani
-- [Scoops](https://github.com/52inc/Scoops) - by 52inc
 - [dagger2Demo](https://github.com/luxiaoming/dagger2Demo) - by luxiaoming
-- [VideoListDemo](https://github.com/w1123440793/VideoListDemo) - by w1123440793
 - [Revealator](https://github.com/Jaouan/Revealator) - by Jaouan
+- [VideoListDemo](https://github.com/w1123440793/VideoListDemo) - by w1123440793
 
 ### 2016-7
 - [elegant-underline](https://github.com/romainguy/elegant-underline) - by romainguy
 - [weex](https://github.com/alibaba/weex) - by alibaba
 - [NumberPickerView](https://github.com/Carbs0126/NumberPickerView) - by Carbs0126
+- [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) - by HeZaiJin
 - [JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer) - by lipangit
 - [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) - by Mauker1
-- [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) - by HeZaiJin
 - [MarkdownEditors](https://github.com/qinci/MarkdownEditors) - by qinci
-- [KeyBox](https://github.com/skavanagh/KeyBox) - by skavanagh
-- [TEmptyView](https://github.com/barryhappy/TEmptyView) - by barryhappy
 - [ShineButton](https://github.com/ChadCSong/ShineButton) - by ChadCSong
+- [TEmptyView](https://github.com/barryhappy/TEmptyView) - by barryhappy
+- [KeyBox](https://github.com/skavanagh/KeyBox) - by skavanagh
 - [tooltips](https://github.com/tomergoldst/tooltips) - by tomergoldst
 - [VirtualApp](https://github.com/asLody/VirtualApp) - by asLody
 - [malmo](https://github.com/Microsoft/malmo) - by Microsoft
@@ -292,18 +292,18 @@
 - [FocusResize](https://github.com/borjabravo10/FocusResize) - by borjabravo10
 - [AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) - by JackyAndroid
 - [SparkButton](https://github.com/varunest/SparkButton) - by varunest
+- [Pulsator4Droid](https://github.com/booncol/Pulsator4Droid) - by booncol
 - [FlyoutMenus](https://github.com/ShamylZakariya/FlyoutMenus) - by ShamylZakariya
 - [FogView_Library](https://github.com/dynamitechetan/FogView_Library) - by dynamitechetan
-- [Pulsator4Droid](https://github.com/booncol/Pulsator4Droid) - by booncol
 - [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) - by lawloretienne
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - by iluwatar
 - [HermesEventBus](https://github.com/eleme/HermesEventBus) - by eleme
 - [Hermes](https://github.com/Xiaofei-it/Hermes) - by Xiaofei-it
 - [StereoView](https://github.com/ImmortalZ/StereoView) - by ImmortalZ
-- [GiftCard](https://github.com/ldoublem/GiftCard) - by ldoublem
 - [PokemonGo_Android_RE](https://github.com/applidium/PokemonGo_Android_RE) - by applidium
-- [ticker](https://github.com/robinhood/ticker) - by robinhood
+- [GiftCard](https://github.com/ldoublem/GiftCard) - by ldoublem
 - [PaperShredder](https://github.com/ldoublem/PaperShredder) - by ldoublem
+- [ticker](https://github.com/robinhood/ticker) - by robinhood
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - by omkarmoghe
 - [wire-android](https://github.com/wireapp/wire-android) - by wireapp
@@ -312,10 +312,10 @@
 - [CircularAnim](https://github.com/XunMengWinter/CircularAnim) - by XunMengWinter
 - [SeatTable](https://github.com/qifengdeqingchen/SeatTable) - by qifengdeqingchen
 - [Markdown](https://github.com/zzhoujay/Markdown) - by zzhoujay
-- [DecentBanner](https://github.com/chengdazhi/DecentBanner) - by chengdazhi
 - [PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - by aryarohit07
 - [android_scratchoff](https://github.com/jackpocket/android_scratchoff) - by jackpocket
 - [Emojix](https://github.com/nekocode/Emojix) - by nekocode
+- [DecentBanner](https://github.com/chengdazhi/DecentBanner) - by chengdazhi
 
 ### 2016-8
 - [Luban](https://github.com/Curzibn/Luban) - by Curzibn
@@ -327,3 +327,6 @@
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - by yadav-rahul
 - [FlightSeat](https://github.com/ldoublem/FlightSeat) - by ldoublem
 - [SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar) - by FlyingPumba
+- [MaterialLogin](https://github.com/fanrunqi/MaterialLogin) - by fanrunqi
+- [MultiType](https://github.com/drakeet/MultiType) - by drakeet
+- [ThumbUp](https://github.com/ldoublem/ThumbUp) - by ldoublem

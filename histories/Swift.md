@@ -113,8 +113,8 @@
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [WWDC](https://github.com/insidegui/WWDC) - by insidegui
-- [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
 - [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
+- [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
 - [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
 - [Cleanse](https://github.com/square/Cleanse) - by square
 - [Graphs](https://github.com/recruit-mtl/Graphs) - by recruit-mtl
@@ -130,8 +130,8 @@
 ### 2016-7
 - [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - by AntonTheDev
 - [Elevate](https://github.com/Nike-Inc/Elevate) - by Nike-Inc
-- [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
 - [ISTimeline](https://github.com/instant-solutions/ISTimeline) - by instant-solutions
+- [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
 - [Potatso](https://github.com/shadowsocks/Potatso) - by shadowsocks
 - [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - by soapyigu
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
@@ -145,3 +145,4 @@
 
 ### 2016-8
 - [AspectFillFaceAware](https://github.com/BeauNouvelle/AspectFillFaceAware) - by BeauNouvelle
+- [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - by Yalantis
