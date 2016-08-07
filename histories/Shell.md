@@ -50,3 +50,6 @@
 - [dotfiles](https://github.com/lewagon/dotfiles) - by lewagon
 - [m-cli](https://github.com/rgcr/m-cli) - by rgcr
 - [wifi-password](https://github.com/rauchg/wifi-password) - by rauchg
+
+### 2016-8
+- [git-recent](https://github.com/paulirish/git-recent) - by paulirish

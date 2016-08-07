@@ -13,9 +13,9 @@
 - [maltrail](https://github.com/stamparm/maltrail) - by stamparm
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
-- [lektor](https://github.com/lektor/lektor) - by lektor
-- [see](https://github.com/F-Secure/see) - by F-Secure
 - [ispy](https://github.com/dellis23/ispy) - by dellis23
+- [see](https://github.com/F-Secure/see) - by F-Secure
+- [lektor](https://github.com/lektor/lektor) - by lektor
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -53,17 +53,17 @@
 - [himawaripy](https://github.com/boramalper/himawaripy) - by boramalper
 - [maybe](https://github.com/p-e-w/maybe) - by p-e-w
 - [records](https://github.com/kennethreitz/records) - by kennethreitz
-- [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - by minimaxir
+- [PyDataset](https://github.com/iamaziz/PyDataset) - by iamaziz
 - [hosts](https://github.com/StevenBlack/hosts) - by StevenBlack
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - by bigchaindb
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
-- [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
-- [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
+- [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
+- [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
 - [sidomo](https://github.com/deepgram/sidomo) - by deepgram
 - [gdom](https://github.com/syrusakbary/gdom) - by syrusakbary
@@ -94,8 +94,8 @@
 - [pytrader](https://github.com/owocki/pytrader) - by owocki
 
 ### 2016-4
-- [caravel](https://github.com/airbnb/caravel) - by airbnb
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
+- [caravel](https://github.com/airbnb/caravel) - by airbnb
 - [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
@@ -107,13 +107,13 @@
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
+- [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
 - [keras](https://github.com/fchollet/keras) - by fchollet
 - [voltron](https://github.com/snare/voltron) - by snare
-- [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
 - [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
-- [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [pycraft](https://github.com/traverseda/pycraft) - by traverseda
+- [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [dcos](https://github.com/dcos/dcos) - by dcos
 - [colornet](https://github.com/pavelgonchar/colornet) - by pavelgonchar
 - [enjarify](https://github.com/google/enjarify) - by google
@@ -128,13 +128,13 @@
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
 - [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
-- [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
-- [fierce](https://github.com/mschwager/fierce) - by mschwager
+- [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
+- [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
-- [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
+- [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
@@ -142,8 +142,8 @@
 - [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
-- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
+- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
@@ -203,3 +203,4 @@
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
 - [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
+- [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
