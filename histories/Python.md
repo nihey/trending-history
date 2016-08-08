@@ -130,11 +130,11 @@
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
-- [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
+- [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
-- [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
 - [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
+- [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
@@ -142,8 +142,8 @@
 - [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
-- [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
+- [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
 - [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
@@ -204,3 +204,4 @@
 - [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
 - [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
+- [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - by PokemonGoMap
