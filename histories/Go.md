@@ -23,9 +23,9 @@
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
-- [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
-- [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
 - [apex](https://github.com/apex/apex) - by apex
+- [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
+- [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
 - [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
@@ -35,13 +35,13 @@
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [client](https://github.com/keybase/client) - by keybase
 - [gogs](https://github.com/gogits/gogs) - by gogits
+- [client](https://github.com/keybase/client) - by keybase
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
 - [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
-- [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [go-git](https://github.com/src-d/go-git) - by src-d
+- [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -52,8 +52,8 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [apns2](https://github.com/sideshow/apns2) - by sideshow
 - [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
+- [apns2](https://github.com/sideshow/apns2) - by sideshow
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
@@ -87,8 +87,8 @@
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [kit](https://github.com/go-kit/kit) - by go-kit
 - [gollum](https://github.com/trivago/gollum) - by trivago
+- [kit](https://github.com/go-kit/kit) - by go-kit
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -126,8 +126,8 @@
 - [sharkey](https://github.com/square/sharkey) - by square
 - [cryptopasta](https://github.com/gtank/cryptopasta) - by gtank
 - [buntdb](https://github.com/tidwall/buntdb) - by tidwall
-- [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
+- [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
@@ -141,3 +141,4 @@
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - by thewhitetulip
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
+- [dht](https://github.com/shiyanhui/dht) - by shiyanhui

@@ -146,3 +146,4 @@
 ### 2016-8
 - [AspectFillFaceAware](https://github.com/BeauNouvelle/AspectFillFaceAware) - by BeauNouvelle
 - [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - by Yalantis
+- [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) - by PiXeL16

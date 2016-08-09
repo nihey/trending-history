@@ -32,3 +32,6 @@
 
 ### 2016-7
 - [PokemonHook](https://github.com/rpplusplus/PokemonHook) - by rpplusplus
+
+### 2016-8
+- [gitdown](https://github.com/noidontdig/gitdown) - by noidontdig

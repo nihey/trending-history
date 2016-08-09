@@ -332,3 +332,4 @@
 - [ThumbUp](https://github.com/ldoublem/ThumbUp) - by ldoublem
 - [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - by tdebatty
 - [botkit](https://github.com/ramswaroop/botkit) - by ramswaroop
+- [CameraFilter](https://github.com/WeLikeVis/CameraFilter) - by WeLikeVis
