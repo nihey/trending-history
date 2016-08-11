@@ -99,8 +99,8 @@
 - [rack](https://github.com/convox/rack) - by convox
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [grafana](https://github.com/grafana/grafana) - by grafana
-- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [leveros](https://github.com/leveros/leveros) - by leveros
+- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
@@ -129,8 +129,8 @@
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
-- [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
+- [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [shadowd](https://github.com/reconquest/shadowd) - by reconquest
 
 ### 2016-8
@@ -142,3 +142,5 @@
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
 - [dht](https://github.com/shiyanhui/dht) - by shiyanhui
+- [staticfiles](https://github.com/bouk/staticfiles) - by bouk
+- [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon

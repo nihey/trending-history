@@ -147,3 +147,4 @@
 - [AspectFillFaceAware](https://github.com/BeauNouvelle/AspectFillFaceAware) - by BeauNouvelle
 - [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - by Yalantis
 - [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) - by PiXeL16
+- [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - by krzysztofzablocki

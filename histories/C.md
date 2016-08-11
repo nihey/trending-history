@@ -63,8 +63,8 @@
 - [wren](https://github.com/munificent/wren) - by munificent
 - [magma](https://github.com/lavabit/magma) - by lavabit
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
-- [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
+- [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - by christinaa
 - [hyperkit](https://github.com/docker/hyperkit) - by docker
 - [libui](https://github.com/andlabs/libui) - by andlabs
@@ -98,3 +98,4 @@
 ### 2016-8
 - [SimpleRT](https://github.com/vvviperrr/SimpleRT) - by vvviperrr
 - [patchkit](https://github.com/lunixbochs/patchkit) - by lunixbochs
+- [librevault](https://github.com/Librevault/librevault) - by Librevault

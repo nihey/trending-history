@@ -53,3 +53,5 @@
 
 ### 2016-8
 - [git-recent](https://github.com/paulirish/git-recent) - by paulirish
+- [go-fast](https://github.com/kovetskiy/go-fast) - by kovetskiy
+- [haoel.github.io](https://github.com/haoel/haoel.github.io) - by haoel
