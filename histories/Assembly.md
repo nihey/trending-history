@@ -13,3 +13,6 @@
 ### 2016-7
 - [msdos](https://github.com/BlastarIndia/msdos) - by BlastarIndia
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - by chrislgarry
+
+### 2016-8
+- [pokered](https://github.com/pret/pokered) - by pret

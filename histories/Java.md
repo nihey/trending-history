@@ -338,3 +338,4 @@
 - [android-adDialog](https://github.com/yipianfengye/android-adDialog) - by yipianfengye
 - [StickerView](https://github.com/wuapnjie/StickerView) - by wuapnjie
 - [AndroidAudioRecorder](https://github.com/adrielcafe/AndroidAudioRecorder) - by adrielcafe
+- [simplenote-android](https://github.com/Automattic/simplenote-android) - by Automattic

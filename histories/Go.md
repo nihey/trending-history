@@ -144,3 +144,4 @@
 - [dht](https://github.com/shiyanhui/dht) - by shiyanhui
 - [staticfiles](https://github.com/bouk/staticfiles) - by bouk
 - [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
+- [gjson](https://github.com/tidwall/gjson) - by tidwall

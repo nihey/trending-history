@@ -71,3 +71,5 @@
 
 ### 2016-8
 - [lumen](https://github.com/anishathalye/lumen) - by anishathalye
+- [simplenote-ios](https://github.com/Automattic/simplenote-ios) - by Automattic
+- [simplenote-macos](https://github.com/Automattic/simplenote-macos) - by Automattic
