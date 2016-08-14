@@ -30,8 +30,8 @@
 
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
-- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [luna](https://github.com/tj/luna) - by tj
+- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [emojicode](https://github.com/emojicode/emojicode) - by emojicode
 - [jo](https://github.com/jpmens/jo) - by jpmens
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
@@ -40,8 +40,8 @@
 - [darknet](https://github.com/pjreddie/darknet) - by pjreddie
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007
-- [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [citus](https://github.com/citusdata/citus) - by citusdata
 - [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [xhyve](https://github.com/mist64/xhyve) - by mist64
@@ -63,8 +63,8 @@
 - [wren](https://github.com/munificent/wren) - by munificent
 - [magma](https://github.com/lavabit/magma) - by lavabit
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
-- [facebooc](https://github.com/jserv/facebooc) - by jserv
 - [lightmapper](https://github.com/ands/lightmapper) - by ands
+- [facebooc](https://github.com/jserv/facebooc) - by jserv
 - [rpi-open-firmware](https://github.com/christinaa/rpi-open-firmware) - by christinaa
 - [hyperkit](https://github.com/docker/hyperkit) - by docker
 - [libui](https://github.com/andlabs/libui) - by andlabs
@@ -99,3 +99,5 @@
 - [SimpleRT](https://github.com/vvviperrr/SimpleRT) - by vvviperrr
 - [patchkit](https://github.com/lunixbochs/patchkit) - by lunixbochs
 - [librevault](https://github.com/Librevault/librevault) - by Librevault
+- [magenta](https://github.com/fuchsia-mirror/magenta) - by fuchsia-mirror
+- [wcc](https://github.com/endrazine/wcc) - by endrazine

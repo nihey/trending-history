@@ -42,3 +42,4 @@
 - [NecroBot](https://github.com/NECROBOTIO/NecroBot) - by NECROBOTIO
 - [PokemonGo-Bot](https://github.com/Ar1i/PokemonGo-Bot) - by Ar1i
 - [Netling](https://github.com/hallatore/Netling) - by hallatore
+- [NecroBot](https://github.com/NoxxDev/NecroBot) - by NoxxDev

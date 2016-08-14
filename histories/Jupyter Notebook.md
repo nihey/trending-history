@@ -27,3 +27,4 @@
 
 ### 2016-8
 - [hackermath](https://github.com/amitkaps/hackermath) - by amitkaps
+- [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks) - by jdwittenauer

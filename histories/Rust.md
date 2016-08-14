@@ -37,3 +37,4 @@
 ### 2016-8
 - [font-rs](https://github.com/google/font-rs) - by google
 - [futures-rs](https://github.com/alexcrichton/futures-rs) - by alexcrichton
+- [way-cooler](https://github.com/Immington-Industries/way-cooler) - by Immington-Industries

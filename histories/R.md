@@ -9,3 +9,6 @@
 
 ### 2016-6
 - [investing](https://github.com/zonination/investing) - by zonination
+
+### 2016-8
+- [weight-loss](https://github.com/arielf/weight-loss) - by arielf
