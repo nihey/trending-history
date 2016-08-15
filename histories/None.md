@@ -147,10 +147,10 @@
 - [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - by vic317yeh
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - by terryum
 - [one-python](https://github.com/geekan/one-python) - by geekan
-- [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
 - [maruos](https://github.com/maruos/maruos) - by maruos
-- [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
+- [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
 - [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
+- [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
 - [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
 - [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony
 - [UI](https://github.com/iOS10-KIT/UI) - by iOS10-KIT
@@ -168,11 +168,11 @@
 ### 2016-7
 - [forget-the-king](https://github.com/usgov/forget-the-king) - by usgov
 - [bigoposter](https://github.com/ro31337/bigoposter) - by ro31337
-- [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - by kelseyhightower
 - [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - by metagrover
 - [Macmoji](https://github.com/warpling/Macmoji) - by warpling
-- [established-remote](https://github.com/yanirs/established-remote) - by yanirs
+- [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - by kelseyhightower
 - [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) - by TalAter
+- [established-remote](https://github.com/yanirs/established-remote) - by yanirs
 - [egghead.io_idiomatic_redux_course_notes](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes) - by tayiorbeii
 - [awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - by TalAter
 - [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - by fatih
@@ -185,8 +185,8 @@
 - [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - by FallibleInc
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - by jaywcjlove
 - [FontZip](https://github.com/forJrking/FontZip) - by forJrking
-- [wire](https://github.com/wireapp/wire) - by wireapp
 - [notation](https://github.com/hypotext/notation) - by hypotext
+- [wire](https://github.com/wireapp/wire) - by wireapp
 - [mms](https://github.com/struct/mms) - by struct
 - [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - by Droogans
 - [TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) - by Xyl2k
@@ -208,3 +208,5 @@
 - [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - by mrjoelkemp
 - [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) - by ZQiang94
 - [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - by fuchsia-mirror
+- [zfs-ha](https://github.com/ewwhite/zfs-ha) - by ewwhite
+- [tech](https://github.com/hedengcheng/tech) - by hedengcheng

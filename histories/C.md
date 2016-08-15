@@ -21,8 +21,8 @@
 - [tbox](https://github.com/waruqi/tbox) - by waruqi
 
 ### 2016-2
-- [Craft](https://github.com/fogleman/Craft) - by fogleman
 - [how2heap](https://github.com/shellphish/how2heap) - by shellphish
+- [Craft](https://github.com/fogleman/Craft) - by fogleman
 - [ds](https://github.com/php-ds/ds) - by php-ds
 - [htop](https://github.com/hishamhm/htop) - by hishamhm
 - [mousejack](https://github.com/RFStorm/mousejack) - by RFStorm
@@ -31,8 +31,8 @@
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
 - [luna](https://github.com/tj/luna) - by tj
-- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [emojicode](https://github.com/emojicode/emojicode) - by emojicode
+- [rappel](https://github.com/yrp604/rappel) - by yrp604
 - [jo](https://github.com/jpmens/jo) - by jpmens
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
@@ -40,11 +40,11 @@
 - [darknet](https://github.com/pjreddie/darknet) - by pjreddie
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007
-- [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
+- [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [citus](https://github.com/citusdata/citus) - by citusdata
-- [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [xhyve](https://github.com/mist64/xhyve) - by mist64
+- [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [netdata](https://github.com/firehol/netdata) - by firehol
 - [lwan](https://github.com/lpereira/lwan) - by lpereira
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - by edent
@@ -101,3 +101,4 @@
 - [librevault](https://github.com/Librevault/librevault) - by Librevault
 - [magenta](https://github.com/fuchsia-mirror/magenta) - by fuchsia-mirror
 - [wcc](https://github.com/endrazine/wcc) - by endrazine
+- [lk](https://github.com/littlekernel/lk) - by littlekernel
