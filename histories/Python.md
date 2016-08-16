@@ -186,10 +186,10 @@
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
-- [pgoapi](https://github.com/tejado/pgoapi) - by tejado
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
-- [riko](https://github.com/nerevu/riko) - by nerevu
+- [pgoapi](https://github.com/tejado/pgoapi) - by tejado
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
+- [riko](https://github.com/nerevu/riko) - by nerevu
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere
 - [Pokemon-Go-Bot-Working-Hack-API](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - by TomTheBotter
 - [DeepHeart](https://github.com/jisaacso/DeepHeart) - by jisaacso
@@ -208,3 +208,4 @@
 - [pogom](https://github.com/favll/pogom) - by favll
 - [-RES-](https://github.com/Enteleform/-RES-) - by Enteleform
 - [ChatterBot](https://github.com/gunthercox/ChatterBot) - by gunthercox
+- [PINCE](https://github.com/korcankaraokcu/PINCE) - by korcankaraokcu

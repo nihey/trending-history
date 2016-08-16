@@ -80,9 +80,9 @@
 - [quiet-lwip](https://github.com/quiet/quiet-lwip) - by quiet
 - [lzfse](https://github.com/lzfse/lzfse) - by lzfse
 - [afl.rs](https://github.com/frewsxcv/afl.rs) - by frewsxcv
-- [u2f-zero](https://github.com/conorpp/u2f-zero) - by conorpp
 - [huo](https://github.com/incrediblesound/huo) - by incrediblesound
 - [longs](https://github.com/riolet/longs) - by riolet
+- [u2f-zero](https://github.com/conorpp/u2f-zero) - by conorpp
 - [massdns](https://github.com/blechschmidt/massdns) - by blechschmidt
 
 ### 2016-7
@@ -102,3 +102,4 @@
 - [magenta](https://github.com/fuchsia-mirror/magenta) - by fuchsia-mirror
 - [wcc](https://github.com/endrazine/wcc) - by endrazine
 - [lk](https://github.com/littlekernel/lk) - by littlekernel
+- [bucklespring](https://github.com/zevv/bucklespring) - by zevv

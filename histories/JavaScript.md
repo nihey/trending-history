@@ -448,8 +448,8 @@
 - [allora](https://github.com/GianlucaGuarini/allora) - by GianlucaGuarini
 - [language-evolution-simulation](https://github.com/fatiherikli/language-evolution-simulation) - by fatiherikli
 - [gatsby](https://github.com/gatsbyjs/gatsby) - by gatsbyjs
-- [gotrace](https://github.com/divan/gotrace) - by divan
 - [howler.js](https://github.com/goldfire/howler.js) - by goldfire
+- [gotrace](https://github.com/divan/gotrace) - by divan
 - [aquarelle](https://github.com/Ramotion/aquarelle) - by Ramotion
 - [create-react-app](https://github.com/facebookincubator/create-react-app) - by facebookincubator
 - [pcb-stackup](https://github.com/tracespace/pcb-stackup) - by tracespace
@@ -458,8 +458,8 @@
 - [github-widget](https://github.com/surbhioberoi/github-widget) - by surbhioberoi
 - [birl-language.github.io](https://github.com/birl-language/birl-language.github.io) - by birl-language
 - [LaunchKit](https://github.com/LaunchKit/LaunchKit) - by LaunchKit
-- [image-diff](https://github.com/uber/image-diff) - by uber
 - [ViralJS](https://github.com/PixelsCommander/ViralJS) - by PixelsCommander
+- [image-diff](https://github.com/uber/image-diff) - by uber
 - [aws-sms-send](https://github.com/svtek/aws-sms-send) - by svtek
 
 ### 2016-8
@@ -482,3 +482,4 @@
 - [recharts](https://github.com/recharts/recharts) - by recharts
 - [sw-delta](https://github.com/gmetais/sw-delta) - by gmetais
 - [Neuron](https://github.com/JamesTheHacker/Neuron) - by JamesTheHacker
+- [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - by FormidableLabs

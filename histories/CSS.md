@@ -66,3 +66,4 @@
 
 ### 2016-8
 - [blog](https://github.com/snehesht/blog) - by snehesht
+- [kissui.scrollanim](https://github.com/usablica/kissui.scrollanim) - by usablica
