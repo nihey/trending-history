@@ -385,27 +385,27 @@
 - [VisualAlchemist](https://github.com/prahladyeri/VisualAlchemist) - by prahladyeri
 - [N1](https://github.com/nylas/N1) - by nylas
 - [places](https://github.com/algolia/places) - by algolia
-- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - by justjavac
 - [react-enroute](https://github.com/tj/react-enroute) - by tj
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - by justjavac
 - [WeFlow](https://github.com/weixin/WeFlow) - by weixin
 - [Vidage](https://github.com/dvLden/Vidage) - by dvLden
 - [Kalm](https://github.com/fed135/Kalm) - by fed135
 - [reify](https://github.com/benjamn/reify) - by benjamn
 - [javascript-journey](https://github.com/bahmutov/javascript-journey) - by bahmutov
 - [vizicities](https://github.com/UDST/vizicities) - by UDST
-- [gitkit-js](https://github.com/SamyPesse/gitkit-js) - by SamyPesse
 - [react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - by alexkuz
-- [choo](https://github.com/yoshuawuyts/choo) - by yoshuawuyts
+- [gitkit-js](https://github.com/SamyPesse/gitkit-js) - by SamyPesse
 - [flatpickr](https://github.com/chmln/flatpickr) - by chmln
+- [choo](https://github.com/yoshuawuyts/choo) - by yoshuawuyts
 - [emoj](https://github.com/sindresorhus/emoj) - by sindresorhus
 - [freecodecamp.cn](https://github.com/huluoyang/freecodecamp.cn) - by huluoyang
 - [anime](https://github.com/juliangarnier/anime) - by juliangarnier
+- [react-hn](https://github.com/insin/react-hn) - by insin
 - [d3](https://github.com/d3/d3) - by d3
 - [iterall](https://github.com/leebyron/iterall) - by leebyron
-- [react-hn](https://github.com/insin/react-hn) - by insin
-- [js-primer](https://github.com/asciidwango/js-primer) - by asciidwango
-- [astrum](https://github.com/NoDivide/astrum) - by NoDivide
 - [oryoki](https://github.com/thmsbfft/oryoki) - by thmsbfft
+- [astrum](https://github.com/NoDivide/astrum) - by NoDivide
+- [js-primer](https://github.com/asciidwango/js-primer) - by asciidwango
 
 ### 2016-7
 - [monkberry](https://github.com/monkberry/monkberry) - by monkberry
@@ -420,8 +420,8 @@
 - [react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects) - by halilb
 - [lambci](https://github.com/lambci/lambci) - by lambci
 - [rheostat](https://github.com/airbnb/rheostat) - by airbnb
-- [Prism](https://github.com/LaloMrtnz/Prism) - by LaloMrtnz
 - [spa-github-pages](https://github.com/rafrex/spa-github-pages) - by rafrex
+- [Prism](https://github.com/LaloMrtnz/Prism) - by LaloMrtnz
 - [np](https://github.com/sindresorhus/np) - by sindresorhus
 - [gifify](https://github.com/vvo/gifify) - by vvo
 - [proxy-fun](https://github.com/mikaelbr/proxy-fun) - by mikaelbr
@@ -464,8 +464,8 @@
 
 ### 2016-8
 - [directus](https://github.com/directus/directus) - by directus
-- [sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - by mxstbr
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - by sachinchoolur
+- [sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - by mxstbr
 - [react-native](https://github.com/CanonicalLtd/react-native) - by CanonicalLtd
 - [voxelquestiso](https://github.com/gavanw/voxelquestiso) - by gavanw
 - [slapp](https://github.com/BeepBoopHQ/slapp) - by BeepBoopHQ
@@ -483,3 +483,5 @@
 - [sw-delta](https://github.com/gmetais/sw-delta) - by gmetais
 - [Neuron](https://github.com/JamesTheHacker/Neuron) - by JamesTheHacker
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - by FormidableLabs
+- [LogicJS](https://github.com/mcsoto/LogicJS) - by mcsoto
+- [eme](https://github.com/egoist/eme) - by egoist

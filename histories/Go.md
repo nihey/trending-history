@@ -35,13 +35,13 @@
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
+- [gogs](https://github.com/gogits/gogs) - by gogits
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
-- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [go-git](https://github.com/src-d/go-git) - by src-d
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
+- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -52,8 +52,8 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [apns2](https://github.com/sideshow/apns2) - by sideshow
+- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
@@ -63,15 +63,15 @@
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
-- [bigcache](https://github.com/allegro/bigcache) - by allegro
 - [abot](https://github.com/itsabot/abot) - by itsabot
+- [bigcache](https://github.com/allegro/bigcache) - by allegro
 
 ### 2016-4
-- [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
-- [echo](https://github.com/labstack/echo) - by labstack
+- [depscheck](https://github.com/divan/depscheck) - by divan
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
+- [echo](https://github.com/labstack/echo) - by labstack
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
@@ -81,8 +81,8 @@
 - [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole
 - [binctr](https://github.com/jfrazelle/binctr) - by jfrazelle
 - [micro](https://github.com/zyedidia/micro) - by zyedidia
-- [find](https://github.com/schollz/find) - by schollz
 - [gobgp](https://github.com/osrg/gobgp) - by osrg
+- [find](https://github.com/schollz/find) - by schollz
 - [passgo](https://github.com/ejcx/passgo) - by ejcx
 
 ### 2016-5
@@ -97,8 +97,8 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [grafana](https://github.com/grafana/grafana) - by grafana
+- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [leveros](https://github.com/leveros/leveros) - by leveros
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
@@ -129,8 +129,8 @@
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
-- [lexvec](https://github.com/alexandres/lexvec) - by alexandres
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
+- [lexvec](https://github.com/alexandres/lexvec) - by alexandres
 - [shadowd](https://github.com/reconquest/shadowd) - by reconquest
 
 ### 2016-8
@@ -145,3 +145,4 @@
 - [staticfiles](https://github.com/bouk/staticfiles) - by bouk
 - [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
+- [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph

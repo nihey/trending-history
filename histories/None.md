@@ -195,9 +195,9 @@
 ### 2016-8
 - [awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - by jobbole
 - [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
-- [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
 - [lxss](https://github.com/ionescu007/lxss) - by ionescu007
+- [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - by a0viedo
 - [Awesome-Ubuntu-Linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux) - by VoLuong
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - by aymericdamien
@@ -212,3 +212,4 @@
 - [tech](https://github.com/hedengcheng/tech) - by hedengcheng
 - [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - by pstadler
 - [maintainers-wanted](https://github.com/pickhardt/maintainers-wanted) - by pickhardt
+- [presentations](https://github.com/raganwald/presentations) - by raganwald

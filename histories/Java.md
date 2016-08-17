@@ -281,21 +281,21 @@
 - [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) - by Mauker1
 - [SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) - by HeZaiJin
 - [MarkdownEditors](https://github.com/qinci/MarkdownEditors) - by qinci
-- [ShineButton](https://github.com/ChadCSong/ShineButton) - by ChadCSong
-- [TEmptyView](https://github.com/barryhappy/TEmptyView) - by barryhappy
 - [KeyBox](https://github.com/skavanagh/KeyBox) - by skavanagh
-- [tooltips](https://github.com/tomergoldst/tooltips) - by tomergoldst
+- [TEmptyView](https://github.com/barryhappy/TEmptyView) - by barryhappy
+- [ShineButton](https://github.com/ChadCSong/ShineButton) - by ChadCSong
 - [VirtualApp](https://github.com/asLody/VirtualApp) - by asLody
+- [tooltips](https://github.com/tomergoldst/tooltips) - by tomergoldst
 - [elassandra](https://github.com/vroyer/elassandra) - by vroyer
 - [malmo](https://github.com/Microsoft/malmo) - by Microsoft
 - [Music-Player](https://github.com/andremion/Music-Player) - by andremion
 - [FocusResize](https://github.com/borjabravo10/FocusResize) - by borjabravo10
 - [AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) - by JackyAndroid
 - [SparkButton](https://github.com/varunest/SparkButton) - by varunest
-- [Pulsator4Droid](https://github.com/booncol/Pulsator4Droid) - by booncol
-- [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) - by lawloretienne
-- [FogView_Library](https://github.com/dynamitechetan/FogView_Library) - by dynamitechetan
 - [FlyoutMenus](https://github.com/ShamylZakariya/FlyoutMenus) - by ShamylZakariya
+- [DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) - by lawloretienne
+- [Pulsator4Droid](https://github.com/booncol/Pulsator4Droid) - by booncol
+- [FogView_Library](https://github.com/dynamitechetan/FogView_Library) - by dynamitechetan
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - by iluwatar
 - [HermesEventBus](https://github.com/eleme/HermesEventBus) - by eleme
 - [Hermes](https://github.com/Xiaofei-it/Hermes) - by Xiaofei-it
@@ -308,14 +308,14 @@
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - by omkarmoghe
 - [wire-android](https://github.com/wireapp/wire-android) - by wireapp
 - [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java) - by Grover-c13
-- [ferro](https://github.com/MaksTuev/ferro) - by MaksTuev
 - [CircularAnim](https://github.com/XunMengWinter/CircularAnim) - by XunMengWinter
+- [ferro](https://github.com/MaksTuev/ferro) - by MaksTuev
 - [SeatTable](https://github.com/qifengdeqingchen/SeatTable) - by qifengdeqingchen
 - [Markdown](https://github.com/zzhoujay/Markdown) - by zzhoujay
-- [DecentBanner](https://github.com/chengdazhi/DecentBanner) - by chengdazhi
-- [android_scratchoff](https://github.com/jackpocket/android_scratchoff) - by jackpocket
-- [Emojix](https://github.com/nekocode/Emojix) - by nekocode
 - [PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - by aryarohit07
+- [android_scratchoff](https://github.com/jackpocket/android_scratchoff) - by jackpocket
+- [DecentBanner](https://github.com/chengdazhi/DecentBanner) - by chengdazhi
+- [Emojix](https://github.com/nekocode/Emojix) - by nekocode
 
 ### 2016-8
 - [Luban](https://github.com/Curzibn/Luban) - by Curzibn
@@ -325,11 +325,11 @@
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - by Blankj
 - [ExpandableRecyclerview](https://github.com/zaihuishou/ExpandableRecyclerview) - by zaihuishou
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - by yadav-rahul
-- [SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar) - by FlyingPumba
 - [FlightSeat](https://github.com/ldoublem/FlightSeat) - by ldoublem
+- [SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar) - by FlyingPumba
 - [MaterialLogin](https://github.com/fanrunqi/MaterialLogin) - by fanrunqi
-- [MultiType](https://github.com/drakeet/MultiType) - by drakeet
 - [ThumbUp](https://github.com/ldoublem/ThumbUp) - by ldoublem
+- [MultiType](https://github.com/drakeet/MultiType) - by drakeet
 - [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - by tdebatty
 - [botkit](https://github.com/ramswaroop/botkit) - by ramswaroop
 - [CameraFilter](https://github.com/WeLikeVis/CameraFilter) - by WeLikeVis
@@ -342,3 +342,6 @@
 - [Aeron](https://github.com/real-logic/Aeron) - by real-logic
 - [Jgraph](https://github.com/mychoices/Jgraph) - by mychoices
 - [android-drag-FlowLayout](https://github.com/LightSun/android-drag-FlowLayout) - by LightSun
+- [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout) - by dinuscxj
+- [SlackLoadingView](https://github.com/JeasonWong/SlackLoadingView) - by JeasonWong
+- [Gank](https://github.com/JohnnyShieh/Gank) - by JohnnyShieh
