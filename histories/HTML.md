@@ -72,3 +72,4 @@
 
 ### 2016-8
 - [sublime-enhanced](https://github.com/shagabutdinov/sublime-enhanced) - by shagabutdinov
+- [express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - by RafalWilinski

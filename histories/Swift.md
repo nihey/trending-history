@@ -21,8 +21,8 @@
 
 ### 2016-1
 - [spi](https://github.com/guoc/spi) - by guoc
-- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
+- [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable) - by JakeLin
@@ -33,8 +33,8 @@
 - [Coolie](https://github.com/nixzhu/Coolie) - by nixzhu
 - [Gecco](https://github.com/yukiasai/Gecco) - by yukiasai
 - [vapor](https://github.com/tannernelson/vapor) - by tannernelson
-- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [furni-ios](https://github.com/twitterdev/furni-ios) - by twitterdev
+- [swift-algorithm-club](https://github.com/hollance/swift-algorithm-club) - by hollance
 - [Material](https://github.com/CosmicMind/Material) - by CosmicMind
 
 ### 2016-2
@@ -43,10 +43,10 @@
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
-- [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
-- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
+- [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
+- [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
 - [Hue](https://github.com/hyperoslo/Hue) - by hyperoslo
 - [vapor](https://github.com/qutheory/vapor) - by qutheory
@@ -82,10 +82,10 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
-- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
-- [Peek](https://github.com/shaps80/Peek) - by shaps80
+- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
+- [Peek](https://github.com/shaps80/Peek) - by shaps80
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
 - [JASON](https://github.com/delba/JASON) - by delba
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - by mobileplayer
@@ -115,13 +115,13 @@
 - [WWDC](https://github.com/insidegui/WWDC) - by insidegui
 - [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
-- [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
 - [Cleanse](https://github.com/square/Cleanse) - by square
+- [AssistantKit](https://github.com/anatoliyv/AssistantKit) - by anatoliyv
 - [Graphs](https://github.com/recruit-mtl/Graphs) - by recruit-mtl
 - [reform-swift](https://github.com/laszlokorte/reform-swift) - by laszlokorte
 - [Preheat](https://github.com/kean/Preheat) - by kean
-- [LayoutKit](https://github.com/linkedin/LayoutKit) - by linkedin
 - [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
+- [LayoutKit](https://github.com/linkedin/LayoutKit) - by linkedin
 - [Potatso-iOS](https://github.com/shadowsocks/Potatso-iOS) - by shadowsocks
 - [FNMatchPull](https://github.com/Fnoz/FNMatchPull) - by Fnoz
 - [Willow](https://github.com/Nike-Inc/Willow) - by Nike-Inc
@@ -134,8 +134,8 @@
 - [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
 - [Potatso](https://github.com/shadowsocks/Potatso) - by shadowsocks
 - [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - by soapyigu
-- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
 - [NightNight](https://github.com/Draveness/NightNight) - by Draveness
+- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
 - [Live](https://github.com/ltebean/Live) - by ltebean
 - [Celluloid](https://github.com/100mango/Celluloid) - by 100mango
 - [PopupDialog](https://github.com/Orderella/PopupDialog) - by Orderella
@@ -149,3 +149,4 @@
 - [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) - by PiXeL16
 - [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - by krzysztofzablocki
 - [StyleKit](https://github.com/146BC/StyleKit) - by 146BC
+- [NMessenger](https://github.com/eBay/NMessenger) - by eBay
