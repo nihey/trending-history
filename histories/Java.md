@@ -320,10 +320,10 @@
 ### 2016-8
 - [Parallax-Layer-Layout](https://github.com/SchibstedSpain/Parallax-Layer-Layout) - by SchibstedSpain
 - [SlyceMessaging](https://github.com/snipsnap/SlyceMessaging) - by snipsnap
-- [Luban](https://github.com/Curzibn/Luban) - by Curzibn
 - [circular-music-progressbar](https://github.com/aliab/circular-music-progressbar) - by aliab
-- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - by Blankj
+- [Luban](https://github.com/Curzibn/Luban) - by Curzibn
 - [ExpandableRecyclerview](https://github.com/zaihuishou/ExpandableRecyclerview) - by zaihuishou
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - by Blankj
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - by yadav-rahul
 - [FlightSeat](https://github.com/ldoublem/FlightSeat) - by ldoublem
 - [SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar) - by FlyingPumba
@@ -349,3 +349,4 @@
 - [PloyFun](https://github.com/hugeterry/PloyFun) - by hugeterry
 - [retrofit2-rxjava2-adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter) - by JakeWharton
 - [WeChatPswKeyboard](https://github.com/zuiwuyuan/WeChatPswKeyboard) - by zuiwuyuan
+- [ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) - by iReaderAndroid

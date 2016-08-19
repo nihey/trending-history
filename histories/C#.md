@@ -13,13 +13,13 @@
 - [ink](https://github.com/inkle/ink) - by inkle
 - [temporal](https://github.com/playdeadgames/temporal) - by playdeadgames
 - [VS-PPT](https://github.com/Microsoft/VS-PPT) - by Microsoft
-- [BotBuilder](https://github.com/Microsoft/BotBuilder) - by Microsoft
 - [GalaxyExplorer](https://github.com/Microsoft/GalaxyExplorer) - by Microsoft
+- [BotBuilder](https://github.com/Microsoft/BotBuilder) - by Microsoft
 
 ### 2016-4
-- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - by xamarin
 - [xamarin-macios](https://github.com/xamarin/xamarin-macios) - by xamarin
 - [xamarin-android](https://github.com/xamarin/xamarin-android) - by xamarin
+- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - by xamarin
 
 ### 2016-5
 - [Numerical-Analysis-Examples](https://github.com/ergenekonyigit/Numerical-Analysis-Examples) - by ergenekonyigit
@@ -43,3 +43,5 @@
 - [PokemonGo-Bot](https://github.com/Ar1i/PokemonGo-Bot) - by Ar1i
 - [Netling](https://github.com/hallatore/Netling) - by hallatore
 - [NecroBot](https://github.com/NoxxDev/NecroBot) - by NoxxDev
+- [PowerShell](https://github.com/PowerShell/PowerShell) - by PowerShell
+- [UWPCommunityToolkit](https://github.com/Microsoft/UWPCommunityToolkit) - by Microsoft
