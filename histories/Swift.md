@@ -123,8 +123,8 @@
 - [Potatso-iOS](https://github.com/icodesign/Potatso-iOS) - by icodesign
 - [LayoutKit](https://github.com/linkedin/LayoutKit) - by linkedin
 - [Potatso-iOS](https://github.com/shadowsocks/Potatso-iOS) - by shadowsocks
-- [FNMatchPull](https://github.com/Fnoz/FNMatchPull) - by Fnoz
 - [Willow](https://github.com/Nike-Inc/Willow) - by Nike-Inc
+- [FNMatchPull](https://github.com/Fnoz/FNMatchPull) - by Fnoz
 - [mal](https://github.com/kanaka/mal) - by kanaka
 
 ### 2016-7
@@ -134,8 +134,8 @@
 - [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
 - [Potatso](https://github.com/shadowsocks/Potatso) - by shadowsocks
 - [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - by soapyigu
-- [NightNight](https://github.com/Draveness/NightNight) - by Draveness
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
+- [NightNight](https://github.com/Draveness/NightNight) - by Draveness
 - [Live](https://github.com/ltebean/Live) - by ltebean
 - [Celluloid](https://github.com/100mango/Celluloid) - by 100mango
 - [PopupDialog](https://github.com/Orderella/PopupDialog) - by Orderella
@@ -150,3 +150,4 @@
 - [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - by krzysztofzablocki
 - [StyleKit](https://github.com/146BC/StyleKit) - by 146BC
 - [NMessenger](https://github.com/eBay/NMessenger) - by eBay
+- [RxAutomaton](https://github.com/inamiy/RxAutomaton) - by inamiy

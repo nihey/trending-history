@@ -299,9 +299,9 @@
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - by iluwatar
 - [HermesEventBus](https://github.com/eleme/HermesEventBus) - by eleme
 - [Hermes](https://github.com/Xiaofei-it/Hermes) - by Xiaofei-it
+- [PokemonGo_Android_RE](https://github.com/applidium/PokemonGo_Android_RE) - by applidium
 - [StereoView](https://github.com/ImmortalZ/StereoView) - by ImmortalZ
 - [GiftCard](https://github.com/ldoublem/GiftCard) - by ldoublem
-- [PokemonGo_Android_RE](https://github.com/applidium/PokemonGo_Android_RE) - by applidium
 - [ticker](https://github.com/robinhood/ticker) - by robinhood
 - [PaperShredder](https://github.com/ldoublem/PaperShredder) - by ldoublem
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
@@ -313,17 +313,17 @@
 - [SeatTable](https://github.com/qifengdeqingchen/SeatTable) - by qifengdeqingchen
 - [Markdown](https://github.com/zzhoujay/Markdown) - by zzhoujay
 - [PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) - by aryarohit07
-- [android_scratchoff](https://github.com/jackpocket/android_scratchoff) - by jackpocket
 - [Emojix](https://github.com/nekocode/Emojix) - by nekocode
 - [DecentBanner](https://github.com/chengdazhi/DecentBanner) - by chengdazhi
+- [android_scratchoff](https://github.com/jackpocket/android_scratchoff) - by jackpocket
 
 ### 2016-8
+- [Luban](https://github.com/Curzibn/Luban) - by Curzibn
 - [Parallax-Layer-Layout](https://github.com/SchibstedSpain/Parallax-Layer-Layout) - by SchibstedSpain
 - [SlyceMessaging](https://github.com/snipsnap/SlyceMessaging) - by snipsnap
 - [circular-music-progressbar](https://github.com/aliab/circular-music-progressbar) - by aliab
-- [Luban](https://github.com/Curzibn/Luban) - by Curzibn
-- [ExpandableRecyclerview](https://github.com/zaihuishou/ExpandableRecyclerview) - by zaihuishou
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - by Blankj
+- [ExpandableRecyclerview](https://github.com/zaihuishou/ExpandableRecyclerview) - by zaihuishou
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - by yadav-rahul
 - [FlightSeat](https://github.com/ldoublem/FlightSeat) - by ldoublem
 - [SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar) - by FlyingPumba
@@ -350,3 +350,4 @@
 - [retrofit2-rxjava2-adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter) - by JakeWharton
 - [WeChatPswKeyboard](https://github.com/zuiwuyuan/WeChatPswKeyboard) - by zuiwuyuan
 - [ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) - by iReaderAndroid
+- [Space-Navigation-View](https://github.com/armcha/Space-Navigation-View) - by armcha

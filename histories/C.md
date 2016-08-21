@@ -104,3 +104,4 @@
 - [lk](https://github.com/littlekernel/lk) - by littlekernel
 - [bucklespring](https://github.com/zevv/bucklespring) - by zevv
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
+- [pigz](https://github.com/madler/pigz) - by madler
