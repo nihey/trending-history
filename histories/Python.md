@@ -138,8 +138,8 @@
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
 - [models](https://github.com/tensorflow/models) - by tensorflow
-- [certbot](https://github.com/certbot/certbot) - by certbot
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
+- [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
@@ -153,8 +153,8 @@
 
 ### 2016-6
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
-- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [streisand](https://github.com/jlund/streisand) - by jlund
+- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
 - [ansible-container](https://github.com/ansible/ansible-container) - by ansible
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
@@ -213,3 +213,4 @@
 - [page_dewarp](https://github.com/mzucker/page_dewarp) - by mzucker
 - [posio](https://github.com/abrenaut/posio) - by abrenaut
 - [PyCNN](https://github.com/ankitaggarwal011/PyCNN) - by ankitaggarwal011
+- [fuzzer](https://github.com/shellphish/fuzzer) - by shellphish

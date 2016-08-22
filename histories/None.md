@@ -216,3 +216,4 @@
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons) - by danklammer
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
 - [Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) - by Jermic
+- [potaka](https://github.com/ikrum/potaka) - by ikrum
