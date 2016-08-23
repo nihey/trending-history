@@ -43,8 +43,8 @@
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [citus](https://github.com/citusdata/citus) - by citusdata
-- [xhyve](https://github.com/mist64/xhyve) - by mist64
 - [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
+- [xhyve](https://github.com/mist64/xhyve) - by mist64
 - [netdata](https://github.com/firehol/netdata) - by firehol
 - [lwan](https://github.com/lpereira/lwan) - by lpereira
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - by edent
@@ -60,8 +60,8 @@
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - by bartobri
 
 ### 2016-5
-- [magma](https://github.com/lavabit/magma) - by lavabit
 - [wren](https://github.com/munificent/wren) - by munificent
+- [magma](https://github.com/lavabit/magma) - by lavabit
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
 - [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
@@ -81,8 +81,8 @@
 - [lzfse](https://github.com/lzfse/lzfse) - by lzfse
 - [afl.rs](https://github.com/frewsxcv/afl.rs) - by frewsxcv
 - [u2f-zero](https://github.com/conorpp/u2f-zero) - by conorpp
-- [longs](https://github.com/riolet/longs) - by riolet
 - [huo](https://github.com/incrediblesound/huo) - by incrediblesound
+- [longs](https://github.com/riolet/longs) - by riolet
 - [massdns](https://github.com/blechschmidt/massdns) - by blechschmidt
 
 ### 2016-7
@@ -105,3 +105,4 @@
 - [bucklespring](https://github.com/zevv/bucklespring) - by zevv
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
 - [pigz](https://github.com/madler/pigz) - by madler
+- [libraries](https://github.com/gozfree/libraries) - by gozfree

@@ -69,9 +69,9 @@
 ### 2016-4
 - [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
+- [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [echo](https://github.com/labstack/echo) - by labstack
 - [qor](https://github.com/qor/qor) - by qor
-- [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
@@ -97,8 +97,8 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
+- [grafana](https://github.com/grafana/grafana) - by grafana
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [leveros](https://github.com/leveros/leveros) - by leveros
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
@@ -126,8 +126,8 @@
 - [sharkey](https://github.com/square/sharkey) - by square
 - [cryptopasta](https://github.com/gtank/cryptopasta) - by gtank
 - [buntdb](https://github.com/tidwall/buntdb) - by tidwall
-- [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
+- [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
@@ -136,8 +136,8 @@
 ### 2016-8
 - [gh-ost](https://github.com/github/gh-ost) - by github
 - [noms](https://github.com/attic-labs/noms) - by attic-labs
-- [frp](https://github.com/fatedier/frp) - by fatedier
 - [ssh-chat](https://github.com/shazow/ssh-chat) - by shazow
+- [frp](https://github.com/fatedier/frp) - by fatedier
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - by thewhitetulip
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
@@ -149,3 +149,4 @@
 - [realize](https://github.com/tockins/realize) - by tockins
 - [redcon](https://github.com/tidwall/redcon) - by tidwall
 - [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
+- [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
