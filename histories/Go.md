@@ -126,8 +126,8 @@
 - [sharkey](https://github.com/square/sharkey) - by square
 - [cryptopasta](https://github.com/gtank/cryptopasta) - by gtank
 - [buntdb](https://github.com/tidwall/buntdb) - by tidwall
-- [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
+- [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
@@ -136,8 +136,8 @@
 ### 2016-8
 - [gh-ost](https://github.com/github/gh-ost) - by github
 - [noms](https://github.com/attic-labs/noms) - by attic-labs
-- [ssh-chat](https://github.com/shazow/ssh-chat) - by shazow
 - [frp](https://github.com/fatedier/frp) - by fatedier
+- [ssh-chat](https://github.com/shazow/ssh-chat) - by shazow
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - by thewhitetulip
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
@@ -150,3 +150,4 @@
 - [redcon](https://github.com/tidwall/redcon) - by tidwall
 - [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
 - [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
+- [workq](https://github.com/iamduo/workq) - by iamduo

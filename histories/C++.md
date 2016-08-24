@@ -100,3 +100,4 @@
 
 ### 2016-8
 - [fastText](https://github.com/facebookresearch/fastText) - by facebookresearch
+- [thor-os](https://github.com/wichtounet/thor-os) - by wichtounet
