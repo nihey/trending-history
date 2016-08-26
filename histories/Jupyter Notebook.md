@@ -28,3 +28,4 @@
 ### 2016-8
 - [hackermath](https://github.com/amitkaps/hackermath) - by amitkaps
 - [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks) - by jdwittenauer
+- [deep-learning-keras-euroscipy2016](https://github.com/leriomaggio/deep-learning-keras-euroscipy2016) - by leriomaggio

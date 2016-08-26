@@ -12,16 +12,16 @@
 - [php7-internal](https://github.com/laruence/php7-internal) - by laruence
 - [free-programming-books](https://github.com/vhf/free-programming-books) - by vhf
 - [Qix](https://github.com/ty4z2008/Qix) - by ty4z2008
-- [bootstrap](https://github.com/twbs/bootstrap) - by twbs
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - by AllThingsSmitty
+- [bootstrap](https://github.com/twbs/bootstrap) - by twbs
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - by ujjwalkarn
-- [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
 - [egghead.io_redux_course_notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes) - by tayiorbeii
-- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
+- [RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1) - by rdpeng
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - by jobbole
+- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - by jlevy
 - [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) - by caesar0301
-- [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - by jobbole
+- [awesome](https://github.com/sindresorhus/awesome) - by sindresorhus
 - [component-check](https://github.com/Mercateo/component-check) - by Mercateo
 - [SJSJ](https://github.com/HugoGiraudel/SJSJ) - by HugoGiraudel
 - [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) - by rdpeng
@@ -34,8 +34,8 @@
 - [linux-insides](https://github.com/0xAX/linux-insides) - by 0xAX
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
 - [elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - by amontalenti
-- [react-howto](https://github.com/petehunt/react-howto) - by petehunt
 - [vim-galore](https://github.com/mhinz/vim-galore) - by mhinz
+- [react-howto](https://github.com/petehunt/react-howto) - by petehunt
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - by braydie
 - [AndroidNote](https://github.com/CharonChui/AndroidNote) - by CharonChui
 - [css](https://github.com/grvcoelho/css) - by grvcoelho
@@ -50,21 +50,21 @@
 - [blog](https://github.com/gf-rd/blog) - by gf-rd
 - [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture) - by Juude
 - [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas) - by tastejs
-- [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
 - [dear-github](https://github.com/dear-github/dear-github) - by dear-github
+- [how-to-c-response](https://github.com/Keith-S-Thompson/how-to-c-response) - by Keith-S-Thompson
 - [thank-you-github](https://github.com/thank-you-github/thank-you-github) - by thank-you-github
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - by PaulSec
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
 - [git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - by mathieudutour
-- [internals](https://github.com/rabbitmq/internals) - by rabbitmq
 - [clmystery](https://github.com/veltman/clmystery) - by veltman
-- [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
 - [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
+- [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
+- [internals](https://github.com/rabbitmq/internals) - by rabbitmq
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
 
 ### 2016-2
-- [lelylan](https://github.com/lelylan/lelylan) - by lelylan
 - [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks) - by KaimingHe
+- [lelylan](https://github.com/lelylan/lelylan) - by lelylan
 - [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - by mgechev
 - [awesome-rnn](https://github.com/kjw0612/awesome-rnn) - by kjw0612
 - [js-by-examples](https://github.com/bmkmanoj/js-by-examples) - by bmkmanoj
@@ -78,14 +78,14 @@
 - [study-path](https://github.com/joebew42/study-path) - by joebew42
 
 ### 2016-3
+- [React-Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) - by ReactjsProgram
 - [react-fundamentals-curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) - by ReactjsProgram
 - [react-makes-you-sad](https://github.com/gaearon/react-makes-you-sad) - by gaearon
-- [React-Fundamentals](https://github.com/ReactjsProgram/React-Fundamentals) - by ReactjsProgram
-- [awesome-github](https://github.com/AntBranch/awesome-github) - by AntBranch
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - by kakuilan
+- [awesome-github](https://github.com/AntBranch/awesome-github) - by AntBranch
 - [awesome-charting](https://github.com/zingchart/awesome-charting) - by zingchart
-- [dojo_rules](https://github.com/deadlyvipers/dojo_rules) - by deadlyvipers
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - by awesome-lists
+- [dojo_rules](https://github.com/deadlyvipers/dojo_rules) - by deadlyvipers
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - by ChromeDevTools
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - by easychen
 - [servo](https://github.com/servo/servo) - by servo
@@ -103,8 +103,8 @@
 - [android-architecture](https://github.com/googlesamples/android-architecture) - by googlesamples
 
 ### 2016-4
-- [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
 - [core-notes](https://github.com/reactjs/core-notes) - by reactjs
+- [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
 - [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
 - [test01](https://github.com/mortonNex/test01) - by mortonNex
 - [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - by markerikson
@@ -118,9 +118,9 @@
 - [HEAD](https://github.com/joshbuchea/HEAD) - by joshbuchea
 
 ### 2016-5
-- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
 - [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
 - [hosts](https://github.com/racaljk/hosts) - by racaljk
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
 - [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
@@ -221,3 +221,4 @@
 - [awesome-webpack](https://github.com/d3viant0ne/awesome-webpack) - by d3viant0ne
 - [CoreLink](https://github.com/lizhangqu/CoreLink) - by lizhangqu
 - [react-faq](https://github.com/timarney/react-faq) - by timarney
+- [data_location](https://github.com/mumuy/data_location) - by mumuy

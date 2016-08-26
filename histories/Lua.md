@@ -21,3 +21,7 @@
 
 ### 2016-7
 - [luaradio](https://github.com/vsergeev/luaradio) - by vsergeev
+
+### 2016-8
+- [deepmask](https://github.com/facebookresearch/deepmask) - by facebookresearch
+- [multipathnet](https://github.com/facebookresearch/multipathnet) - by facebookresearch
