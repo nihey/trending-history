@@ -37,14 +37,14 @@
 - [exxo](https://github.com/mbachry/exxo) - by mbachry
 - [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - by mshang
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - by prakhar1989
-- [scapy](https://github.com/secdev/scapy) - by secdev
 - [paperless](https://github.com/danielquinn/paperless) - by danielquinn
+- [scapy](https://github.com/secdev/scapy) - by secdev
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
-- [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
 - [json-sempai](https://github.com/kragniz/json-sempai) - by kragniz
 - [borg](https://github.com/borgbackup/borg) - by borgbackup
+- [classifier](https://github.com/bhrigu123/classifier) - by bhrigu123
 
 ### 2016-2
 - [Routerhunter-2.0](https://github.com/jh00nbr/Routerhunter-2.0) - by jh00nbr
@@ -60,8 +60,8 @@
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
-- [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
+- [paperwork](https://github.com/jflesch/paperwork) - by jflesch
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
@@ -78,9 +78,9 @@
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
-- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
+- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
@@ -96,13 +96,13 @@
 ### 2016-4
 - [caravel](https://github.com/airbnb/caravel) - by airbnb
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
-- [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
-- [bcc](https://github.com/iovisor/bcc) - by iovisor
+- [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
+- [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [tflearn](https://github.com/tflearn/tflearn) - by tflearn
-- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [you-get](https://github.com/soimort/you-get) - by soimort
+- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
@@ -112,8 +112,8 @@
 - [keras](https://github.com/fchollet/keras) - by fchollet
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
 - [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
-- [pycraft](https://github.com/traverseda/pycraft) - by traverseda
 - [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
+- [pycraft](https://github.com/traverseda/pycraft) - by traverseda
 - [dcos](https://github.com/dcos/dcos) - by dcos
 - [colornet](https://github.com/pavelgonchar/colornet) - by pavelgonchar
 - [enjarify](https://github.com/google/enjarify) - by google
@@ -136,16 +136,16 @@
 - [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
-- [deco](https://github.com/alex-sherman/deco) - by alex-sherman
 - [models](https://github.com/tensorflow/models) - by tensorflow
-- [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
+- [deco](https://github.com/alex-sherman/deco) - by alex-sherman
 - [certbot](https://github.com/certbot/certbot) - by certbot
+- [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
-- [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
+- [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
 - [bless](https://github.com/Netflix/bless) - by Netflix
 - [fizz-buzz-tensorflow](https://github.com/joelgrus/fizz-buzz-tensorflow) - by joelgrus
@@ -169,8 +169,8 @@
 - [beets](https://github.com/beetbox/beets) - by beetbox
 - [coconut](https://github.com/evhub/coconut) - by evhub
 - [Daily-Reddit-Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - by ssimunic
-- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
 - [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar
+- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
 - [netbox](https://github.com/digitalocean/netbox) - by digitalocean
 - [GraphDash](https://github.com/AmadeusITGroup/GraphDash) - by AmadeusITGroup
 
@@ -179,12 +179,12 @@
 - [shutit](https://github.com/ianmiell/shutit) - by ianmiell
 - [chalice](https://github.com/awslabs/chalice) - by awslabs
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
+- [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
-- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
-- [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
+- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
@@ -199,9 +199,9 @@
 - [digit-classifier](https://github.com/karandesai-96/digit-classifier) - by karandesai-96
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - by hanc00l
 - [keras-rl](https://github.com/matthiasplappert/keras-rl) - by matthiasplappert
+- [research](https://github.com/commaai/research) - by commaai
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
 - [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
-- [research](https://github.com/commaai/research) - by commaai
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
 - [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
 - [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - by PokemonGoMap
@@ -216,3 +216,5 @@
 - [fuzzer](https://github.com/shellphish/fuzzer) - by shellphish
 - [undebt](https://github.com/Yelp/undebt) - by Yelp
 - [open-lambda](https://github.com/open-lambda/open-lambda) - by open-lambda
+- [text-to-image](https://github.com/paarthneekhara/text-to-image) - by paarthneekhara
+- [freeline](https://github.com/alibaba/freeline) - by alibaba
