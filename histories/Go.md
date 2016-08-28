@@ -152,3 +152,4 @@
 - [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
 - [workq](https://github.com/iamduo/workq) - by iamduo
 - [mylg](https://github.com/mehrdadrad/mylg) - by mehrdadrad
+- [noti](https://github.com/variadico/noti) - by variadico

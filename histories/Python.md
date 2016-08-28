@@ -100,9 +100,9 @@
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
 - [bcc](https://github.com/iovisor/bcc) - by iovisor
+- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [tflearn](https://github.com/tflearn/tflearn) - by tflearn
 - [you-get](https://github.com/soimort/you-get) - by soimort
-- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
@@ -130,16 +130,16 @@
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
-- [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
+- [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
-- [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
+- [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
-- [certbot](https://github.com/certbot/certbot) - by certbot
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
+- [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
@@ -153,8 +153,8 @@
 
 ### 2016-6
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
-- [streisand](https://github.com/jlund/streisand) - by jlund
 - [magenta](https://github.com/tensorflow/magenta) - by tensorflow
+- [streisand](https://github.com/jlund/streisand) - by jlund
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
 - [ansible-container](https://github.com/ansible/ansible-container) - by ansible
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
@@ -169,8 +169,8 @@
 - [beets](https://github.com/beetbox/beets) - by beetbox
 - [coconut](https://github.com/evhub/coconut) - by evhub
 - [Daily-Reddit-Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - by ssimunic
-- [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar
 - [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
+- [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar
 - [netbox](https://github.com/digitalocean/netbox) - by digitalocean
 - [GraphDash](https://github.com/AmadeusITGroup/GraphDash) - by AmadeusITGroup
 
@@ -180,11 +180,11 @@
 - [chalice](https://github.com/awslabs/chalice) - by awslabs
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
 - [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
+- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
-- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
@@ -199,9 +199,9 @@
 - [digit-classifier](https://github.com/karandesai-96/digit-classifier) - by karandesai-96
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - by hanc00l
 - [keras-rl](https://github.com/matthiasplappert/keras-rl) - by matthiasplappert
-- [research](https://github.com/commaai/research) - by commaai
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
 - [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
+- [research](https://github.com/commaai/research) - by commaai
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
 - [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
 - [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - by PokemonGoMap
@@ -218,3 +218,5 @@
 - [open-lambda](https://github.com/open-lambda/open-lambda) - by open-lambda
 - [text-to-image](https://github.com/paarthneekhara/text-to-image) - by paarthneekhara
 - [freeline](https://github.com/alibaba/freeline) - by alibaba
+- [ntfy](https://github.com/dschep/ntfy) - by dschep
+- [srez](https://github.com/david-gpu/srez) - by david-gpu
