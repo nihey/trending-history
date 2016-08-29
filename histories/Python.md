@@ -119,15 +119,15 @@
 - [enjarify](https://github.com/google/enjarify) - by google
 - [elastalert](https://github.com/Yelp/elastalert) - by Yelp
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
-- [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
+- [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [gym](https://github.com/openai/gym) - by openai
 
 ### 2016-5
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - by teachthenet
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
-- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
+- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
@@ -142,10 +142,10 @@
 - [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
-- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
-- [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
+- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
+- [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
 - [bless](https://github.com/Netflix/bless) - by Netflix
 - [fizz-buzz-tensorflow](https://github.com/joelgrus/fizz-buzz-tensorflow) - by joelgrus
@@ -183,8 +183,8 @@
 - [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
@@ -199,9 +199,9 @@
 - [digit-classifier](https://github.com/karandesai-96/digit-classifier) - by karandesai-96
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - by hanc00l
 - [keras-rl](https://github.com/matthiasplappert/keras-rl) - by matthiasplappert
-- [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
-- [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
 - [research](https://github.com/commaai/research) - by commaai
+- [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
+- [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
 - [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
 - [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - by PokemonGoMap
@@ -220,3 +220,5 @@
 - [freeline](https://github.com/alibaba/freeline) - by alibaba
 - [ntfy](https://github.com/dschep/ntfy) - by dschep
 - [srez](https://github.com/david-gpu/srez) - by david-gpu
+- [apartment-finder](https://github.com/VikParuchuri/apartment-finder) - by VikParuchuri
+- [http-observatory](https://github.com/mozilla/http-observatory) - by mozilla
