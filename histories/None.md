@@ -103,10 +103,10 @@
 - [android-architecture](https://github.com/googlesamples/android-architecture) - by googlesamples
 
 ### 2016-4
-- [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
 - [core-notes](https://github.com/reactjs/core-notes) - by reactjs
-- [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
+- [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
 - [test01](https://github.com/mortonNex/test01) - by mortonNex
+- [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
 - [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - by markerikson
 - [panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - by amaboura
 - [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - by shutterstock
@@ -118,18 +118,18 @@
 - [HEAD](https://github.com/joshbuchea/HEAD) - by joshbuchea
 
 ### 2016-5
-- [hosts](https://github.com/racaljk/hosts) - by racaljk
-- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
 - [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
+- [hosts](https://github.com/racaljk/hosts) - by racaljk
 - [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
-- [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
+- [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - by giantray
 - [membership.db](https://github.com/membership/membership.db) - by membership
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - by dbohdan
-- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - by jobbole
 - [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - by LittleFriendsGroup
+- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - by jobbole
 - [tesla-features](https://github.com/sahin/tesla-features) - by sahin
 - [post-mortems](https://github.com/danluu/post-mortems) - by danluu
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - by jobbole
@@ -147,10 +147,10 @@
 - [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - by vic317yeh
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - by terryum
 - [one-python](https://github.com/geekan/one-python) - by geekan
-- [maruos](https://github.com/maruos/maruos) - by maruos
 - [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
-- [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
+- [maruos](https://github.com/maruos/maruos) - by maruos
 - [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
+- [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
 - [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony
 - [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
 - [UI](https://github.com/iOS10-KIT/UI) - by iOS10-KIT
@@ -158,8 +158,8 @@
 - [LearningNotes](https://github.com/GeniusVJR/LearningNotes) - by GeniusVJR
 - [AndroidInterview](https://github.com/fanrunqi/AndroidInterview) - by fanrunqi
 - [swift-style-guide](https://github.com/linkedin/swift-style-guide) - by linkedin
-- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - by herrbischoff
 - [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
+- [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - by herrbischoff
 - [data-science](https://github.com/open-source-society/data-science) - by open-source-society
 - [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
 - [core](https://github.com/dotnet/core) - by dotnet
@@ -185,8 +185,8 @@
 - [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - by FallibleInc
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - by jaywcjlove
 - [FontZip](https://github.com/forJrking/FontZip) - by forJrking
-- [notation](https://github.com/hypotext/notation) - by hypotext
 - [wire](https://github.com/wireapp/wire) - by wireapp
+- [notation](https://github.com/hypotext/notation) - by hypotext
 - [mms](https://github.com/struct/mms) - by struct
 - [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - by Droogans
 - [TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) - by Xyl2k
@@ -195,9 +195,9 @@
 ### 2016-8
 - [awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - by jobbole
 - [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
-- [lxss](https://github.com/ionescu007/lxss) - by ionescu007
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
+- [lxss](https://github.com/ionescu007/lxss) - by ionescu007
 - [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - by a0viedo
 - [Awesome-Ubuntu-Linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux) - by VoLuong
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - by aymericdamien
@@ -208,8 +208,8 @@
 - [NecroBot](https://github.com/NECROBOTIO/NecroBot) - by NECROBOTIO
 - [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) - by ZQiang94
 - [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - by fuchsia-mirror
-- [zfs-ha](https://github.com/ewwhite/zfs-ha) - by ewwhite
 - [tech](https://github.com/hedengcheng/tech) - by hedengcheng
+- [zfs-ha](https://github.com/ewwhite/zfs-ha) - by ewwhite
 - [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - by pstadler
 - [maintainers-wanted](https://github.com/pickhardt/maintainers-wanted) - by pickhardt
 - [presentations](https://github.com/raganwald/presentations) - by raganwald
@@ -224,3 +224,5 @@
 - [data_location](https://github.com/mumuy/data_location) - by mumuy
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - by mzlogin
 - [android-guidelines](https://github.com/bufferapp/android-guidelines) - by bufferapp
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) - by brillout
+- [node-playbook](https://github.com/HiFaraz/node-playbook) - by HiFaraz
