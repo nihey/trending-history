@@ -31,8 +31,8 @@
 ### 2016-3
 - [system-bus-radio](https://github.com/fulldecent/system-bus-radio) - by fulldecent
 - [rappel](https://github.com/yrp604/rappel) - by yrp604
-- [luna](https://github.com/tj/luna) - by tj
 - [emojicode](https://github.com/emojicode/emojicode) - by emojicode
+- [luna](https://github.com/tj/luna) - by tj
 - [jo](https://github.com/jpmens/jo) - by jpmens
 - [tcpkali](https://github.com/machinezone/tcpkali) - by machinezone
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
@@ -43,10 +43,10 @@
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [citus](https://github.com/citusdata/citus) - by citusdata
-- [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [xhyve](https://github.com/mist64/xhyve) - by mist64
-- [netdata](https://github.com/firehol/netdata) - by firehol
+- [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [lwan](https://github.com/lpereira/lwan) - by lpereira
+- [netdata](https://github.com/firehol/netdata) - by firehol
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - by edent
 
 ### 2016-4
@@ -60,8 +60,8 @@
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - by bartobri
 
 ### 2016-5
-- [wren](https://github.com/munificent/wren) - by munificent
 - [magma](https://github.com/lavabit/magma) - by lavabit
+- [wren](https://github.com/munificent/wren) - by munificent
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
 - [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
@@ -107,3 +107,4 @@
 - [pigz](https://github.com/madler/pigz) - by madler
 - [libraries](https://github.com/gozfree/libraries) - by gozfree
 - [grpc](https://github.com/grpc/grpc) - by grpc
+- [linux](https://github.com/torvalds/linux) - by torvalds

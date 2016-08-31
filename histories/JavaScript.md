@@ -508,3 +508,4 @@
 - [in-view](https://github.com/camwiegert/in-view) - by camwiegert
 - [electron-chrome](https://github.com/koush/electron-chrome) - by koush
 - [redom](https://github.com/pakastin/redom) - by pakastin
+- [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) - by bodil

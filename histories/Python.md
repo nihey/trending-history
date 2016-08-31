@@ -188,8 +188,8 @@
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
-- [riko](https://github.com/nerevu/riko) - by nerevu
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
+- [riko](https://github.com/nerevu/riko) - by nerevu
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere
 - [Pokemon-Go-Bot-Working-Hack-API](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - by TomTheBotter
 - [DeepHeart](https://github.com/jisaacso/DeepHeart) - by jisaacso
@@ -200,8 +200,8 @@
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - by hanc00l
 - [keras-rl](https://github.com/matthiasplappert/keras-rl) - by matthiasplappert
 - [research](https://github.com/commaai/research) - by commaai
-- [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
+- [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
 - [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
 - [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - by PokemonGoMap
@@ -222,3 +222,4 @@
 - [srez](https://github.com/david-gpu/srez) - by david-gpu
 - [apartment-finder](https://github.com/VikParuchuri/apartment-finder) - by VikParuchuri
 - [http-observatory](https://github.com/mozilla/http-observatory) - by mozilla
+- [doc2text](https://github.com/jlsutherland/doc2text) - by jlsutherland

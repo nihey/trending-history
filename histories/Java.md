@@ -367,3 +367,5 @@
 - [StyleImageView](https://github.com/chengdazhi/StyleImageView) - by chengdazhi
 - [jjdxm_ijkplayer](https://github.com/jjdxmashl/jjdxm_ijkplayer) - by jjdxmashl
 - [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) - by elye
+- [Particle](https://github.com/JeasonWong/Particle) - by JeasonWong
+- [plaid](https://github.com/nickbutcher/plaid) - by nickbutcher

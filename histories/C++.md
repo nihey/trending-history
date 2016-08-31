@@ -39,12 +39,12 @@
 - [rr](https://github.com/mozilla/rr) - by mozilla
 - [xcbuild](https://github.com/facebook/xcbuild) - by facebook
 - [mame](https://github.com/mamedev/mame) - by mamedev
+- [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - by Croteam-official
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
 - [electron](https://github.com/atom/electron) - by atom
-- [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - by Croteam-official
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
-- [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
+- [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
 - [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
 - [feather](https://github.com/wesm/feather) - by wesm
@@ -102,3 +102,5 @@
 - [fastText](https://github.com/facebookresearch/fastText) - by facebookresearch
 - [thor-os](https://github.com/wichtounet/thor-os) - by wichtounet
 - [NNplusplus](https://github.com/stagadish/NNplusplus) - by stagadish
+- [Paddle](https://github.com/baidu/Paddle) - by baidu
+- [phxsql](https://github.com/tencent-wechat/phxsql) - by tencent-wechat

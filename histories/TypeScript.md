@@ -25,3 +25,6 @@
 
 ### 2016-7
 - [jupyterlab](https://github.com/jupyter/jupyterlab) - by jupyter
+
+### 2016-8
+- [maquette](https://github.com/AFASSoftware/maquette) - by AFASSoftware
