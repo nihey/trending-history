@@ -76,3 +76,6 @@
 - [Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) - by wg689
 - [santa](https://github.com/google/santa) - by google
 - [ChatKit-OC](https://github.com/leancloud/ChatKit-OC) - by leancloud
+
+### 2016-9
+- [iOS-Echarts](https://github.com/Pluto-Y/iOS-Echarts) - by Pluto-Y

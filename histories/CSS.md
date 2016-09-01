@@ -68,3 +68,6 @@
 - [blog](https://github.com/snehesht/blog) - by snehesht
 - [kissui.scrollanim](https://github.com/usablica/kissui.scrollanim) - by usablica
 - [mobi.css](https://github.com/xcatliu/mobi.css) - by xcatliu
+
+### 2016-9
+- [HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - by delight-im
