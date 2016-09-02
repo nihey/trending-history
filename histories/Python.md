@@ -181,15 +181,15 @@
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
 - [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
 - [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
-- [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
+- [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
-- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
 - [riko](https://github.com/nerevu/riko) - by nerevu
+- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere
 - [Pokemon-Go-Bot-Working-Hack-API](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - by TomTheBotter
 - [DeepHeart](https://github.com/jisaacso/DeepHeart) - by jisaacso
@@ -223,3 +223,6 @@
 - [apartment-finder](https://github.com/VikParuchuri/apartment-finder) - by VikParuchuri
 - [http-observatory](https://github.com/mozilla/http-observatory) - by mozilla
 - [doc2text](https://github.com/jlsutherland/doc2text) - by jlsutherland
+
+### 2016-9
+- [stitch](https://github.com/pystitch/stitch) - by pystitch

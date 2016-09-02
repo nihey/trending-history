@@ -151,19 +151,19 @@
 - [maruos](https://github.com/maruos/maruos) - by maruos
 - [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
 - [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
-- [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony
 - [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
+- [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony
 - [UI](https://github.com/iOS10-KIT/UI) - by iOS10-KIT
 - [gitalias](https://github.com/GitAlias/gitalias) - by GitAlias
 - [LearningNotes](https://github.com/GeniusVJR/LearningNotes) - by GeniusVJR
 - [AndroidInterview](https://github.com/fanrunqi/AndroidInterview) - by fanrunqi
 - [swift-style-guide](https://github.com/linkedin/swift-style-guide) - by linkedin
-- [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - by herrbischoff
+- [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
 - [data-science](https://github.com/open-source-society/data-science) - by open-source-society
-- [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
 - [core](https://github.com/dotnet/core) - by dotnet
 - [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
+- [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
 
 ### 2016-7
 - [forget-the-king](https://github.com/usgov/forget-the-king) - by usgov
@@ -179,14 +179,14 @@
 - [awesome-java](https://github.com/akullpp/awesome-java) - by akullpp
 - [awesome-hyperterm](https://github.com/bnb/awesome-hyperterm) - by bnb
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - by Microsoft
-- [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - by sjchoi86
-- [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - by acdlite
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
 - [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - by FallibleInc
+- [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - by sjchoi86
+- [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - by acdlite
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - by jaywcjlove
 - [FontZip](https://github.com/forJrking/FontZip) - by forJrking
-- [wire](https://github.com/wireapp/wire) - by wireapp
 - [notation](https://github.com/hypotext/notation) - by hypotext
+- [wire](https://github.com/wireapp/wire) - by wireapp
 - [mms](https://github.com/struct/mms) - by struct
 - [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - by Droogans
 - [TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) - by Xyl2k
@@ -195,30 +195,30 @@
 ### 2016-8
 - [awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - by jobbole
 - [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
-- [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
 - [lxss](https://github.com/ionescu007/lxss) - by ionescu007
+- [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - by a0viedo
 - [Awesome-Ubuntu-Linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux) - by VoLuong
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - by aymericdamien
 - [react-functional-css-protips](https://github.com/chibicode/react-functional-css-protips) - by chibicode
 - [Awesome-Linux-Softwares](https://github.com/VoLuong/Awesome-Linux-Softwares) - by VoLuong
+- [NecroBot](https://github.com/NECROBOTIO/NecroBot) - by NECROBOTIO
 - [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - by VoLuong
 - [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - by mrjoelkemp
-- [NecroBot](https://github.com/NECROBOTIO/NecroBot) - by NECROBOTIO
-- [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) - by ZQiang94
 - [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - by fuchsia-mirror
-- [tech](https://github.com/hedengcheng/tech) - by hedengcheng
+- [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) - by ZQiang94
 - [zfs-ha](https://github.com/ewwhite/zfs-ha) - by ewwhite
-- [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - by pstadler
+- [tech](https://github.com/hedengcheng/tech) - by hedengcheng
 - [maintainers-wanted](https://github.com/pickhardt/maintainers-wanted) - by pickhardt
+- [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - by pstadler
 - [presentations](https://github.com/raganwald/presentations) - by raganwald
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons) - by danklammer
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
 - [Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) - by Jermic
 - [potaka](https://github.com/ikrum/potaka) - by ikrum
-- [LogicAndCodingGames](https://github.com/dargaCode/LogicAndCodingGames) - by dargaCode
 - [awesome-webpack](https://github.com/d3viant0ne/awesome-webpack) - by d3viant0ne
+- [LogicAndCodingGames](https://github.com/dargaCode/LogicAndCodingGames) - by dargaCode
 - [CoreLink](https://github.com/lizhangqu/CoreLink) - by lizhangqu
 - [react-faq](https://github.com/timarney/react-faq) - by timarney
 - [data_location](https://github.com/mumuy/data_location) - by mumuy
@@ -226,3 +226,6 @@
 - [android-guidelines](https://github.com/bufferapp/android-guidelines) - by bufferapp
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - by brillout
 - [node-playbook](https://github.com/HiFaraz/node-playbook) - by HiFaraz
+
+### 2016-9
+- [gold-miner](https://github.com/xitu/gold-miner) - by xitu
