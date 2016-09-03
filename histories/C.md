@@ -60,8 +60,8 @@
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - by bartobri
 
 ### 2016-5
-- [magma](https://github.com/lavabit/magma) - by lavabit
 - [wren](https://github.com/munificent/wren) - by munificent
+- [magma](https://github.com/lavabit/magma) - by lavabit
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
 - [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
@@ -111,3 +111,4 @@
 
 ### 2016-9
 - [zstd](https://github.com/facebook/zstd) - by facebook
+- [camel](https://github.com/leonindy/camel) - by leonindy

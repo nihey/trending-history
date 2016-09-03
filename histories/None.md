@@ -57,9 +57,9 @@
 - [babel-handbook](https://github.com/thejameskyle/babel-handbook) - by thejameskyle
 - [git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - by mathieudutour
 - [internals](https://github.com/rabbitmq/internals) - by rabbitmq
+- [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
 - [clmystery](https://github.com/veltman/clmystery) - by veltman
 - [awesome-wechat-dev-posts-2015](https://github.com/jobbole/awesome-wechat-dev-posts-2015) - by jobbole
-- [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - by aisuhua
 - [ParseAlternatives](https://github.com/relatedcode/ParseAlternatives) - by relatedcode
 
 ### 2016-2
@@ -88,10 +88,10 @@
 - [dojo_rules](https://github.com/deadlyvipers/dojo_rules) - by deadlyvipers
 - [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - by ChromeDevTools
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - by easychen
-- [of-release](https://github.com/open-falcon/of-release) - by open-falcon
 - [servo](https://github.com/servo/servo) - by servo
-- [macaca](https://github.com/alibaba/macaca) - by alibaba
+- [of-release](https://github.com/open-falcon/of-release) - by open-falcon
 - [awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - by jiang111
+- [macaca](https://github.com/alibaba/macaca) - by alibaba
 - [gitignore](https://github.com/github/gitignore) - by github
 - [public-apis](https://github.com/toddmotto/public-apis) - by toddmotto
 - [ipfs](https://github.com/ipfs/ipfs) - by ipfs
@@ -119,8 +119,8 @@
 
 ### 2016-5
 - [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
-- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
 - [hosts](https://github.com/racaljk/hosts) - by racaljk
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
 - [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
@@ -149,10 +149,10 @@
 - [one-python](https://github.com/geekan/one-python) - by geekan
 - [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
 - [maruos](https://github.com/maruos/maruos) - by maruos
-- [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
 - [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
-- [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
+- [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
 - [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony
+- [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
 - [UI](https://github.com/iOS10-KIT/UI) - by iOS10-KIT
 - [gitalias](https://github.com/GitAlias/gitalias) - by GitAlias
 - [LearningNotes](https://github.com/GeniusVJR/LearningNotes) - by GeniusVJR
@@ -161,9 +161,9 @@
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - by herrbischoff
 - [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
 - [data-science](https://github.com/open-source-society/data-science) - by open-source-society
-- [core](https://github.com/dotnet/core) - by dotnet
-- [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
 - [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
+- [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
+- [core](https://github.com/dotnet/core) - by dotnet
 
 ### 2016-7
 - [forget-the-king](https://github.com/usgov/forget-the-king) - by usgov
@@ -196,8 +196,8 @@
 - [awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - by jobbole
 - [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
 - [lxss](https://github.com/ionescu007/lxss) - by ionescu007
-- [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
+- [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
 - [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - by a0viedo
 - [Awesome-Ubuntu-Linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux) - by VoLuong
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - by aymericdamien
@@ -229,3 +229,4 @@
 
 ### 2016-9
 - [gold-miner](https://github.com/xitu/gold-miner) - by xitu
+- [awesome-ddd](https://github.com/heynickc/awesome-ddd) - by heynickc

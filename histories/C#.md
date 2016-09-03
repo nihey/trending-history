@@ -45,3 +45,6 @@
 - [NecroBot](https://github.com/NoxxDev/NecroBot) - by NoxxDev
 - [PowerShell](https://github.com/PowerShell/PowerShell) - by PowerShell
 - [UWPCommunityToolkit](https://github.com/Microsoft/UWPCommunityToolkit) - by Microsoft
+
+### 2016-9
+- [Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) - by Nummer
