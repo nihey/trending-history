@@ -104,3 +104,6 @@
 - [NNplusplus](https://github.com/stagadish/NNplusplus) - by stagadish
 - [Paddle](https://github.com/baidu/Paddle) - by baidu
 - [phxsql](https://github.com/tencent-wechat/phxsql) - by tencent-wechat
+
+### 2016-9
+- [fast_rgf](https://github.com/baidu/fast_rgf) - by baidu

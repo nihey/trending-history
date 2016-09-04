@@ -72,8 +72,8 @@
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
 - [echo](https://github.com/labstack/echo) - by labstack
-- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
+- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -81,14 +81,14 @@
 - [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole
 - [binctr](https://github.com/jfrazelle/binctr) - by jfrazelle
 - [micro](https://github.com/zyedidia/micro) - by zyedidia
-- [gobgp](https://github.com/osrg/gobgp) - by osrg
 - [find](https://github.com/schollz/find) - by schollz
+- [gobgp](https://github.com/osrg/gobgp) - by osrg
 - [passgo](https://github.com/ejcx/passgo) - by ejcx
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [kit](https://github.com/go-kit/kit) - by go-kit
 - [gollum](https://github.com/trivago/gollum) - by trivago
+- [kit](https://github.com/go-kit/kit) - by go-kit
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -99,8 +99,8 @@
 - [rack](https://github.com/convox/rack) - by convox
 - [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
-- [leveros](https://github.com/leveros/leveros) - by leveros
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
+- [leveros](https://github.com/leveros/leveros) - by leveros
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
@@ -129,8 +129,8 @@
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
-- [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
+- [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [shadowd](https://github.com/reconquest/shadowd) - by reconquest
 
 ### 2016-8
@@ -157,3 +157,4 @@
 
 ### 2016-9
 - [rclone](https://github.com/ncw/rclone) - by ncw
+- [go-patterns](https://github.com/tmrts/go-patterns) - by tmrts
