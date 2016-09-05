@@ -41,6 +41,7 @@ updated.
   - [HTML](https://github.com/nihey/trending-history/blob/master/histories/HTML.md)
   - [Hack](https://github.com/nihey/trending-history/blob/master/histories/Hack.md)
   - [Haskell](https://github.com/nihey/trending-history/blob/master/histories/Haskell.md)
+  - [Haxe](https://github.com/nihey/trending-history/blob/master/histories/Haxe.md)
   - [Java](https://github.com/nihey/trending-history/blob/master/histories/Java.md)
   - [JavaScript](https://github.com/nihey/trending-history/blob/master/histories/JavaScript.md)
   - [Jupyter Notebook](https://github.com/nihey/trending-history/blob/master/histories/Jupyter Notebook.md)

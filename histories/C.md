@@ -112,3 +112,4 @@
 ### 2016-9
 - [zstd](https://github.com/facebook/zstd) - by facebook
 - [camel](https://github.com/leonindy/camel) - by leonindy
+- [skypeopensource2](https://github.com/skypeopensource/skypeopensource2) - by skypeopensource
