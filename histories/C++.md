@@ -26,9 +26,9 @@
 - [zig](https://github.com/andrewrk/zig) - by andrewrk
 - [ion](https://github.com/google/ion) - by google
 - [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
+- [serving](https://github.com/tensorflow/serving) - by tensorflow
 - [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
-- [serving](https://github.com/tensorflow/serving) - by tensorflow
 - [node-lws](https://github.com/alexhultman/node-lws) - by alexhultman
 - [realm-js](https://github.com/realm/realm-js) - by realm
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - by yahoo
@@ -43,8 +43,8 @@
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
 - [electron](https://github.com/atom/electron) - by atom
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
-- [rhine](https://github.com/artagnon/rhine) - by artagnon
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
+- [rhine](https://github.com/artagnon/rhine) - by artagnon
 - [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
 - [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
 - [feather](https://github.com/wesm/feather) - by wesm
@@ -82,8 +82,8 @@
 - [ClickHouse](https://github.com/yandex/ClickHouse) - by yandex
 - [persistent-rnn](https://github.com/baidu-research/persistent-rnn) - by baidu-research
 - [phxpaxos](https://github.com/tencent-wechat/phxpaxos) - by tencent-wechat
-- [tiny-cnn](https://github.com/nyanp/tiny-cnn) - by nyanp
 - [Natron](https://github.com/MrKepzie/Natron) - by MrKepzie
+- [tiny-cnn](https://github.com/nyanp/tiny-cnn) - by nyanp
 
 ### 2016-7
 - [mlpack](https://github.com/mlpack/mlpack) - by mlpack
@@ -107,3 +107,4 @@
 
 ### 2016-9
 - [fast_rgf](https://github.com/baidu/fast_rgf) - by baidu
+- [NativeJIT](https://github.com/BitFunnel/NativeJIT) - by BitFunnel

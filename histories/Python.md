@@ -226,3 +226,4 @@
 
 ### 2016-9
 - [stitch](https://github.com/pystitch/stitch) - by pystitch
+- [qrcode](https://github.com/sylnsfar/qrcode) - by sylnsfar
