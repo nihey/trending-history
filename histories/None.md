@@ -103,10 +103,10 @@
 - [android-architecture](https://github.com/googlesamples/android-architecture) - by googlesamples
 
 ### 2016-4
-- [core-notes](https://github.com/reactjs/core-notes) - by reactjs
 - [distsys-class](https://github.com/aphyr/distsys-class) - by aphyr
-- [test01](https://github.com/mortonNex/test01) - by mortonNex
+- [core-notes](https://github.com/reactjs/core-notes) - by reactjs
 - [wangyijun](https://github.com/mortonNex/wangyijun) - by mortonNex
+- [test01](https://github.com/mortonNex/test01) - by mortonNex
 - [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - by markerikson
 - [panama-papers-dataset-2016](https://github.com/amaboura/panama-papers-dataset-2016) - by amaboura
 - [List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - by shutterstock
@@ -121,10 +121,10 @@
 - [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
 - [hosts](https://github.com/racaljk/hosts) - by racaljk
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
-- [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
-- [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
+- [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
 - [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
+- [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - by giantray
 - [membership.db](https://github.com/membership/membership.db) - by membership
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - by dbohdan
@@ -138,8 +138,8 @@
 - [androidstudio-plugins](https://github.com/dreamlivemeng/androidstudio-plugins) - by dreamlivemeng
 - [what-happens-when](https://github.com/alex/what-happens-when) - by alex
 - [opengov](https://github.com/seoul-opengov/opengov) - by seoul-opengov
-- [awesome-ng2](https://github.com/gf-rd/awesome-ng2) - by gf-rd
 - [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - by jdsutton
+- [awesome-ng2](https://github.com/gf-rd/awesome-ng2) - by gf-rd
 - [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) - by veficos
 - [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - by hemanth
 
@@ -151,8 +151,8 @@
 - [maruos](https://github.com/maruos/maruos) - by maruos
 - [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
 - [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
-- [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony
 - [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
+- [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony
 - [UI](https://github.com/iOS10-KIT/UI) - by iOS10-KIT
 - [gitalias](https://github.com/GitAlias/gitalias) - by GitAlias
 - [LearningNotes](https://github.com/GeniusVJR/LearningNotes) - by GeniusVJR
@@ -161,9 +161,9 @@
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - by herrbischoff
 - [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
 - [data-science](https://github.com/open-source-society/data-science) - by open-source-society
-- [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
-- [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
 - [core](https://github.com/dotnet/core) - by dotnet
+- [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
+- [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
 
 ### 2016-7
 - [forget-the-king](https://github.com/usgov/forget-the-king) - by usgov
@@ -179,14 +179,14 @@
 - [awesome-java](https://github.com/akullpp/awesome-java) - by akullpp
 - [awesome-hyperterm](https://github.com/bnb/awesome-hyperterm) - by bnb
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - by Microsoft
-- [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
-- [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - by FallibleInc
-- [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - by sjchoi86
 - [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - by acdlite
+- [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
+- [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - by sjchoi86
+- [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - by FallibleInc
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - by jaywcjlove
 - [FontZip](https://github.com/forJrking/FontZip) - by forJrking
-- [wire](https://github.com/wireapp/wire) - by wireapp
 - [notation](https://github.com/hypotext/notation) - by hypotext
+- [wire](https://github.com/wireapp/wire) - by wireapp
 - [mms](https://github.com/struct/mms) - by struct
 - [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - by Droogans
 - [TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) - by Xyl2k
@@ -194,12 +194,12 @@
 
 ### 2016-8
 - [awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - by jobbole
+- [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
 - [lxss](https://github.com/ionescu007/lxss) - by ionescu007
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
-- [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
-- [Awesome-Ubuntu-Linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux) - by VoLuong
 - [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - by a0viedo
+- [Awesome-Ubuntu-Linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux) - by VoLuong
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - by aymericdamien
 - [react-functional-css-protips](https://github.com/chibicode/react-functional-css-protips) - by chibicode
 - [Awesome-Linux-Softwares](https://github.com/VoLuong/Awesome-Linux-Softwares) - by VoLuong
@@ -231,3 +231,4 @@
 - [gold-miner](https://github.com/xitu/gold-miner) - by xitu
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd) - by heynickc
 - [goviz-frameworks](https://github.com/groob/goviz-frameworks) - by groob
+- [speakers-who-want-a-platform](https://github.com/iheanyi/speakers-who-want-a-platform) - by iheanyi
