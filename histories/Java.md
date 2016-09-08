@@ -388,3 +388,4 @@
 - [confetti](https://github.com/jinatonic/confetti) - by jinatonic
 - [ScrollingBackgroundView](https://github.com/noties/ScrollingBackgroundView) - by noties
 - [ToyRoom](https://github.com/eleme/ToyRoom) - by eleme
+- [Recovery](https://github.com/Sunzxyong/Recovery) - by Sunzxyong
