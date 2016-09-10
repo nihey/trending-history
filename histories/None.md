@@ -222,8 +222,8 @@
 - [CoreLink](https://github.com/lizhangqu/CoreLink) - by lizhangqu
 - [react-faq](https://github.com/timarney/react-faq) - by timarney
 - [data_location](https://github.com/mumuy/data_location) - by mumuy
-- [android-guidelines](https://github.com/bufferapp/android-guidelines) - by bufferapp
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - by mzlogin
+- [android-guidelines](https://github.com/bufferapp/android-guidelines) - by bufferapp
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - by brillout
 - [node-playbook](https://github.com/HiFaraz/node-playbook) - by HiFaraz
 
@@ -235,3 +235,4 @@
 - [awesome-design](https://github.com/gztchan/awesome-design) - by gztchan
 - [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - by adamsitnik
 - [elixirconf-2016](https://github.com/poteto/elixirconf-2016) - by poteto
+- [awesome-cmake](https://github.com/onqtam/awesome-cmake) - by onqtam

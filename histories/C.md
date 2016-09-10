@@ -43,10 +43,10 @@
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [citus](https://github.com/citusdata/citus) - by citusdata
-- [xhyve](https://github.com/mist64/xhyve) - by mist64
 - [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
-- [lwan](https://github.com/lpereira/lwan) - by lpereira
+- [xhyve](https://github.com/mist64/xhyve) - by mist64
 - [netdata](https://github.com/firehol/netdata) - by firehol
+- [lwan](https://github.com/lpereira/lwan) - by lpereira
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - by edent
 
 ### 2016-4
@@ -113,3 +113,4 @@
 - [zstd](https://github.com/facebook/zstd) - by facebook
 - [camel](https://github.com/leonindy/camel) - by leonindy
 - [skypeopensource2](https://github.com/skypeopensource/skypeopensource2) - by skypeopensource
+- [delta](https://github.com/byteam/delta) - by byteam
