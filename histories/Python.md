@@ -14,8 +14,8 @@
 - [aws-shell](https://github.com/awslabs/aws-shell) - by awslabs
 - [codeface](https://github.com/chrissimpkins/codeface) - by chrissimpkins
 - [ispy](https://github.com/dellis23/ispy) - by dellis23
-- [see](https://github.com/F-Secure/see) - by F-Secure
 - [lektor](https://github.com/lektor/lektor) - by lektor
+- [see](https://github.com/F-Secure/see) - by F-Secure
 - [tqdm](https://github.com/tqdm/tqdm) - by tqdm
 - [folium](https://github.com/python-visualization/folium) - by python-visualization
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - by marshmallow-code
@@ -37,8 +37,8 @@
 - [exxo](https://github.com/mbachry/exxo) - by mbachry
 - [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge) - by mshang
 - [docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - by prakhar1989
-- [paperless](https://github.com/danielquinn/paperless) - by danielquinn
 - [scapy](https://github.com/secdev/scapy) - by secdev
+- [paperless](https://github.com/danielquinn/paperless) - by danielquinn
 - [FIR](https://github.com/certsocietegenerale/FIR) - by certsocietegenerale
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - by samshadwell
 - [asyncssh](https://github.com/ronf/asyncssh) - by ronf
@@ -62,8 +62,8 @@
 - [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
 - [paperwork](https://github.com/jflesch/paperwork) - by jflesch
-- [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
+- [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
 - [sidomo](https://github.com/deepgram/sidomo) - by deepgram
 - [gdom](https://github.com/syrusakbary/gdom) - by syrusakbary
@@ -78,15 +78,15 @@
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
+- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
 - [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
-- [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
-- [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
 - [dplython](https://github.com/dodger487/dplython) - by dodger487
+- [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
 - [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [quantum](https://github.com/karldray/quantum) - by karldray
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
@@ -94,17 +94,17 @@
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
 
 ### 2016-4
-- [caravel](https://github.com/airbnb/caravel) - by airbnb
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
-- [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
+- [caravel](https://github.com/airbnb/caravel) - by airbnb
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
+- [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
 - [bcc](https://github.com/iovisor/bcc) - by iovisor
-- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [tflearn](https://github.com/tflearn/tflearn) - by tflearn
+- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [you-get](https://github.com/soimort/you-get) - by soimort
-- [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
+- [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
 - [voltron](https://github.com/snare/voltron) - by snare
@@ -119,8 +119,8 @@
 - [enjarify](https://github.com/google/enjarify) - by google
 - [elastalert](https://github.com/Yelp/elastalert) - by Yelp
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
-- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
 - [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
+- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
 - [gym](https://github.com/openai/gym) - by openai
 
 ### 2016-5
@@ -133,11 +133,11 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
-- [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
 - [gitsome](https://github.com/donnemartin/gitsome) - by donnemartin
+- [deep-anpr](https://github.com/matthewearl/deep-anpr) - by matthewearl
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
-- [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
+- [models](https://github.com/tensorflow/models) - by tensorflow
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
 - [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
@@ -153,8 +153,8 @@
 
 ### 2016-6
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
-- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [streisand](https://github.com/jlund/streisand) - by jlund
+- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
 - [ansible-container](https://github.com/ansible/ansible-container) - by ansible
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
@@ -179,12 +179,12 @@
 - [shutit](https://github.com/ianmiell/shutit) - by ianmiell
 - [chalice](https://github.com/awslabs/chalice) - by awslabs
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
 - [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
+- [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
-- [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
@@ -227,3 +227,5 @@
 ### 2016-9
 - [stitch](https://github.com/pystitch/stitch) - by pystitch
 - [qrcode](https://github.com/sylnsfar/qrcode) - by sylnsfar
+- [NakedTensor](https://github.com/jostmey/NakedTensor) - by jostmey
+- [awesome-python](https://github.com/vinta/awesome-python) - by vinta

@@ -328,8 +328,8 @@
 - [FlightSeat](https://github.com/ldoublem/FlightSeat) - by ldoublem
 - [SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar) - by FlyingPumba
 - [MaterialLogin](https://github.com/fanrunqi/MaterialLogin) - by fanrunqi
-- [ThumbUp](https://github.com/ldoublem/ThumbUp) - by ldoublem
 - [MultiType](https://github.com/drakeet/MultiType) - by drakeet
+- [ThumbUp](https://github.com/ldoublem/ThumbUp) - by ldoublem
 - [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - by tdebatty
 - [botkit](https://github.com/ramswaroop/botkit) - by ramswaroop
 - [CameraFilter](https://github.com/WeLikeVis/CameraFilter) - by WeLikeVis
@@ -340,8 +340,8 @@
 - [AndroidAudioRecorder](https://github.com/adrielcafe/AndroidAudioRecorder) - by adrielcafe
 - [simplenote-android](https://github.com/Automattic/simplenote-android) - by Automattic
 - [Aeron](https://github.com/real-logic/Aeron) - by real-logic
-- [android-drag-FlowLayout](https://github.com/LightSun/android-drag-FlowLayout) - by LightSun
 - [Jgraph](https://github.com/mychoices/Jgraph) - by mychoices
+- [android-drag-FlowLayout](https://github.com/LightSun/android-drag-FlowLayout) - by LightSun
 - [RecyclerRefreshLayout](https://github.com/dinuscxj/RecyclerRefreshLayout) - by dinuscxj
 - [SlackLoadingView](https://github.com/JeasonWong/SlackLoadingView) - by JeasonWong
 - [Gank](https://github.com/JohnnyShieh/Gank) - by JohnnyShieh
@@ -353,9 +353,9 @@
 - [Space-Navigation-View](https://github.com/armcha/Space-Navigation-View) - by armcha
 - [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards) - by rubensousa
 - [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) - by yipianfengye
+- [ShapeRipple](https://github.com/poldz123/ShapeRipple) - by poldz123
 - [AndroidNote](https://github.com/GcsSloop/AndroidNote) - by GcsSloop
 - [mock-api](https://github.com/shanbay/mock-api) - by shanbay
-- [ShapeRipple](https://github.com/poldz123/ShapeRipple) - by poldz123
 - [InfiniteCycleViewPager](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager) - by DevLight-Mobile-Agency
 - [SpiderWebScoreView](https://github.com/xiaopansky/SpiderWebScoreView) - by xiaopansky
 - [DataX](https://github.com/alibaba/DataX) - by alibaba
@@ -397,3 +397,4 @@
 - [GeekNews](https://github.com/codeestX/GeekNews) - by codeestX
 - [OhMyBiliBili](https://github.com/HotBitmapGG/OhMyBiliBili) - by HotBitmapGG
 - [WaveSideBar](https://github.com/gjiazhe/WaveSideBar) - by gjiazhe
+- [materialistic](https://github.com/hidroh/materialistic) - by hidroh
