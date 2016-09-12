@@ -109,3 +109,5 @@
 - [fast_rgf](https://github.com/baidu/fast_rgf) - by baidu
 - [NativeJIT](https://github.com/BitFunnel/NativeJIT) - by BitFunnel
 - [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - by pavel-odintsov
+- [capnproto](https://github.com/sandstorm-io/capnproto) - by sandstorm-io
+- [uWebSockets](https://github.com/uWebSockets/uWebSockets) - by uWebSockets
