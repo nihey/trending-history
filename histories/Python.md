@@ -78,20 +78,20 @@
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - by alexjc
 - [image-match](https://github.com/ascribe/image-match) - by ascribe
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - by ryanoasis
+- [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
 - [pseudo](https://github.com/alehander42/pseudo) - by alehander42
 - [UnivaqInformaticaBot](https://github.com/UnivaqTelegramBot/UnivaqInformaticaBot) - by UnivaqTelegramBot
-- [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework) - by LoyaltyNZ
 - [match](https://github.com/pavlovml/match) - by pavlovml
 - [DeepLearningFlappyBird](https://github.com/yenchenlin1994/DeepLearningFlappyBird) - by yenchenlin1994
 - [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [requirements](https://github.com/socketubs/requirements) - by socketubs
 - [dplython](https://github.com/dodger487/dplython) - by dodger487
 - [variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow) - by carpedm20
-- [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [quantum](https://github.com/karldray/quantum) - by karldray
+- [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
-- [pytrader](https://github.com/owocki/pytrader) - by owocki
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
+- [pytrader](https://github.com/owocki/pytrader) - by owocki
 
 ### 2016-4
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
@@ -144,8 +144,8 @@
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
-- [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
+- [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
 - [bless](https://github.com/Netflix/bless) - by Netflix
 - [fizz-buzz-tensorflow](https://github.com/joelgrus/fizz-buzz-tensorflow) - by joelgrus
@@ -153,8 +153,8 @@
 
 ### 2016-6
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
-- [streisand](https://github.com/jlund/streisand) - by jlund
 - [magenta](https://github.com/tensorflow/magenta) - by tensorflow
+- [streisand](https://github.com/jlund/streisand) - by jlund
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
 - [ansible-container](https://github.com/ansible/ansible-container) - by ansible
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
@@ -179,11 +179,11 @@
 - [shutit](https://github.com/ianmiell/shutit) - by ianmiell
 - [chalice](https://github.com/awslabs/chalice) - by awslabs
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
-- [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
 - [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
+- [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
@@ -229,3 +229,4 @@
 - [qrcode](https://github.com/sylnsfar/qrcode) - by sylnsfar
 - [NakedTensor](https://github.com/jostmey/NakedTensor) - by jostmey
 - [awesome-python](https://github.com/vinta/awesome-python) - by vinta
+- [kimchi](https://github.com/kimchi-project/kimchi) - by kimchi-project

@@ -48,8 +48,8 @@
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - by electron
 - [biu](https://github.com/egoist/biu) - by egoist
-- [min](https://github.com/minbrowser/min) - by minbrowser
 - [google-spaces](https://github.com/egorsmkv/google-spaces) - by egorsmkv
+- [min](https://github.com/minbrowser/min) - by minbrowser
 - [growth-in-action](https://github.com/phodal/growth-in-action) - by phodal
 - [family.scss](https://github.com/LukyVj/family.scss) - by LukyVj
 - [spectre](https://github.com/picturepan2/spectre) - by picturepan2
@@ -60,8 +60,8 @@
 - [picnic](https://github.com/picnicss/picnic) - by picnicss
 - [requests-for-research](https://github.com/openai/requests-for-research) - by openai
 - [drizzle](https://github.com/cloudfour/drizzle) - by cloudfour
-- [coursera-dl](https://github.com/coursera-dl/coursera-dl) - by coursera-dl
 - [scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - by IPGP
+- [coursera-dl](https://github.com/coursera-dl/coursera-dl) - by coursera-dl
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - by Microsoft
 - [SingleDivProject](https://github.com/ManrajGrover/SingleDivProject) - by ManrajGrover
 
@@ -77,3 +77,4 @@
 
 ### 2016-9
 - [flask_jsondash](https://github.com/christabor/flask_jsondash) - by christabor
+- [serenata-de-amor](https://github.com/datasciencebr/serenata-de-amor) - by datasciencebr

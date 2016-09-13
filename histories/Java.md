@@ -379,10 +379,10 @@
 - [Secured-Preference-Store](https://github.com/iamMehedi/Secured-Preference-Store) - by iamMehedi
 - [itemtouchhelper-extension](https://github.com/loopeer/itemtouchhelper-extension) - by loopeer
 - [Amigo](https://github.com/eleme/Amigo) - by eleme
-- [CreditSesameRingView](https://github.com/HotBitmapGG/CreditSesameRingView) - by HotBitmapGG
 - [code-reader](https://github.com/loopeer/code-reader) - by loopeer
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - by lypeer
 - [RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery) - by huazhiyuan2008
+- [CreditSesameRingView](https://github.com/HotBitmapGG/CreditSesameRingView) - by HotBitmapGG
 - [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) - by stfalcon-studio
 - [ThumbnailMenu](https://github.com/Hitomis/ThumbnailMenu) - by Hitomis
 - [confetti](https://github.com/jinatonic/confetti) - by jinatonic
@@ -398,3 +398,4 @@
 - [OhMyBiliBili](https://github.com/HotBitmapGG/OhMyBiliBili) - by HotBitmapGG
 - [WaveSideBar](https://github.com/gjiazhe/WaveSideBar) - by gjiazhe
 - [materialistic](https://github.com/hidroh/materialistic) - by hidroh
+- [RetailMeNotList](https://github.com/iielse/RetailMeNotList) - by iielse
