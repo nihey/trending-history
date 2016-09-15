@@ -63,17 +63,17 @@
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
-- [abot](https://github.com/itsabot/abot) - by itsabot
 - [bigcache](https://github.com/allegro/bigcache) - by allegro
+- [abot](https://github.com/itsabot/abot) - by itsabot
 
 ### 2016-4
-- [interfacer](https://github.com/mvdan/interfacer) - by mvdan
 - [depscheck](https://github.com/divan/depscheck) - by divan
+- [interfacer](https://github.com/mvdan/interfacer) - by mvdan
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
-- [qor](https://github.com/qor/qor) - by qor
 - [echo](https://github.com/labstack/echo) - by labstack
-- [lantern](https://github.com/getlantern/lantern) - by getlantern
+- [qor](https://github.com/qor/qor) - by qor
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
+- [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -87,8 +87,8 @@
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [gollum](https://github.com/trivago/gollum) - by trivago
 - [kit](https://github.com/go-kit/kit) - by go-kit
+- [gollum](https://github.com/trivago/gollum) - by trivago
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -97,10 +97,10 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [grafana](https://github.com/grafana/grafana) - by grafana
-- [leveros](https://github.com/leveros/leveros) - by leveros
+- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
+- [leveros](https://github.com/leveros/leveros) - by leveros
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
@@ -126,8 +126,8 @@
 - [sharkey](https://github.com/square/sharkey) - by square
 - [cryptopasta](https://github.com/gtank/cryptopasta) - by gtank
 - [buntdb](https://github.com/tidwall/buntdb) - by tidwall
-- [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
+- [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
@@ -136,8 +136,8 @@
 ### 2016-8
 - [gh-ost](https://github.com/github/gh-ost) - by github
 - [noms](https://github.com/attic-labs/noms) - by attic-labs
-- [frp](https://github.com/fatedier/frp) - by fatedier
 - [ssh-chat](https://github.com/shazow/ssh-chat) - by shazow
+- [frp](https://github.com/fatedier/frp) - by fatedier
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - by thewhitetulip
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
@@ -161,3 +161,4 @@
 - [sdees](https://github.com/schollz/sdees) - by schollz
 - [teleconsole](https://github.com/gravitational/teleconsole) - by gravitational
 - [borg](https://github.com/crufter/borg) - by crufter
+- [dhcplb](https://github.com/facebookincubator/dhcplb) - by facebookincubator

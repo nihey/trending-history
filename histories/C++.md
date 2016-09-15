@@ -64,8 +64,8 @@
 - [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - by BearishSun
 - [amazon-dsstne](https://github.com/amznlabs/amazon-dsstne) - by amznlabs
 - [electron](https://github.com/electron/electron) - by electron
-- [openthread](https://github.com/openthread/openthread) - by openthread
 - [Fido](https://github.com/FidoProject/Fido) - by FidoProject
+- [openthread](https://github.com/openthread/openthread) - by openthread
 - [pika](https://github.com/Qihoo360/pika) - by Qihoo360
 - [FireRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FireRays_SDK) - by GPUOpen-LibrariesAndSDKs
 - [x64dbg](https://github.com/x64dbg/x64dbg) - by x64dbg
@@ -111,3 +111,7 @@
 - [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - by pavel-odintsov
 - [capnproto](https://github.com/sandstorm-io/capnproto) - by sandstorm-io
 - [uWebSockets](https://github.com/uWebSockets/uWebSockets) - by uWebSockets
+- [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - by seetaface
+- [unrealcv](https://github.com/unrealcv/unrealcv) - by unrealcv
+- [envoy](https://github.com/lyft/envoy) - by lyft
+- [link](https://github.com/Ableton/link) - by Ableton

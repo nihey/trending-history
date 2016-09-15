@@ -56,3 +56,6 @@
 - [go-fast](https://github.com/kovetskiy/go-fast) - by kovetskiy
 - [haoel.github.io](https://github.com/haoel/haoel.github.io) - by haoel
 - [with](https://github.com/mchav/with) - by mchav
+
+### 2016-9
+- [quinedb](https://github.com/gfredericks/quinedb) - by gfredericks
