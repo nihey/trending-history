@@ -169,8 +169,8 @@
 - [beets](https://github.com/beetbox/beets) - by beetbox
 - [coconut](https://github.com/evhub/coconut) - by evhub
 - [Daily-Reddit-Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - by ssimunic
-- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
 - [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar
+- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
 - [netbox](https://github.com/digitalocean/netbox) - by digitalocean
 - [GraphDash](https://github.com/AmadeusITGroup/GraphDash) - by AmadeusITGroup
 
@@ -179,15 +179,15 @@
 - [shutit](https://github.com/ianmiell/shutit) - by ianmiell
 - [chalice](https://github.com/awslabs/chalice) - by awslabs
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
-- [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
-- [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
-- [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
 - [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
 - [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
+- [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
+- [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
+- [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
-- [pgoapi](https://github.com/tejado/pgoapi) - by tejado
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
+- [pgoapi](https://github.com/tejado/pgoapi) - by tejado
 - [riko](https://github.com/nerevu/riko) - by nerevu
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere
@@ -199,9 +199,9 @@
 - [digit-classifier](https://github.com/karandesai-96/digit-classifier) - by karandesai-96
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - by hanc00l
 - [keras-rl](https://github.com/matthiasplappert/keras-rl) - by matthiasplappert
-- [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
-- [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
 - [research](https://github.com/commaai/research) - by commaai
+- [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
+- [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
 - [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
 - [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - by PokemonGoMap
@@ -232,3 +232,4 @@
 - [kimchi](https://github.com/kimchi-project/kimchi) - by kimchi-project
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - by ibab
 - [keras-wavenet](https://github.com/usernaamee/keras-wavenet) - by usernaamee
+- [wavenet](https://github.com/basveeling/wavenet) - by basveeling

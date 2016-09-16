@@ -19,6 +19,7 @@ updated.
   - [ApacheConf](https://github.com/nihey/trending-history/blob/master/histories/ApacheConf.md)
   - [Assembly](https://github.com/nihey/trending-history/blob/master/histories/Assembly.md)
   - [Awk](https://github.com/nihey/trending-history/blob/master/histories/Awk.md)
+  - [Batchfile](https://github.com/nihey/trending-history/blob/master/histories/Batchfile.md)
   - [C](https://github.com/nihey/trending-history/blob/master/histories/C.md)
   - [C#](https://github.com/nihey/trending-history/blob/master/histories/C#.md)
   - [C++](https://github.com/nihey/trending-history/blob/master/histories/C++.md)
