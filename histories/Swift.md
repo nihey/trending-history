@@ -130,8 +130,8 @@
 ### 2016-7
 - [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - by AntonTheDev
 - [Elevate](https://github.com/Nike-Inc/Elevate) - by Nike-Inc
-- [ISTimeline](https://github.com/instant-solutions/ISTimeline) - by instant-solutions
 - [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
+- [ISTimeline](https://github.com/instant-solutions/ISTimeline) - by instant-solutions
 - [Potatso](https://github.com/shadowsocks/Potatso) - by shadowsocks
 - [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - by soapyigu
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
@@ -158,3 +158,4 @@
 ### 2016-9
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - by zhuhaow
 - [iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler) - by shu223
+- [vapor](https://github.com/vapor/vapor) - by vapor
