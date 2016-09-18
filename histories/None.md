@@ -238,3 +238,4 @@
 - [awesome-cmake](https://github.com/onqtam/awesome-cmake) - by onqtam
 - [go](https://github.com/datasciencemasters/go) - by datasciencemasters
 - [golang-notes](https://github.com/luciotato/golang-notes) - by luciotato
+- [games](https://github.com/leereilly/games) - by leereilly

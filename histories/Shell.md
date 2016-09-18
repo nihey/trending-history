@@ -59,3 +59,4 @@
 
 ### 2016-9
 - [quinedb](https://github.com/gfredericks/quinedb) - by gfredericks
+- [aconfmgr](https://github.com/CyberShadow/aconfmgr) - by CyberShadow

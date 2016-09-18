@@ -39,3 +39,6 @@
 - [futures-rs](https://github.com/alexcrichton/futures-rs) - by alexcrichton
 - [way-cooler](https://github.com/Immington-Industries/way-cooler) - by Immington-Industries
 - [parallel](https://github.com/mmstick/parallel) - by mmstick
+
+### 2016-9
+- [rustcxx](https://github.com/google/rustcxx) - by google

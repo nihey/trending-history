@@ -126,8 +126,8 @@
 - [sharkey](https://github.com/square/sharkey) - by square
 - [cryptopasta](https://github.com/gtank/cryptopasta) - by gtank
 - [buntdb](https://github.com/tidwall/buntdb) - by tidwall
-- [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
+- [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
@@ -146,9 +146,9 @@
 - [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
 - [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph
-- [realize](https://github.com/tockins/realize) - by tockins
 - [redcon](https://github.com/tidwall/redcon) - by tidwall
 - [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
+- [realize](https://github.com/tockins/realize) - by tockins
 - [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
 - [workq](https://github.com/iamduo/workq) - by iamduo
 - [mylg](https://github.com/mehrdadrad/mylg) - by mehrdadrad
@@ -162,3 +162,5 @@
 - [teleconsole](https://github.com/gravitational/teleconsole) - by gravitational
 - [borg](https://github.com/crufter/borg) - by crufter
 - [dhcplb](https://github.com/facebookincubator/dhcplb) - by facebookincubator
+- [dingo](https://github.com/pforemski/dingo) - by pforemski
+- [teleport](https://github.com/gravitational/teleport) - by gravitational

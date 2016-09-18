@@ -25,3 +25,6 @@
 ### 2016-8
 - [deepmask](https://github.com/facebookresearch/deepmask) - by facebookresearch
 - [multipathnet](https://github.com/facebookresearch/multipathnet) - by facebookresearch
+
+### 2016-9
+- [torch-twrl](https://github.com/twitter/torch-twrl) - by twitter
