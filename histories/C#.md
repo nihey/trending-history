@@ -48,3 +48,4 @@
 
 ### 2016-9
 - [Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) - by Nummer
+- [perfview](https://github.com/Microsoft/perfview) - by Microsoft

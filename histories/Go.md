@@ -146,9 +146,9 @@
 - [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
 - [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph
-- [redcon](https://github.com/tidwall/redcon) - by tidwall
-- [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
 - [realize](https://github.com/tockins/realize) - by tockins
+- [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
+- [redcon](https://github.com/tidwall/redcon) - by tidwall
 - [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
 - [workq](https://github.com/iamduo/workq) - by iamduo
 - [mylg](https://github.com/mehrdadrad/mylg) - by mehrdadrad
@@ -164,3 +164,4 @@
 - [dhcplb](https://github.com/facebookincubator/dhcplb) - by facebookincubator
 - [dingo](https://github.com/pforemski/dingo) - by pforemski
 - [teleport](https://github.com/gravitational/teleport) - by gravitational
+- [gorgonia](https://github.com/chewxy/gorgonia) - by chewxy

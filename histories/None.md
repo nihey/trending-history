@@ -198,14 +198,14 @@
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
 - [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
-- [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - by a0viedo
 - [Awesome-Ubuntu-Linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux) - by VoLuong
+- [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - by a0viedo
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - by aymericdamien
-- [Awesome-Linux-Softwares](https://github.com/VoLuong/Awesome-Linux-Softwares) - by VoLuong
 - [react-functional-css-protips](https://github.com/chibicode/react-functional-css-protips) - by chibicode
-- [NecroBot](https://github.com/NECROBOTIO/NecroBot) - by NECROBOTIO
+- [Awesome-Linux-Softwares](https://github.com/VoLuong/Awesome-Linux-Softwares) - by VoLuong
 - [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - by VoLuong
 - [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - by mrjoelkemp
+- [NecroBot](https://github.com/NECROBOTIO/NecroBot) - by NECROBOTIO
 - [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) - by ZQiang94
 - [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - by fuchsia-mirror
 - [zfs-ha](https://github.com/ewwhite/zfs-ha) - by ewwhite
@@ -217,8 +217,8 @@
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
 - [Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) - by Jermic
 - [potaka](https://github.com/ikrum/potaka) - by ikrum
-- [LogicAndCodingGames](https://github.com/dargaCode/LogicAndCodingGames) - by dargaCode
 - [awesome-webpack](https://github.com/d3viant0ne/awesome-webpack) - by d3viant0ne
+- [LogicAndCodingGames](https://github.com/dargaCode/LogicAndCodingGames) - by dargaCode
 - [react-faq](https://github.com/timarney/react-faq) - by timarney
 - [CoreLink](https://github.com/lizhangqu/CoreLink) - by lizhangqu
 - [data_location](https://github.com/mumuy/data_location) - by mumuy
@@ -240,3 +240,4 @@
 - [golang-notes](https://github.com/luciotato/golang-notes) - by luciotato
 - [games](https://github.com/leereilly/games) - by leereilly
 - [openftp4](https://github.com/massivedynamic/openftp4) - by massivedynamic
+- [awesome-raspberrypi](https://github.com/thibmaek/awesome-raspberrypi) - by thibmaek

@@ -407,3 +407,4 @@
 - [DoorSignView](https://github.com/renaudcerrato/DoorSignView) - by renaudcerrato
 - [AndroidAudioConverter](https://github.com/adrielcafe/AndroidAudioConverter) - by adrielcafe
 - [CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView) - by kHRYSTAL
+- [FlipAnimation](https://github.com/4xes/FlipAnimation) - by 4xes

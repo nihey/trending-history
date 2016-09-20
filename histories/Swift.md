@@ -14,14 +14,14 @@
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - by hsavit1
 - [Whisper](https://github.com/hyperoslo/Whisper) - by hyperoslo
 - [WebShell](https://github.com/djyde/WebShell) - by djyde
-- [Rainbow](https://github.com/onevcat/Rainbow) - by onevcat
 - [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - by DanisFabric
+- [Rainbow](https://github.com/onevcat/Rainbow) - by onevcat
 - [VWInstantRun](https://github.com/wangshengjia/VWInstantRun) - by wangshengjia
 - [Then](https://github.com/devxoul/Then) - by devxoul
 
 ### 2016-1
-- [spi](https://github.com/guoc/spi) - by guoc
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - by FlexMonkey
+- [spi](https://github.com/guoc/spi) - by guoc
 - [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - by DianQK
 - [Refactorator](https://github.com/johnno1962/Refactorator) - by johnno1962
 - [Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) - by unifiedh
@@ -43,8 +43,8 @@
 - [folding-cell](https://github.com/Ramotion/folding-cell) - by Ramotion
 - [SwiftString](https://github.com/amayne/SwiftString) - by amayne
 - [reel-search](https://github.com/Ramotion/reel-search) - by Ramotion
-- [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [blackfish](https://github.com/elliottminns/blackfish) - by elliottminns
+- [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp) - by NatashaTheRobot
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - by marmelroy
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - by allenwong
 - [circle-menu](https://github.com/Ramotion/circle-menu) - by Ramotion
@@ -65,15 +65,15 @@
 - [Stevia](https://github.com/s4cha/Stevia) - by s4cha
 - [navigation-stack](https://github.com/Ramotion/navigation-stack) - by Ramotion
 - [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - by fruitcoder
-- [PeekPop](https://github.com/marmelroy/PeekPop) - by marmelroy
 - [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
+- [PeekPop](https://github.com/marmelroy/PeekPop) - by marmelroy
 - [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - by BoltsFramework
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
-- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
-- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
 - [Gifu](https://github.com/kaishin/Gifu) - by kaishin
+- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -82,10 +82,10 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - by Skyscanner
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - by me-abhinav
 - [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - by Yalantis
-- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [TextAttributes](https://github.com/delba/TextAttributes) - by delba
-- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
+- [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) - by nakiostudio
 - [Peek](https://github.com/shaps80/Peek) - by shaps80
+- [GPUImage2](https://github.com/BradLarson/GPUImage2) - by BradLarson
 - [swift-summary](https://github.com/jakarmy/swift-summary) - by jakarmy
 - [JASON](https://github.com/delba/JASON) - by delba
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - by mobileplayer
@@ -95,24 +95,24 @@
 ### 2016-5
 - [TabDrawer](https://github.com/winslowdibona/TabDrawer) - by winslowdibona
 - [Reddit-MVVM-Benchmark](https://github.com/ivanbruel/Reddit-MVVM-Benchmark) - by ivanbruel
-- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
 - [15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift) - by larrynatalicio
 - [Interpolate](https://github.com/marmelroy/Interpolate) - by marmelroy
+- [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - by Ramotion
 - [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - by RobertGummesson
 - [SwiftTweaks](https://github.com/Khan/SwiftTweaks) - by Khan
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
 - [PMAlertController](https://github.com/Codeido/PMAlertController) - by Codeido
 - [Networking](https://github.com/3lvis/Networking) - by 3lvis
-- [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
 - [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
+- [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
 - [expanding-collection](https://github.com/Ramotion/expanding-collection) - by Ramotion
 - [Render](https://github.com/alexdrone/Render) - by alexdrone
 
 ### 2016-6
 - [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
-- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [WWDC](https://github.com/insidegui/WWDC) - by insidegui
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
 - [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
 - [Cleanse](https://github.com/square/Cleanse) - by square
@@ -159,3 +159,4 @@
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - by zhuhaow
 - [iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler) - by shu223
 - [vapor](https://github.com/vapor/vapor) - by vapor
+- [12306ForMac](https://github.com/fancymax/12306ForMac) - by fancymax
