@@ -19,29 +19,29 @@
 - [gom](https://github.com/rakyll/gom) - by rakyll
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
-- [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
+- [slackcat](https://github.com/vektorlab/slackcat) - by vektorlab
 - [bolt](https://github.com/boltdb/bolt) - by boltdb
 - [fosite](https://github.com/ory-am/fosite) - by ory-am
 - [lightning-onion](https://github.com/LightningNetwork/lightning-onion) - by LightningNetwork
-- [apex](https://github.com/apex/apex) - by apex
 - [lnd](https://github.com/LightningNetwork/lnd) - by LightningNetwork
+- [apex](https://github.com/apex/apex) - by apex
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
-- [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
 - [dlite](https://github.com/nlf/dlite) - by nlf
+- [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
 - [seesaw](https://github.com/google/seesaw) - by google
 
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
+- [gogs](https://github.com/gogits/gogs) - by gogits
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
-- [go-git](https://github.com/src-d/go-git) - by src-d
-- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
 - [overseer](https://github.com/jpillora/overseer) - by jpillora
+- [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
+- [go-git](https://github.com/src-d/go-git) - by src-d
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -52,23 +52,23 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [apns2](https://github.com/sideshow/apns2) - by sideshow
 - [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
+- [apns2](https://github.com/sideshow/apns2) - by sideshow
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
 - [acmewrapper](https://github.com/dkumor/acmewrapper) - by dkumor
-- [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [lion](https://github.com/celrenheit/lion) - by celrenheit
+- [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
-- [bigcache](https://github.com/allegro/bigcache) - by allegro
 - [abot](https://github.com/itsabot/abot) - by itsabot
+- [bigcache](https://github.com/allegro/bigcache) - by allegro
 
 ### 2016-4
-- [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
+- [depscheck](https://github.com/divan/depscheck) - by divan
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [echo](https://github.com/labstack/echo) - by labstack
 - [qor](https://github.com/qor/qor) - by qor
@@ -87,8 +87,8 @@
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [kit](https://github.com/go-kit/kit) - by go-kit
 - [gollum](https://github.com/trivago/gollum) - by trivago
+- [kit](https://github.com/go-kit/kit) - by go-kit
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -99,8 +99,8 @@
 - [rack](https://github.com/convox/rack) - by convox
 - [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
-- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [leveros](https://github.com/leveros/leveros) - by leveros
+- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
@@ -136,8 +136,8 @@
 ### 2016-8
 - [gh-ost](https://github.com/github/gh-ost) - by github
 - [noms](https://github.com/attic-labs/noms) - by attic-labs
-- [ssh-chat](https://github.com/shazow/ssh-chat) - by shazow
 - [frp](https://github.com/fatedier/frp) - by fatedier
+- [ssh-chat](https://github.com/shazow/ssh-chat) - by shazow
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - by thewhitetulip
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
@@ -147,8 +147,8 @@
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
 - [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph
 - [realize](https://github.com/tockins/realize) - by tockins
-- [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
 - [redcon](https://github.com/tidwall/redcon) - by tidwall
+- [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
 - [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
 - [workq](https://github.com/iamduo/workq) - by iamduo
 - [mylg](https://github.com/mehrdadrad/mylg) - by mehrdadrad
@@ -165,3 +165,4 @@
 - [dingo](https://github.com/pforemski/dingo) - by pforemski
 - [teleport](https://github.com/gravitational/teleport) - by gravitational
 - [gorgonia](https://github.com/chewxy/gorgonia) - by chewxy
+- [primitive](https://github.com/fogleman/primitive) - by fogleman
