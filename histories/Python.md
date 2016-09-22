@@ -234,3 +234,4 @@
 - [keras-wavenet](https://github.com/usernaamee/keras-wavenet) - by usernaamee
 - [wavenet](https://github.com/basveeling/wavenet) - by basveeling
 - [fast-wavenet](https://github.com/tomlepaine/fast-wavenet) - by tomlepaine
+- [wechat-spider](https://github.com/bowenpay/wechat-spider) - by bowenpay
