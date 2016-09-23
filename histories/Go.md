@@ -166,3 +166,4 @@
 - [teleport](https://github.com/gravitational/teleport) - by gravitational
 - [gorgonia](https://github.com/chewxy/gorgonia) - by chewxy
 - [primitive](https://github.com/fogleman/primitive) - by fogleman
+- [gallium](https://github.com/alexflint/gallium) - by alexflint

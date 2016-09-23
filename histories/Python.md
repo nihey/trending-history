@@ -60,10 +60,10 @@
 - [laboratory](https://github.com/joealcorn/laboratory) - by joealcorn
 - [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547) - by fjserna
 - [paperwork](https://github.com/jflesch/paperwork) - by jflesch
-- [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [zzzzz](https://github.com/defaultnamehere/zzzzz) - by defaultnamehere
-- [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
+- [hug](https://github.com/timothycrosley/hug) - by timothycrosley
 - [lifter](https://github.com/EliotBerriot/lifter) - by EliotBerriot
+- [tensorfuse](https://github.com/dementrock/tensorfuse) - by dementrock
 - [howdoi](https://github.com/gleitz/howdoi) - by gleitz
 - [sidomo](https://github.com/deepgram/sidomo) - by deepgram
 - [gdom](https://github.com/syrusakbary/gdom) - by syrusakbary
@@ -90,26 +90,26 @@
 - [quantum](https://github.com/karldray/quantum) - by karldray
 - [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor) - by mimoo
 - [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - by FinalTheory
-- [pytrader](https://github.com/owocki/pytrader) - by owocki
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - by gongjianhui
+- [pytrader](https://github.com/owocki/pytrader) - by owocki
 
 ### 2016-4
-- [caravel](https://github.com/airbnb/caravel) - by airbnb
 - [interpy-zh](https://github.com/eastlakeside/interpy-zh) - by eastlakeside
+- [caravel](https://github.com/airbnb/caravel) - by airbnb
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - by tweekmonster
 - [metapensiero.pj](https://github.com/azazel75/metapensiero.pj) - by azazel75
-- [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [tmuxomatic](https://github.com/oxidane/tmuxomatic) - by oxidane
-- [tflearn](https://github.com/tflearn/tflearn) - by tflearn
-- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
+- [bcc](https://github.com/iovisor/bcc) - by iovisor
 - [you-get](https://github.com/soimort/you-get) - by soimort
-- [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
+- [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
+- [tflearn](https://github.com/tflearn/tflearn) - by tflearn
 - [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
+- [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
-- [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
-- [keras](https://github.com/fchollet/keras) - by fchollet
 - [voltron](https://github.com/snare/voltron) - by snare
+- [keras](https://github.com/fchollet/keras) - by fchollet
+- [163-music-unlock](https://github.com/Chion82/163-music-unlock) - by Chion82
 - [s3_uploader](https://github.com/charlesdaniel/s3_uploader) - by charlesdaniel
 - [haxor-news](https://github.com/donnemartin/haxor-news) - by donnemartin
 - [deepjazz](https://github.com/jisungk/deepjazz) - by jisungk
@@ -138,8 +138,8 @@
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [models](https://github.com/tensorflow/models) - by tensorflow
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
-- [certbot](https://github.com/certbot/certbot) - by certbot
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
+- [certbot](https://github.com/certbot/certbot) - by certbot
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
@@ -153,8 +153,8 @@
 
 ### 2016-6
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
-- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [streisand](https://github.com/jlund/streisand) - by jlund
+- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
 - [ansible-container](https://github.com/ansible/ansible-container) - by ansible
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
@@ -180,11 +180,11 @@
 - [chalice](https://github.com/awslabs/chalice) - by awslabs
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
-- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
+- [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
-- [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
+- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
@@ -199,9 +199,9 @@
 - [digit-classifier](https://github.com/karandesai-96/digit-classifier) - by karandesai-96
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - by hanc00l
 - [keras-rl](https://github.com/matthiasplappert/keras-rl) - by matthiasplappert
-- [research](https://github.com/commaai/research) - by commaai
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
 - [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
+- [research](https://github.com/commaai/research) - by commaai
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
 - [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
 - [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - by PokemonGoMap
@@ -235,3 +235,4 @@
 - [wavenet](https://github.com/basveeling/wavenet) - by basveeling
 - [fast-wavenet](https://github.com/tomlepaine/fast-wavenet) - by tomlepaine
 - [wechat-spider](https://github.com/bowenpay/wechat-spider) - by bowenpay
+- [noteshrink](https://github.com/mzucker/noteshrink) - by mzucker

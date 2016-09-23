@@ -415,3 +415,5 @@
 - [BookReader](https://github.com/JustWayward/BookReader) - by JustWayward
 - [and_swipeback](https://github.com/XBeats/and_swipeback) - by XBeats
 - [Tuikan](https://github.com/homcin/Tuikan) - by homcin
+- [TelegramGallery](https://github.com/TangXiaoLv/TelegramGallery) - by TangXiaoLv
+- [CouponView](https://github.com/dongjunkun/CouponView) - by dongjunkun

@@ -42,3 +42,4 @@
 - [suture](https://github.com/testdouble/suture) - by testdouble
 - [mittsu](https://github.com/jellymann/mittsu) - by jellymann
 - [pgslice](https://github.com/ankane/pgslice) - by ankane
+- [brew](https://github.com/Homebrew/brew) - by Homebrew
