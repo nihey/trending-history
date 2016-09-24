@@ -111,8 +111,8 @@
 ### 2016-6
 - [Stellar](https://github.com/AugustRush/Stellar) - by AugustRush
 - [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift) - by ochococo
-- [WWDC](https://github.com/insidegui/WWDC) - by insidegui
 - [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - by raywenderlich
+- [WWDC](https://github.com/insidegui/WWDC) - by insidegui
 - [PinpointKit](https://github.com/Lickability/PinpointKit) - by Lickability
 - [Switcher](https://github.com/X140Yu/Switcher) - by X140Yu
 - [Cleanse](https://github.com/square/Cleanse) - by square
@@ -130,12 +130,12 @@
 ### 2016-7
 - [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - by AntonTheDev
 - [Elevate](https://github.com/Nike-Inc/Elevate) - by Nike-Inc
-- [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
 - [ISTimeline](https://github.com/instant-solutions/ISTimeline) - by instant-solutions
+- [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
 - [Potatso](https://github.com/shadowsocks/Potatso) - by shadowsocks
 - [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - by soapyigu
-- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
 - [NightNight](https://github.com/Draveness/NightNight) - by Draveness
+- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
 - [Live](https://github.com/ltebean/Live) - by ltebean
 - [Celluloid](https://github.com/100mango/Celluloid) - by 100mango
 - [PopupDialog](https://github.com/Orderella/PopupDialog) - by Orderella
@@ -160,3 +160,4 @@
 - [iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler) - by shu223
 - [vapor](https://github.com/vapor/vapor) - by vapor
 - [12306ForMac](https://github.com/fancymax/12306ForMac) - by fancymax
+- [swift-protobuf-plugin](https://github.com/apple/swift-protobuf-plugin) - by apple

@@ -42,3 +42,4 @@
 
 ### 2016-9
 - [rustcxx](https://github.com/google/rustcxx) - by google
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - by BurntSushi

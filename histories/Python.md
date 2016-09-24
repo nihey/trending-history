@@ -126,10 +126,10 @@
 ### 2016-5
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - by teachthenet
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
-- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
-- [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
+- [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
+- [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
@@ -153,8 +153,8 @@
 
 ### 2016-6
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
-- [streisand](https://github.com/jlund/streisand) - by jlund
 - [magenta](https://github.com/tensorflow/magenta) - by tensorflow
+- [streisand](https://github.com/jlund/streisand) - by jlund
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
 - [ansible-container](https://github.com/ansible/ansible-container) - by ansible
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
@@ -181,15 +181,15 @@
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
+- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
-- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
-- [riko](https://github.com/nerevu/riko) - by nerevu
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
+- [riko](https://github.com/nerevu/riko) - by nerevu
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere
 - [Pokemon-Go-Bot-Working-Hack-API](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - by TomTheBotter
 - [DeepHeart](https://github.com/jisaacso/DeepHeart) - by jisaacso
@@ -200,8 +200,8 @@
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - by hanc00l
 - [keras-rl](https://github.com/matthiasplappert/keras-rl) - by matthiasplappert
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
-- [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
 - [research](https://github.com/commaai/research) - by commaai
+- [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
 - [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
 - [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - by PokemonGoMap
@@ -214,12 +214,12 @@
 - [posio](https://github.com/abrenaut/posio) - by abrenaut
 - [PyCNN](https://github.com/ankitaggarwal011/PyCNN) - by ankitaggarwal011
 - [fuzzer](https://github.com/shellphish/fuzzer) - by shellphish
-- [undebt](https://github.com/Yelp/undebt) - by Yelp
 - [open-lambda](https://github.com/open-lambda/open-lambda) - by open-lambda
+- [undebt](https://github.com/Yelp/undebt) - by Yelp
 - [text-to-image](https://github.com/paarthneekhara/text-to-image) - by paarthneekhara
 - [freeline](https://github.com/alibaba/freeline) - by alibaba
-- [ntfy](https://github.com/dschep/ntfy) - by dschep
 - [srez](https://github.com/david-gpu/srez) - by david-gpu
+- [ntfy](https://github.com/dschep/ntfy) - by dschep
 - [apartment-finder](https://github.com/VikParuchuri/apartment-finder) - by VikParuchuri
 - [http-observatory](https://github.com/mozilla/http-observatory) - by mozilla
 - [doc2text](https://github.com/jlsutherland/doc2text) - by jlsutherland
@@ -227,8 +227,8 @@
 ### 2016-9
 - [stitch](https://github.com/pystitch/stitch) - by pystitch
 - [qrcode](https://github.com/sylnsfar/qrcode) - by sylnsfar
-- [NakedTensor](https://github.com/jostmey/NakedTensor) - by jostmey
 - [awesome-python](https://github.com/vinta/awesome-python) - by vinta
+- [NakedTensor](https://github.com/jostmey/NakedTensor) - by jostmey
 - [kimchi](https://github.com/kimchi-project/kimchi) - by kimchi-project
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - by ibab
 - [keras-wavenet](https://github.com/usernaamee/keras-wavenet) - by usernaamee
@@ -236,3 +236,4 @@
 - [fast-wavenet](https://github.com/tomlepaine/fast-wavenet) - by tomlepaine
 - [wechat-spider](https://github.com/bowenpay/wechat-spider) - by bowenpay
 - [noteshrink](https://github.com/mzucker/noteshrink) - by mzucker
+- [httpstat](https://github.com/reorx/httpstat) - by reorx
