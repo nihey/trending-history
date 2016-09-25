@@ -109,8 +109,8 @@
 - [fast_rgf](https://github.com/baidu/fast_rgf) - by baidu
 - [NativeJIT](https://github.com/BitFunnel/NativeJIT) - by BitFunnel
 - [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - by pavel-odintsov
-- [capnproto](https://github.com/sandstorm-io/capnproto) - by sandstorm-io
 - [uWebSockets](https://github.com/uWebSockets/uWebSockets) - by uWebSockets
+- [capnproto](https://github.com/sandstorm-io/capnproto) - by sandstorm-io
 - [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - by seetaface
 - [unrealcv](https://github.com/unrealcv/unrealcv) - by unrealcv
 - [envoy](https://github.com/lyft/envoy) - by lyft
@@ -118,3 +118,4 @@
 - [AnyRTC-RTMP](https://github.com/AnyRTC/AnyRTC-RTMP) - by AnyRTC
 - [vcpkg](https://github.com/Microsoft/vcpkg) - by Microsoft
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - by tekezo
+- [gcpp](https://github.com/hsutter/gcpp) - by hsutter

@@ -243,3 +243,4 @@
 - [awesome-raspberrypi](https://github.com/thibmaek/awesome-raspberrypi) - by thibmaek
 - [NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - by mandatoryprogrammer
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - by justjavac
+- [remote-working](https://github.com/greatghoul/remote-working) - by greatghoul

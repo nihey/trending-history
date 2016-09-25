@@ -126,10 +126,10 @@
 ### 2016-5
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - by teachthenet
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
-- [edward](https://github.com/blei-lab/edward) - by blei-lab
 - [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
-- [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
+- [edward](https://github.com/blei-lab/edward) - by blei-lab
 - [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
+- [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
@@ -153,8 +153,8 @@
 
 ### 2016-6
 - [DeepOSM](https://github.com/trailbehind/DeepOSM) - by trailbehind
-- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [streisand](https://github.com/jlund/streisand) - by jlund
+- [magenta](https://github.com/tensorflow/magenta) - by tensorflow
 - [gordon](https://github.com/jorgebastida/gordon) - by jorgebastida
 - [ansible-container](https://github.com/ansible/ansible-container) - by ansible
 - [dl-docker](https://github.com/saiprashanths/dl-docker) - by saiprashanths
@@ -218,8 +218,8 @@
 - [undebt](https://github.com/Yelp/undebt) - by Yelp
 - [text-to-image](https://github.com/paarthneekhara/text-to-image) - by paarthneekhara
 - [freeline](https://github.com/alibaba/freeline) - by alibaba
-- [srez](https://github.com/david-gpu/srez) - by david-gpu
 - [ntfy](https://github.com/dschep/ntfy) - by dschep
+- [srez](https://github.com/david-gpu/srez) - by david-gpu
 - [apartment-finder](https://github.com/VikParuchuri/apartment-finder) - by VikParuchuri
 - [http-observatory](https://github.com/mozilla/http-observatory) - by mozilla
 - [doc2text](https://github.com/jlsutherland/doc2text) - by jlsutherland
@@ -227,8 +227,8 @@
 ### 2016-9
 - [stitch](https://github.com/pystitch/stitch) - by pystitch
 - [qrcode](https://github.com/sylnsfar/qrcode) - by sylnsfar
-- [awesome-python](https://github.com/vinta/awesome-python) - by vinta
 - [NakedTensor](https://github.com/jostmey/NakedTensor) - by jostmey
+- [awesome-python](https://github.com/vinta/awesome-python) - by vinta
 - [kimchi](https://github.com/kimchi-project/kimchi) - by kimchi-project
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - by ibab
 - [keras-wavenet](https://github.com/usernaamee/keras-wavenet) - by usernaamee
@@ -237,3 +237,4 @@
 - [wechat-spider](https://github.com/bowenpay/wechat-spider) - by bowenpay
 - [noteshrink](https://github.com/mzucker/noteshrink) - by mzucker
 - [httpstat](https://github.com/reorx/httpstat) - by reorx
+- [Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - by ajbrock
