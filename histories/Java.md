@@ -386,8 +386,8 @@
 - [CreditSesameRingView](https://github.com/HotBitmapGG/CreditSesameRingView) - by HotBitmapGG
 - [confetti](https://github.com/jinatonic/confetti) - by jinatonic
 - [ScrollingBackgroundView](https://github.com/noties/ScrollingBackgroundView) - by noties
-- [ThumbnailMenu](https://github.com/Hitomis/ThumbnailMenu) - by Hitomis
 - [ToyRoom](https://github.com/eleme/ToyRoom) - by eleme
+- [ThumbnailMenu](https://github.com/Hitomis/ThumbnailMenu) - by Hitomis
 - [Recovery](https://github.com/Sunzxyong/Recovery) - by Sunzxyong
 - [LingDong2.0](https://github.com/zhoubowen-sky/LingDong2.0) - by zhoubowen-sky
 - [FlipShare](https://github.com/JeasonWong/FlipShare) - by JeasonWong
@@ -403,10 +403,10 @@
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - by KeepSafe
 - [Qart](https://github.com/scola/Qart) - by scola
 - [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer) - by ryanhoo
+- [LowPoly](https://github.com/CoXier/LowPoly) - by CoXier
 - [DoorSignView](https://github.com/renaudcerrato/DoorSignView) - by renaudcerrato
 - [AndroidAudioConverter](https://github.com/adrielcafe/AndroidAudioConverter) - by adrielcafe
 - [CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView) - by kHRYSTAL
-- [LowPoly](https://github.com/CoXier/LowPoly) - by CoXier
 - [FlipAnimation](https://github.com/4xes/FlipAnimation) - by 4xes
 - [UPMiss](https://github.com/qiujuer/UPMiss) - by qiujuer
 - [GoogleClock](https://github.com/lypeer/GoogleClock) - by lypeer
@@ -419,3 +419,4 @@
 - [CouponView](https://github.com/dongjunkun/CouponView) - by dongjunkun
 - [SpinMenu](https://github.com/Hitomis/SpinMenu) - by Hitomis
 - [tinker](https://github.com/Tencent/tinker) - by Tencent
+- [android-page-transition](https://github.com/xmuSistone/android-page-transition) - by xmuSistone

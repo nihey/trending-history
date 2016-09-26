@@ -24,8 +24,8 @@
 
 ### 2016-2
 - [zig](https://github.com/andrewrk/zig) - by andrewrk
-- [ion](https://github.com/google/ion) - by google
 - [EASTL](https://github.com/electronicarts/EASTL) - by electronicarts
+- [ion](https://github.com/google/ion) - by google
 - [serving](https://github.com/tensorflow/serving) - by tensorflow
 - [Vulkan](https://github.com/SaschaWillems/Vulkan) - by SaschaWillems
 - [vkcpp](https://github.com/nvpro-pipeline/vkcpp) - by nvpro-pipeline
@@ -39,16 +39,16 @@
 - [rr](https://github.com/mozilla/rr) - by mozilla
 - [xcbuild](https://github.com/facebook/xcbuild) - by facebook
 - [mame](https://github.com/mamedev/mame) - by mamedev
-- [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - by Croteam-official
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) - by ssloy
 - [electron](https://github.com/atom/electron) - by atom
+- [Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - by Croteam-official
 - [easyLambda](https://github.com/haptork/easyLambda) - by haptork
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - by googlei18n
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
-- [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
 - [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
-- [uWebSockets](https://github.com/alexhultman/uWebSockets) - by alexhultman
+- [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
 - [feather](https://github.com/wesm/feather) - by wesm
+- [uWebSockets](https://github.com/alexhultman/uWebSockets) - by alexhultman
 
 ### 2016-4
 - [aria2](https://github.com/tatsuhiro-t/aria2) - by tatsuhiro-t
@@ -64,8 +64,8 @@
 - [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - by BearishSun
 - [amazon-dsstne](https://github.com/amznlabs/amazon-dsstne) - by amznlabs
 - [electron](https://github.com/electron/electron) - by electron
-- [Fido](https://github.com/FidoProject/Fido) - by FidoProject
 - [openthread](https://github.com/openthread/openthread) - by openthread
+- [Fido](https://github.com/FidoProject/Fido) - by FidoProject
 - [pika](https://github.com/Qihoo360/pika) - by Qihoo360
 - [FireRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FireRays_SDK) - by GPUOpen-LibrariesAndSDKs
 - [x64dbg](https://github.com/x64dbg/x64dbg) - by x64dbg
@@ -109,8 +109,8 @@
 - [fast_rgf](https://github.com/baidu/fast_rgf) - by baidu
 - [NativeJIT](https://github.com/BitFunnel/NativeJIT) - by BitFunnel
 - [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - by pavel-odintsov
-- [uWebSockets](https://github.com/uWebSockets/uWebSockets) - by uWebSockets
 - [capnproto](https://github.com/sandstorm-io/capnproto) - by sandstorm-io
+- [uWebSockets](https://github.com/uWebSockets/uWebSockets) - by uWebSockets
 - [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - by seetaface
 - [unrealcv](https://github.com/unrealcv/unrealcv) - by unrealcv
 - [envoy](https://github.com/lyft/envoy) - by lyft
@@ -119,3 +119,4 @@
 - [vcpkg](https://github.com/Microsoft/vcpkg) - by Microsoft
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - by tekezo
 - [gcpp](https://github.com/hsutter/gcpp) - by hsutter
+- [dr_strangetemplate](https://github.com/MCGallaspy/dr_strangetemplate) - by MCGallaspy

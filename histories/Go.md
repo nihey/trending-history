@@ -142,8 +142,8 @@
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
 - [dht](https://github.com/shiyanhui/dht) - by shiyanhui
-- [staticfiles](https://github.com/bouk/staticfiles) - by bouk
 - [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
+- [staticfiles](https://github.com/bouk/staticfiles) - by bouk
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
 - [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph
 - [realize](https://github.com/tockins/realize) - by tockins
@@ -168,3 +168,4 @@
 - [primitive](https://github.com/fogleman/primitive) - by fogleman
 - [gallium](https://github.com/alexflint/gallium) - by alexflint
 - [httpstat](https://github.com/davecheney/httpstat) - by davecheney
+- [eliasdb](https://github.com/krotik/eliasdb) - by krotik

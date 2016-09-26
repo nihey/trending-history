@@ -200,8 +200,8 @@
 - [wooyun_public](https://github.com/hanc00l/wooyun_public) - by hanc00l
 - [keras-rl](https://github.com/matthiasplappert/keras-rl) - by matthiasplappert
 - [deep-learning-models](https://github.com/fchollet/deep-learning-models) - by fchollet
-- [research](https://github.com/commaai/research) - by commaai
 - [asyncpg](https://github.com/MagicStack/asyncpg) - by MagicStack
+- [research](https://github.com/commaai/research) - by commaai
 - [danmu](https://github.com/littlecodersh/danmu) - by littlecodersh
 - [pyqart](https://github.com/7sDream/pyqart) - by 7sDream
 - [PokemonGo-Map](https://github.com/PokemonGoMap/PokemonGo-Map) - by PokemonGoMap
@@ -214,14 +214,14 @@
 - [posio](https://github.com/abrenaut/posio) - by abrenaut
 - [PyCNN](https://github.com/ankitaggarwal011/PyCNN) - by ankitaggarwal011
 - [fuzzer](https://github.com/shellphish/fuzzer) - by shellphish
-- [open-lambda](https://github.com/open-lambda/open-lambda) - by open-lambda
 - [undebt](https://github.com/Yelp/undebt) - by Yelp
-- [text-to-image](https://github.com/paarthneekhara/text-to-image) - by paarthneekhara
+- [open-lambda](https://github.com/open-lambda/open-lambda) - by open-lambda
 - [freeline](https://github.com/alibaba/freeline) - by alibaba
+- [text-to-image](https://github.com/paarthneekhara/text-to-image) - by paarthneekhara
 - [ntfy](https://github.com/dschep/ntfy) - by dschep
 - [srez](https://github.com/david-gpu/srez) - by david-gpu
-- [apartment-finder](https://github.com/VikParuchuri/apartment-finder) - by VikParuchuri
 - [http-observatory](https://github.com/mozilla/http-observatory) - by mozilla
+- [apartment-finder](https://github.com/VikParuchuri/apartment-finder) - by VikParuchuri
 - [doc2text](https://github.com/jlsutherland/doc2text) - by jlsutherland
 
 ### 2016-9
@@ -238,3 +238,4 @@
 - [noteshrink](https://github.com/mzucker/noteshrink) - by mzucker
 - [httpstat](https://github.com/reorx/httpstat) - by reorx
 - [Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - by ajbrock
+- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - by Eloston

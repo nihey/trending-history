@@ -16,3 +16,4 @@
 ### 2016-9
 - [radon-ui](https://github.com/luojilab/radon-ui) - by luojilab
 - [element](https://github.com/ElemeFE/element) - by ElemeFE
+- [vue-wechat](https://github.com/useryangtao/vue-wechat) - by useryangtao
