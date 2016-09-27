@@ -230,8 +230,8 @@
 - [NakedTensor](https://github.com/jostmey/NakedTensor) - by jostmey
 - [awesome-python](https://github.com/vinta/awesome-python) - by vinta
 - [kimchi](https://github.com/kimchi-project/kimchi) - by kimchi-project
-- [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - by ibab
 - [keras-wavenet](https://github.com/usernaamee/keras-wavenet) - by usernaamee
+- [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - by ibab
 - [wavenet](https://github.com/basveeling/wavenet) - by basveeling
 - [fast-wavenet](https://github.com/tomlepaine/fast-wavenet) - by tomlepaine
 - [wechat-spider](https://github.com/bowenpay/wechat-spider) - by bowenpay
@@ -239,3 +239,5 @@
 - [httpstat](https://github.com/reorx/httpstat) - by reorx
 - [Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - by ajbrock
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - by Eloston
+- [iGAN](https://github.com/junyanz/iGAN) - by junyanz
+- [facegen](https://github.com/zo7/facegen) - by zo7

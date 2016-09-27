@@ -556,3 +556,4 @@
 - [dripcap](https://github.com/dripcap/dripcap) - by dripcap
 - [g9](https://github.com/bijection/g9) - by bijection
 - [tab-switcher](https://github.com/kamranahmedse/tab-switcher) - by kamranahmedse
+- [canvas-gauges](https://github.com/Mikhus/canvas-gauges) - by Mikhus

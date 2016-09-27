@@ -147,8 +147,8 @@
 - [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - by vic317yeh
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - by terryum
 - [one-python](https://github.com/geekan/one-python) - by geekan
-- [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
 - [maruos](https://github.com/maruos/maruos) - by maruos
+- [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
 - [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
 - [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
 - [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
@@ -158,31 +158,31 @@
 - [LearningNotes](https://github.com/GeniusVJR/LearningNotes) - by GeniusVJR
 - [AndroidInterview](https://github.com/fanrunqi/AndroidInterview) - by fanrunqi
 - [swift-style-guide](https://github.com/linkedin/swift-style-guide) - by linkedin
-- [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - by herrbischoff
+- [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
 - [data-science](https://github.com/open-source-society/data-science) - by open-source-society
-- [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
 - [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
 - [core](https://github.com/dotnet/core) - by dotnet
+- [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
 
 ### 2016-7
 - [forget-the-king](https://github.com/usgov/forget-the-king) - by usgov
 - [bigoposter](https://github.com/ro31337/bigoposter) - by ro31337
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - by kelseyhightower
-- [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - by metagrover
 - [Macmoji](https://github.com/warpling/Macmoji) - by warpling
-- [established-remote](https://github.com/yanirs/established-remote) - by yanirs
+- [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - by metagrover
 - [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) - by TalAter
+- [established-remote](https://github.com/yanirs/established-remote) - by yanirs
 - [egghead.io_idiomatic_redux_course_notes](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes) - by tayiorbeii
 - [awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - by TalAter
 - [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - by fatih
 - [awesome-java](https://github.com/akullpp/awesome-java) - by akullpp
 - [awesome-hyperterm](https://github.com/bnb/awesome-hyperterm) - by bnb
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - by Microsoft
-- [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - by acdlite
+- [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - by sjchoi86
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
 - [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - by FallibleInc
-- [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - by sjchoi86
+- [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - by acdlite
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - by jaywcjlove
 - [FontZip](https://github.com/forJrking/FontZip) - by forJrking
 - [notation](https://github.com/hypotext/notation) - by hypotext
@@ -194,10 +194,10 @@
 
 ### 2016-8
 - [awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - by jobbole
-- [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
-- [lxss](https://github.com/ionescu007/lxss) - by ionescu007
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
+- [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
+- [lxss](https://github.com/ionescu007/lxss) - by ionescu007
 - [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - by a0viedo
 - [Awesome-Ubuntu-Linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux) - by VoLuong
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - by aymericdamien
@@ -206,8 +206,8 @@
 - [NecroBot](https://github.com/NECROBOTIO/NecroBot) - by NECROBOTIO
 - [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - by mrjoelkemp
 - [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) - by VoLuong
-- [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - by fuchsia-mirror
 - [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) - by ZQiang94
+- [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - by fuchsia-mirror
 - [tech](https://github.com/hedengcheng/tech) - by hedengcheng
 - [zfs-ha](https://github.com/ewwhite/zfs-ha) - by ewwhite
 - [keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - by pstadler
@@ -217,8 +217,8 @@
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
 - [Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) - by Jermic
 - [potaka](https://github.com/ikrum/potaka) - by ikrum
-- [awesome-webpack](https://github.com/d3viant0ne/awesome-webpack) - by d3viant0ne
 - [LogicAndCodingGames](https://github.com/dargaCode/LogicAndCodingGames) - by dargaCode
+- [awesome-webpack](https://github.com/d3viant0ne/awesome-webpack) - by d3viant0ne
 - [react-faq](https://github.com/timarney/react-faq) - by timarney
 - [CoreLink](https://github.com/lizhangqu/CoreLink) - by lizhangqu
 - [data_location](https://github.com/mumuy/data_location) - by mumuy
@@ -232,9 +232,9 @@
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd) - by heynickc
 - [goviz-frameworks](https://github.com/groob/goviz-frameworks) - by groob
 - [speakers-who-want-a-platform](https://github.com/iheanyi/speakers-who-want-a-platform) - by iheanyi
+- [awesome-design](https://github.com/gztchan/awesome-design) - by gztchan
 - [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - by adamsitnik
 - [elixirconf-2016](https://github.com/poteto/elixirconf-2016) - by poteto
-- [awesome-design](https://github.com/gztchan/awesome-design) - by gztchan
 - [awesome-cmake](https://github.com/onqtam/awesome-cmake) - by onqtam
 - [go](https://github.com/datasciencemasters/go) - by datasciencemasters
 - [golang-notes](https://github.com/luciotato/golang-notes) - by luciotato
@@ -244,3 +244,4 @@
 - [NorthKoreaDNSLeak](https://github.com/mandatoryprogrammer/NorthKoreaDNSLeak) - by mandatoryprogrammer
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - by justjavac
 - [remote-working](https://github.com/greatghoul/remote-working) - by greatghoul
+- [Android-Session-Slides](https://github.com/MDCC2016/Android-Session-Slides) - by MDCC2016
