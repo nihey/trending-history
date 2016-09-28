@@ -422,3 +422,4 @@
 - [android-page-transition](https://github.com/xmuSistone/android-page-transition) - by xmuSistone
 - [AnimateVectorDrawableDEMO](https://github.com/ghuiii/AnimateVectorDrawableDEMO) - by ghuiii
 - [SuperPlayer](https://github.com/supercwn/SuperPlayer) - by supercwn
+- [RealtimeBlurView](https://github.com/mmin18/RealtimeBlurView) - by mmin18

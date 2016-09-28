@@ -102,8 +102,8 @@
 - [fastText](https://github.com/facebookresearch/fastText) - by facebookresearch
 - [thor-os](https://github.com/wichtounet/thor-os) - by wichtounet
 - [NNplusplus](https://github.com/stagadish/NNplusplus) - by stagadish
-- [Paddle](https://github.com/baidu/Paddle) - by baidu
 - [phxsql](https://github.com/tencent-wechat/phxsql) - by tencent-wechat
+- [Paddle](https://github.com/baidu/Paddle) - by baidu
 
 ### 2016-9
 - [fast_rgf](https://github.com/baidu/fast_rgf) - by baidu
@@ -120,3 +120,4 @@
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - by tekezo
 - [gcpp](https://github.com/hsutter/gcpp) - by hsutter
 - [dr_strangetemplate](https://github.com/MCGallaspy/dr_strangetemplate) - by MCGallaspy
+- [realm-core](https://github.com/realm/realm-core) - by realm
