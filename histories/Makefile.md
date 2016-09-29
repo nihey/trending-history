@@ -6,3 +6,6 @@
 
 ### 2016-4
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
+
+### 2016-9
+- [go-build-template](https://github.com/thockin/go-build-template) - by thockin

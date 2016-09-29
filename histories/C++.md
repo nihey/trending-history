@@ -47,8 +47,8 @@
 - [rhine](https://github.com/artagnon/rhine) - by artagnon
 - [opentoonz](https://github.com/opentoonz/opentoonz) - by opentoonz
 - [CS_Offer](https://github.com/xuelangZF/CS_Offer) - by xuelangZF
-- [feather](https://github.com/wesm/feather) - by wesm
 - [uWebSockets](https://github.com/alexhultman/uWebSockets) - by alexhultman
+- [feather](https://github.com/wesm/feather) - by wesm
 
 ### 2016-4
 - [aria2](https://github.com/tatsuhiro-t/aria2) - by tatsuhiro-t
@@ -82,8 +82,8 @@
 - [ClickHouse](https://github.com/yandex/ClickHouse) - by yandex
 - [persistent-rnn](https://github.com/baidu-research/persistent-rnn) - by baidu-research
 - [phxpaxos](https://github.com/tencent-wechat/phxpaxos) - by tencent-wechat
-- [tiny-cnn](https://github.com/nyanp/tiny-cnn) - by nyanp
 - [Natron](https://github.com/MrKepzie/Natron) - by MrKepzie
+- [tiny-cnn](https://github.com/nyanp/tiny-cnn) - by nyanp
 
 ### 2016-7
 - [mlpack](https://github.com/mlpack/mlpack) - by mlpack
@@ -102,8 +102,8 @@
 - [fastText](https://github.com/facebookresearch/fastText) - by facebookresearch
 - [thor-os](https://github.com/wichtounet/thor-os) - by wichtounet
 - [NNplusplus](https://github.com/stagadish/NNplusplus) - by stagadish
-- [phxsql](https://github.com/tencent-wechat/phxsql) - by tencent-wechat
 - [Paddle](https://github.com/baidu/Paddle) - by baidu
+- [phxsql](https://github.com/tencent-wechat/phxsql) - by tencent-wechat
 
 ### 2016-9
 - [fast_rgf](https://github.com/baidu/fast_rgf) - by baidu
@@ -112,12 +112,13 @@
 - [capnproto](https://github.com/sandstorm-io/capnproto) - by sandstorm-io
 - [uWebSockets](https://github.com/uWebSockets/uWebSockets) - by uWebSockets
 - [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - by seetaface
-- [unrealcv](https://github.com/unrealcv/unrealcv) - by unrealcv
 - [envoy](https://github.com/lyft/envoy) - by lyft
 - [link](https://github.com/Ableton/link) - by Ableton
+- [unrealcv](https://github.com/unrealcv/unrealcv) - by unrealcv
 - [AnyRTC-RTMP](https://github.com/AnyRTC/AnyRTC-RTMP) - by AnyRTC
 - [vcpkg](https://github.com/Microsoft/vcpkg) - by Microsoft
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - by tekezo
 - [gcpp](https://github.com/hsutter/gcpp) - by hsutter
 - [dr_strangetemplate](https://github.com/MCGallaspy/dr_strangetemplate) - by MCGallaspy
 - [realm-core](https://github.com/realm/realm-core) - by realm
+- [osquery](https://github.com/facebook/osquery) - by facebook
