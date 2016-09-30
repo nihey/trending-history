@@ -12,3 +12,6 @@
 
 ### 2016-8
 - [weight-loss](https://github.com/arielf/weight-loss) - by arielf
+
+### 2016-9
+- [tensorflow](https://github.com/rstudio/tensorflow) - by rstudio

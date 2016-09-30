@@ -84,3 +84,4 @@
 - [AwesomeCommand](https://github.com/Bupterambition/AwesomeCommand) - by Bupterambition
 - [objc-format-check](https://github.com/Bupterambition/objc-format-check) - by Bupterambition
 - [NeiHanDuanZI](https://github.com/Charlesyaoxin/NeiHanDuanZI) - by Charlesyaoxin
+- [HubFramework](https://github.com/spotify/HubFramework) - by spotify

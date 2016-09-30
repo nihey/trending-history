@@ -67,11 +67,11 @@
 - [abot](https://github.com/itsabot/abot) - by itsabot
 
 ### 2016-4
-- [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
+- [depscheck](https://github.com/divan/depscheck) - by divan
+- [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [echo](https://github.com/labstack/echo) - by labstack
 - [qor](https://github.com/qor/qor) - by qor
-- [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
@@ -97,8 +97,8 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
+- [grafana](https://github.com/grafana/grafana) - by grafana
 - [leveros](https://github.com/leveros/leveros) - by leveros
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
@@ -169,3 +169,5 @@
 - [gallium](https://github.com/alexflint/gallium) - by alexflint
 - [httpstat](https://github.com/davecheney/httpstat) - by davecheney
 - [eliasdb](https://github.com/krotik/eliasdb) - by krotik
+- [armor](https://github.com/labstack/armor) - by labstack
+- [gosl](https://github.com/cpmech/gosl) - by cpmech
