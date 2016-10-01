@@ -112,9 +112,9 @@
 - [capnproto](https://github.com/sandstorm-io/capnproto) - by sandstorm-io
 - [uWebSockets](https://github.com/uWebSockets/uWebSockets) - by uWebSockets
 - [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - by seetaface
+- [unrealcv](https://github.com/unrealcv/unrealcv) - by unrealcv
 - [envoy](https://github.com/lyft/envoy) - by lyft
 - [link](https://github.com/Ableton/link) - by Ableton
-- [unrealcv](https://github.com/unrealcv/unrealcv) - by unrealcv
 - [AnyRTC-RTMP](https://github.com/AnyRTC/AnyRTC-RTMP) - by AnyRTC
 - [vcpkg](https://github.com/Microsoft/vcpkg) - by Microsoft
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - by tekezo
@@ -122,3 +122,6 @@
 - [dr_strangetemplate](https://github.com/MCGallaspy/dr_strangetemplate) - by MCGallaspy
 - [realm-core](https://github.com/realm/realm-core) - by realm
 - [osquery](https://github.com/facebook/osquery) - by facebook
+
+### 2016-10
+- [tinyflow](https://github.com/tqchen/tinyflow) - by tqchen

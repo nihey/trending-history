@@ -116,3 +116,6 @@
 - [delta](https://github.com/byteam/delta) - by byteam
 - [json-tutorial](https://github.com/miloyip/json-tutorial) - by miloyip
 - [dokany](https://github.com/dokan-dev/dokany) - by dokan-dev
+
+### 2016-10
+- [neural-redis](https://github.com/antirez/neural-redis) - by antirez
