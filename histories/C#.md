@@ -13,13 +13,13 @@
 - [ink](https://github.com/inkle/ink) - by inkle
 - [temporal](https://github.com/playdeadgames/temporal) - by playdeadgames
 - [VS-PPT](https://github.com/Microsoft/VS-PPT) - by Microsoft
-- [GalaxyExplorer](https://github.com/Microsoft/GalaxyExplorer) - by Microsoft
 - [BotBuilder](https://github.com/Microsoft/BotBuilder) - by Microsoft
+- [GalaxyExplorer](https://github.com/Microsoft/GalaxyExplorer) - by Microsoft
 
 ### 2016-4
-- [xamarin-macios](https://github.com/xamarin/xamarin-macios) - by xamarin
-- [xamarin-android](https://github.com/xamarin/xamarin-android) - by xamarin
 - [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - by xamarin
+- [xamarin-android](https://github.com/xamarin/xamarin-android) - by xamarin
+- [xamarin-macios](https://github.com/xamarin/xamarin-macios) - by xamarin
 
 ### 2016-5
 - [Numerical-Analysis-Examples](https://github.com/ergenekonyigit/Numerical-Analysis-Examples) - by ergenekonyigit
@@ -49,3 +49,6 @@
 ### 2016-9
 - [Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) - by Nummer
 - [perfview](https://github.com/Microsoft/perfview) - by Microsoft
+
+### 2016-10
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - by mxgmn

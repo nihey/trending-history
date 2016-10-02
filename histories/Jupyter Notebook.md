@@ -33,3 +33,6 @@
 ### 2016-9
 - [coursera-ML](https://github.com/icrtiou/coursera-ML) - by icrtiou
 - [tensorflow-tutorial](https://github.com/alrojo/tensorflow-tutorial) - by alrojo
+
+### 2016-10
+- [subpixel](https://github.com/Tetrachrome/subpixel) - by Tetrachrome

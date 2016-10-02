@@ -13,14 +13,14 @@
 - [RxJava-Essentials-CN](https://github.com/yuxingxin/RxJava-Essentials-CN) - by yuxingxin
 - [weui](https://github.com/weui/weui) - by weui
 - [overpass](https://github.com/RedHatBrand/overpass) - by RedHatBrand
-- [jstips](https://github.com/loverajoel/jstips) - by loverajoel
 - [pev](https://github.com/AlexTatiyants/pev) - by AlexTatiyants
+- [jstips](https://github.com/loverajoel/jstips) - by loverajoel
 - [hint.css](https://github.com/chinchang/hint.css) - by chinchang
 - [goad](https://github.com/gophergala2016/goad) - by gophergala2016
-- [bulma](https://github.com/jgthms/bulma) - by jgthms
 - [voxel.css](https://github.com/HunterLarco/voxel.css) - by HunterLarco
-- [openblog](https://github.com/mateogianolio/openblog) - by mateogianolio
+- [bulma](https://github.com/jgthms/bulma) - by jgthms
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - by sahat
+- [openblog](https://github.com/mateogianolio/openblog) - by mateogianolio
 
 ### 2016-2
 - [jenkins-neo-theme](https://github.com/aarjithn/jenkins-neo-theme) - by aarjithn
@@ -59,8 +59,8 @@
 - [You-Dont-Need-Javascript](https://github.com/NamPNQ/You-Dont-Need-Javascript) - by NamPNQ
 - [the-old-github-font](https://github.com/rreusser/the-old-github-font) - by rreusser
 - [material-kit](https://github.com/timcreative/material-kit) - by timcreative
-- [hubpress.io](https://github.com/HubPress/hubpress.io) - by HubPress
 - [blaze](https://github.com/BlazeCSS/blaze) - by BlazeCSS
+- [hubpress.io](https://github.com/HubPress/hubpress.io) - by HubPress
 - [hack](https://github.com/egoist/hack) - by egoist
 - [SmartMirror](https://github.com/Shinao/SmartMirror) - by Shinao
 
@@ -75,3 +75,6 @@
 - [radiobox.css](https://github.com/720kb/radiobox.css) - by 720kb
 - [reframe.js](https://github.com/dollarshaveclub/reframe.js) - by dollarshaveclub
 - [open-color](https://github.com/yeun/open-color) - by yeun
+
+### 2016-10
+- [lyicon](https://github.com/ijry/lyicon) - by ijry
