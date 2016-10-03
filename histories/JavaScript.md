@@ -568,3 +568,4 @@
 - [pghero](https://github.com/ankane/pghero) - by ankane
 - [snabbdom](https://github.com/snabbdom/snabbdom) - by snabbdom
 - [kaktus](https://github.com/kaktus/kaktus) - by kaktus
+- [lambda-view](https://github.com/Jianru-Lin/lambda-view) - by Jianru-Lin

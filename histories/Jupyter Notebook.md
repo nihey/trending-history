@@ -36,3 +36,4 @@
 
 ### 2016-10
 - [subpixel](https://github.com/Tetrachrome/subpixel) - by Tetrachrome
+- [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - by dennybritz
