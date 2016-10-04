@@ -99,8 +99,8 @@
 - [SimpleRT](https://github.com/vvviperrr/SimpleRT) - by vvviperrr
 - [patchkit](https://github.com/lunixbochs/patchkit) - by lunixbochs
 - [librevault](https://github.com/Librevault/librevault) - by Librevault
-- [wcc](https://github.com/endrazine/wcc) - by endrazine
 - [magenta](https://github.com/fuchsia-mirror/magenta) - by fuchsia-mirror
+- [wcc](https://github.com/endrazine/wcc) - by endrazine
 - [lk](https://github.com/littlekernel/lk) - by littlekernel
 - [bucklespring](https://github.com/zevv/bucklespring) - by zevv
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
@@ -120,3 +120,4 @@
 ### 2016-10
 - [neural-redis](https://github.com/antirez/neural-redis) - by antirez
 - [IncludeOS](https://github.com/hioa-cs/IncludeOS) - by hioa-cs
+- [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - by jgamblin
