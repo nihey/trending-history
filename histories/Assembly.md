@@ -17,3 +17,6 @@
 ### 2016-8
 - [pokered](https://github.com/pret/pokered) - by pret
 - [kindle-5.6.5-jailbreak](https://github.com/sgayou/kindle-5.6.5-jailbreak) - by sgayou
+
+### 2016-10
+- [tetros](https://github.com/daniel-e/tetros) - by daniel-e

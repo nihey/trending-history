@@ -171,3 +171,6 @@
 - [eliasdb](https://github.com/krotik/eliasdb) - by krotik
 - [armor](https://github.com/labstack/armor) - by labstack
 - [gosl](https://github.com/cpmech/gosl) - by cpmech
+
+### 2016-10
+- [infrakit](https://github.com/docker/infrakit) - by docker

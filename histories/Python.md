@@ -239,8 +239,8 @@
 - [httpstat](https://github.com/reorx/httpstat) - by reorx
 - [Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - by ajbrock
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - by Eloston
-- [iGAN](https://github.com/junyanz/iGAN) - by junyanz
 - [facegen](https://github.com/zo7/facegen) - by zo7
+- [iGAN](https://github.com/junyanz/iGAN) - by junyanz
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - by facebookresearch
 - [fgmk](https://github.com/ericoporto/fgmk) - by ericoporto
 - [whereami](https://github.com/kootenpv/whereami) - by kootenpv
@@ -250,3 +250,5 @@
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - by detailyang
 - [gitless](https://github.com/sdg-mit/gitless) - by sdg-mit
 - [Nvidia-Autopilot-TensorFlow](https://github.com/SullyChen/Nvidia-Autopilot-TensorFlow) - by SullyChen
+- [pytextrank](https://github.com/ceteri/pytextrank) - by ceteri
+- [ding](https://github.com/liviu-/ding) - by liviu-
