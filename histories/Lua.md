@@ -28,3 +28,6 @@
 
 ### 2016-9
 - [torch-twrl](https://github.com/twitter/torch-twrl) - by twitter
+
+### 2016-10
+- [fast-neural-style](https://github.com/jcjohnson/fast-neural-style) - by jcjohnson
