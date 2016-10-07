@@ -28,3 +28,6 @@
 
 ### 2016-8
 - [maquette](https://github.com/AFASSoftware/maquette) - by AFASSoftware
+
+### 2016-10
+- [mirage](https://github.com/appbaseio/mirage) - by appbaseio

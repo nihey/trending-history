@@ -82,8 +82,8 @@
 - [ClickHouse](https://github.com/yandex/ClickHouse) - by yandex
 - [persistent-rnn](https://github.com/baidu-research/persistent-rnn) - by baidu-research
 - [phxpaxos](https://github.com/tencent-wechat/phxpaxos) - by tencent-wechat
-- [Natron](https://github.com/MrKepzie/Natron) - by MrKepzie
 - [tiny-cnn](https://github.com/nyanp/tiny-cnn) - by nyanp
+- [Natron](https://github.com/MrKepzie/Natron) - by MrKepzie
 
 ### 2016-7
 - [mlpack](https://github.com/mlpack/mlpack) - by mlpack
@@ -126,3 +126,5 @@
 ### 2016-10
 - [tinyflow](https://github.com/tqchen/tinyflow) - by tqchen
 - [rgat](https://github.com/ncatlin/rgat) - by ncatlin
+- [cartographer](https://github.com/googlecartographer/cartographer) - by googlecartographer
+- [rethinkdb](https://github.com/rethinkdb/rethinkdb) - by rethinkdb

@@ -136,14 +136,14 @@
 ### 2016-8
 - [gh-ost](https://github.com/github/gh-ost) - by github
 - [noms](https://github.com/attic-labs/noms) - by attic-labs
-- [frp](https://github.com/fatedier/frp) - by fatedier
 - [ssh-chat](https://github.com/shazow/ssh-chat) - by shazow
+- [frp](https://github.com/fatedier/frp) - by fatedier
 - [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) - by thewhitetulip
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
 - [dht](https://github.com/shiyanhui/dht) - by shiyanhui
-- [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
 - [staticfiles](https://github.com/bouk/staticfiles) - by bouk
+- [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
 - [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph
 - [realize](https://github.com/tockins/realize) - by tockins
@@ -174,3 +174,4 @@
 
 ### 2016-10
 - [infrakit](https://github.com/docker/infrakit) - by docker
+- [gorram](https://github.com/natefinch/gorram) - by natefinch

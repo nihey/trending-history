@@ -16,3 +16,6 @@
 
 ### 2016-7
 - [corrode](https://github.com/jameysharp/corrode) - by jameysharp
+
+### 2016-10
+- [patat](https://github.com/jaspervdj/patat) - by jaspervdj
