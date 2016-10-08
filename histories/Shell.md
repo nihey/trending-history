@@ -61,3 +61,6 @@
 - [quinedb](https://github.com/gfredericks/quinedb) - by gfredericks
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - by CyberShadow
 - [OSX-KVM](https://github.com/kholia/OSX-KVM) - by kholia
+
+### 2016-10
+- [alexa-avs-sample-app](https://github.com/alexa/alexa-avs-sample-app) - by alexa

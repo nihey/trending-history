@@ -436,3 +436,4 @@
 - [FlickerProgressBar](https://github.com/LineChen/FlickerProgressBar) - by LineChen
 - [Repeat](https://github.com/repeats/Repeat) - by repeats
 - [AnimatorDurationTile](https://github.com/nickbutcher/AnimatorDurationTile) - by nickbutcher
+- [RxUnfurl](https://github.com/Schinizer/RxUnfurl) - by Schinizer

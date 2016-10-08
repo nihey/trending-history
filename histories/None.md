@@ -254,3 +254,4 @@
 - [google-interview-university](https://github.com/jwasham/google-interview-university) - by jwasham
 - [self-driving-car](https://github.com/udacity/self-driving-car) - by udacity
 - [awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - by RyanZim
+- [noto-fonts](https://github.com/googlei18n/noto-fonts) - by googlei18n

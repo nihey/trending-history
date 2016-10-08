@@ -252,3 +252,4 @@
 - [Nvidia-Autopilot-TensorFlow](https://github.com/SullyChen/Nvidia-Autopilot-TensorFlow) - by SullyChen
 - [pytextrank](https://github.com/ceteri/pytextrank) - by ceteri
 - [ding](https://github.com/liviu-/ding) - by liviu-
+- [suiron](https://github.com/kendricktan/suiron) - by kendricktan
