@@ -65,15 +65,15 @@
 - [Stevia](https://github.com/s4cha/Stevia) - by s4cha
 - [navigation-stack](https://github.com/Ramotion/navigation-stack) - by Ramotion
 - [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) - by fruitcoder
-- [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
 - [PeekPop](https://github.com/marmelroy/PeekPop) - by marmelroy
+- [react-native-ios-charts](https://github.com/Jpadilla1/react-native-ios-charts) - by Jpadilla1
 - [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) - by BoltsFramework
 - [V2ex-Swift](https://github.com/Finb/V2ex-Swift) - by Finb
 - [Appz](https://github.com/SwiftKitz/Appz) - by SwiftKitz
 - [Permission](https://github.com/delba/Permission) - by delba
-- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
-- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - by bizz84
+- [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - by mortenjust
+- [Gifu](https://github.com/kaishin/Gifu) - by kaishin
 - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - by liuzhiyi1992
 
 ### 2016-4
@@ -103,8 +103,8 @@
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - by dkhamsing
 - [PMAlertController](https://github.com/Codeido/PMAlertController) - by Codeido
 - [Networking](https://github.com/3lvis/Networking) - by 3lvis
-- [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
 - [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - by onmyway133
+- [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView) - by philackm
 - [expanding-collection](https://github.com/Ramotion/expanding-collection) - by Ramotion
 - [Render](https://github.com/alexdrone/Render) - by alexdrone
 
@@ -134,8 +134,8 @@
 - [Iconic](https://github.com/dzenbot/Iconic) - by dzenbot
 - [Potatso](https://github.com/shadowsocks/Potatso) - by shadowsocks
 - [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - by soapyigu
-- [NightNight](https://github.com/Draveness/NightNight) - by Draveness
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - by kahopoon
+- [NightNight](https://github.com/Draveness/NightNight) - by Draveness
 - [Live](https://github.com/ltebean/Live) - by ltebean
 - [Celluloid](https://github.com/100mango/Celluloid) - by 100mango
 - [PopupDialog](https://github.com/Orderella/PopupDialog) - by Orderella
@@ -161,3 +161,6 @@
 - [vapor](https://github.com/vapor/vapor) - by vapor
 - [12306ForMac](https://github.com/fancymax/12306ForMac) - by fancymax
 - [swift-protobuf-plugin](https://github.com/apple/swift-protobuf-plugin) - by apple
+
+### 2016-10
+- [Typist](https://github.com/totocaster/Typist) - by totocaster
