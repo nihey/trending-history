@@ -258,3 +258,4 @@
 - [gitjob](https://github.com/amattson21/gitjob) - by amattson21
 - [Lee-VR-Source](https://github.com/GeekLiB/Lee-VR-Source) - by GeekLiB
 - [javascript-lessons](https://github.com/stone0090/javascript-lessons) - by stone0090
+- [awesome-scss](https://github.com/Famolus/awesome-scss) - by Famolus

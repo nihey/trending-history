@@ -18,3 +18,6 @@
 
 ### 2016-8
 - [hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree) - by datacrypt-project
+
+### 2016-10
+- [Nightlight](https://github.com/oakes/Nightlight) - by oakes

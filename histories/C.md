@@ -81,8 +81,8 @@
 - [lzfse](https://github.com/lzfse/lzfse) - by lzfse
 - [afl.rs](https://github.com/frewsxcv/afl.rs) - by frewsxcv
 - [u2f-zero](https://github.com/conorpp/u2f-zero) - by conorpp
-- [huo](https://github.com/incrediblesound/huo) - by incrediblesound
 - [longs](https://github.com/riolet/longs) - by riolet
+- [huo](https://github.com/incrediblesound/huo) - by incrediblesound
 - [massdns](https://github.com/blechschmidt/massdns) - by blechschmidt
 
 ### 2016-7
@@ -122,3 +122,4 @@
 - [IncludeOS](https://github.com/hioa-cs/IncludeOS) - by hioa-cs
 - [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - by jgamblin
 - [zson](https://github.com/afiskon/zson) - by afiskon
+- [image-unshredding](https://github.com/robinhouston/image-unshredding) - by robinhouston
