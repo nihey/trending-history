@@ -35,8 +35,8 @@
 ### 2016-5
 - [valet](https://github.com/laravel/valet) - by laravel
 - [PHP-backdoors](https://github.com/bartblaze/PHP-backdoors) - by bartblaze
-- [dial2verify-twilio](https://github.com/natsu90/dial2verify-twilio) - by natsu90
 - [Diaspora](https://github.com/LoeiFy/Diaspora) - by LoeiFy
+- [dial2verify-twilio](https://github.com/natsu90/dial2verify-twilio) - by natsu90
 - [pinyin](https://github.com/overtrue/pinyin) - by overtrue
 
 ### 2016-6
@@ -61,3 +61,6 @@
 - [polr](https://github.com/cydrobolt/polr) - by cydrobolt
 - [411](https://github.com/etsy/411) - by etsy
 - [think](https://github.com/top-think/think) - by top-think
+
+### 2016-10
+- [framework](https://github.com/kraken-php/framework) - by kraken-php

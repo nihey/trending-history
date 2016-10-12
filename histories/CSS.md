@@ -79,3 +79,4 @@
 ### 2016-10
 - [lyicon](https://github.com/ijry/lyicon) - by ijry
 - [Adapta](https://github.com/tista500/Adapta) - by tista500
+- [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - by FreeCodeCampChina

@@ -242,8 +242,8 @@
 - [iGAN](https://github.com/junyanz/iGAN) - by junyanz
 - [facegen](https://github.com/zo7/facegen) - by zo7
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - by facebookresearch
-- [fgmk](https://github.com/ericoporto/fgmk) - by ericoporto
 - [whereami](https://github.com/kootenpv/whereami) - by kootenpv
+- [fgmk](https://github.com/ericoporto/fgmk) - by ericoporto
 
 ### 2016-10
 - [open_nsfw](https://github.com/yahoo/open_nsfw) - by yahoo
@@ -254,3 +254,4 @@
 - [ding](https://github.com/liviu-/ding) - by liviu-
 - [suiron](https://github.com/kendricktan/suiron) - by kendricktan
 - [binarytree](https://github.com/joowani/binarytree) - by joowani
+- [git-repo](https://github.com/guyzmo/git-repo) - by guyzmo

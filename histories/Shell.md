@@ -64,3 +64,4 @@
 
 ### 2016-10
 - [alexa-avs-sample-app](https://github.com/alexa/alexa-avs-sample-app) - by alexa
+- [og-aws](https://github.com/open-guides/og-aws) - by open-guides
