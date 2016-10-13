@@ -128,3 +128,4 @@
 - [rgat](https://github.com/ncatlin/rgat) - by ncatlin
 - [cartographer](https://github.com/googlecartographer/cartographer) - by googlecartographer
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - by rethinkdb
+- [neural-style-tf](https://github.com/cysmith/neural-style-tf) - by cysmith
