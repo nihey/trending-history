@@ -260,3 +260,4 @@
 - [javascript-lessons](https://github.com/stone0090/javascript-lessons) - by stone0090
 - [awesome-scss](https://github.com/Famolus/awesome-scss) - by Famolus
 - [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - by BruceDone
+- [lime](https://github.com/limetext/lime) - by limetext
