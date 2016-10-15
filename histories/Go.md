@@ -126,8 +126,8 @@
 - [sharkey](https://github.com/square/sharkey) - by square
 - [cryptopasta](https://github.com/gtank/cryptopasta) - by gtank
 - [buntdb](https://github.com/tidwall/buntdb) - by tidwall
-- [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
+- [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
@@ -142,13 +142,13 @@
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
 - [dht](https://github.com/shiyanhui/dht) - by shiyanhui
-- [staticfiles](https://github.com/bouk/staticfiles) - by bouk
 - [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
+- [staticfiles](https://github.com/bouk/staticfiles) - by bouk
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
 - [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph
-- [realize](https://github.com/tockins/realize) - by tockins
-- [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
 - [redcon](https://github.com/tidwall/redcon) - by tidwall
+- [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
+- [realize](https://github.com/tockins/realize) - by tockins
 - [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
 - [workq](https://github.com/iamduo/workq) - by iamduo
 - [mylg](https://github.com/mehrdadrad/mylg) - by mehrdadrad
@@ -178,3 +178,4 @@
 - [hugo](https://github.com/spf13/hugo) - by spf13
 - [dontbug](https://github.com/sidkshatriya/dontbug) - by sidkshatriya
 - [summitdb](https://github.com/tidwall/summitdb) - by tidwall
+- [flynn](https://github.com/flynn/flynn) - by flynn

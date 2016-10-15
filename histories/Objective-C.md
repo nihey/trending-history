@@ -88,3 +88,4 @@
 
 ### 2016-10
 - [IGListKit](https://github.com/Instagram/IGListKit) - by Instagram
+- [Sprayscape](https://github.com/googlecreativelab/Sprayscape) - by googlecreativelab

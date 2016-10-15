@@ -587,3 +587,5 @@
 - [mesing](https://github.com/usdivad/mesing) - by usdivad
 - [styled-components](https://github.com/styled-components/styled-components) - by styled-components
 - [notification-logger](https://github.com/hkirat/notification-logger) - by hkirat
+- [layui](https://github.com/sentsin/layui) - by sentsin
+- [roll-call](https://github.com/mikeal/roll-call) - by mikeal
