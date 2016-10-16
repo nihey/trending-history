@@ -138,12 +138,12 @@
 - [xonsh](https://github.com/scopatz/xonsh) - by scopatz
 - [deco](https://github.com/alex-sherman/deco) - by alex-sherman
 - [models](https://github.com/tensorflow/models) - by tensorflow
-- [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
 - [certbot](https://github.com/certbot/certbot) - by certbot
+- [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
-- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
+- [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
@@ -169,8 +169,8 @@
 - [beets](https://github.com/beetbox/beets) - by beetbox
 - [coconut](https://github.com/evhub/coconut) - by evhub
 - [Daily-Reddit-Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - by ssimunic
-- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
 - [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar
+- [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
 - [netbox](https://github.com/digitalocean/netbox) - by digitalocean
 - [GraphDash](https://github.com/AmadeusITGroup/GraphDash) - by AmadeusITGroup
 
@@ -179,15 +179,15 @@
 - [shutit](https://github.com/ianmiell/shutit) - by ianmiell
 - [chalice](https://github.com/awslabs/chalice) - by awslabs
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
-- [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
+- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
-- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
+- [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
-- [pgoapi](https://github.com/tejado/pgoapi) - by tejado
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
+- [pgoapi](https://github.com/tejado/pgoapi) - by tejado
 - [riko](https://github.com/nerevu/riko) - by nerevu
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere
@@ -227,8 +227,8 @@
 ### 2016-9
 - [stitch](https://github.com/pystitch/stitch) - by pystitch
 - [qrcode](https://github.com/sylnsfar/qrcode) - by sylnsfar
-- [awesome-python](https://github.com/vinta/awesome-python) - by vinta
 - [NakedTensor](https://github.com/jostmey/NakedTensor) - by jostmey
+- [awesome-python](https://github.com/vinta/awesome-python) - by vinta
 - [kimchi](https://github.com/kimchi-project/kimchi) - by kimchi-project
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - by ibab
 - [keras-wavenet](https://github.com/usernaamee/keras-wavenet) - by usernaamee
@@ -242,8 +242,8 @@
 - [iGAN](https://github.com/junyanz/iGAN) - by junyanz
 - [facegen](https://github.com/zo7/facegen) - by zo7
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - by facebookresearch
-- [whereami](https://github.com/kootenpv/whereami) - by kootenpv
 - [fgmk](https://github.com/ericoporto/fgmk) - by ericoporto
+- [whereami](https://github.com/kootenpv/whereami) - by kootenpv
 
 ### 2016-10
 - [open_nsfw](https://github.com/yahoo/open_nsfw) - by yahoo
@@ -255,3 +255,5 @@
 - [suiron](https://github.com/kendricktan/suiron) - by kendricktan
 - [binarytree](https://github.com/joowani/binarytree) - by joowani
 - [git-repo](https://github.com/guyzmo/git-repo) - by guyzmo
+- [sanic](https://github.com/channelcat/sanic) - by channelcat
+- [TensorFlow-Chinese-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-Chinese-Tutorial) - by CreatCodeBuild
