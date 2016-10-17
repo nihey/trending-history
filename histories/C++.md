@@ -92,8 +92,8 @@
 - [libyojimbo](https://github.com/networkprotocol/libyojimbo) - by networkprotocol
 - [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - by KhronosGroup
 - [GameLad](https://github.com/Dooskington/GameLad) - by Dooskington
-- [eventql](https://github.com/eventql/eventql) - by eventql
 - [Surround360](https://github.com/facebook/Surround360) - by facebook
+- [eventql](https://github.com/eventql/eventql) - by eventql
 - [USD](https://github.com/PixarAnimationStudios/USD) - by PixarAnimationStudios
 - [Magic-Sand](https://github.com/thomwolf/Magic-Sand) - by thomwolf
 - [protobuf](https://github.com/google/protobuf) - by google
@@ -102,8 +102,8 @@
 - [fastText](https://github.com/facebookresearch/fastText) - by facebookresearch
 - [thor-os](https://github.com/wichtounet/thor-os) - by wichtounet
 - [NNplusplus](https://github.com/stagadish/NNplusplus) - by stagadish
-- [phxsql](https://github.com/tencent-wechat/phxsql) - by tencent-wechat
 - [Paddle](https://github.com/baidu/Paddle) - by baidu
+- [phxsql](https://github.com/tencent-wechat/phxsql) - by tencent-wechat
 
 ### 2016-9
 - [fast_rgf](https://github.com/baidu/fast_rgf) - by baidu
@@ -130,3 +130,4 @@
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - by rethinkdb
 - [neural-style-tf](https://github.com/cysmith/neural-style-tf) - by cysmith
 - [AliSQL](https://github.com/alibaba/AliSQL) - by alibaba
+- [LightGBM](https://github.com/Microsoft/LightGBM) - by Microsoft
