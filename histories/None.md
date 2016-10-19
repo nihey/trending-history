@@ -119,17 +119,17 @@
 
 ### 2016-5
 - [hosts](https://github.com/racaljk/hosts) - by racaljk
-- [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide) - by kciter
-- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
+- [BlackheartedHospital](https://github.com/langhua9527/BlackheartedHospital) - by langhua9527
 - [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - by wingjay
+- [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - by jtoy
 - [hospital-viz](https://github.com/wandergis/hospital-viz) - by wandergis
 - [linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - by chassing
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - by giantray
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - by dbohdan
 - [membership.db](https://github.com/membership/membership.db) - by membership
-- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - by jobbole
 - [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis) - by LittleFriendsGroup
+- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - by jobbole
 - [tesla-features](https://github.com/sahin/tesla-features) - by sahin
 - [post-mortems](https://github.com/danluu/post-mortems) - by danluu
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - by jobbole
@@ -138,8 +138,8 @@
 - [androidstudio-plugins](https://github.com/dreamlivemeng/androidstudio-plugins) - by dreamlivemeng
 - [what-happens-when](https://github.com/alex/what-happens-when) - by alex
 - [opengov](https://github.com/seoul-opengov/opengov) - by seoul-opengov
-- [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - by jdsutton
 - [awesome-ng2](https://github.com/gf-rd/awesome-ng2) - by gf-rd
+- [Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - by jdsutton
 - [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners) - by veficos
 - [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - by hemanth
 
@@ -147,23 +147,23 @@
 - [One-Click-to-Be-Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro) - by vic317yeh
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - by terryum
 - [one-python](https://github.com/geekan/one-python) - by geekan
-- [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
 - [maruos](https://github.com/maruos/maruos) - by maruos
-- [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
+- [open-decision-framework](https://github.com/opensourceway/open-decision-framework) - by opensourceway
 - [FullStackDeveloperCourse](https://github.com/warmheartli/FullStackDeveloperCourse) - by warmheartli
-- [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
+- [logrocket](https://github.com/LogRocket/logrocket) - by LogRocket
 - [Learning-RecyclerView](https://github.com/CameloeAnthony/Learning-RecyclerView) - by CameloeAnthony
+- [lemonade-stand](https://github.com/nayafia/lemonade-stand) - by nayafia
 - [UI](https://github.com/iOS10-KIT/UI) - by iOS10-KIT
 - [gitalias](https://github.com/GitAlias/gitalias) - by GitAlias
 - [LearningNotes](https://github.com/GeniusVJR/LearningNotes) - by GeniusVJR
 - [AndroidInterview](https://github.com/fanrunqi/AndroidInterview) - by fanrunqi
 - [swift-style-guide](https://github.com/linkedin/swift-style-guide) - by linkedin
-- [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - by herrbischoff
+- [js-interview-review](https://github.com/adam-s/js-interview-review) - by adam-s
 - [data-science](https://github.com/open-source-society/data-science) - by open-source-society
-- [core](https://github.com/dotnet/core) - by dotnet
-- [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
 - [startup-checklist](https://github.com/leonar15/startup-checklist) - by leonar15
+- [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina) - by ThinkDevelopers
+- [core](https://github.com/dotnet/core) - by dotnet
 
 ### 2016-7
 - [forget-the-king](https://github.com/usgov/forget-the-king) - by usgov
@@ -171,18 +171,18 @@
 - [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - by metagrover
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - by kelseyhightower
 - [Macmoji](https://github.com/warpling/Macmoji) - by warpling
-- [established-remote](https://github.com/yanirs/established-remote) - by yanirs
 - [awesome-service-workers](https://github.com/TalAter/awesome-service-workers) - by TalAter
+- [established-remote](https://github.com/yanirs/established-remote) - by yanirs
 - [egghead.io_idiomatic_redux_course_notes](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes) - by tayiorbeii
 - [awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) - by TalAter
 - [vim-go-tutorial](https://github.com/fatih/vim-go-tutorial) - by fatih
 - [awesome-java](https://github.com/akullpp/awesome-java) - by akullpp
 - [awesome-hyperterm](https://github.com/bnb/awesome-hyperterm) - by bnb
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - by Microsoft
-- [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - by acdlite
-- [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
-- [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - by FallibleInc
 - [dl_tutorials](https://github.com/sjchoi86/dl_tutorials) - by sjchoi86
+- [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - by acdlite
+- [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - by FallibleInc
+- [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) - by JackyAndroid
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - by jaywcjlove
 - [FontZip](https://github.com/forJrking/FontZip) - by forJrking
 - [notation](https://github.com/hypotext/notation) - by hypotext
@@ -195,9 +195,9 @@
 ### 2016-8
 - [awesome-android-cn](https://github.com/jobbole/awesome-android-cn) - by jobbole
 - [devblogs](https://github.com/abdelhai/devblogs) - by abdelhai
-- [lxss](https://github.com/ionescu007/lxss) - by ionescu007
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [Podcasts](https://github.com/vermont42/Podcasts) - by vermont42
+- [lxss](https://github.com/ionescu007/lxss) - by ionescu007
 - [demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - by a0viedo
 - [Awesome-Ubuntu-Linux](https://github.com/VoLuong/Awesome-Ubuntu-Linux) - by VoLuong
 - [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - by aymericdamien
@@ -217,8 +217,8 @@
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
 - [Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool) - by Jermic
 - [potaka](https://github.com/ikrum/potaka) - by ikrum
-- [LogicAndCodingGames](https://github.com/dargaCode/LogicAndCodingGames) - by dargaCode
 - [awesome-webpack](https://github.com/d3viant0ne/awesome-webpack) - by d3viant0ne
+- [LogicAndCodingGames](https://github.com/dargaCode/LogicAndCodingGames) - by dargaCode
 - [react-faq](https://github.com/timarney/react-faq) - by timarney
 - [CoreLink](https://github.com/lizhangqu/CoreLink) - by lizhangqu
 - [data_location](https://github.com/mumuy/data_location) - by mumuy
@@ -262,3 +262,6 @@
 - [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - by BruceDone
 - [lime](https://github.com/limetext/lime) - by limetext
 - [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - by ZuzooVn
+- [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - by quozd
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - by kdeldycke
+- [document-style-guide](https://github.com/ruanyf/document-style-guide) - by ruanyf
