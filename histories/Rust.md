@@ -43,3 +43,6 @@
 ### 2016-9
 - [rustcxx](https://github.com/google/rustcxx) - by google
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - by BurntSushi
+
+### 2016-10
+- [rustls](https://github.com/jonathandturner/rustls) - by jonathandturner

@@ -598,3 +598,4 @@
 - [redux-vcr](https://github.com/joshwcomeau/redux-vcr) - by joshwcomeau
 - [swip](https://github.com/paulsonnentag/swip) - by paulsonnentag
 - [vivus](https://github.com/maxwellito/vivus) - by maxwellito
+- [testcafe](https://github.com/DevExpress/testcafe) - by DevExpress

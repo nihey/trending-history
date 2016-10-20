@@ -70,10 +70,10 @@
 - [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
-- [echo](https://github.com/labstack/echo) - by labstack
 - [qor](https://github.com/qor/qor) - by qor
-- [vuls](https://github.com/future-architect/vuls) - by future-architect
+- [echo](https://github.com/labstack/echo) - by labstack
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
+- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -97,10 +97,10 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [grafana](https://github.com/grafana/grafana) - by grafana
-- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
+- [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
 - [leveros](https://github.com/leveros/leveros) - by leveros
+- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
@@ -179,3 +179,4 @@
 - [dontbug](https://github.com/sidkshatriya/dontbug) - by sidkshatriya
 - [summitdb](https://github.com/tidwall/summitdb) - by tidwall
 - [flynn](https://github.com/flynn/flynn) - by flynn
+- [chaosmonkey](https://github.com/Netflix/chaosmonkey) - by Netflix
