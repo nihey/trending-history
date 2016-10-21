@@ -16,8 +16,8 @@
 - [ThisCouldBeUsButYouPlaying](https://github.com/neonichu/ThisCouldBeUsButYouPlaying) - by neonichu
 
 ### 2016-3
-- [reality](https://github.com/molybdenum-99/reality) - by molybdenum-99
 - [geon.github.com](https://github.com/geon/geon.github.com) - by geon
+- [reality](https://github.com/molybdenum-99/reality) - by molybdenum-99
 - [duckrails](https://github.com/iridakos/duckrails) - by iridakos
 
 ### 2016-4
@@ -46,3 +46,5 @@
 
 ### 2016-10
 - [mastodon](https://github.com/Gargron/mastodon) - by Gargron
+- [em-midori](https://github.com/heckpsi-lab/em-midori) - by heckpsi-lab
+- [procodile](https://github.com/adamcooke/procodile) - by adamcooke
