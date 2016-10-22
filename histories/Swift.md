@@ -166,3 +166,4 @@
 - [Typist](https://github.com/totocaster/Typist) - by totocaster
 - [Import](https://github.com/markohlebar/Import) - by markohlebar
 - [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - by itsmeichigo
+- [Macaw](https://github.com/exyte/Macaw) - by exyte

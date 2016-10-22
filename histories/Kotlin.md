@@ -6,3 +6,6 @@
 
 ### 2016-8
 - [bayesian_sentiment_analysis](https://github.com/kennycason/bayesian_sentiment_analysis) - by kennycason
+
+### 2016-10
+- [Multi-Selection](https://github.com/Yalantis/Multi-Selection) - by Yalantis

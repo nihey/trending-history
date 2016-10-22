@@ -86,3 +86,4 @@
 - [armor](https://github.com/labstack/armor) - by labstack
 - [YouMightNotNeedJS](https://github.com/una/YouMightNotNeedJS) - by una
 - [socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak) - by RobinLinus
+- [dirtycow.github.io](https://github.com/dirtycow/dirtycow.github.io) - by dirtycow
