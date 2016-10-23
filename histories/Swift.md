@@ -167,3 +167,4 @@
 - [Import](https://github.com/markohlebar/Import) - by markohlebar
 - [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - by itsmeichigo
 - [Macaw](https://github.com/exyte/Macaw) - by exyte
+- [Each](https://github.com/dalu93/Each) - by dalu93

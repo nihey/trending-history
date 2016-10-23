@@ -99,8 +99,8 @@
 - [SimpleRT](https://github.com/vvviperrr/SimpleRT) - by vvviperrr
 - [patchkit](https://github.com/lunixbochs/patchkit) - by lunixbochs
 - [librevault](https://github.com/Librevault/librevault) - by Librevault
-- [magenta](https://github.com/fuchsia-mirror/magenta) - by fuchsia-mirror
 - [wcc](https://github.com/endrazine/wcc) - by endrazine
+- [magenta](https://github.com/fuchsia-mirror/magenta) - by fuchsia-mirror
 - [lk](https://github.com/littlekernel/lk) - by littlekernel
 - [bucklespring](https://github.com/zevv/bucklespring) - by zevv
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
@@ -123,3 +123,5 @@
 - [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - by jgamblin
 - [zson](https://github.com/afiskon/zson) - by afiskon
 - [image-unshredding](https://github.com/robinhouston/image-unshredding) - by robinhouston
+- [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - by SamyPesse
+- [org.quietmodem.Quiet](https://github.com/quiet/org.quietmodem.Quiet) - by quiet

@@ -66,3 +66,4 @@
 - [alexa-avs-sample-app](https://github.com/alexa/alexa-avs-sample-app) - by alexa
 - [og-aws](https://github.com/open-guides/og-aws) - by open-guides
 - [Dracnmap](https://github.com/Screetsec/Dracnmap) - by Screetsec
+- [pwndsh](https://github.com/SafeBreach-Labs/pwndsh) - by SafeBreach-Labs
