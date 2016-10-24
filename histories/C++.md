@@ -132,3 +132,4 @@
 - [AliSQL](https://github.com/alibaba/AliSQL) - by alibaba
 - [LightGBM](https://github.com/Microsoft/LightGBM) - by Microsoft
 - [Consensus-Based-Summarizer](https://github.com/ayushoriginal/Consensus-Based-Summarizer) - by ayushoriginal
+- [kaldi](https://github.com/kaldi-asr/kaldi) - by kaldi-asr

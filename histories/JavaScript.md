@@ -600,3 +600,4 @@
 - [vivus](https://github.com/maxwellito/vivus) - by maxwellito
 - [testcafe](https://github.com/DevExpress/testcafe) - by DevExpress
 - [CacheP2P](https://github.com/guerrerocarlos/CacheP2P) - by guerrerocarlos
+- [hAdmin](https://github.com/fzninja/hAdmin) - by fzninja
