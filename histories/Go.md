@@ -15,8 +15,8 @@
 - [osxlockdown](https://github.com/SummitRoute/osxlockdown) - by SummitRoute
 
 ### 2016-1
-- [gom](https://github.com/rakyll/gom) - by rakyll
 - [micro](https://github.com/micro/micro) - by micro
+- [gom](https://github.com/rakyll/gom) - by rakyll
 - [pipecat](https://github.com/lukasmartinelli/pipecat) - by lukasmartinelli
 - [pome](https://github.com/rach/pome) - by rach
 - [nigit](https://github.com/lukasmartinelli/nigit) - by lukasmartinelli
@@ -28,20 +28,20 @@
 - [apex](https://github.com/apex/apex) - by apex
 - [pipethis](https://github.com/ellotheth/pipethis) - by ellotheth
 - [s](https://github.com/zquestz/s) - by zquestz
-- [dlite](https://github.com/nlf/dlite) - by nlf
 - [go-restructure](https://github.com/alexflint/go-restructure) - by alexflint
+- [dlite](https://github.com/nlf/dlite) - by nlf
 - [seesaw](https://github.com/google/seesaw) - by google
 
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [gogs](https://github.com/gogits/gogs) - by gogits
 - [client](https://github.com/keybase/client) - by keybase
+- [gogs](https://github.com/gogits/gogs) - by gogits
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
+- [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [go-git](https://github.com/src-d/go-git) - by src-d
 - [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
-- [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -52,28 +52,28 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [apns2](https://github.com/sideshow/apns2) - by sideshow
 - [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
+- [apns2](https://github.com/sideshow/apns2) - by sideshow
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
 - [acmewrapper](https://github.com/dkumor/acmewrapper) - by dkumor
-- [lion](https://github.com/celrenheit/lion) - by celrenheit
 - [dgraph](https://github.com/dgraph-io/dgraph) - by dgraph-io
+- [lion](https://github.com/celrenheit/lion) - by celrenheit
 - [jsonparser](https://github.com/buger/jsonparser) - by buger
 - [gx](https://github.com/whyrusleeping/gx) - by whyrusleeping
 - [s3git](https://github.com/s3git/s3git) - by s3git
-- [abot](https://github.com/itsabot/abot) - by itsabot
 - [bigcache](https://github.com/allegro/bigcache) - by allegro
+- [abot](https://github.com/itsabot/abot) - by itsabot
 
 ### 2016-4
-- [depscheck](https://github.com/divan/depscheck) - by divan
 - [interfacer](https://github.com/mvdan/interfacer) - by mvdan
+- [depscheck](https://github.com/divan/depscheck) - by divan
+- [echo](https://github.com/labstack/echo) - by labstack
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
-- [echo](https://github.com/labstack/echo) - by labstack
-- [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [vuls](https://github.com/future-architect/vuls) - by future-architect
+- [lantern](https://github.com/getlantern/lantern) - by getlantern
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -81,8 +81,8 @@
 - [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole
 - [binctr](https://github.com/jfrazelle/binctr) - by jfrazelle
 - [micro](https://github.com/zyedidia/micro) - by zyedidia
-- [find](https://github.com/schollz/find) - by schollz
 - [gobgp](https://github.com/osrg/gobgp) - by osrg
+- [find](https://github.com/schollz/find) - by schollz
 - [passgo](https://github.com/ejcx/passgo) - by ejcx
 
 ### 2016-5
@@ -99,8 +99,8 @@
 - [rack](https://github.com/convox/rack) - by convox
 - [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
-- [leveros](https://github.com/leveros/leveros) - by leveros
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
+- [leveros](https://github.com/leveros/leveros) - by leveros
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
@@ -129,8 +129,8 @@
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
-- [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [lexvec](https://github.com/alexandres/lexvec) - by alexandres
+- [manul](https://github.com/kovetskiy/manul) - by kovetskiy
 - [shadowd](https://github.com/reconquest/shadowd) - by reconquest
 
 ### 2016-8
@@ -142,13 +142,13 @@
 - [checkup](https://github.com/sourcegraph/checkup) - by sourcegraph
 - [cfilter](https://github.com/irfansharif/cfilter) - by irfansharif
 - [dht](https://github.com/shiyanhui/dht) - by shiyanhui
-- [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
 - [staticfiles](https://github.com/bouk/staticfiles) - by bouk
+- [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
 - [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph
+- [realize](https://github.com/tockins/realize) - by tockins
 - [redcon](https://github.com/tidwall/redcon) - by tidwall
 - [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
-- [realize](https://github.com/tockins/realize) - by tockins
 - [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
 - [workq](https://github.com/iamduo/workq) - by iamduo
 - [mylg](https://github.com/mehrdadrad/mylg) - by mehrdadrad
@@ -162,8 +162,8 @@
 - [teleconsole](https://github.com/gravitational/teleconsole) - by gravitational
 - [borg](https://github.com/crufter/borg) - by crufter
 - [dhcplb](https://github.com/facebookincubator/dhcplb) - by facebookincubator
-- [dingo](https://github.com/pforemski/dingo) - by pforemski
 - [teleport](https://github.com/gravitational/teleport) - by gravitational
+- [dingo](https://github.com/pforemski/dingo) - by pforemski
 - [gorgonia](https://github.com/chewxy/gorgonia) - by chewxy
 - [primitive](https://github.com/fogleman/primitive) - by fogleman
 - [gallium](https://github.com/alexflint/gallium) - by alexflint
@@ -181,3 +181,4 @@
 - [flynn](https://github.com/flynn/flynn) - by flynn
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - by Netflix
 - [qt](https://github.com/therecipe/qt) - by therecipe
+- [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - by eawsy
