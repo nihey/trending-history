@@ -19,8 +19,8 @@
 - [goad](https://github.com/gophergala2016/goad) - by gophergala2016
 - [voxel.css](https://github.com/HunterLarco/voxel.css) - by HunterLarco
 - [bulma](https://github.com/jgthms/bulma) - by jgthms
-- [hackathon-starter](https://github.com/sahat/hackathon-starter) - by sahat
 - [openblog](https://github.com/mateogianolio/openblog) - by mateogianolio
+- [hackathon-starter](https://github.com/sahat/hackathon-starter) - by sahat
 
 ### 2016-2
 - [jenkins-neo-theme](https://github.com/aarjithn/jenkins-neo-theme) - by aarjithn
@@ -81,3 +81,4 @@
 - [Adapta](https://github.com/tista500/Adapta) - by tista500
 - [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - by FreeCodeCampChina
 - [cssicon](https://github.com/wentin/cssicon) - by wentin
+- [changelog.com](https://github.com/thechangelog/changelog.com) - by thechangelog

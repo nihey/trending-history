@@ -103,8 +103,8 @@
 - [lda2vec](https://github.com/cemoody/lda2vec) - by cemoody
 - [you-get](https://github.com/soimort/you-get) - by soimort
 - [tflearn](https://github.com/tflearn/tflearn) - by tflearn
-- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
 - [youtube-dl](https://github.com/rg3/youtube-dl) - by rg3
+- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - by MrS0m30n3
 - [Mathics](https://github.com/mathics/Mathics) - by mathics
 - [lisa.py](https://github.com/ant4g0nist/lisa.py) - by ant4g0nist
 - [keras](https://github.com/fchollet/keras) - by fchollet
@@ -119,8 +119,8 @@
 - [enjarify](https://github.com/google/enjarify) - by google
 - [elastalert](https://github.com/Yelp/elastalert) - by Yelp
 - [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - by isocpp
-- [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - by anishathalye
+- [routersploit](https://github.com/reverse-shell/routersploit) - by reverse-shell
 - [gym](https://github.com/openai/gym) - by openai
 
 ### 2016-5
@@ -128,8 +128,8 @@
 - [waybackpack](https://github.com/jsvine/waybackpack) - by jsvine
 - [uvloop](https://github.com/MagicStack/uvloop) - by MagicStack
 - [edward](https://github.com/blei-lab/edward) - by blei-lab
-- [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Growler](https://github.com/pyGrowler/Growler) - by pyGrowler
+- [Hospital](https://github.com/open-power-workgroup/Hospital) - by open-power-workgroup
 - [Zappa](https://github.com/Miserlou/Zappa) - by Miserlou
 - [fierce](https://github.com/mschwager/fierce) - by mschwager
 - [plasma](https://github.com/joelpx/plasma) - by joelpx
@@ -142,8 +142,8 @@
 - [pillow-simd](https://github.com/uploadcare/pillow-simd) - by uploadcare
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - by P0cL4bs
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
-- [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
+- [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
 - [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
@@ -169,8 +169,8 @@
 - [beets](https://github.com/beetbox/beets) - by beetbox
 - [coconut](https://github.com/evhub/coconut) - by evhub
 - [Daily-Reddit-Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) - by ssimunic
-- [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar
 - [booxtream-epub-drm-remover](https://github.com/grayleonard/booxtream-epub-drm-remover) - by grayleonard
+- [socli](https://github.com/gautamkrishnar/socli) - by gautamkrishnar
 - [netbox](https://github.com/digitalocean/netbox) - by digitalocean
 - [GraphDash](https://github.com/AmadeusITGroup/GraphDash) - by AmadeusITGroup
 
@@ -227,8 +227,8 @@
 ### 2016-9
 - [stitch](https://github.com/pystitch/stitch) - by pystitch
 - [qrcode](https://github.com/sylnsfar/qrcode) - by sylnsfar
-- [awesome-python](https://github.com/vinta/awesome-python) - by vinta
 - [NakedTensor](https://github.com/jostmey/NakedTensor) - by jostmey
+- [awesome-python](https://github.com/vinta/awesome-python) - by vinta
 - [kimchi](https://github.com/kimchi-project/kimchi) - by kimchi-project
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - by ibab
 - [keras-wavenet](https://github.com/usernaamee/keras-wavenet) - by usernaamee
@@ -239,8 +239,8 @@
 - [httpstat](https://github.com/reorx/httpstat) - by reorx
 - [Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - by ajbrock
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - by Eloston
-- [facegen](https://github.com/zo7/facegen) - by zo7
 - [iGAN](https://github.com/junyanz/iGAN) - by junyanz
+- [facegen](https://github.com/zo7/facegen) - by zo7
 - [CommAI-env](https://github.com/facebookresearch/CommAI-env) - by facebookresearch
 - [fgmk](https://github.com/ericoporto/fgmk) - by ericoporto
 - [whereami](https://github.com/kootenpv/whereami) - by kootenpv
@@ -263,3 +263,4 @@
 - [Buku](https://github.com/jarun/Buku) - by jarun
 - [Sentiment-Analysis-Twitter](https://github.com/ayushoriginal/Sentiment-Analysis-Twitter) - by ayushoriginal
 - [unknown-horizons](https://github.com/unknown-horizons/unknown-horizons) - by unknown-horizons
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - by songrotek

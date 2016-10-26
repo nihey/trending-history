@@ -81,8 +81,8 @@
 - [gofeed](https://github.com/mmcdole/gofeed) - by mmcdole
 - [binctr](https://github.com/jfrazelle/binctr) - by jfrazelle
 - [micro](https://github.com/zyedidia/micro) - by zyedidia
-- [gobgp](https://github.com/osrg/gobgp) - by osrg
 - [find](https://github.com/schollz/find) - by schollz
+- [gobgp](https://github.com/osrg/gobgp) - by osrg
 - [passgo](https://github.com/ejcx/passgo) - by ejcx
 
 ### 2016-5
@@ -99,8 +99,8 @@
 - [rack](https://github.com/convox/rack) - by convox
 - [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
-- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [leveros](https://github.com/leveros/leveros) - by leveros
+- [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
 - [traefik](https://github.com/containous/traefik) - by containous
 - [zap](https://github.com/uber-go/zap) - by uber-go
@@ -146,9 +146,9 @@
 - [bild](https://github.com/anthonynsimon/bild) - by anthonynsimon
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
 - [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph
-- [realize](https://github.com/tockins/realize) - by tockins
 - [redcon](https://github.com/tidwall/redcon) - by tidwall
 - [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
+- [realize](https://github.com/tockins/realize) - by tockins
 - [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
 - [workq](https://github.com/iamduo/workq) - by iamduo
 - [mylg](https://github.com/mehrdadrad/mylg) - by mehrdadrad
@@ -162,8 +162,8 @@
 - [teleconsole](https://github.com/gravitational/teleconsole) - by gravitational
 - [borg](https://github.com/crufter/borg) - by crufter
 - [dhcplb](https://github.com/facebookincubator/dhcplb) - by facebookincubator
-- [teleport](https://github.com/gravitational/teleport) - by gravitational
 - [dingo](https://github.com/pforemski/dingo) - by pforemski
+- [teleport](https://github.com/gravitational/teleport) - by gravitational
 - [gorgonia](https://github.com/chewxy/gorgonia) - by chewxy
 - [primitive](https://github.com/fogleman/primitive) - by fogleman
 - [gallium](https://github.com/alexflint/gallium) - by alexflint
@@ -182,3 +182,6 @@
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - by Netflix
 - [qt](https://github.com/therecipe/qt) - by therecipe
 - [aws-lambda-go](https://github.com/eawsy/aws-lambda-go) - by eawsy
+- [gdrive](https://github.com/prasmussen/gdrive) - by prasmussen
+- [netstack](https://github.com/google/netstack) - by google
+- [chain](https://github.com/chain/chain) - by chain
