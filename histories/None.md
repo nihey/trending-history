@@ -270,3 +270,4 @@
 - [Blockchain-stuff](https://github.com/McFrankline/Blockchain-stuff) - by McFrankline
 - [MakeIconsWithSketch](https://github.com/allenwong/MakeIconsWithSketch) - by allenwong
 - [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - by engineerapart
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - by lukasz-madon
