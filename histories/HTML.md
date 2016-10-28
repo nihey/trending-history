@@ -88,3 +88,4 @@
 - [socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak) - by RobinLinus
 - [dirtycow.github.io](https://github.com/dirtycow/dirtycow.github.io) - by dirtycow
 - [practical-es6](https://github.com/mjavascript/practical-es6) - by mjavascript
+- [shave](https://github.com/dollarshaveclub/shave) - by dollarshaveclub

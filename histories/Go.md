@@ -35,13 +35,13 @@
 ### 2016-2
 - [wired-logic](https://github.com/martinkirsche/wired-logic) - by martinkirsche
 - [ln](https://github.com/fogleman/ln) - by fogleman
-- [client](https://github.com/keybase/client) - by keybase
 - [gogs](https://github.com/gogits/gogs) - by gogits
+- [client](https://github.com/keybase/client) - by keybase
 - [docker-slim](https://github.com/cloudimmunity/docker-slim) - by cloudimmunity
 - [modd](https://github.com/cortesi/modd) - by cortesi
-- [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [go-git](https://github.com/src-d/go-git) - by src-d
 - [obc-peer](https://github.com/openblockchain/obc-peer) - by openblockchain
+- [overseer](https://github.com/jpillora/overseer) - by jpillora
 - [wego](https://github.com/schachmat/wego) - by schachmat
 - [gg](https://github.com/fogleman/gg) - by fogleman
 - [horcrux](https://github.com/muthu-r/horcrux) - by muthu-r
@@ -52,8 +52,8 @@
 - [cpustat](https://github.com/uber-common/cpustat) - by uber-common
 - [tile38](https://github.com/tidwall/tile38) - by tidwall
 - [skizze](https://github.com/skizzehq/skizze) - by skizzehq
-- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [apns2](https://github.com/sideshow/apns2) - by sideshow
+- [sshtron](https://github.com/zachlatta/sshtron) - by zachlatta
 - [caddy](https://github.com/mholt/caddy) - by mholt
 - [iris](https://github.com/kataras/iris) - by kataras
 - [libretto](https://github.com/apcera/libretto) - by apcera
@@ -72,8 +72,8 @@
 - [echo](https://github.com/labstack/echo) - by labstack
 - [vegeta](https://github.com/tsenart/vegeta) - by tsenart
 - [qor](https://github.com/qor/qor) - by qor
-- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [lantern](https://github.com/getlantern/lantern) - by getlantern
+- [vuls](https://github.com/future-architect/vuls) - by future-architect
 - [athenapdf](https://github.com/arachnys/athenapdf) - by arachnys
 - [logzoom](https://github.com/packetzoom/logzoom) - by packetzoom
 - [doorman](https://github.com/youtube/doorman) - by youtube
@@ -87,8 +87,8 @@
 
 ### 2016-5
 - [grimd](https://github.com/looterz/grimd) - by looterz
-- [gollum](https://github.com/trivago/gollum) - by trivago
 - [kit](https://github.com/go-kit/kit) - by go-kit
+- [gollum](https://github.com/trivago/gollum) - by trivago
 - [statusok](https://github.com/sanathp/statusok) - by sanathp
 - [gam](https://github.com/rogeralsing/gam) - by rogeralsing
 - [go-finance](https://github.com/FlashBoys/go-finance) - by FlashBoys
@@ -97,8 +97,8 @@
 - [knox](https://github.com/pinterest/knox) - by pinterest
 - [httpexpect](https://github.com/gavv/httpexpect) - by gavv
 - [rack](https://github.com/convox/rack) - by convox
-- [grafana](https://github.com/grafana/grafana) - by grafana
 - [smlr](https://github.com/jasonmoo/smlr) - by jasonmoo
+- [grafana](https://github.com/grafana/grafana) - by grafana
 - [leveros](https://github.com/leveros/leveros) - by leveros
 - [imageserver](https://github.com/pierrre/imageserver) - by pierrre
 - [qb](https://github.com/aacanakin/qb) - by aacanakin
@@ -129,8 +129,8 @@
 - [kube-cert-manager](https://github.com/kelseyhightower/kube-cert-manager) - by kelseyhightower
 - [orgalorg](https://github.com/reconquest/orgalorg) - by reconquest
 - [gas](https://github.com/HewlettPackard/gas) - by HewlettPackard
-- [lexvec](https://github.com/alexandres/lexvec) - by alexandres
 - [manul](https://github.com/kovetskiy/manul) - by kovetskiy
+- [lexvec](https://github.com/alexandres/lexvec) - by alexandres
 - [shadowd](https://github.com/reconquest/shadowd) - by reconquest
 
 ### 2016-8
@@ -147,8 +147,8 @@
 - [gjson](https://github.com/tidwall/gjson) - by tidwall
 - [thyme](https://github.com/sourcegraph/thyme) - by sourcegraph
 - [redcon](https://github.com/tidwall/redcon) - by tidwall
-- [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
 - [realize](https://github.com/tockins/realize) - by tockins
+- [hyperd](https://github.com/hyperhq/hyperd) - by hyperhq
 - [cryptic](https://github.com/domodwyer/cryptic) - by domodwyer
 - [workq](https://github.com/iamduo/workq) - by iamduo
 - [mylg](https://github.com/mehrdadrad/mylg) - by mehrdadrad
@@ -185,3 +185,5 @@
 - [gdrive](https://github.com/prasmussen/gdrive) - by prasmussen
 - [netstack](https://github.com/google/netstack) - by google
 - [chain](https://github.com/chain/chain) - by chain
+- [rambler](https://github.com/elwinar/rambler) - by elwinar
+- [ratelimit](https://github.com/uber-go/ratelimit) - by uber-go

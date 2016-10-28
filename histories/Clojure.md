@@ -21,3 +21,4 @@
 
 ### 2016-10
 - [Nightlight](https://github.com/oakes/Nightlight) - by oakes
+- [precursor](https://github.com/PrecursorApp/precursor) - by PrecursorApp

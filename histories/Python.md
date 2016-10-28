@@ -264,3 +264,4 @@
 - [Sentiment-Analysis-Twitter](https://github.com/ayushoriginal/Sentiment-Analysis-Twitter) - by ayushoriginal
 - [unknown-horizons](https://github.com/unknown-horizons/unknown-horizons) - by unknown-horizons
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - by songrotek
+- [safety-db](https://github.com/pyupio/safety-db) - by pyupio
