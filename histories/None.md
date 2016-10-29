@@ -272,3 +272,4 @@
 - [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - by engineerapart
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - by lukasz-madon
 - [material-remixer](https://github.com/material-foundation/material-remixer) - by material-foundation
+- [.tmux](https://github.com/gpakosz/.tmux) - by gpakosz

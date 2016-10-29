@@ -67,3 +67,4 @@
 - [og-aws](https://github.com/open-guides/og-aws) - by open-guides
 - [Dracnmap](https://github.com/Screetsec/Dracnmap) - by Screetsec
 - [pwndsh](https://github.com/SafeBreach-Labs/pwndsh) - by SafeBreach-Labs
+- [gitkurwa](https://github.com/jakubnabrdalik/gitkurwa) - by jakubnabrdalik
