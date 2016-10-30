@@ -572,8 +572,8 @@
 - [awesome-cms](https://github.com/postlight/awesome-cms) - by postlight
 - [github-audio](https://github.com/debugger22/github-audio) - by debugger22
 - [modern-js-stack-training](https://github.com/verekia/modern-js-stack-training) - by verekia
-- [kap](https://github.com/wulkano/kap) - by wulkano
 - [ayu](https://github.com/dempfi/ayu) - by dempfi
+- [kap](https://github.com/wulkano/kap) - by wulkano
 - [time](https://github.com/anvaka/time) - by anvaka
 - [ferment](https://github.com/mmckegg/ferment) - by mmckegg
 - [DBGlass](https://github.com/web-pal/DBGlass) - by web-pal
@@ -611,3 +611,4 @@
 - [Eve](https://github.com/witheve/Eve) - by witheve
 - [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - by siddharthkp
 - [Fuse](https://github.com/krisk/Fuse) - by krisk
+- [react-decoration](https://github.com/mbasso/react-decoration) - by mbasso

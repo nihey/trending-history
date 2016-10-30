@@ -138,8 +138,8 @@
 - [NightNight](https://github.com/Draveness/NightNight) - by Draveness
 - [Live](https://github.com/ltebean/Live) - by ltebean
 - [Celluloid](https://github.com/100mango/Celluloid) - by 100mango
-- [PopupDialog](https://github.com/Orderella/PopupDialog) - by Orderella
 - [facebook-sdk-swift](https://github.com/facebook/facebook-sdk-swift) - by facebook
+- [PopupDialog](https://github.com/Orderella/PopupDialog) - by Orderella
 - [ImageOpenTransition](https://github.com/mcmatan/ImageOpenTransition) - by mcmatan
 - [RaceMe](https://github.com/enochng1/RaceMe) - by enochng1
 
@@ -168,3 +168,4 @@
 - [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - by itsmeichigo
 - [Macaw](https://github.com/exyte/Macaw) - by exyte
 - [Each](https://github.com/dalu93/Each) - by dalu93
+- [mas](https://github.com/mas-cli/mas) - by mas-cli

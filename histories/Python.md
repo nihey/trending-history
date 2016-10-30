@@ -144,8 +144,8 @@
 - [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython) - by ujjwalkarn
 - [vprof](https://github.com/nvdv/vprof) - by nvdv
 - [http-prompt](https://github.com/eliangcs/http-prompt) - by eliangcs
-- [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [cppimport](https://github.com/tbenthompson/cppimport) - by tbenthompson
+- [tesserocr](https://github.com/sirfz/tesserocr) - by sirfz
 - [say_what](https://github.com/joshnewlan/say_what) - by joshnewlan
 - [bless](https://github.com/Netflix/bless) - by Netflix
 - [fizz-buzz-tensorflow](https://github.com/joelgrus/fizz-buzz-tensorflow) - by joelgrus
@@ -179,17 +179,17 @@
 - [shutit](https://github.com/ianmiell/shutit) - by ianmiell
 - [chalice](https://github.com/awslabs/chalice) - by awslabs
 - [document-scanner](https://github.com/vipul-sharma20/document-scanner) - by vipul-sharma20
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
 - [pokemongo-api-demo](https://github.com/leegao/pokemongo-api-demo) - by leegao
-- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Matroschka](https://github.com/fgrimme/Matroschka) - by fgrimme
 - [transitions](https://github.com/tyarkoni/transitions) - by tyarkoni
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - by Mila432
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - by AHAAAAAAA
+- [MacHeap](https://github.com/blankwall/MacHeap) - by blankwall
 - [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin) - by yasintoy
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - by mchristopher
 - [pgoapi](https://github.com/tejado/pgoapi) - by tejado
-- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
 - [riko](https://github.com/nerevu/riko) - by nerevu
+- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - by PokemonGoF
 - [tinder-detective](https://github.com/defaultnamehere/tinder-detective) - by defaultnamehere
 - [Pokemon-Go-Bot-Working-Hack-API](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - by TomTheBotter
 - [DeepHeart](https://github.com/jisaacso/DeepHeart) - by jisaacso
@@ -216,8 +216,8 @@
 - [fuzzer](https://github.com/shellphish/fuzzer) - by shellphish
 - [undebt](https://github.com/Yelp/undebt) - by Yelp
 - [open-lambda](https://github.com/open-lambda/open-lambda) - by open-lambda
-- [freeline](https://github.com/alibaba/freeline) - by alibaba
 - [text-to-image](https://github.com/paarthneekhara/text-to-image) - by paarthneekhara
+- [freeline](https://github.com/alibaba/freeline) - by alibaba
 - [srez](https://github.com/david-gpu/srez) - by david-gpu
 - [ntfy](https://github.com/dschep/ntfy) - by dschep
 - [http-observatory](https://github.com/mozilla/http-observatory) - by mozilla
@@ -230,8 +230,8 @@
 - [NakedTensor](https://github.com/jostmey/NakedTensor) - by jostmey
 - [awesome-python](https://github.com/vinta/awesome-python) - by vinta
 - [kimchi](https://github.com/kimchi-project/kimchi) - by kimchi-project
-- [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - by ibab
 - [keras-wavenet](https://github.com/usernaamee/keras-wavenet) - by usernaamee
+- [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - by ibab
 - [wavenet](https://github.com/basveeling/wavenet) - by basveeling
 - [fast-wavenet](https://github.com/tomlepaine/fast-wavenet) - by tomlepaine
 - [wechat-spider](https://github.com/bowenpay/wechat-spider) - by bowenpay
@@ -265,3 +265,5 @@
 - [unknown-horizons](https://github.com/unknown-horizons/unknown-horizons) - by unknown-horizons
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - by songrotek
 - [safety-db](https://github.com/pyupio/safety-db) - by pyupio
+- [neural-enhance](https://github.com/alexjc/neural-enhance) - by alexjc
+- [Clairvoyant](https://github.com/anfederico/Clairvoyant) - by anfederico

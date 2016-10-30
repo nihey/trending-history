@@ -63,9 +63,9 @@
 ### 2016-5
 - [BansheeEngine](https://github.com/BearishSun/BansheeEngine) - by BearishSun
 - [amazon-dsstne](https://github.com/amznlabs/amazon-dsstne) - by amznlabs
-- [openthread](https://github.com/openthread/openthread) - by openthread
-- [Fido](https://github.com/FidoProject/Fido) - by FidoProject
 - [electron](https://github.com/electron/electron) - by electron
+- [Fido](https://github.com/FidoProject/Fido) - by FidoProject
+- [openthread](https://github.com/openthread/openthread) - by openthread
 - [pika](https://github.com/Qihoo360/pika) - by Qihoo360
 - [FireRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FireRays_SDK) - by GPUOpen-LibrariesAndSDKs
 - [x64dbg](https://github.com/x64dbg/x64dbg) - by x64dbg
@@ -82,8 +82,8 @@
 - [ClickHouse](https://github.com/yandex/ClickHouse) - by yandex
 - [persistent-rnn](https://github.com/baidu-research/persistent-rnn) - by baidu-research
 - [phxpaxos](https://github.com/tencent-wechat/phxpaxos) - by tencent-wechat
-- [tiny-cnn](https://github.com/nyanp/tiny-cnn) - by nyanp
 - [Natron](https://github.com/MrKepzie/Natron) - by MrKepzie
+- [tiny-cnn](https://github.com/nyanp/tiny-cnn) - by nyanp
 
 ### 2016-7
 - [mlpack](https://github.com/mlpack/mlpack) - by mlpack
@@ -92,8 +92,8 @@
 - [libyojimbo](https://github.com/networkprotocol/libyojimbo) - by networkprotocol
 - [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - by KhronosGroup
 - [GameLad](https://github.com/Dooskington/GameLad) - by Dooskington
-- [Surround360](https://github.com/facebook/Surround360) - by facebook
 - [eventql](https://github.com/eventql/eventql) - by eventql
+- [Surround360](https://github.com/facebook/Surround360) - by facebook
 - [USD](https://github.com/PixarAnimationStudios/USD) - by PixarAnimationStudios
 - [Magic-Sand](https://github.com/thomwolf/Magic-Sand) - by thomwolf
 - [protobuf](https://github.com/google/protobuf) - by google
@@ -109,14 +109,14 @@
 - [fast_rgf](https://github.com/baidu/fast_rgf) - by baidu
 - [NativeJIT](https://github.com/BitFunnel/NativeJIT) - by BitFunnel
 - [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - by pavel-odintsov
-- [capnproto](https://github.com/sandstorm-io/capnproto) - by sandstorm-io
 - [uWebSockets](https://github.com/uWebSockets/uWebSockets) - by uWebSockets
+- [capnproto](https://github.com/sandstorm-io/capnproto) - by sandstorm-io
 - [unrealcv](https://github.com/unrealcv/unrealcv) - by unrealcv
 - [envoy](https://github.com/lyft/envoy) - by lyft
-- [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - by seetaface
 - [link](https://github.com/Ableton/link) - by Ableton
-- [AnyRTC-RTMP](https://github.com/AnyRTC/AnyRTC-RTMP) - by AnyRTC
+- [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine) - by seetaface
 - [vcpkg](https://github.com/Microsoft/vcpkg) - by Microsoft
+- [AnyRTC-RTMP](https://github.com/AnyRTC/AnyRTC-RTMP) - by AnyRTC
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - by tekezo
 - [gcpp](https://github.com/hsutter/gcpp) - by hsutter
 - [dr_strangetemplate](https://github.com/MCGallaspy/dr_strangetemplate) - by MCGallaspy
@@ -134,3 +134,5 @@
 - [Consensus-Based-Summarizer](https://github.com/ayushoriginal/Consensus-Based-Summarizer) - by ayushoriginal
 - [kaldi](https://github.com/kaldi-asr/kaldi) - by kaldi-asr
 - [bfs](https://github.com/baidu/bfs) - by baidu
+- [zcash](https://github.com/zcash/zcash) - by zcash
+- [atom-bombing](https://github.com/BreakingMalwareResearch/atom-bombing) - by BreakingMalwareResearch
