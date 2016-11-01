@@ -68,3 +68,6 @@
 - [fb_messenger_bot](https://github.com/WhiteHouse/fb_messenger_bot) - by WhiteHouse
 - [labs](https://github.com/docker/labs) - by docker
 - [boston.gov](https://github.com/CityOfBoston/boston.gov) - by CityOfBoston
+
+### 2016-11
+- [voyager](https://github.com/the-control-group/voyager) - by the-control-group

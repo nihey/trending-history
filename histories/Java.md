@@ -384,39 +384,39 @@
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - by lypeer
 - [RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery) - by huazhiyuan2008
 - [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) - by stfalcon-studio
-- [ThumbnailMenu](https://github.com/Hitomis/ThumbnailMenu) - by Hitomis
+- [confetti](https://github.com/jinatonic/confetti) - by jinatonic
 - [ScrollingBackgroundView](https://github.com/noties/ScrollingBackgroundView) - by noties
 - [ToyRoom](https://github.com/eleme/ToyRoom) - by eleme
-- [confetti](https://github.com/jinatonic/confetti) - by jinatonic
+- [ThumbnailMenu](https://github.com/Hitomis/ThumbnailMenu) - by Hitomis
 - [Recovery](https://github.com/Sunzxyong/Recovery) - by Sunzxyong
-- [FlipShare](https://github.com/JeasonWong/FlipShare) - by JeasonWong
-- [pulsar](https://github.com/yahoo/pulsar) - by yahoo
-- [FantasySlide](https://github.com/mzule/FantasySlide) - by mzule
 - [LingDong2.0](https://github.com/zhoubowen-sky/LingDong2.0) - by zhoubowen-sky
 - [GraphJet](https://github.com/twitter/GraphJet) - by twitter
-- [GeekNews](https://github.com/codeestX/GeekNews) - by codeestX
+- [pulsar](https://github.com/yahoo/pulsar) - by yahoo
+- [FantasySlide](https://github.com/mzule/FantasySlide) - by mzule
+- [FlipShare](https://github.com/JeasonWong/FlipShare) - by JeasonWong
 - [OhMyBiliBili](https://github.com/HotBitmapGG/OhMyBiliBili) - by HotBitmapGG
+- [GeekNews](https://github.com/codeestX/GeekNews) - by codeestX
 - [WaveSideBar](https://github.com/gjiazhe/WaveSideBar) - by gjiazhe
 - [materialistic](https://github.com/hidroh/materialistic) - by hidroh
 - [RetailMeNotList](https://github.com/iielse/RetailMeNotList) - by iielse
-- [ThirtyInch](https://github.com/grandcentrix/ThirtyInch) - by grandcentrix
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - by KeepSafe
+- [ThirtyInch](https://github.com/grandcentrix/ThirtyInch) - by grandcentrix
 - [Qart](https://github.com/scola/Qart) - by scola
-- [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer) - by ryanhoo
 - [LowPoly](https://github.com/CoXier/LowPoly) - by CoXier
 - [DoorSignView](https://github.com/renaudcerrato/DoorSignView) - by renaudcerrato
 - [AndroidAudioConverter](https://github.com/adrielcafe/AndroidAudioConverter) - by adrielcafe
 - [CircleRecyclerView](https://github.com/kHRYSTAL/CircleRecyclerView) - by kHRYSTAL
+- [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer) - by ryanhoo
 - [FlipAnimation](https://github.com/4xes/FlipAnimation) - by 4xes
-- [UPMiss](https://github.com/qiujuer/UPMiss) - by qiujuer
 - [GoogleClock](https://github.com/lypeer/GoogleClock) - by lypeer
 - [ActSwitchAnimTool](https://github.com/Yellow5A5/ActSwitchAnimTool) - by Yellow5A5
 - [material-intro-screen](https://github.com/TangoAgency/material-intro-screen) - by TangoAgency
 - [BookReader](https://github.com/JustWayward/BookReader) - by JustWayward
+- [UPMiss](https://github.com/qiujuer/UPMiss) - by qiujuer
 - [and_swipeback](https://github.com/XBeats/and_swipeback) - by XBeats
 - [Tuikan](https://github.com/homcin/Tuikan) - by homcin
-- [CouponView](https://github.com/dongjunkun/CouponView) - by dongjunkun
 - [TelegramGallery](https://github.com/TangXiaoLv/TelegramGallery) - by TangXiaoLv
+- [CouponView](https://github.com/dongjunkun/CouponView) - by dongjunkun
 - [SpinMenu](https://github.com/Hitomis/SpinMenu) - by Hitomis
 - [tinker](https://github.com/Tencent/tinker) - by Tencent
 - [android-page-transition](https://github.com/xmuSistone/android-page-transition) - by xmuSistone
@@ -426,14 +426,14 @@
 - [cornerlabelview](https://github.com/czy1121/cornerlabelview) - by czy1121
 - [polygonsview](https://github.com/jiangzehui/polygonsview) - by jiangzehui
 - [MentionEditText](https://github.com/luckyandyzhang/MentionEditText) - by luckyandyzhang
-- [AndroidFire](https://github.com/jaydenxiao2016/AndroidFire) - by jaydenxiao2016
 - [Permissify](https://github.com/holidaycheck/Permissify) - by holidaycheck
+- [AndroidFire](https://github.com/jaydenxiao2016/AndroidFire) - by jaydenxiao2016
 
 ### 2016-10
-- [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView) - by armcha
+- [groupie](https://github.com/Genius/groupie) - by Genius
 - [Router](https://github.com/yjfnypeu/Router) - by yjfnypeu
 - [FlickerProgressBar](https://github.com/LineChen/FlickerProgressBar) - by LineChen
-- [groupie](https://github.com/Genius/groupie) - by Genius
+- [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView) - by armcha
 - [Repeat](https://github.com/repeats/Repeat) - by repeats
 - [AnimatorDurationTile](https://github.com/nickbutcher/AnimatorDurationTile) - by nickbutcher
 - [RxUnfurl](https://github.com/Schinizer/RxUnfurl) - by Schinizer
@@ -468,3 +468,7 @@
 - [MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) - by fishwjy
 - [VolleyX](https://github.com/yangweigbh/VolleyX) - by yangweigbh
 - [EasyMVP](https://github.com/6thsolution/EasyMVP) - by 6thsolution
+
+### 2016-11
+- [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) - by BelooS
+- [TransitionHelper](https://github.com/ImmortalZ/TransitionHelper) - by ImmortalZ

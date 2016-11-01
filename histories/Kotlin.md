@@ -10,3 +10,6 @@
 ### 2016-10
 - [Multi-Selection](https://github.com/Yalantis/Multi-Selection) - by Yalantis
 - [debug-bottle](https://github.com/kiruto/debug-bottle) - by kiruto
+
+### 2016-11
+- [SearchFilter](https://github.com/Yalantis/SearchFilter) - by Yalantis

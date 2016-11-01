@@ -80,9 +80,9 @@
 - [quiet-lwip](https://github.com/quiet/quiet-lwip) - by quiet
 - [lzfse](https://github.com/lzfse/lzfse) - by lzfse
 - [afl.rs](https://github.com/frewsxcv/afl.rs) - by frewsxcv
+- [huo](https://github.com/incrediblesound/huo) - by incrediblesound
 - [u2f-zero](https://github.com/conorpp/u2f-zero) - by conorpp
 - [longs](https://github.com/riolet/longs) - by riolet
-- [huo](https://github.com/incrediblesound/huo) - by incrediblesound
 - [massdns](https://github.com/blechschmidt/massdns) - by blechschmidt
 
 ### 2016-7
@@ -99,8 +99,8 @@
 - [SimpleRT](https://github.com/vvviperrr/SimpleRT) - by vvviperrr
 - [patchkit](https://github.com/lunixbochs/patchkit) - by lunixbochs
 - [librevault](https://github.com/Librevault/librevault) - by Librevault
-- [wcc](https://github.com/endrazine/wcc) - by endrazine
 - [magenta](https://github.com/fuchsia-mirror/magenta) - by fuchsia-mirror
+- [wcc](https://github.com/endrazine/wcc) - by endrazine
 - [lk](https://github.com/littlekernel/lk) - by littlekernel
 - [bucklespring](https://github.com/zevv/bucklespring) - by zevv
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - by juliocesarfort
@@ -126,3 +126,6 @@
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - by SamyPesse
 - [org.quietmodem.Quiet](https://github.com/quiet/org.quietmodem.Quiet) - by quiet
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - by timwr
+
+### 2016-11
+- [os](https://github.com/minoca/os) - by minoca

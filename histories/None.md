@@ -255,16 +255,16 @@
 - [self-driving-car](https://github.com/udacity/self-driving-car) - by udacity
 - [awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - by RyanZim
 - [noto-fonts](https://github.com/googlei18n/noto-fonts) - by googlei18n
-- [gitjob](https://github.com/amattson21/gitjob) - by amattson21
 - [Lee-VR-Source](https://github.com/GeekLiB/Lee-VR-Source) - by GeekLiB
 - [javascript-lessons](https://github.com/stone0090/javascript-lessons) - by stone0090
+- [gitjob](https://github.com/amattson21/gitjob) - by amattson21
 - [awesome-scss](https://github.com/Famolus/awesome-scss) - by Famolus
 - [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - by BruceDone
 - [lime](https://github.com/limetext/lime) - by limetext
 - [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - by ZuzooVn
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - by quozd
-- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - by kdeldycke
 - [document-style-guide](https://github.com/ruanyf/document-style-guide) - by ruanyf
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - by kdeldycke
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - by rekihattori
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - by songrotek
 - [Blockchain-stuff](https://github.com/McFrankline/Blockchain-stuff) - by McFrankline
@@ -274,3 +274,7 @@
 - [material-remixer](https://github.com/material-foundation/material-remixer) - by material-foundation
 - [.tmux](https://github.com/gpakosz/.tmux) - by gpakosz
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - by jobbole
+
+### 2016-11
+- [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - by sqreen
+- [Begin-Latex-in-minutes](https://github.com/VoLuong/Begin-Latex-in-minutes) - by VoLuong
