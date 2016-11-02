@@ -278,3 +278,4 @@
 ### 2016-11
 - [awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - by sqreen
 - [Begin-Latex-in-minutes](https://github.com/VoLuong/Begin-Latex-in-minutes) - by VoLuong
+- [game-off-2016](https://github.com/github/game-off-2016) - by github

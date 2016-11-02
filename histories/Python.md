@@ -272,3 +272,4 @@
 ### 2016-11
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - by lengstrom
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - by groveco
+- [kq](https://github.com/joowani/kq) - by joowani

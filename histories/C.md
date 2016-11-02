@@ -38,15 +38,15 @@
 - [myhtml](https://github.com/lexborisov/myhtml) - by lexborisov
 - [Collections-C](https://github.com/srdja/Collections-C) - by srdja
 - [darknet](https://github.com/pjreddie/darknet) - by pjreddie
-- [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [SimpleVisor](https://github.com/ionescu007/SimpleVisor) - by ionescu007
+- [DailyProgrammerChallenges](https://github.com/FreddieV4/DailyProgrammerChallenges) - by FreddieV4
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - by Bilibili
 - [libsixel](https://github.com/saitoha/libsixel) - by saitoha
 - [citus](https://github.com/citusdata/citus) - by citusdata
-- [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [xhyve](https://github.com/mist64/xhyve) - by mist64
-- [netdata](https://github.com/firehol/netdata) - by firehol
+- [NNPACK](https://github.com/Maratyszcza/NNPACK) - by Maratyszcza
 - [lwan](https://github.com/lpereira/lwan) - by lpereira
+- [netdata](https://github.com/firehol/netdata) - by firehol
 - [BMW-OpenSource](https://github.com/edent/BMW-OpenSource) - by edent
 
 ### 2016-4
@@ -60,8 +60,8 @@
 - [no-more-secrets](https://github.com/bartobri/no-more-secrets) - by bartobri
 
 ### 2016-5
-- [wren](https://github.com/munificent/wren) - by munificent
 - [magma](https://github.com/lavabit/magma) - by lavabit
+- [wren](https://github.com/munificent/wren) - by munificent
 - [osx_app_in_plain_c](https://github.com/jimon/osx_app_in_plain_c) - by jimon
 - [lightmapper](https://github.com/ands/lightmapper) - by ands
 - [facebooc](https://github.com/jserv/facebooc) - by jserv
@@ -81,8 +81,8 @@
 - [lzfse](https://github.com/lzfse/lzfse) - by lzfse
 - [afl.rs](https://github.com/frewsxcv/afl.rs) - by frewsxcv
 - [huo](https://github.com/incrediblesound/huo) - by incrediblesound
-- [u2f-zero](https://github.com/conorpp/u2f-zero) - by conorpp
 - [longs](https://github.com/riolet/longs) - by riolet
+- [u2f-zero](https://github.com/conorpp/u2f-zero) - by conorpp
 - [massdns](https://github.com/blechschmidt/massdns) - by blechschmidt
 
 ### 2016-7
@@ -129,3 +129,4 @@
 
 ### 2016-11
 - [os](https://github.com/minoca/os) - by minoca
+- [sudo-touchid](https://github.com/mattrajca/sudo-touchid) - by mattrajca
